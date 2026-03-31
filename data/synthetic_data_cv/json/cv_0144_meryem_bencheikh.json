@@ -1,0 +1,105 @@
+{
+  "full_name": "Meryem Bencheikh",
+  "email": "meryem.bencheikh@gmail.com",
+  "phone": "+212 680 773 243",
+  "location": "Fès",
+  "years_of_experience": 4,
+  "linkedin": "linkedin.com/in/meryem-bencheikh",
+  "github": "github.com/meryem50",
+  "roles_held": [
+    "Ingénieur QA"
+  ],
+  "programming_languages": [
+    "PHP",
+    "Python",
+    "Java",
+    "JavaScript"
+  ],
+  "technical_skills": [
+    "Docker",
+    "HTML/CSS",
+    "Spring Boot",
+    "Nginx",
+    "React"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Français",
+    "Espagnol"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Docker",
+      "level": "Medior"
+    },
+    {
+      "technology": "HTML/CSS",
+      "level": "Medior"
+    },
+    {
+      "technology": "Spring Boot",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "PHP",
+      "level": "Medior"
+    },
+    {
+      "language": "Python",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Finance",
+      "Logistique"
+    ]
+  },
+  "summary": "Professionnel Ingénieur QA avec 4 années d'expérience dans le développement de solutions techniques. Expert en Docker, HTML/CSS, Spring Boot. Forte maîtrise de PHP, Python avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Systèmes Embarqués",
+  "work_experience": "Chez CIH Bank (2022-2025), j'ai travaillé en tant que Ingénieur QA en utilisant Spring Boot, PostgreSQL, Git, MongoDB, TypeScript, Tailwind CSS et PHP. Chez HPS (2025-2026), j'ai travaillé en tant que Ingénieur QA en utilisant MongoDB, Git, Nginx, Kubernetes, FastAPI et Python, JavaScript, Go.",
+  "projects": "Projet 'API REST microservices' dans le secteur Logistique en utilisant TypeScript, Tailwind CSS, Kubernetes. Projet 'Portail client bancaire' dans le secteur Logistique en utilisant React, Docker, FastAPI.",
+  "file_path": "synthetic_cvs/cv_0144_meryem_bencheikh.json",
+  "parsing_confidence": 0.89,
+  "experience_timeline": [
+    {
+      "year_start": 2022,
+      "year_end": 2025,
+      "company": "CIH Bank",
+      "skills_acquired": [
+        "Spring Boot",
+        "PostgreSQL",
+        "Git",
+        "MongoDB",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "languages_used": [
+        "PHP"
+      ]
+    },
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "HPS",
+      "skills_acquired": [
+        "MongoDB",
+        "Git",
+        "Nginx",
+        "Kubernetes",
+        "FastAPI"
+      ],
+      "languages_used": [
+        "Python",
+        "JavaScript",
+        "Go"
+      ]
+    }
+  ],
+  "universite": "EMSI",
+  "seniority_level_global": "Medior"
+}

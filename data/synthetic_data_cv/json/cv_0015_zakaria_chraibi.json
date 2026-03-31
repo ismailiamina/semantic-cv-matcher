@@ -1,0 +1,90 @@
+{
+  "full_name": "Zakaria Chraibi",
+  "email": "zakaria.chraibi@gmail.com",
+  "phone": "+212 618 581 655",
+  "location": "Marrakech",
+  "years_of_experience": 1,
+  "linkedin": "linkedin.com/in/zakaria-chraibi",
+  "github": "github.com/zakaria34",
+  "roles_held": [
+    "Data Analyst",
+    "Business Intelligence Developer"
+  ],
+  "programming_languages": [
+    "Julia",
+    "SQL",
+    "Scala",
+    "Python"
+  ],
+  "technical_skills": [
+    "Machine Learning",
+    "FastAPI",
+    "AWS SageMaker",
+    "PyTorch",
+    "Pandas"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Allemand",
+    "Français"
+  ],
+  "certifications": [
+    "AWS Cloud Practitioner",
+    "Terraform Associate"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Machine Learning",
+      "level": "Junior"
+    },
+    {
+      "technology": "FastAPI",
+      "level": "Junior"
+    },
+    {
+      "technology": "AWS SageMaker",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Julia",
+      "level": "Junior"
+    },
+    {
+      "language": "SQL",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Télécommunications",
+      "Manufacturing",
+      "Santé"
+    ]
+  },
+  "summary": "Ingénieur Junior en Data Analyst avec 1 ans d'expérience. Spécialisé en Machine Learning, FastAPI, AWS SageMaker. Maîtrise des langages Julia, SQL. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Big Data",
+  "work_experience": "Chez OCP (2025-2026), j'ai travaillé en tant que Business Intelligence Developer en utilisant TensorFlow, AWS SageMaker, Kafka et Python.",
+  "projects": "Projet 'Pipeline de données en temps réel' dans le secteur Télécommunications en utilisant PyTorch, Kubernetes, Scikit-learn. Projet 'Dashboard analytique Business Intelligence' dans le secteur Télécommunications en utilisant Apache Spark, Kubernetes, MLflow.",
+  "file_path": "synthetic_cvs/cv_0015_zakaria_chraibi.json",
+  "parsing_confidence": 0.9,
+  "experience_timeline": [
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "OCP",
+      "skills_acquired": [
+        "TensorFlow",
+        "AWS SageMaker",
+        "Kafka"
+      ],
+      "languages_used": [
+        "Python"
+      ]
+    }
+  ],
+  "universite": "INSEA",
+  "seniority_level_global": "Junior"
+}

@@ -1,0 +1,134 @@
+{
+  "full_name": "Tariq Moussaoui",
+  "email": "tariq.moussaoui@gmail.com",
+  "phone": "+212 610 341 762",
+  "location": "Marrakech",
+  "years_of_experience": 17,
+  "linkedin": "linkedin.com/in/tariq-moussaoui",
+  "github": "github.com/tariq30",
+  "roles_held": [
+    "Data Engineer",
+    "Data Scientist"
+  ],
+  "programming_languages": [
+    "Julia",
+    "Scala",
+    "Python",
+    "SQL"
+  ],
+  "technical_skills": [
+    "PyTorch",
+    "Power BI",
+    "TensorFlow",
+    "Docker",
+    "AWS SageMaker",
+    "FastAPI",
+    "Scikit-learn"
+  ],
+  "spoken_languages": [
+    "Français",
+    "Allemand"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "PyTorch",
+      "level": "Expert"
+    },
+    {
+      "technology": "Power BI",
+      "level": "Expert"
+    },
+    {
+      "technology": "TensorFlow",
+      "level": "Expert"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Julia",
+      "level": "Expert"
+    },
+    {
+      "language": "Scala",
+      "level": "Expert"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Immobilier",
+      "Logistique",
+      "Manufacturing"
+    ]
+  },
+  "summary": "Ingénieur Expert en Data Engineer avec 17 ans d'expérience. Spécialisé en PyTorch, Power BI, TensorFlow. Maîtrise des langages Julia, Scala. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Développement Web",
+  "work_experience": "Chez Microsoft Maroc (2009-2014), j'ai travaillé en tant que Data Engineer en utilisant Docker, Tableau, Scikit-learn et Julia. Chez Deloitte Maroc (2014-2015), j'ai travaillé en tant que Data Engineer en utilisant Scikit-learn, Kafka, Tableau, Airflow, Power BI et R. Chez Accenture Maroc (2015-2025), j'ai travaillé en tant que Data Scientist en utilisant Airflow, AWS SageMaker, Apache Spark et Python, Scala, SQL. Chez Deloitte Maroc (2025-2026), j'ai travaillé en tant que Data Scientist en utilisant MLflow, Power BI, NumPy, Pandas et Scala, SQL, R.",
+  "projects": "Projet 'Chatbot intelligent basé sur NLP' dans le secteur Manufacturing en utilisant Kafka, Apache Spark, Airflow. Projet 'Détection de fraude par Machine Learning' dans le secteur Immobilier en utilisant Apache Spark, Elasticsearch, Machine Learning. Projet 'Dashboard analytique Business Intelligence' dans le secteur Manufacturing en utilisant Deep Learning, Airflow, MLflow. Projet 'Modèle de prédiction du churn client' dans le secteur Immobilier en utilisant Tableau, NumPy, Deep Learning.",
+  "file_path": "synthetic_cvs/cv_0051_tariq_moussaoui.json",
+  "parsing_confidence": 0.75,
+  "experience_timeline": [
+    {
+      "year_start": 2009,
+      "year_end": 2014,
+      "company": "Microsoft Maroc",
+      "skills_acquired": [
+        "Docker",
+        "Tableau",
+        "Scikit-learn"
+      ],
+      "languages_used": [
+        "Julia"
+      ]
+    },
+    {
+      "year_start": 2014,
+      "year_end": 2015,
+      "company": "Deloitte Maroc",
+      "skills_acquired": [
+        "Scikit-learn",
+        "Kafka",
+        "Tableau",
+        "Airflow",
+        "Power BI"
+      ],
+      "languages_used": [
+        "R"
+      ]
+    },
+    {
+      "year_start": 2015,
+      "year_end": 2025,
+      "company": "Accenture Maroc",
+      "skills_acquired": [
+        "Airflow",
+        "AWS SageMaker",
+        "Apache Spark"
+      ],
+      "languages_used": [
+        "Python",
+        "Scala",
+        "SQL"
+      ]
+    },
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "Deloitte Maroc",
+      "skills_acquired": [
+        "MLflow",
+        "Power BI",
+        "NumPy",
+        "Pandas"
+      ],
+      "languages_used": [
+        "Scala",
+        "SQL",
+        "R"
+      ]
+    }
+  ],
+  "universite": "ENSIAS",
+  "seniority_level_global": "Expert"
+}

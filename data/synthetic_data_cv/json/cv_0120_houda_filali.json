@@ -1,0 +1,95 @@
+{
+  "full_name": "Houda Filali",
+  "email": "houda.filali@gmail.com",
+  "phone": "+212 698 597 611",
+  "location": "Tanger",
+  "years_of_experience": 1,
+  "linkedin": "linkedin.com/in/houda-filali",
+  "github": "github.com/houda92",
+  "roles_held": [
+    "Développeur Mobile"
+  ],
+  "programming_languages": [
+    "Kotlin",
+    "JavaScript",
+    "Dart",
+    "Swift"
+  ],
+  "technical_skills": [
+    "Jetpack Compose",
+    "TestFlight",
+    "GraphQL",
+    "REST API",
+    "SQLite",
+    "React Native",
+    "Fastlane",
+    "Redux"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Arabe",
+    "Allemand"
+  ],
+  "certifications": [
+    "CISSP",
+    "Google Cloud Professional"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Jetpack Compose",
+      "level": "Junior"
+    },
+    {
+      "technology": "TestFlight",
+      "level": "Junior"
+    },
+    {
+      "technology": "GraphQL",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Kotlin",
+      "level": "Junior"
+    },
+    {
+      "language": "JavaScript",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Immobilier",
+      "Énergie",
+      "E-commerce"
+    ]
+  },
+  "summary": "Ingénieur Junior en Développeur Mobile avec 1 ans d'expérience. Spécialisé en Jetpack Compose, TestFlight, GraphQL. Maîtrise des langages Kotlin, JavaScript. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Big Data",
+  "work_experience": "Chez BNP Paribas Maroc (2025-2026), j'ai travaillé en tant que Développeur Mobile en utilisant Flutter, SwiftUI, GraphQL, Xcode, Fastlane, Jetpack Compose et Dart.",
+  "projects": "Projet 'Application de livraison en temps réel' dans le secteur Énergie en utilisant SQLite, Android Studio, Redux. Projet 'Application santé et fitness' dans le secteur Immobilier en utilisant Redux, TestFlight, SwiftUI. Projet 'Application mobile bancaire' dans le secteur E-commerce en utilisant Android Studio, Flutter, SwiftUI. Projet 'Application e-commerce mobile' dans le secteur Immobilier en utilisant TestFlight, React Native, Redux.",
+  "file_path": "synthetic_cvs/cv_0120_houda_filali.json",
+  "parsing_confidence": 0.87,
+  "experience_timeline": [
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "BNP Paribas Maroc",
+      "skills_acquired": [
+        "Flutter",
+        "SwiftUI",
+        "GraphQL",
+        "Xcode",
+        "Fastlane",
+        "Jetpack Compose"
+      ],
+      "languages_used": [
+        "Dart"
+      ]
+    }
+  ],
+  "universite": "UIR",
+  "seniority_level_global": "Junior"
+}

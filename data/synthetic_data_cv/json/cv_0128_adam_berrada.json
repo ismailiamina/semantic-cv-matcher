@@ -1,0 +1,143 @@
+{
+  "full_name": "Adam Berrada",
+  "email": "adam.berrada@gmail.com",
+  "phone": "+212 641 381 119",
+  "location": "Fès",
+  "years_of_experience": 10,
+  "linkedin": "linkedin.com/in/adam-berrada",
+  "github": "github.com/adam94",
+  "roles_held": [
+    "Data Analyst",
+    "Business Intelligence Developer",
+    "Data Scientist"
+  ],
+  "programming_languages": [
+    "Julia",
+    "Python",
+    "Scala",
+    "R"
+  ],
+  "technical_skills": [
+    "NumPy",
+    "TensorFlow",
+    "Machine Learning",
+    "Redis",
+    "Kafka",
+    "Kubernetes",
+    "Apache Spark",
+    "Docker",
+    "MLflow"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Arabe",
+    "Français"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "NumPy",
+      "level": "Senior"
+    },
+    {
+      "technology": "TensorFlow",
+      "level": "Senior"
+    },
+    {
+      "technology": "Machine Learning",
+      "level": "Senior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Julia",
+      "level": "Senior"
+    },
+    {
+      "language": "Python",
+      "level": "Senior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Télécommunications",
+      "Immobilier"
+    ]
+  },
+  "summary": "Ingénieur Senior en Data Analyst avec 10 ans d'expérience. Spécialisé en NumPy, TensorFlow, Machine Learning. Maîtrise des langages Julia, Python. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Cybersécurité",
+  "work_experience": "Chez Leyton (2016-2018), j'ai travaillé en tant que Data Analyst en utilisant TensorFlow, Kafka, NumPy, Machine Learning, PyTorch, Redis et R, SQL. Chez Microsoft Maroc (2018-2019), j'ai travaillé en tant que Data Scientist en utilisant PyTorch, MLflow, Kubernetes, AWS SageMaker, NumPy et Python, SQL, Julia. Chez Deloitte Maroc (2019-2022), j'ai travaillé en tant que Data Scientist en utilisant Power BI, Tableau, Airflow, Redis, NumPy et Scala, SQL, Python. Chez Deloitte Maroc (2022-2026), j'ai travaillé en tant que Data Scientist en utilisant Scikit-learn, Docker, NumPy et R, SQL.",
+  "projects": "Projet 'Dashboard analytique Business Intelligence' dans le secteur Télécommunications en utilisant Power BI, Deep Learning, AWS SageMaker. Projet 'Modèle de prédiction du churn client' dans le secteur Immobilier en utilisant Elasticsearch, Deep Learning, Kafka.",
+  "file_path": "synthetic_cvs/cv_0128_adam_berrada.json",
+  "parsing_confidence": 0.86,
+  "experience_timeline": [
+    {
+      "year_start": 2016,
+      "year_end": 2018,
+      "company": "Leyton",
+      "skills_acquired": [
+        "TensorFlow",
+        "Kafka",
+        "NumPy",
+        "Machine Learning",
+        "PyTorch",
+        "Redis"
+      ],
+      "languages_used": [
+        "R",
+        "SQL"
+      ]
+    },
+    {
+      "year_start": 2018,
+      "year_end": 2019,
+      "company": "Microsoft Maroc",
+      "skills_acquired": [
+        "PyTorch",
+        "MLflow",
+        "Kubernetes",
+        "AWS SageMaker",
+        "NumPy"
+      ],
+      "languages_used": [
+        "Python",
+        "SQL",
+        "Julia"
+      ]
+    },
+    {
+      "year_start": 2019,
+      "year_end": 2022,
+      "company": "Deloitte Maroc",
+      "skills_acquired": [
+        "Power BI",
+        "Tableau",
+        "Airflow",
+        "Redis",
+        "NumPy"
+      ],
+      "languages_used": [
+        "Scala",
+        "SQL",
+        "Python"
+      ]
+    },
+    {
+      "year_start": 2022,
+      "year_end": 2026,
+      "company": "Deloitte Maroc",
+      "skills_acquired": [
+        "Scikit-learn",
+        "Docker",
+        "NumPy"
+      ],
+      "languages_used": [
+        "R",
+        "SQL"
+      ]
+    }
+  ],
+  "universite": "EMSI",
+  "seniority_level_global": "Senior"
+}

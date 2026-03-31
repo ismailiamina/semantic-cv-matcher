@@ -1,0 +1,108 @@
+{
+  "full_name": "Nadia Ziani",
+  "email": "nadia.ziani@gmail.com",
+  "phone": "+212 654 427 659",
+  "location": "Meknès",
+  "years_of_experience": 5,
+  "linkedin": "linkedin.com/in/nadia-ziani",
+  "github": "github.com/nadia56",
+  "roles_held": [
+    "Développeur Backend",
+    "Ingénieur API"
+  ],
+  "programming_languages": [
+    "JavaScript",
+    "PHP"
+  ],
+  "technical_skills": [
+    "Nginx",
+    "Django",
+    "TypeScript",
+    "Spring Boot",
+    "Node.js"
+  ],
+  "spoken_languages": [
+    "Allemand",
+    "Espagnol",
+    "Anglais"
+  ],
+  "certifications": [
+    "Scrum Master PSM I",
+    "Kubernetes CKA"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Nginx",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "Django",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "TypeScript",
+      "level": "Confirmé"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "JavaScript",
+      "level": "Confirmé"
+    },
+    {
+      "language": "PHP",
+      "level": "Confirmé"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Finance",
+      "Énergie"
+    ]
+  },
+  "summary": "Ingénieur Confirmé en Développeur Backend avec 5 ans d'expérience. Spécialisé en Nginx, Django, TypeScript. Maîtrise des langages JavaScript, PHP. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 3",
+  "field_of_studies": "Cloud Computing",
+  "work_experience": "Chez BNP Paribas Maroc (2021-2025), j'ai travaillé en tant que Ingénieur API en utilisant HTML/CSS, Nginx, MongoDB, Spring Boot et PHP, TypeScript, JavaScript. Chez Leyton (2025-2026), j'ai travaillé en tant que Développeur Backend en utilisant Jenkins, Docker, GraphQL, Spring Boot, Node.js, PostgreSQL et Python, Go, Java.",
+  "projects": "Projet 'Portail client bancaire' dans le secteur Finance en utilisant GraphQL, PostgreSQL, FastAPI. Projet 'API REST microservices' dans le secteur Énergie en utilisant FastAPI, PostgreSQL, React. Projet 'Dashboard de reporting temps réel' dans le secteur Finance en utilisant MongoDB, Node.js, Kubernetes. Projet 'Système de réservation en ligne' dans le secteur Énergie en utilisant Redis, HTML/CSS, Vue.js.",
+  "file_path": "synthetic_cvs/cv_0126_nadia_ziani.json",
+  "parsing_confidence": 0.92,
+  "experience_timeline": [
+    {
+      "year_start": 2021,
+      "year_end": 2025,
+      "company": "BNP Paribas Maroc",
+      "skills_acquired": [
+        "HTML/CSS",
+        "Nginx",
+        "MongoDB",
+        "Spring Boot"
+      ],
+      "languages_used": [
+        "PHP",
+        "TypeScript",
+        "JavaScript"
+      ]
+    },
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "Leyton",
+      "skills_acquired": [
+        "Jenkins",
+        "Docker",
+        "GraphQL",
+        "Spring Boot",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "languages_used": [
+        "Python",
+        "Go",
+        "Java"
+      ]
+    }
+  ],
+  "universite": "ENSA Casablanca",
+  "seniority_level_global": "Confirmé"
+}

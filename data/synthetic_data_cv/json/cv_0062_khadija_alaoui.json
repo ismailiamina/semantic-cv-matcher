@@ -1,0 +1,106 @@
+{
+  "full_name": "Khadija Alaoui",
+  "email": "khadija.alaoui@gmail.com",
+  "phone": "+212 665 121 556",
+  "location": "Casablanca",
+  "years_of_experience": 5,
+  "linkedin": "linkedin.com/in/khadija-alaoui",
+  "github": "github.com/khadija97",
+  "roles_held": [
+    "DevOps Engineer",
+    "SRE Engineer"
+  ],
+  "programming_languages": [
+    "YAML",
+    "HCL"
+  ],
+  "technical_skills": [
+    "GitLab CI/CD",
+    "Ansible",
+    "AWS",
+    "Linux",
+    "Bash",
+    "Terraform",
+    "Grafana",
+    "ELK Stack",
+    "Kubernetes",
+    "Docker"
+  ],
+  "spoken_languages": [
+    "Français",
+    "Allemand",
+    "Espagnol"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "GitLab CI/CD",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "Ansible",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "AWS",
+      "level": "Confirmé"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "YAML",
+      "level": "Confirmé"
+    },
+    {
+      "language": "HCL",
+      "level": "Confirmé"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Télécommunications"
+    ]
+  },
+  "summary": "Ingénieur Confirmé en DevOps Engineer avec 5 ans d'expérience. Spécialisé en GitLab CI/CD, Ansible, AWS. Maîtrise des langages YAML, HCL. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Génie Informatique",
+  "work_experience": "Chez Oracle Maroc (2021-2022), j'ai travaillé en tant que SRE Engineer en utilisant Kubernetes, GCP, Prometheus et HCL, Go, YAML. Chez BNP Paribas Maroc (2022-2026), j'ai travaillé en tant que SRE Engineer en utilisant Docker, Bash, Jenkins, Kubernetes, ArgoCD, GitLab CI/CD et YAML.",
+  "projects": "Projet 'Infrastructure as Code avec Terraform' dans le secteur Télécommunications en utilisant Bash, AWS, ArgoCD. Projet 'Monitoring et alerting centralisé' dans le secteur Télécommunications en utilisant Kubernetes, Prometheus, Ansible.",
+  "file_path": "synthetic_cvs/cv_0062_khadija_alaoui.json",
+  "parsing_confidence": 0.93,
+  "experience_timeline": [
+    {
+      "year_start": 2021,
+      "year_end": 2022,
+      "company": "Oracle Maroc",
+      "skills_acquired": [
+        "Kubernetes",
+        "GCP",
+        "Prometheus"
+      ],
+      "languages_used": [
+        "HCL",
+        "Go",
+        "YAML"
+      ]
+    },
+    {
+      "year_start": 2022,
+      "year_end": 2026,
+      "company": "BNP Paribas Maroc",
+      "skills_acquired": [
+        "Docker",
+        "Bash",
+        "Jenkins",
+        "Kubernetes",
+        "ArgoCD",
+        "GitLab CI/CD"
+      ],
+      "languages_used": [
+        "YAML"
+      ]
+    }
+  ],
+  "universite": "ENSA Rabat",
+  "seniority_level_global": "Confirmé"
+}

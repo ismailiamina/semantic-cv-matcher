@@ -1,0 +1,89 @@
+{
+  "full_name": "Adil Naciri",
+  "email": "adil.naciri@gmail.com",
+  "phone": "+212 663 856 451",
+  "location": "Casablanca",
+  "years_of_experience": 0,
+  "linkedin": "linkedin.com/in/adil-naciri",
+  "github": "github.com/adil36",
+  "roles_held": [
+    "Scrum Master",
+    "Product Owner",
+    "Agile Coach"
+  ],
+  "programming_languages": [
+    "TypeScript",
+    "Java",
+    "Python"
+  ],
+  "technical_skills": [
+    "GraphQL",
+    "Docker",
+    "Nginx",
+    "Jenkins",
+    "React",
+    "Django"
+  ],
+  "spoken_languages": [
+    "Allemand",
+    "Anglais"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "GraphQL",
+      "level": "Junior"
+    },
+    {
+      "technology": "Docker",
+      "level": "Junior"
+    },
+    {
+      "technology": "Nginx",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "TypeScript",
+      "level": "Junior"
+    },
+    {
+      "language": "Java",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Retail",
+      "Transport",
+      "E-commerce"
+    ]
+  },
+  "summary": "Ingénieur Junior en Scrum Master avec 0 ans d'expérience. Spécialisé en GraphQL, Docker, Nginx. Maîtrise des langages TypeScript, Java. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Intelligence Artificielle",
+  "work_experience": "Chez CGI Maroc (2026-2026), j'ai travaillé en tant que Agile Coach en utilisant Git, Vue.js, React et Go, PHP, TypeScript.",
+  "projects": "Projet 'Application de gestion RH' dans le secteur Retail en utilisant Spring Boot, Redis, Tailwind CSS. Projet 'API REST microservices' dans le secteur Retail en utilisant Docker, REST API, MongoDB.",
+  "file_path": "synthetic_cvs/cv_0023_adil_naciri.json",
+  "parsing_confidence": 0.92,
+  "experience_timeline": [
+    {
+      "year_start": 2026,
+      "year_end": 2026,
+      "company": "CGI Maroc",
+      "skills_acquired": [
+        "Git",
+        "Vue.js",
+        "React"
+      ],
+      "languages_used": [
+        "Go",
+        "PHP",
+        "TypeScript"
+      ]
+    }
+  ],
+  "universite": "FST Mohammedia",
+  "seniority_level_global": "Junior"
+}

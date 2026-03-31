@@ -1,0 +1,124 @@
+{
+  "full_name": "Omar Tazi",
+  "email": "omar.tazi@gmail.com",
+  "phone": "+212 627 102 311",
+  "location": "Rabat",
+  "years_of_experience": 7,
+  "linkedin": "linkedin.com/in/omar-tazi",
+  "github": "github.com/omar92",
+  "roles_held": [
+    "Scrum Master"
+  ],
+  "programming_languages": [
+    "Go",
+    "Java",
+    "Python",
+    "JavaScript"
+  ],
+  "technical_skills": [
+    "Docker",
+    "Node.js",
+    "PostgreSQL",
+    "Vue.js",
+    "Spring Boot",
+    "HTML/CSS",
+    "REST API",
+    "Git"
+  ],
+  "spoken_languages": [
+    "Français",
+    "Arabe",
+    "Espagnol"
+  ],
+  "certifications": [
+    "AWS Solutions Architect",
+    "Azure Administrator"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Docker",
+      "level": "Senior"
+    },
+    {
+      "technology": "Node.js",
+      "level": "Senior"
+    },
+    {
+      "technology": "PostgreSQL",
+      "level": "Senior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Go",
+      "level": "Senior"
+    },
+    {
+      "language": "Java",
+      "level": "Senior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Banque",
+      "Santé"
+    ]
+  },
+  "summary": "Ingénieur Senior en Scrum Master avec 7 ans d'expérience. Spécialisé en Docker, Node.js, PostgreSQL. Maîtrise des langages Go, Java. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Big Data",
+  "work_experience": "Chez IBM Maroc (2019-2020), j'ai travaillé en tant que Scrum Master en utilisant Django, REST API, Tailwind CSS, Vue.js, Docker et JavaScript, Java, Go. Chez BMCE Bank (2020-2021), j'ai travaillé en tant que Scrum Master en utilisant REST API, Nginx, HTML/CSS et Go. Chez IBM Maroc (2021-2026), j'ai travaillé en tant que Scrum Master en utilisant Spring Boot, GraphQL, Angular, Git, Kubernetes, Tailwind CSS et PHP.",
+  "projects": "Projet 'API REST microservices' dans le secteur Santé en utilisant Kubernetes, Git, GraphQL. Projet 'Application de gestion RH' dans le secteur Banque en utilisant Node.js, Angular, GraphQL.",
+  "file_path": "synthetic_cvs/cv_0182_omar_tazi.json",
+  "parsing_confidence": 0.95,
+  "experience_timeline": [
+    {
+      "year_start": 2019,
+      "year_end": 2020,
+      "company": "IBM Maroc",
+      "skills_acquired": [
+        "Django",
+        "REST API",
+        "Tailwind CSS",
+        "Vue.js",
+        "Docker"
+      ],
+      "languages_used": [
+        "JavaScript",
+        "Java",
+        "Go"
+      ]
+    },
+    {
+      "year_start": 2020,
+      "year_end": 2021,
+      "company": "BMCE Bank",
+      "skills_acquired": [
+        "REST API",
+        "Nginx",
+        "HTML/CSS"
+      ],
+      "languages_used": [
+        "Go"
+      ]
+    },
+    {
+      "year_start": 2021,
+      "year_end": 2026,
+      "company": "IBM Maroc",
+      "skills_acquired": [
+        "Spring Boot",
+        "GraphQL",
+        "Angular",
+        "Git",
+        "Kubernetes",
+        "Tailwind CSS"
+      ],
+      "languages_used": [
+        "PHP"
+      ]
+    }
+  ],
+  "universite": "UIR",
+  "seniority_level_global": "Senior"
+}

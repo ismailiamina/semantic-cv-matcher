@@ -1,0 +1,90 @@
+{
+  "full_name": "Amine Berrada",
+  "email": "amine.berrada@gmail.com",
+  "phone": "+212 675 195 962",
+  "location": "Tanger",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/amine-berrada",
+  "github": "github.com/amine65",
+  "roles_held": [
+    "Data Engineer"
+  ],
+  "programming_languages": [
+    "R",
+    "Scala",
+    "SQL",
+    "Python"
+  ],
+  "technical_skills": [
+    "Apache Spark",
+    "Redis",
+    "Deep Learning",
+    "TensorFlow",
+    "NumPy",
+    "Scikit-learn",
+    "Power BI"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Espagnol",
+    "Français"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Apache Spark",
+      "level": "Medior"
+    },
+    {
+      "technology": "Redis",
+      "level": "Medior"
+    },
+    {
+      "technology": "Deep Learning",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "R",
+      "level": "Medior"
+    },
+    {
+      "language": "Scala",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Banque",
+      "Immobilier",
+      "Assurance"
+    ]
+  },
+  "summary": "3 ans d'expérience en tant que Data Engineer. Compétences avancées en Apache Spark, Redis, Deep Learning. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Big Data",
+  "work_experience": "Chez Inwi (2023-2026), j'ai travaillé en tant que Data Engineer en utilisant PyTorch, NumPy, Redis, Airflow, Power BI et Scala.",
+  "projects": "Projet 'Chatbot intelligent basé sur NLP' dans le secteur Immobilier en utilisant AWS SageMaker, Deep Learning, Kafka. Projet 'Pipeline de données en temps réel' dans le secteur Banque en utilisant Deep Learning, MLflow, TensorFlow.",
+  "file_path": "synthetic_cvs/cv_0162_amine_berrada.json",
+  "parsing_confidence": 0.83,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Inwi",
+      "skills_acquired": [
+        "PyTorch",
+        "NumPy",
+        "Redis",
+        "Airflow",
+        "Power BI"
+      ],
+      "languages_used": [
+        "Scala"
+      ]
+    }
+  ],
+  "universite": "FST Mohammedia",
+  "seniority_level_global": "Medior"
+}

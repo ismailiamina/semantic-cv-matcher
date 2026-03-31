@@ -1,0 +1,88 @@
+{
+  "full_name": "Mehdi Rahimi",
+  "email": "mehdi.rahimi@gmail.com",
+  "phone": "+212 690 201 535",
+  "location": "Rabat",
+  "years_of_experience": 0,
+  "linkedin": "linkedin.com/in/mehdi-rahimi",
+  "github": "github.com/mehdi26",
+  "roles_held": [
+    "Ingénieur Cybersécurité",
+    "Pentester"
+  ],
+  "programming_languages": [
+    "Julia",
+    "R",
+    "Python",
+    "SQL"
+  ],
+  "technical_skills": [
+    "Tableau",
+    "Elasticsearch",
+    "TensorFlow",
+    "Machine Learning",
+    "Airflow",
+    "NumPy"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Allemand",
+    "Espagnol"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Tableau",
+      "level": "Junior"
+    },
+    {
+      "technology": "Elasticsearch",
+      "level": "Junior"
+    },
+    {
+      "technology": "TensorFlow",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Julia",
+      "level": "Junior"
+    },
+    {
+      "language": "R",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Banque",
+      "Éducation"
+    ]
+  },
+  "summary": "0 ans d'expérience en tant que Ingénieur Cybersécurité. Compétences avancées en Tableau, Elasticsearch, TensorFlow. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Cloud Computing",
+  "work_experience": "Chez Deloitte Maroc (2026-2026), j'ai travaillé en tant que Ingénieur Cybersécurité en utilisant Elasticsearch, Redis, Scikit-learn, TensorFlow et R.",
+  "projects": "Projet 'Système de recommandation produits' dans le secteur Banque en utilisant Redis, Apache Spark, Kubernetes. Projet 'Modèle de prédiction du churn client' dans le secteur Éducation en utilisant FastAPI, Kubernetes, MLflow.",
+  "file_path": "synthetic_cvs/cv_0056_mehdi_rahimi.json",
+  "parsing_confidence": 0.86,
+  "experience_timeline": [
+    {
+      "year_start": 2026,
+      "year_end": 2026,
+      "company": "Deloitte Maroc",
+      "skills_acquired": [
+        "Elasticsearch",
+        "Redis",
+        "Scikit-learn",
+        "TensorFlow"
+      ],
+      "languages_used": [
+        "R"
+      ]
+    }
+  ],
+  "universite": "ENSA Rabat",
+  "seniority_level_global": "Junior"
+}

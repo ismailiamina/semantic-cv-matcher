@@ -1,0 +1,110 @@
+{
+  "full_name": "Tariq Rahimi",
+  "email": "tariq.rahimi@gmail.com",
+  "phone": "+212 627 827 128",
+  "location": "Agadir",
+  "years_of_experience": 4,
+  "linkedin": "linkedin.com/in/tariq-rahimi",
+  "github": "github.com/tariq50",
+  "roles_held": [
+    "Développeur Backend",
+    "Ingénieur API",
+    "Développeur Python"
+  ],
+  "programming_languages": [
+    "Java",
+    "PHP",
+    "JavaScript",
+    "Go"
+  ],
+  "technical_skills": [
+    "HTML/CSS",
+    "Kubernetes",
+    "MongoDB",
+    "Vue.js",
+    "Git",
+    "Spring Boot"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Anglais"
+  ],
+  "certifications": [
+    "CEH"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "HTML/CSS",
+      "level": "Medior"
+    },
+    {
+      "technology": "Kubernetes",
+      "level": "Medior"
+    },
+    {
+      "technology": "MongoDB",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Java",
+      "level": "Medior"
+    },
+    {
+      "language": "PHP",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Logistique",
+      "Énergie",
+      "Télécommunications"
+    ]
+  },
+  "summary": "4 ans d'expérience en tant que Développeur Backend. Compétences avancées en HTML/CSS, Kubernetes, MongoDB. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Réseaux et Télécommunications",
+  "work_experience": "Chez HPS (2022-2023), j'ai travaillé en tant que Développeur Python en utilisant React, GraphQL, Django, Jenkins, Nginx, Kubernetes et TypeScript, Python. Chez BNP Paribas Maroc (2023-2026), j'ai travaillé en tant que Ingénieur API en utilisant MongoDB, Redis, PostgreSQL, Git, Angular, REST API et Java.",
+  "projects": "Projet 'Dashboard de reporting temps réel' dans le secteur Énergie en utilisant Redis, TypeScript, Git. Projet 'Portail client bancaire' dans le secteur Énergie en utilisant FastAPI, Django, TypeScript.",
+  "file_path": "synthetic_cvs/cv_0181_tariq_rahimi.json",
+  "parsing_confidence": 0.93,
+  "experience_timeline": [
+    {
+      "year_start": 2022,
+      "year_end": 2023,
+      "company": "HPS",
+      "skills_acquired": [
+        "React",
+        "GraphQL",
+        "Django",
+        "Jenkins",
+        "Nginx",
+        "Kubernetes"
+      ],
+      "languages_used": [
+        "TypeScript",
+        "Python"
+      ]
+    },
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "BNP Paribas Maroc",
+      "skills_acquired": [
+        "MongoDB",
+        "Redis",
+        "PostgreSQL",
+        "Git",
+        "Angular",
+        "REST API"
+      ],
+      "languages_used": [
+        "Java"
+      ]
+    }
+  ],
+  "universite": "INPT",
+  "seniority_level_global": "Medior"
+}

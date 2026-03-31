@@ -1,0 +1,108 @@
+{
+  "full_name": "Bilal Boutaleb",
+  "email": "bilal.boutaleb@gmail.com",
+  "phone": "+212 696 387 263",
+  "location": "Meknès",
+  "years_of_experience": 5,
+  "linkedin": "linkedin.com/in/bilal-boutaleb",
+  "github": "github.com/bilal57",
+  "roles_held": [
+    "Ingénieur QA",
+    "Test Automation Engineer",
+    "QA Lead"
+  ],
+  "programming_languages": [
+    "Java",
+    "PHP",
+    "TypeScript"
+  ],
+  "technical_skills": [
+    "Nginx",
+    "GraphQL",
+    "FastAPI",
+    "TypeScript",
+    "Node.js"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Espagnol"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Nginx",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "GraphQL",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "FastAPI",
+      "level": "Confirmé"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Java",
+      "level": "Confirmé"
+    },
+    {
+      "language": "PHP",
+      "level": "Confirmé"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Éducation",
+      "Banque",
+      "Manufacturing"
+    ]
+  },
+  "summary": "Ingénieur Confirmé en Ingénieur QA avec 5 ans d'expérience. Spécialisé en Nginx, GraphQL, FastAPI. Maîtrise des langages Java, PHP. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 4",
+  "field_of_studies": "Cloud Computing",
+  "work_experience": "Chez Leyton (2021-2025), j'ai travaillé en tant que QA Lead en utilisant React, Tailwind CSS, Vue.js, Kubernetes, GraphQL, HTML/CSS et Java, PHP. Chez Inwi (2025-2026), j'ai travaillé en tant que QA Lead en utilisant Node.js, PostgreSQL, Nginx, Jenkins, FastAPI, Django et Go, Java, Python.",
+  "projects": "Projet 'Dashboard de reporting temps réel' dans le secteur Éducation en utilisant Vue.js, PostgreSQL, Spring Boot. Projet 'Portail client bancaire' dans le secteur Banque en utilisant Nginx, MongoDB, Node.js.",
+  "file_path": "synthetic_cvs/cv_0198_bilal_boutaleb.json",
+  "parsing_confidence": 0.78,
+  "experience_timeline": [
+    {
+      "year_start": 2021,
+      "year_end": 2025,
+      "company": "Leyton",
+      "skills_acquired": [
+        "React",
+        "Tailwind CSS",
+        "Vue.js",
+        "Kubernetes",
+        "GraphQL",
+        "HTML/CSS"
+      ],
+      "languages_used": [
+        "Java",
+        "PHP"
+      ]
+    },
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "Inwi",
+      "skills_acquired": [
+        "Node.js",
+        "PostgreSQL",
+        "Nginx",
+        "Jenkins",
+        "FastAPI",
+        "Django"
+      ],
+      "languages_used": [
+        "Go",
+        "Java",
+        "Python"
+      ]
+    }
+  ],
+  "universite": "EMSI",
+  "seniority_level_global": "Confirmé"
+}

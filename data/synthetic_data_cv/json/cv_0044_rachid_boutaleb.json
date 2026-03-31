@@ -1,0 +1,94 @@
+{
+  "full_name": "Rachid Boutaleb",
+  "email": "rachid.boutaleb@gmail.com",
+  "phone": "+212 623 130 785",
+  "location": "Casablanca",
+  "years_of_experience": 2,
+  "linkedin": "linkedin.com/in/rachid-boutaleb",
+  "github": "github.com/rachid96",
+  "roles_held": [
+    "Développeur Full Stack"
+  ],
+  "programming_languages": [
+    "Python",
+    "TypeScript"
+  ],
+  "technical_skills": [
+    "HTML/CSS",
+    "Git",
+    "TypeScript",
+    "Django",
+    "GraphQL",
+    "FastAPI",
+    "Nginx",
+    "Kubernetes",
+    "Jenkins"
+  ],
+  "spoken_languages": [
+    "Français",
+    "Allemand",
+    "Arabe"
+  ],
+  "certifications": [
+    "Kubernetes CKA"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "HTML/CSS",
+      "level": "Junior"
+    },
+    {
+      "technology": "Git",
+      "level": "Junior"
+    },
+    {
+      "technology": "TypeScript",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Python",
+      "level": "Junior"
+    },
+    {
+      "language": "TypeScript",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Santé",
+      "Télécommunications",
+      "Éducation"
+    ]
+  },
+  "summary": "Professionnel Développeur Full Stack avec 2 années d'expérience dans le développement de solutions techniques. Expert en HTML/CSS, Git, TypeScript. Forte maîtrise de Python, TypeScript avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 4",
+  "field_of_studies": "Science des Données",
+  "work_experience": "Chez Sopra Steria (2024-2026), j'ai travaillé en tant que Développeur Full Stack en utilisant Vue.js, Git, MongoDB, Kubernetes, TypeScript et PHP, TypeScript, Java.",
+  "projects": "Projet 'Portail client bancaire' dans le secteur Santé en utilisant Tailwind CSS, Docker, Django. Projet 'Système de réservation en ligne' dans le secteur Santé en utilisant Vue.js, GraphQL, Jenkins. Projet 'Application de gestion RH' dans le secteur Télécommunications en utilisant Spring Boot, PostgreSQL, Angular.",
+  "file_path": "synthetic_cvs/cv_0044_rachid_boutaleb.json",
+  "parsing_confidence": 0.9,
+  "experience_timeline": [
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "Sopra Steria",
+      "skills_acquired": [
+        "Vue.js",
+        "Git",
+        "MongoDB",
+        "Kubernetes",
+        "TypeScript"
+      ],
+      "languages_used": [
+        "PHP",
+        "TypeScript",
+        "Java"
+      ]
+    }
+  ],
+  "universite": "ENSA Casablanca",
+  "seniority_level_global": "Junior"
+}

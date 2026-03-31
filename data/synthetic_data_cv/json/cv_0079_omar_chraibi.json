@@ -1,0 +1,124 @@
+{
+  "full_name": "Omar Chraibi",
+  "email": "omar.chraibi@gmail.com",
+  "phone": "+212 698 450 622",
+  "location": "Kenitra",
+  "years_of_experience": 7,
+  "linkedin": "linkedin.com/in/omar-chraibi",
+  "github": "github.com/omar14",
+  "roles_held": [
+    "Architecte Solutions"
+  ],
+  "programming_languages": [
+    "PHP",
+    "Go",
+    "JavaScript"
+  ],
+  "technical_skills": [
+    "Docker",
+    "Vue.js",
+    "Jenkins",
+    "FastAPI",
+    "Git",
+    "Redis",
+    "Angular"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Allemand",
+    "Anglais"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Docker",
+      "level": "Senior"
+    },
+    {
+      "technology": "Vue.js",
+      "level": "Senior"
+    },
+    {
+      "technology": "Jenkins",
+      "level": "Senior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "PHP",
+      "level": "Senior"
+    },
+    {
+      "language": "Go",
+      "level": "Senior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Transport",
+      "Éducation",
+      "Finance"
+    ]
+  },
+  "summary": "Professionnel Architecte Solutions avec 7 années d'expérience dans le développement de solutions techniques. Expert en Docker, Vue.js, Jenkins. Forte maîtrise de PHP, Go avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Cybersécurité",
+  "work_experience": "Chez IBM Maroc (2019-2021), j'ai travaillé en tant que Architecte Solutions en utilisant Django, Jenkins, React, Node.js, GraphQL, FastAPI et Go, PHP. Chez Ernst & Young (2021-2022), j'ai travaillé en tant que Architecte Solutions en utilisant React, GraphQL, Node.js, Vue.js, PostgreSQL et Go, Python, JavaScript. Chez Renault Maroc (2022-2026), j'ai travaillé en tant que Architecte Solutions en utilisant Node.js, Angular, React, REST API, Jenkins, TypeScript et Go.",
+  "projects": "Projet 'Dashboard de reporting temps réel' dans le secteur Transport en utilisant Django, MongoDB, HTML/CSS. Projet 'API REST microservices' dans le secteur Transport en utilisant Docker, HTML/CSS, GraphQL. Projet 'Portail client bancaire' dans le secteur Éducation en utilisant Redis, FastAPI, Git.",
+  "file_path": "synthetic_cvs/cv_0079_omar_chraibi.json",
+  "parsing_confidence": 0.91,
+  "experience_timeline": [
+    {
+      "year_start": 2019,
+      "year_end": 2021,
+      "company": "IBM Maroc",
+      "skills_acquired": [
+        "Django",
+        "Jenkins",
+        "React",
+        "Node.js",
+        "GraphQL",
+        "FastAPI"
+      ],
+      "languages_used": [
+        "Go",
+        "PHP"
+      ]
+    },
+    {
+      "year_start": 2021,
+      "year_end": 2022,
+      "company": "Ernst & Young",
+      "skills_acquired": [
+        "React",
+        "GraphQL",
+        "Node.js",
+        "Vue.js",
+        "PostgreSQL"
+      ],
+      "languages_used": [
+        "Go",
+        "Python",
+        "JavaScript"
+      ]
+    },
+    {
+      "year_start": 2022,
+      "year_end": 2026,
+      "company": "Renault Maroc",
+      "skills_acquired": [
+        "Node.js",
+        "Angular",
+        "React",
+        "REST API",
+        "Jenkins",
+        "TypeScript"
+      ],
+      "languages_used": [
+        "Go"
+      ]
+    }
+  ],
+  "universite": "EMI",
+  "seniority_level_global": "Senior"
+}

@@ -1,0 +1,94 @@
+{
+  "full_name": "Saad El Fassi",
+  "email": "saad.elfassi@gmail.com",
+  "phone": "+212 699 841 565",
+  "location": "Kenitra",
+  "years_of_experience": 1,
+  "linkedin": "linkedin.com/in/saad-el-fassi",
+  "github": "github.com/saad79",
+  "roles_held": [
+    "DevOps Engineer"
+  ],
+  "programming_languages": [
+    "Go",
+    "Bash",
+    "HCL"
+  ],
+  "technical_skills": [
+    "GitLab CI/CD",
+    "Azure",
+    "Linux",
+    "Docker",
+    "Ansible",
+    "Prometheus",
+    "Grafana",
+    "Jenkins",
+    "Bash",
+    "Kubernetes"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Allemand",
+    "Français"
+  ],
+  "certifications": [
+    "Google Cloud Professional",
+    "Scrum Master PSM I"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "GitLab CI/CD",
+      "level": "Junior"
+    },
+    {
+      "technology": "Azure",
+      "level": "Junior"
+    },
+    {
+      "technology": "Linux",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Go",
+      "level": "Junior"
+    },
+    {
+      "language": "Bash",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Santé",
+      "Banque"
+    ]
+  },
+  "summary": "1 ans d'expérience en tant que DevOps Engineer. Compétences avancées en GitLab CI/CD, Azure, Linux. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Développement Web",
+  "work_experience": "Chez TotalEnergies Maroc (2025-2026), j'ai travaillé en tant que DevOps Engineer en utilisant Jenkins, Linux, Docker et HCL, Bash, YAML.",
+  "projects": "Projet 'Cluster Kubernetes haute disponibilité' dans le secteur Banque en utilisant Jenkins, ArgoCD, GCP. Projet 'Monitoring et alerting centralisé' dans le secteur Santé en utilisant Terraform, GitLab CI/CD, Linux. Projet 'Pipeline CI/CD automatisé' dans le secteur Santé en utilisant GitLab CI/CD, Kubernetes, Jenkins.",
+  "file_path": "synthetic_cvs/cv_0027_saad_el_fassi.json",
+  "parsing_confidence": 0.94,
+  "experience_timeline": [
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "TotalEnergies Maroc",
+      "skills_acquired": [
+        "Jenkins",
+        "Linux",
+        "Docker"
+      ],
+      "languages_used": [
+        "HCL",
+        "Bash",
+        "YAML"
+      ]
+    }
+  ],
+  "universite": "ENSEM",
+  "seniority_level_global": "Junior"
+}

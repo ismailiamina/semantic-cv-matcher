@@ -1,0 +1,97 @@
+{
+  "full_name": "Rachid Bencheikh",
+  "email": "rachid.bencheikh@gmail.com",
+  "phone": "+212 673 347 701",
+  "location": "Meknès",
+  "years_of_experience": 1,
+  "linkedin": "linkedin.com/in/rachid-bencheikh",
+  "github": "github.com/rachid44",
+  "roles_held": [
+    "Ingénieur Cybersécurité",
+    "Pentester"
+  ],
+  "programming_languages": [
+    "SQL",
+    "R",
+    "Julia"
+  ],
+  "technical_skills": [
+    "Docker",
+    "Kafka",
+    "PyTorch",
+    "Power BI",
+    "NumPy",
+    "Kubernetes",
+    "FastAPI",
+    "Apache Spark",
+    "Airflow",
+    "Tableau",
+    "TensorFlow",
+    "Scikit-learn"
+  ],
+  "spoken_languages": [
+    "Allemand",
+    "Français"
+  ],
+  "certifications": [
+    "Google Associate Cloud Engineer",
+    "Kubernetes CKA"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Docker",
+      "level": "Junior"
+    },
+    {
+      "technology": "Kafka",
+      "level": "Junior"
+    },
+    {
+      "technology": "PyTorch",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "SQL",
+      "level": "Junior"
+    },
+    {
+      "language": "R",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Logistique",
+      "Manufacturing",
+      "Finance"
+    ]
+  },
+  "summary": "1 ans d'expérience en tant que Ingénieur Cybersécurité. Compétences avancées en Docker, Kafka, PyTorch. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 4",
+  "field_of_studies": "Réseaux et Télécommunications",
+  "work_experience": "Chez Maroc Telecom (2025-2026), j'ai travaillé en tant que Ingénieur Cybersécurité en utilisant Machine Learning, Airflow, Scikit-learn, FastAPI et Python, R.",
+  "projects": "Projet 'Modèle de prédiction du churn client' dans le secteur Finance en utilisant MLflow, Elasticsearch, Apache Spark. Projet 'Système de recommandation produits' dans le secteur Manufacturing en utilisant TensorFlow, Machine Learning, Kubernetes. Projet 'Chatbot intelligent basé sur NLP' dans le secteur Logistique en utilisant AWS SageMaker, Kubernetes, TensorFlow.",
+  "file_path": "synthetic_cvs/cv_0086_rachid_bencheikh.json",
+  "parsing_confidence": 0.84,
+  "experience_timeline": [
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "Maroc Telecom",
+      "skills_acquired": [
+        "Machine Learning",
+        "Airflow",
+        "Scikit-learn",
+        "FastAPI"
+      ],
+      "languages_used": [
+        "Python",
+        "R"
+      ]
+    }
+  ],
+  "universite": "HEM",
+  "seniority_level_global": "Junior"
+}

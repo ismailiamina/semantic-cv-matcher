@@ -1,0 +1,95 @@
+{
+  "full_name": "Sara El Mansouri",
+  "email": "sara.elmansouri@gmail.com",
+  "phone": "+212 649 223 201",
+  "location": "Tétouan",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/sara-el-mansouri",
+  "github": "github.com/sara65",
+  "roles_held": [
+    "Data Analyst",
+    "Business Intelligence Developer"
+  ],
+  "programming_languages": [
+    "Python",
+    "R",
+    "SQL",
+    "Scala"
+  ],
+  "technical_skills": [
+    "Apache Spark",
+    "Kafka",
+    "Redis",
+    "PyTorch",
+    "AWS SageMaker",
+    "TensorFlow",
+    "Deep Learning"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Arabe",
+    "Allemand"
+  ],
+  "certifications": [
+    "Microsoft Azure Developer",
+    "CISSP"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Apache Spark",
+      "level": "Medior"
+    },
+    {
+      "technology": "Kafka",
+      "level": "Medior"
+    },
+    {
+      "technology": "Redis",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Python",
+      "level": "Medior"
+    },
+    {
+      "language": "R",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "E-commerce",
+      "Assurance"
+    ]
+  },
+  "summary": "Professionnel Data Analyst avec 3 années d'expérience dans le développement de solutions techniques. Expert en Apache Spark, Kafka, Redis. Forte maîtrise de Python, R avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 3",
+  "field_of_studies": "Réseaux et Télécommunications",
+  "work_experience": "Chez IBM Maroc (2023-2026), j'ai travaillé en tant que Business Intelligence Developer en utilisant Kubernetes, Deep Learning, Machine Learning, NumPy, FastAPI, Tableau et R, SQL.",
+  "projects": "Projet 'Chatbot intelligent basé sur NLP' dans le secteur Assurance en utilisant Power BI, Kafka, Pandas. Projet 'Détection de fraude par Machine Learning' dans le secteur Assurance en utilisant Kubernetes, Elasticsearch, Machine Learning. Projet 'Système de recommandation produits' dans le secteur E-commerce en utilisant FastAPI, Redis, Scikit-learn.",
+  "file_path": "synthetic_cvs/cv_0159_sara_el_mansouri.json",
+  "parsing_confidence": 0.78,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "IBM Maroc",
+      "skills_acquired": [
+        "Kubernetes",
+        "Deep Learning",
+        "Machine Learning",
+        "NumPy",
+        "FastAPI",
+        "Tableau"
+      ],
+      "languages_used": [
+        "R",
+        "SQL"
+      ]
+    }
+  ],
+  "universite": "ENSEM",
+  "seniority_level_global": "Medior"
+}

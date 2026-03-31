@@ -1,0 +1,2981 @@
+[
+  {
+    "index": 1,
+    "title": "SRE Engineer",
+    "company": "Capgemini Maroc",
+    "industry": "Télécommunications",
+    "location": "Rabat",
+    "employment_type": "Fixed-term",
+    "job_description": "Dans le cadre de son développement, Capgemini Maroc recrute un(e) SRE Engineer pour renforcer son pôle Télécommunications. Missions principales : développement et maintenance des systèmes, participation aux revues de code, optimisation des performances. Technologies utilisées : Prometheus, Grafana, Bash, GCP, Jenkins. Langages : YAML, Bash.",
+    "posted": "2025-01-24",
+    "programming_languages": [
+      "YAML",
+      "Bash"
+    ],
+    "technical_skills": [
+      "Prometheus",
+      "Grafana",
+      "Bash",
+      "GCP",
+      "Jenkins"
+    ],
+    "spoken_languages": [
+      "Anglais",
+      "Arabe"
+    ],
+    "certifications": [
+      "CISSP"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Prometheus",
+        "level": "Expert"
+      },
+      {
+        "technology": "Grafana",
+        "level": "Expert"
+      },
+      {
+        "technology": "Bash",
+        "level": "Expert"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "YAML",
+        "level": "Expert"
+      },
+      {
+        "language": "Bash",
+        "level": "Expert"
+      }
+    ],
+    "experience_level": "Expert",
+    "salary_range": "51000-66000 MAD/mois",
+    "education_requirements": "Bac + 4",
+    "years_of_experience_required": 14,
+    "summary": "Offre de SRE Engineer Expert chez Capgemini Maroc. Poste requérant 14 ans d'expérience minimum. Compétences clés : Prometheus, Grafana, Bash. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 2,
+    "title": "SOC Analyst",
+    "company": "Renault Maroc",
+    "industry": "Banque",
+    "location": "Agadir",
+    "employment_type": "Fixed-term",
+    "job_description": "Dans le cadre de son développement, Renault Maroc recrute un(e) SOC Analyst pour renforcer son pôle Banque. Missions principales : développement et maintenance des systèmes, participation aux revues de code, optimisation des performances. Technologies utilisées : Firewall, Splunk, Burp Suite, CrowdStrike, Wireshark. Langages : Python, PowerShell, C.",
+    "posted": "2025-01-14",
+    "programming_languages": [
+      "Python",
+      "PowerShell",
+      "C",
+      "Bash"
+    ],
+    "technical_skills": [
+      "Firewall",
+      "Splunk",
+      "Burp Suite",
+      "CrowdStrike",
+      "Wireshark",
+      "OWASP",
+      "ISO 27001",
+      "IDS/IPS",
+      "Kali Linux"
+    ],
+    "spoken_languages": [
+      "Arabe",
+      "Français",
+      "Anglais"
+    ],
+    "certifications": [
+      "AWS Solutions Architect",
+      "CISSP"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Firewall",
+        "level": "Junior"
+      },
+      {
+        "technology": "Splunk",
+        "level": "Junior"
+      },
+      {
+        "technology": "Burp Suite",
+        "level": "Junior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Python",
+        "level": "Junior"
+      },
+      {
+        "language": "PowerShell",
+        "level": "Junior"
+      }
+    ],
+    "experience_level": "Junior",
+    "salary_range": "10000-12000 MAD/mois",
+    "education_requirements": "Bac + 6 et plus",
+    "years_of_experience_required": 2,
+    "summary": "Offre de SOC Analyst Junior chez Renault Maroc. Poste requérant 2 ans d'expérience minimum. Compétences clés : Firewall, Splunk, Burp Suite. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 3,
+    "title": "Tech Lead",
+    "company": "Ernst & Young Maroc",
+    "industry": "Retail",
+    "location": "Kenitra",
+    "employment_type": "Full-time",
+    "job_description": "Ernst & Young Maroc recherche un(e) Tech Lead Junior pour rejoindre son équipe technique dans le secteur Retail. Vous serez responsable de la conception et du développement de solutions innovantes. Compétences requises : Spring Boot, GraphQL, React, Vue.js, Redis. Langages : JavaScript, Java. Vous travaillerez en méthodologie Agile/Scrum avec une équipe internationale.",
+    "posted": "2025-01-11",
+    "programming_languages": [
+      "JavaScript",
+      "Java"
+    ],
+    "technical_skills": [
+      "Spring Boot",
+      "GraphQL",
+      "React",
+      "Vue.js",
+      "Redis",
+      "PostgreSQL",
+      "Tailwind CSS",
+      "Node.js",
+      "Kubernetes"
+    ],
+    "spoken_languages": [
+      "Anglais",
+      "Français"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Spring Boot",
+        "level": "Junior"
+      },
+      {
+        "technology": "GraphQL",
+        "level": "Junior"
+      },
+      {
+        "technology": "React",
+        "level": "Junior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "JavaScript",
+        "level": "Junior"
+      },
+      {
+        "language": "Java",
+        "level": "Junior"
+      }
+    ],
+    "experience_level": "Junior",
+    "salary_range": "9000-12000 MAD/mois",
+    "education_requirements": "Bac + 4",
+    "years_of_experience_required": 0,
+    "summary": "Offre de Tech Lead Junior chez Ernst & Young Maroc. Poste requérant 0 ans d'expérience minimum. Compétences clés : Spring Boot, GraphQL, React. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 4,
+    "title": "Pentester",
+    "company": "Inwi",
+    "industry": "Énergie",
+    "location": "Fès",
+    "employment_type": "Part-time",
+    "job_description": "Dans le cadre de son développement, Inwi recrute un(e) Pentester pour renforcer son pôle Énergie. Missions principales : développement et maintenance des systèmes, participation aux revues de code, optimisation des performances. Technologies utilisées : Nessus, Burp Suite, SIEM, Wireshark, CrowdStrike. Langages : C, Python, PowerShell.",
+    "posted": "2024-12-13",
+    "programming_languages": [
+      "C",
+      "Python",
+      "PowerShell"
+    ],
+    "technical_skills": [
+      "Nessus",
+      "Burp Suite",
+      "SIEM",
+      "Wireshark",
+      "CrowdStrike",
+      "Metasploit",
+      "Splunk",
+      "Azure Sentinel"
+    ],
+    "spoken_languages": [
+      "Arabe",
+      "Français",
+      "Anglais"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Nessus",
+        "level": "Medior"
+      },
+      {
+        "technology": "Burp Suite",
+        "level": "Medior"
+      },
+      {
+        "technology": "SIEM",
+        "level": "Medior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "C",
+        "level": "Medior"
+      },
+      {
+        "language": "Python",
+        "level": "Medior"
+      }
+    ],
+    "experience_level": "Medior",
+    "salary_range": "13000-22000 MAD/mois",
+    "education_requirements": "Bac + 4",
+    "years_of_experience_required": 3,
+    "summary": "Offre de Pentester Medior chez Inwi. Poste requérant 3 ans d'expérience minimum. Compétences clés : Nessus, Burp Suite, SIEM. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 5,
+    "title": "Data Scientist",
+    "company": "Deloitte Maroc",
+    "industry": "Banque",
+    "location": "Marrakech",
+    "employment_type": "Fixed-term",
+    "job_description": "Deloitte Maroc recherche un(e) Data Scientist Expert pour rejoindre son équipe technique dans le secteur Banque. Vous serez responsable de la conception et du développement de solutions innovantes. Compétences requises : MLflow, Redis, Kafka, Power BI, Databricks. Langages : SQL, R, Python. Vous travaillerez en méthodologie Agile/Scrum avec une équipe internationale.",
+    "posted": "2024-10-18",
+    "programming_languages": [
+      "SQL",
+      "R",
+      "Python",
+      "Julia"
+    ],
+    "technical_skills": [
+      "MLflow",
+      "Redis",
+      "Kafka",
+      "Power BI",
+      "Databricks",
+      "Apache Spark",
+      "Airflow",
+      "dbt",
+      "AWS SageMaker",
+      "Tableau"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Anglais"
+    ],
+    "certifications": [
+      "Kubernetes CKA",
+      "Azure Administrator"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "MLflow",
+        "level": "Expert"
+      },
+      {
+        "technology": "Redis",
+        "level": "Expert"
+      },
+      {
+        "technology": "Kafka",
+        "level": "Expert"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "SQL",
+        "level": "Expert"
+      },
+      {
+        "language": "R",
+        "level": "Expert"
+      }
+    ],
+    "experience_level": "Expert",
+    "salary_range": "59000-70000 MAD/mois",
+    "education_requirements": "Bac + 4",
+    "years_of_experience_required": 14,
+    "summary": "Offre de Data Scientist Expert chez Deloitte Maroc. Poste requérant 14 ans d'expérience minimum. Compétences clés : MLflow, Redis, Kafka. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 6,
+    "title": "Ingénieur Cybersécurité",
+    "company": "HPS",
+    "industry": "Assurance",
+    "location": "Marrakech",
+    "employment_type": "Fixed-term",
+    "job_description": "Rejoignez HPS, acteur majeur du secteur Assurance, en tant que Ingénieur Cybersécurité Confirmé. Vous contribuerez à des projets à fort impact technologique. Stack technique : PKI, SIEM, Nessus, Metasploit, Azure Sentinel. Programmation : PowerShell, C. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2025-03-25",
+    "programming_languages": [
+      "PowerShell",
+      "C"
+    ],
+    "technical_skills": [
+      "PKI",
+      "SIEM",
+      "Nessus",
+      "Metasploit",
+      "Azure Sentinel"
+    ],
+    "spoken_languages": [
+      "Arabe"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "PKI",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "SIEM",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Nessus",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "PowerShell",
+        "level": "Confirmé"
+      },
+      {
+        "language": "C",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "22000-30000 MAD/mois",
+    "education_requirements": "Bac + 5",
+    "years_of_experience_required": 4,
+    "summary": "Offre de Ingénieur Cybersécurité Confirmé chez HPS. Poste requérant 4 ans d'expérience minimum. Compétences clés : PKI, SIEM, Nessus. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 7,
+    "title": "Platform Engineer",
+    "company": "Sopra Steria Maroc",
+    "industry": "IT Services",
+    "location": "Meknès",
+    "employment_type": "Internship",
+    "job_description": "Rejoignez Sopra Steria Maroc, acteur majeur du secteur IT Services, en tant que Platform Engineer Medior. Vous contribuerez à des projets à fort impact technologique. Stack technique : ArgoCD, Docker, Bash, ELK Stack, Azure. Programmation : Bash, YAML, Go. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2025-01-21",
+    "programming_languages": [
+      "Bash",
+      "YAML",
+      "Go",
+      "Python"
+    ],
+    "technical_skills": [
+      "ArgoCD",
+      "Docker",
+      "Bash",
+      "ELK Stack",
+      "Azure",
+      "Terraform"
+    ],
+    "spoken_languages": [
+      "Anglais",
+      "Arabe"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "ArgoCD",
+        "level": "Medior"
+      },
+      {
+        "technology": "Docker",
+        "level": "Medior"
+      },
+      {
+        "technology": "Bash",
+        "level": "Medior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Bash",
+        "level": "Medior"
+      },
+      {
+        "language": "YAML",
+        "level": "Medior"
+      }
+    ],
+    "experience_level": "Medior",
+    "salary_range": "12000-25000 MAD/mois",
+    "education_requirements": "Bac + 6 et plus",
+    "years_of_experience_required": 3,
+    "summary": "Offre de Platform Engineer Medior chez Sopra Steria Maroc. Poste requérant 3 ans d'expérience minimum. Compétences clés : ArgoCD, Docker, Bash. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 8,
+    "title": "Développeur Frontend",
+    "company": "Orange Maroc",
+    "industry": "Fintech",
+    "location": "Rabat",
+    "employment_type": "Part-time",
+    "job_description": "Rejoignez Orange Maroc, acteur majeur du secteur Fintech, en tant que Développeur Frontend Medior. Vous contribuerez à des projets à fort impact technologique. Stack technique : REST API, TypeScript, GraphQL, MongoDB, FastAPI. Programmation : JavaScript, Python, Java. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2025-01-13",
+    "programming_languages": [
+      "JavaScript",
+      "Python",
+      "Java"
+    ],
+    "technical_skills": [
+      "REST API",
+      "TypeScript",
+      "GraphQL",
+      "MongoDB",
+      "FastAPI",
+      "Microservices",
+      "Jenkins",
+      "Kubernetes",
+      "Node.js"
+    ],
+    "spoken_languages": [
+      "Anglais"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "REST API",
+        "level": "Medior"
+      },
+      {
+        "technology": "TypeScript",
+        "level": "Medior"
+      },
+      {
+        "technology": "GraphQL",
+        "level": "Medior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "JavaScript",
+        "level": "Medior"
+      },
+      {
+        "language": "Python",
+        "level": "Medior"
+      }
+    ],
+    "experience_level": "Medior",
+    "salary_range": "18000-23000 MAD/mois",
+    "education_requirements": "Bac + 5",
+    "years_of_experience_required": 3,
+    "summary": "Offre de Développeur Frontend Medior chez Orange Maroc. Poste requérant 3 ans d'expérience minimum. Compétences clés : REST API, TypeScript, GraphQL. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 9,
+    "title": "DevOps Engineer",
+    "company": "CIH Bank",
+    "industry": "IT Services",
+    "location": "Kenitra",
+    "employment_type": "Internship",
+    "job_description": "Rejoignez CIH Bank, acteur majeur du secteur IT Services, en tant que DevOps Engineer Medior. Vous contribuerez à des projets à fort impact technologique. Stack technique : Azure, Linux, Ansible, Kubernetes, ArgoCD. Programmation : Go, Bash, Python. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2024-10-27",
+    "programming_languages": [
+      "Go",
+      "Bash",
+      "Python"
+    ],
+    "technical_skills": [
+      "Azure",
+      "Linux",
+      "Ansible",
+      "Kubernetes",
+      "ArgoCD",
+      "ELK Stack",
+      "GCP",
+      "GitLab CI/CD",
+      "Jenkins"
+    ],
+    "spoken_languages": [
+      "Français"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Azure",
+        "level": "Medior"
+      },
+      {
+        "technology": "Linux",
+        "level": "Medior"
+      },
+      {
+        "technology": "Ansible",
+        "level": "Medior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Go",
+        "level": "Medior"
+      },
+      {
+        "language": "Bash",
+        "level": "Medior"
+      }
+    ],
+    "experience_level": "Medior",
+    "salary_range": "18000-23000 MAD/mois",
+    "education_requirements": "Bac + 3",
+    "years_of_experience_required": 4,
+    "summary": "Offre de DevOps Engineer Medior chez CIH Bank. Poste requérant 4 ans d'expérience minimum. Compétences clés : Azure, Linux, Ansible. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 10,
+    "title": "Lead Data Engineer",
+    "company": "CGI Maroc",
+    "industry": "Santé",
+    "location": "Rabat",
+    "employment_type": "Fixed-term",
+    "job_description": "CGI Maroc recherche un(e) Lead Data Engineer Medior pour rejoindre son équipe technique dans le secteur Santé. Vous serez responsable de la conception et du développement de solutions innovantes. Compétences requises : Elasticsearch, FastAPI, Apache Spark, Great Expectations, Power BI. Langages : Python, R, Julia. Vous travaillerez en méthodologie Agile/Scrum avec une équipe internationale.",
+    "posted": "2025-03-12",
+    "programming_languages": [
+      "Python",
+      "R",
+      "Julia",
+      "Scala"
+    ],
+    "technical_skills": [
+      "Elasticsearch",
+      "FastAPI",
+      "Apache Spark",
+      "Great Expectations",
+      "Power BI",
+      "PyTorch",
+      "Pandas",
+      "Airflow",
+      "Scikit-learn",
+      "Kafka"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Arabe",
+      "Anglais"
+    ],
+    "certifications": [
+      "Azure Administrator"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Elasticsearch",
+        "level": "Medior"
+      },
+      {
+        "technology": "FastAPI",
+        "level": "Medior"
+      },
+      {
+        "technology": "Apache Spark",
+        "level": "Medior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Python",
+        "level": "Medior"
+      },
+      {
+        "language": "R",
+        "level": "Medior"
+      }
+    ],
+    "experience_level": "Medior",
+    "salary_range": "13000-25000 MAD/mois",
+    "education_requirements": "Bac + 3",
+    "years_of_experience_required": 4,
+    "summary": "Offre de Lead Data Engineer Medior chez CGI Maroc. Poste requérant 4 ans d'expérience minimum. Compétences clés : Elasticsearch, FastAPI, Apache Spark. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 11,
+    "title": "Senior Security Engineer",
+    "company": "Ernst & Young Maroc",
+    "industry": "Énergie",
+    "location": "Rabat",
+    "employment_type": "Fixed-term",
+    "job_description": "Rejoignez Ernst & Young Maroc, acteur majeur du secteur Énergie, en tant que Senior Security Engineer Junior. Vous contribuerez à des projets à fort impact technologique. Stack technique : IDS/IPS, Kali Linux, OWASP, Azure Sentinel, SIEM. Programmation : PowerShell, Bash. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2024-10-13",
+    "programming_languages": [
+      "PowerShell",
+      "Bash"
+    ],
+    "technical_skills": [
+      "IDS/IPS",
+      "Kali Linux",
+      "OWASP",
+      "Azure Sentinel",
+      "SIEM",
+      "Burp Suite"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Anglais",
+      "Arabe"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "IDS/IPS",
+        "level": "Junior"
+      },
+      {
+        "technology": "Kali Linux",
+        "level": "Junior"
+      },
+      {
+        "technology": "OWASP",
+        "level": "Junior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "PowerShell",
+        "level": "Junior"
+      },
+      {
+        "language": "Bash",
+        "level": "Junior"
+      }
+    ],
+    "experience_level": "Junior",
+    "salary_range": "12000-12000 MAD/mois",
+    "education_requirements": "Bac + 4",
+    "years_of_experience_required": 2,
+    "summary": "Offre de Senior Security Engineer Junior chez Ernst & Young Maroc. Poste requérant 2 ans d'expérience minimum. Compétences clés : IDS/IPS, Kali Linux, OWASP. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 12,
+    "title": "MLOps Engineer",
+    "company": "Oracle Maroc",
+    "industry": "Banque",
+    "location": "Fès",
+    "employment_type": "Full-time",
+    "job_description": "Oracle Maroc recherche un(e) MLOps Engineer Senior pour rejoindre son équipe technique dans le secteur Banque. Vous serez responsable de la conception et du développement de solutions innovantes. Compétences requises : Power BI, Databricks, Tableau, Kubernetes, TensorFlow. Langages : Scala, SQL. Vous travaillerez en méthodologie Agile/Scrum avec une équipe internationale.",
+    "posted": "2025-02-21",
+    "programming_languages": [
+      "Scala",
+      "SQL"
+    ],
+    "technical_skills": [
+      "Power BI",
+      "Databricks",
+      "Tableau",
+      "Kubernetes",
+      "TensorFlow",
+      "AWS SageMaker",
+      "Scikit-learn",
+      "Elasticsearch",
+      "Kafka"
+    ],
+    "spoken_languages": [
+      "Anglais",
+      "Arabe",
+      "Français"
+    ],
+    "certifications": [
+      "PMP",
+      "Kubernetes CKA"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Power BI",
+        "level": "Senior"
+      },
+      {
+        "technology": "Databricks",
+        "level": "Senior"
+      },
+      {
+        "technology": "Tableau",
+        "level": "Senior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Scala",
+        "level": "Senior"
+      },
+      {
+        "language": "SQL",
+        "level": "Senior"
+      }
+    ],
+    "experience_level": "Senior",
+    "salary_range": "31000-49000 MAD/mois",
+    "education_requirements": "Bac + 4",
+    "years_of_experience_required": 10,
+    "summary": "Offre de MLOps Engineer Senior chez Oracle Maroc. Poste requérant 10 ans d'expérience minimum. Compétences clés : Power BI, Databricks, Tableau. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 13,
+    "title": "SOC Analyst",
+    "company": "Leyton Maroc",
+    "industry": "Assurance",
+    "location": "Fès",
+    "employment_type": "Full-time",
+    "job_description": "Dans le cadre de son développement, Leyton Maroc recrute un(e) SOC Analyst pour renforcer son pôle Assurance. Missions principales : développement et maintenance des systèmes, participation aux revues de code, optimisation des performances. Technologies utilisées : PKI, Azure Sentinel, IDS/IPS, Wireshark, Metasploit. Langages : Bash, Python.",
+    "posted": "2025-03-12",
+    "programming_languages": [
+      "Bash",
+      "Python"
+    ],
+    "technical_skills": [
+      "PKI",
+      "Azure Sentinel",
+      "IDS/IPS",
+      "Wireshark",
+      "Metasploit",
+      "Splunk",
+      "Firewall",
+      "SIEM",
+      "CrowdStrike"
+    ],
+    "spoken_languages": [
+      "Arabe",
+      "Français"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "PKI",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Azure Sentinel",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "IDS/IPS",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Bash",
+        "level": "Confirmé"
+      },
+      {
+        "language": "Python",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "18000-25000 MAD/mois",
+    "education_requirements": "Bac + 3",
+    "years_of_experience_required": 4,
+    "summary": "Offre de SOC Analyst Confirmé chez Leyton Maroc. Poste requérant 4 ans d'expérience minimum. Compétences clés : PKI, Azure Sentinel, IDS/IPS. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 14,
+    "title": "Ingénieur API",
+    "company": "TotalEnergies Maroc",
+    "industry": "IT Services",
+    "location": "Kenitra",
+    "employment_type": "Full-time",
+    "job_description": "Rejoignez TotalEnergies Maroc, acteur majeur du secteur IT Services, en tant que Ingénieur API Expert. Vous contribuerez à des projets à fort impact technologique. Stack technique : Angular, GraphQL, FastAPI, Kubernetes, Node.js. Programmation : TypeScript, Java. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2025-02-07",
+    "programming_languages": [
+      "TypeScript",
+      "Java"
+    ],
+    "technical_skills": [
+      "Angular",
+      "GraphQL",
+      "FastAPI",
+      "Kubernetes",
+      "Node.js",
+      "Redis",
+      "REST API",
+      "Docker",
+      "Django"
+    ],
+    "spoken_languages": [
+      "Arabe"
+    ],
+    "certifications": [
+      "AWS Cloud Practitioner"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Angular",
+        "level": "Expert"
+      },
+      {
+        "technology": "GraphQL",
+        "level": "Expert"
+      },
+      {
+        "technology": "FastAPI",
+        "level": "Expert"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "TypeScript",
+        "level": "Expert"
+      },
+      {
+        "language": "Java",
+        "level": "Expert"
+      }
+    ],
+    "experience_level": "Expert",
+    "salary_range": "42000-71000 MAD/mois",
+    "education_requirements": "Bac + 5",
+    "years_of_experience_required": 12,
+    "summary": "Offre de Ingénieur API Expert chez TotalEnergies Maroc. Poste requérant 12 ans d'expérience minimum. Compétences clés : Angular, GraphQL, FastAPI. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 15,
+    "title": "Développeur Full Stack",
+    "company": "Orange Maroc",
+    "industry": "Fintech",
+    "location": "Casablanca",
+    "employment_type": "Fixed-term",
+    "job_description": "Dans le cadre de son développement, Orange Maroc recrute un(e) Développeur Full Stack pour renforcer son pôle Fintech. Missions principales : développement et maintenance des systèmes, participation aux revues de code, optimisation des performances. Technologies utilisées : Tailwind CSS, Redis, FastAPI, Spring Boot, Nginx. Langages : PHP, JavaScript.",
+    "posted": "2024-12-17",
+    "programming_languages": [
+      "PHP",
+      "JavaScript"
+    ],
+    "technical_skills": [
+      "Tailwind CSS",
+      "Redis",
+      "FastAPI",
+      "Spring Boot",
+      "Nginx",
+      "Vue.js",
+      "Django",
+      "MongoDB",
+      "React",
+      "REST API"
+    ],
+    "spoken_languages": [
+      "Arabe",
+      "Anglais"
+    ],
+    "certifications": [
+      "Scrum Master PSM I",
+      "Azure Administrator"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Tailwind CSS",
+        "level": "Senior"
+      },
+      {
+        "technology": "Redis",
+        "level": "Senior"
+      },
+      {
+        "technology": "FastAPI",
+        "level": "Senior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "PHP",
+        "level": "Senior"
+      },
+      {
+        "language": "JavaScript",
+        "level": "Senior"
+      }
+    ],
+    "experience_level": "Senior",
+    "salary_range": "32000-47000 MAD/mois",
+    "education_requirements": "Bac + 2",
+    "years_of_experience_required": 8,
+    "summary": "Offre de Développeur Full Stack Senior chez Orange Maroc. Poste requérant 8 ans d'expérience minimum. Compétences clés : Tailwind CSS, Redis, FastAPI. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 16,
+    "title": "Développeur Frontend",
+    "company": "Attijariwafa Bank",
+    "industry": "Éducation",
+    "location": "Tanger",
+    "employment_type": "Part-time",
+    "job_description": "Rejoignez Attijariwafa Bank, acteur majeur du secteur Éducation, en tant que Développeur Frontend Confirmé. Vous contribuerez à des projets à fort impact technologique. Stack technique : MongoDB, GraphQL, Kubernetes, Vue.js, Node.js. Programmation : TypeScript, Java. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2024-11-13",
+    "programming_languages": [
+      "TypeScript",
+      "Java"
+    ],
+    "technical_skills": [
+      "MongoDB",
+      "GraphQL",
+      "Kubernetes",
+      "Vue.js",
+      "Node.js"
+    ],
+    "spoken_languages": [
+      "Anglais",
+      "Arabe",
+      "Français"
+    ],
+    "certifications": [
+      "CISSP",
+      "Terraform Associate"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "MongoDB",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "GraphQL",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Kubernetes",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "TypeScript",
+        "level": "Confirmé"
+      },
+      {
+        "language": "Java",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "25000-30000 MAD/mois",
+    "education_requirements": "Bac + 5",
+    "years_of_experience_required": 5,
+    "summary": "Offre de Développeur Frontend Confirmé chez Attijariwafa Bank. Poste requérant 5 ans d'expérience minimum. Compétences clés : MongoDB, GraphQL, Kubernetes. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 17,
+    "title": "Security Analyst",
+    "company": "Sopra Steria Maroc",
+    "industry": "Banque",
+    "location": "Marrakech",
+    "employment_type": "Full-time",
+    "job_description": "Rejoignez Sopra Steria Maroc, acteur majeur du secteur Banque, en tant que Security Analyst Senior. Vous contribuerez à des projets à fort impact technologique. Stack technique : Splunk, Burp Suite, PKI, Azure Sentinel, Kali Linux. Programmation : C, Bash, Python. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2024-12-11",
+    "programming_languages": [
+      "C",
+      "Bash",
+      "Python"
+    ],
+    "technical_skills": [
+      "Splunk",
+      "Burp Suite",
+      "PKI",
+      "Azure Sentinel",
+      "Kali Linux",
+      "ISO 27001"
+    ],
+    "spoken_languages": [
+      "Français"
+    ],
+    "certifications": [
+      "Terraform Associate"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Splunk",
+        "level": "Senior"
+      },
+      {
+        "technology": "Burp Suite",
+        "level": "Senior"
+      },
+      {
+        "technology": "PKI",
+        "level": "Senior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "C",
+        "level": "Senior"
+      },
+      {
+        "language": "Bash",
+        "level": "Senior"
+      }
+    ],
+    "experience_level": "Senior",
+    "salary_range": "25000-50000 MAD/mois",
+    "education_requirements": "Bac + 5",
+    "years_of_experience_required": 7,
+    "summary": "Offre de Security Analyst Senior chez Sopra Steria Maroc. Poste requérant 7 ans d'expérience minimum. Compétences clés : Splunk, Burp Suite, PKI. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 18,
+    "title": "DevOps Engineer",
+    "company": "HPS",
+    "industry": "Finance",
+    "location": "Meknès",
+    "employment_type": "Fixed-term",
+    "job_description": "HPS recherche un(e) DevOps Engineer Confirmé pour rejoindre son équipe technique dans le secteur Finance. Vous serez responsable de la conception et du développement de solutions innovantes. Compétences requises : Azure, Docker, Ansible, Jenkins, GitLab CI/CD. Langages : YAML, Bash. Vous travaillerez en méthodologie Agile/Scrum avec une équipe internationale.",
+    "posted": "2024-12-01",
+    "programming_languages": [
+      "YAML",
+      "Bash"
+    ],
+    "technical_skills": [
+      "Azure",
+      "Docker",
+      "Ansible",
+      "Jenkins",
+      "GitLab CI/CD",
+      "GCP",
+      "Helm",
+      "AWS",
+      "Grafana",
+      "ArgoCD"
+    ],
+    "spoken_languages": [
+      "Anglais",
+      "Arabe"
+    ],
+    "certifications": [
+      "CISSP"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Azure",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Docker",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Ansible",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "YAML",
+        "level": "Confirmé"
+      },
+      {
+        "language": "Bash",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "24000-32000 MAD/mois",
+    "education_requirements": "Bac + 5",
+    "years_of_experience_required": 5,
+    "summary": "Offre de DevOps Engineer Confirmé chez HPS. Poste requérant 5 ans d'expérience minimum. Compétences clés : Azure, Docker, Ansible. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 19,
+    "title": "RSSI",
+    "company": "TotalEnergies Maroc",
+    "industry": "Assurance",
+    "location": "Meknès",
+    "employment_type": "Part-time",
+    "job_description": "TotalEnergies Maroc recherche un(e) RSSI Confirmé pour rejoindre son équipe technique dans le secteur Assurance. Vous serez responsable de la conception et du développement de solutions innovantes. Compétences requises : ISO 27001, Nessus, OWASP, Wireshark, Metasploit. Langages : PowerShell, Bash. Vous travaillerez en méthodologie Agile/Scrum avec une équipe internationale.",
+    "posted": "2024-11-13",
+    "programming_languages": [
+      "PowerShell",
+      "Bash"
+    ],
+    "technical_skills": [
+      "ISO 27001",
+      "Nessus",
+      "OWASP",
+      "Wireshark",
+      "Metasploit"
+    ],
+    "spoken_languages": [
+      "Arabe",
+      "Français"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "ISO 27001",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Nessus",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "OWASP",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "PowerShell",
+        "level": "Confirmé"
+      },
+      {
+        "language": "Bash",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "18000-26000 MAD/mois",
+    "education_requirements": "Bac + 5",
+    "years_of_experience_required": 4,
+    "summary": "Offre de RSSI Confirmé chez TotalEnergies Maroc. Poste requérant 4 ans d'expérience minimum. Compétences clés : ISO 27001, Nessus, OWASP. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 20,
+    "title": "Lead Cloud Engineer",
+    "company": "Accenture Maroc",
+    "industry": "Télécommunications",
+    "location": "Rabat",
+    "employment_type": "Internship",
+    "job_description": "Rejoignez Accenture Maroc, acteur majeur du secteur Télécommunications, en tant que Lead Cloud Engineer Confirmé. Vous contribuerez à des projets à fort impact technologique. Stack technique : Kubernetes, Bash, AWS, Helm, Docker. Programmation : Go, Bash. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2024-10-20",
+    "programming_languages": [
+      "Go",
+      "Bash"
+    ],
+    "technical_skills": [
+      "Kubernetes",
+      "Bash",
+      "AWS",
+      "Helm",
+      "Docker",
+      "GCP"
+    ],
+    "spoken_languages": [
+      "Anglais",
+      "Français"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Kubernetes",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Bash",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "AWS",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Go",
+        "level": "Confirmé"
+      },
+      {
+        "language": "Bash",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "24000-26000 MAD/mois",
+    "education_requirements": "Bac + 4",
+    "years_of_experience_required": 4,
+    "summary": "Offre de Lead Cloud Engineer Confirmé chez Accenture Maroc. Poste requérant 4 ans d'expérience minimum. Compétences clés : Kubernetes, Bash, AWS. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 21,
+    "title": "MLOps Engineer",
+    "company": "OCP",
+    "industry": "Banque",
+    "location": "Fès",
+    "employment_type": "Fixed-term",
+    "job_description": "OCP recherche un(e) MLOps Engineer Expert pour rejoindre son équipe technique dans le secteur Banque. Vous serez responsable de la conception et du développement de solutions innovantes. Compétences requises : Elasticsearch, AWS SageMaker, Kafka, Pandas, TensorFlow. Langages : Scala, SQL, Python. Vous travaillerez en méthodologie Agile/Scrum avec une équipe internationale.",
+    "posted": "2025-01-25",
+    "programming_languages": [
+      "Scala",
+      "SQL",
+      "Python"
+    ],
+    "technical_skills": [
+      "Elasticsearch",
+      "AWS SageMaker",
+      "Kafka",
+      "Pandas",
+      "TensorFlow",
+      "Airflow",
+      "MLflow"
+    ],
+    "spoken_languages": [
+      "Français"
+    ],
+    "certifications": [
+      "Azure Administrator"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Elasticsearch",
+        "level": "Expert"
+      },
+      {
+        "technology": "AWS SageMaker",
+        "level": "Expert"
+      },
+      {
+        "technology": "Kafka",
+        "level": "Expert"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Scala",
+        "level": "Expert"
+      },
+      {
+        "language": "SQL",
+        "level": "Expert"
+      }
+    ],
+    "experience_level": "Expert",
+    "salary_range": "42000-71000 MAD/mois",
+    "education_requirements": "Bac + 2",
+    "years_of_experience_required": 15,
+    "summary": "Offre de MLOps Engineer Expert chez OCP. Poste requérant 15 ans d'expérience minimum. Compétences clés : Elasticsearch, AWS SageMaker, Kafka. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 22,
+    "title": "Développeur Backend",
+    "company": "Deloitte Maroc",
+    "industry": "Éducation",
+    "location": "Kenitra",
+    "employment_type": "Part-time",
+    "job_description": "Dans le cadre de son développement, Deloitte Maroc recrute un(e) Développeur Backend pour renforcer son pôle Éducation. Missions principales : développement et maintenance des systèmes, participation aux revues de code, optimisation des performances. Technologies utilisées : Docker, REST API, Nginx, Vue.js, TypeScript. Langages : PHP, Java, JavaScript.",
+    "posted": "2025-01-07",
+    "programming_languages": [
+      "PHP",
+      "Java",
+      "JavaScript"
+    ],
+    "technical_skills": [
+      "Docker",
+      "REST API",
+      "Nginx",
+      "Vue.js",
+      "TypeScript",
+      "React",
+      "Angular"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Anglais"
+    ],
+    "certifications": [
+      "Kubernetes CKA"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Docker",
+        "level": "Junior"
+      },
+      {
+        "technology": "REST API",
+        "level": "Junior"
+      },
+      {
+        "technology": "Nginx",
+        "level": "Junior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "PHP",
+        "level": "Junior"
+      },
+      {
+        "language": "Java",
+        "level": "Junior"
+      }
+    ],
+    "experience_level": "Junior",
+    "salary_range": "10000-15000 MAD/mois",
+    "education_requirements": "Bac + 2",
+    "years_of_experience_required": 1,
+    "summary": "Offre de Développeur Backend Junior chez Deloitte Maroc. Poste requérant 1 ans d'expérience minimum. Compétences clés : Docker, REST API, Nginx. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 23,
+    "title": "Tech Lead",
+    "company": "Oracle Maroc",
+    "industry": "Éducation",
+    "location": "Meknès",
+    "employment_type": "Full-time",
+    "job_description": "Oracle Maroc recherche un(e) Tech Lead Junior pour rejoindre son équipe technique dans le secteur Éducation. Vous serez responsable de la conception et du développement de solutions innovantes. Compétences requises : TypeScript, Spring Boot, Vue.js, Jenkins, Django. Langages : Python, Go, JavaScript. Vous travaillerez en méthodologie Agile/Scrum avec une équipe internationale.",
+    "posted": "2024-10-21",
+    "programming_languages": [
+      "Python",
+      "Go",
+      "JavaScript"
+    ],
+    "technical_skills": [
+      "TypeScript",
+      "Spring Boot",
+      "Vue.js",
+      "Jenkins",
+      "Django",
+      "Kubernetes",
+      "PostgreSQL",
+      "React"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Arabe",
+      "Anglais"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "TypeScript",
+        "level": "Junior"
+      },
+      {
+        "technology": "Spring Boot",
+        "level": "Junior"
+      },
+      {
+        "technology": "Vue.js",
+        "level": "Junior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Python",
+        "level": "Junior"
+      },
+      {
+        "language": "Go",
+        "level": "Junior"
+      }
+    ],
+    "experience_level": "Junior",
+    "salary_range": "12000-15000 MAD/mois",
+    "education_requirements": "Bac + 3",
+    "years_of_experience_required": 0,
+    "summary": "Offre de Tech Lead Junior chez Oracle Maroc. Poste requérant 0 ans d'expérience minimum. Compétences clés : TypeScript, Spring Boot, Vue.js. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 24,
+    "title": "Développeur Backend",
+    "company": "BMCE Bank",
+    "industry": "IT Services",
+    "location": "Meknès",
+    "employment_type": "Fixed-term",
+    "job_description": "Dans le cadre de son développement, BMCE Bank recrute un(e) Développeur Backend pour renforcer son pôle IT Services. Missions principales : développement et maintenance des systèmes, participation aux revues de code, optimisation des performances. Technologies utilisées : Kubernetes, Django, Jenkins, FastAPI, Vue.js. Langages : TypeScript, Python.",
+    "posted": "2024-11-06",
+    "programming_languages": [
+      "TypeScript",
+      "Python"
+    ],
+    "technical_skills": [
+      "Kubernetes",
+      "Django",
+      "Jenkins",
+      "FastAPI",
+      "Vue.js",
+      "Spring Boot"
+    ],
+    "spoken_languages": [
+      "Anglais"
+    ],
+    "certifications": [
+      "AWS Solutions Architect",
+      "AWS Cloud Practitioner"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Kubernetes",
+        "level": "Junior"
+      },
+      {
+        "technology": "Django",
+        "level": "Junior"
+      },
+      {
+        "technology": "Jenkins",
+        "level": "Junior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "TypeScript",
+        "level": "Junior"
+      },
+      {
+        "language": "Python",
+        "level": "Junior"
+      }
+    ],
+    "experience_level": "Junior",
+    "salary_range": "10000-14000 MAD/mois",
+    "education_requirements": "Bac + 2",
+    "years_of_experience_required": 1,
+    "summary": "Offre de Développeur Backend Junior chez BMCE Bank. Poste requérant 1 ans d'expérience minimum. Compétences clés : Kubernetes, Django, Jenkins. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 25,
+    "title": "Développeur Full Stack",
+    "company": "IBM Maroc",
+    "industry": "Retail",
+    "location": "Tanger",
+    "employment_type": "Full-time",
+    "job_description": "Rejoignez IBM Maroc, acteur majeur du secteur Retail, en tant que Développeur Full Stack Medior. Vous contribuerez à des projets à fort impact technologique. Stack technique : Kubernetes, Microservices, GraphQL, React, MongoDB. Programmation : Go, Python, Java. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2024-12-11",
+    "programming_languages": [
+      "Go",
+      "Python",
+      "Java",
+      "PHP"
+    ],
+    "technical_skills": [
+      "Kubernetes",
+      "Microservices",
+      "GraphQL",
+      "React",
+      "MongoDB",
+      "TypeScript",
+      "FastAPI"
+    ],
+    "spoken_languages": [
+      "Arabe",
+      "Anglais"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Kubernetes",
+        "level": "Medior"
+      },
+      {
+        "technology": "Microservices",
+        "level": "Medior"
+      },
+      {
+        "technology": "GraphQL",
+        "level": "Medior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Go",
+        "level": "Medior"
+      },
+      {
+        "language": "Python",
+        "level": "Medior"
+      }
+    ],
+    "experience_level": "Medior",
+    "salary_range": "13000-22000 MAD/mois",
+    "education_requirements": "Bac + 5",
+    "years_of_experience_required": 3,
+    "summary": "Offre de Développeur Full Stack Medior chez IBM Maroc. Poste requérant 3 ans d'expérience minimum. Compétences clés : Kubernetes, Microservices, GraphQL. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 26,
+    "title": "MLOps Engineer",
+    "company": "Ernst & Young Maroc",
+    "industry": "Télécommunications",
+    "location": "Kenitra",
+    "employment_type": "Internship",
+    "job_description": "Dans le cadre de son développement, Ernst & Young Maroc recrute un(e) MLOps Engineer pour renforcer son pôle Télécommunications. Missions principales : développement et maintenance des systèmes, participation aux revues de code, optimisation des performances. Technologies utilisées : Apache Spark, MLflow, TensorFlow, Kafka, dbt. Langages : SQL, Python, R.",
+    "posted": "2024-10-15",
+    "programming_languages": [
+      "SQL",
+      "Python",
+      "R",
+      "Julia"
+    ],
+    "technical_skills": [
+      "Apache Spark",
+      "MLflow",
+      "TensorFlow",
+      "Kafka",
+      "dbt",
+      "Tableau",
+      "Elasticsearch",
+      "Scikit-learn",
+      "Great Expectations"
+    ],
+    "spoken_languages": [
+      "Arabe",
+      "Français"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Apache Spark",
+        "level": "Medior"
+      },
+      {
+        "technology": "MLflow",
+        "level": "Medior"
+      },
+      {
+        "technology": "TensorFlow",
+        "level": "Medior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "SQL",
+        "level": "Medior"
+      },
+      {
+        "language": "Python",
+        "level": "Medior"
+      }
+    ],
+    "experience_level": "Medior",
+    "salary_range": "18000-25000 MAD/mois",
+    "education_requirements": "Bac + 3",
+    "years_of_experience_required": 4,
+    "summary": "Offre de MLOps Engineer Medior chez Ernst & Young Maroc. Poste requérant 4 ans d'expérience minimum. Compétences clés : Apache Spark, MLflow, TensorFlow. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 27,
+    "title": "Cloud Architect",
+    "company": "Capgemini Maroc",
+    "industry": "IT Services",
+    "location": "Agadir",
+    "employment_type": "Full-time",
+    "job_description": "Dans le cadre de son développement, Capgemini Maroc recrute un(e) Cloud Architect pour renforcer son pôle IT Services. Missions principales : développement et maintenance des systèmes, participation aux revues de code, optimisation des performances. Technologies utilisées : ArgoCD, Prometheus, Linux, Terraform, AWS. Langages : HCL, Python, YAML.",
+    "posted": "2024-12-25",
+    "programming_languages": [
+      "HCL",
+      "Python",
+      "YAML"
+    ],
+    "technical_skills": [
+      "ArgoCD",
+      "Prometheus",
+      "Linux",
+      "Terraform",
+      "AWS",
+      "Jenkins",
+      "Docker",
+      "Grafana",
+      "GCP"
+    ],
+    "spoken_languages": [
+      "Arabe"
+    ],
+    "certifications": [
+      "Scrum Master PSM I",
+      "Google Cloud Professional"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "ArgoCD",
+        "level": "Junior"
+      },
+      {
+        "technology": "Prometheus",
+        "level": "Junior"
+      },
+      {
+        "technology": "Linux",
+        "level": "Junior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "HCL",
+        "level": "Junior"
+      },
+      {
+        "language": "Python",
+        "level": "Junior"
+      }
+    ],
+    "experience_level": "Junior",
+    "salary_range": "8000-12000 MAD/mois",
+    "education_requirements": "Bac + 5",
+    "years_of_experience_required": 1,
+    "summary": "Offre de Cloud Architect Junior chez Capgemini Maroc. Poste requérant 1 ans d'expérience minimum. Compétences clés : ArgoCD, Prometheus, Linux. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 28,
+    "title": "AI Engineer",
+    "company": "Ernst & Young Maroc",
+    "industry": "Banque",
+    "location": "Remote",
+    "employment_type": "Fixed-term",
+    "job_description": "Rejoignez Ernst & Young Maroc, acteur majeur du secteur Banque, en tant que AI Engineer Medior. Vous contribuerez à des projets à fort impact technologique. Stack technique : AWS SageMaker, Kafka, Great Expectations, Power BI, Scikit-learn. Programmation : Julia, SQL, R. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2025-02-13",
+    "programming_languages": [
+      "Julia",
+      "SQL",
+      "R"
+    ],
+    "technical_skills": [
+      "AWS SageMaker",
+      "Kafka",
+      "Great Expectations",
+      "Power BI",
+      "Scikit-learn",
+      "Tableau",
+      "Docker",
+      "TensorFlow"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Arabe",
+      "Anglais"
+    ],
+    "certifications": [
+      "Scrum Master PSM I",
+      "CISSP"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "AWS SageMaker",
+        "level": "Medior"
+      },
+      {
+        "technology": "Kafka",
+        "level": "Medior"
+      },
+      {
+        "technology": "Great Expectations",
+        "level": "Medior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Julia",
+        "level": "Medior"
+      },
+      {
+        "language": "SQL",
+        "level": "Medior"
+      }
+    ],
+    "experience_level": "Medior",
+    "salary_range": "12000-25000 MAD/mois",
+    "education_requirements": "Bac + 3",
+    "years_of_experience_required": 3,
+    "summary": "Offre de AI Engineer Medior chez Ernst & Young Maroc. Poste requérant 3 ans d'expérience minimum. Compétences clés : AWS SageMaker, Kafka, Great Expectations. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 29,
+    "title": "Développeur Backend",
+    "company": "Capgemini Maroc",
+    "industry": "Retail",
+    "location": "Agadir",
+    "employment_type": "Fixed-term",
+    "job_description": "Capgemini Maroc recherche un(e) Développeur Backend Junior pour rejoindre son équipe technique dans le secteur Retail. Vous serez responsable de la conception et du développement de solutions innovantes. Compétences requises : Spring Boot, PostgreSQL, Kubernetes, Django, MongoDB. Langages : PHP, JavaScript, TypeScript. Vous travaillerez en méthodologie Agile/Scrum avec une équipe internationale.",
+    "posted": "2025-03-02",
+    "programming_languages": [
+      "PHP",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "technical_skills": [
+      "Spring Boot",
+      "PostgreSQL",
+      "Kubernetes",
+      "Django",
+      "MongoDB",
+      "Jenkins",
+      "Docker"
+    ],
+    "spoken_languages": [
+      "Arabe"
+    ],
+    "certifications": [
+      "AWS Solutions Architect",
+      "AWS Cloud Practitioner"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Spring Boot",
+        "level": "Junior"
+      },
+      {
+        "technology": "PostgreSQL",
+        "level": "Junior"
+      },
+      {
+        "technology": "Kubernetes",
+        "level": "Junior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "PHP",
+        "level": "Junior"
+      },
+      {
+        "language": "JavaScript",
+        "level": "Junior"
+      }
+    ],
+    "experience_level": "Junior",
+    "salary_range": "10000-15000 MAD/mois",
+    "education_requirements": "Bac + 6 et plus",
+    "years_of_experience_required": 1,
+    "summary": "Offre de Développeur Backend Junior chez Capgemini Maroc. Poste requérant 1 ans d'expérience minimum. Compétences clés : Spring Boot, PostgreSQL, Kubernetes. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 30,
+    "title": "Cloud Architect",
+    "company": "Alten Maroc",
+    "industry": "IT Services",
+    "location": "Casablanca",
+    "employment_type": "Full-time",
+    "job_description": "Rejoignez Alten Maroc, acteur majeur du secteur IT Services, en tant que Cloud Architect Confirmé. Vous contribuerez à des projets à fort impact technologique. Stack technique : Docker, Azure, Helm, Bash, Kubernetes. Programmation : Go, YAML, Bash. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2024-11-12",
+    "programming_languages": [
+      "Go",
+      "YAML",
+      "Bash"
+    ],
+    "technical_skills": [
+      "Docker",
+      "Azure",
+      "Helm",
+      "Bash",
+      "Kubernetes",
+      "Terraform",
+      "AWS",
+      "Grafana"
+    ],
+    "spoken_languages": [
+      "Anglais",
+      "Français",
+      "Arabe"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Docker",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Azure",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Helm",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Go",
+        "level": "Confirmé"
+      },
+      {
+        "language": "YAML",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "19000-34000 MAD/mois",
+    "education_requirements": "Bac + 6 et plus",
+    "years_of_experience_required": 5,
+    "summary": "Offre de Cloud Architect Confirmé chez Alten Maroc. Poste requérant 5 ans d'expérience minimum. Compétences clés : Docker, Azure, Helm. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 31,
+    "title": "Data Engineer",
+    "company": "Accenture Maroc",
+    "industry": "Banque",
+    "location": "Agadir",
+    "employment_type": "Fixed-term",
+    "job_description": "Accenture Maroc recherche un(e) Data Engineer Senior pour rejoindre son équipe technique dans le secteur Banque. Vous serez responsable de la conception et du développement de solutions innovantes. Compétences requises : PyTorch, Redis, dbt, MLflow, TensorFlow. Langages : R, Python, Julia. Vous travaillerez en méthodologie Agile/Scrum avec une équipe internationale.",
+    "posted": "2024-12-07",
+    "programming_languages": [
+      "R",
+      "Python",
+      "Julia",
+      "Scala"
+    ],
+    "technical_skills": [
+      "PyTorch",
+      "Redis",
+      "dbt",
+      "MLflow",
+      "TensorFlow"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Anglais",
+      "Arabe"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "PyTorch",
+        "level": "Senior"
+      },
+      {
+        "technology": "Redis",
+        "level": "Senior"
+      },
+      {
+        "technology": "dbt",
+        "level": "Senior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "R",
+        "level": "Senior"
+      },
+      {
+        "language": "Python",
+        "level": "Senior"
+      }
+    ],
+    "experience_level": "Senior",
+    "salary_range": "32000-45000 MAD/mois",
+    "education_requirements": "Bac + 2",
+    "years_of_experience_required": 9,
+    "summary": "Offre de Data Engineer Senior chez Accenture Maroc. Poste requérant 9 ans d'expérience minimum. Compétences clés : PyTorch, Redis, dbt. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 32,
+    "title": "Security Analyst",
+    "company": "Attijariwafa Bank",
+    "industry": "Assurance",
+    "location": "Fès",
+    "employment_type": "Internship",
+    "job_description": "Dans le cadre de son développement, Attijariwafa Bank recrute un(e) Security Analyst pour renforcer son pôle Assurance. Missions principales : développement et maintenance des systèmes, participation aux revues de code, optimisation des performances. Technologies utilisées : Wireshark, Burp Suite, IDS/IPS, Firewall, CrowdStrike. Langages : C, Bash, PowerShell.",
+    "posted": "2025-01-27",
+    "programming_languages": [
+      "C",
+      "Bash",
+      "PowerShell",
+      "Python"
+    ],
+    "technical_skills": [
+      "Wireshark",
+      "Burp Suite",
+      "IDS/IPS",
+      "Firewall",
+      "CrowdStrike"
+    ],
+    "spoken_languages": [
+      "Français"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Wireshark",
+        "level": "Senior"
+      },
+      {
+        "technology": "Burp Suite",
+        "level": "Senior"
+      },
+      {
+        "technology": "IDS/IPS",
+        "level": "Senior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "C",
+        "level": "Senior"
+      },
+      {
+        "language": "Bash",
+        "level": "Senior"
+      }
+    ],
+    "experience_level": "Senior",
+    "salary_range": "29000-43000 MAD/mois",
+    "education_requirements": "Bac + 2",
+    "years_of_experience_required": 10,
+    "summary": "Offre de Security Analyst Senior chez Attijariwafa Bank. Poste requérant 10 ans d'expérience minimum. Compétences clés : Wireshark, Burp Suite, IDS/IPS. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 33,
+    "title": "Platform Engineer",
+    "company": "BMCE Bank",
+    "industry": "Finance",
+    "location": "Kenitra",
+    "employment_type": "Part-time",
+    "job_description": "Rejoignez BMCE Bank, acteur majeur du secteur Finance, en tant que Platform Engineer Expert. Vous contribuerez à des projets à fort impact technologique. Stack technique : Kubernetes, ELK Stack, Terraform, Azure, Ansible. Programmation : YAML, Go, Python. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2025-01-11",
+    "programming_languages": [
+      "YAML",
+      "Go",
+      "Python",
+      "Bash"
+    ],
+    "technical_skills": [
+      "Kubernetes",
+      "ELK Stack",
+      "Terraform",
+      "Azure",
+      "Ansible",
+      "Linux",
+      "ArgoCD"
+    ],
+    "spoken_languages": [
+      "Français"
+    ],
+    "certifications": [
+      "Google Cloud Professional",
+      "PMP"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Kubernetes",
+        "level": "Expert"
+      },
+      {
+        "technology": "ELK Stack",
+        "level": "Expert"
+      },
+      {
+        "technology": "Terraform",
+        "level": "Expert"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "YAML",
+        "level": "Expert"
+      },
+      {
+        "language": "Go",
+        "level": "Expert"
+      }
+    ],
+    "experience_level": "Expert",
+    "salary_range": "43000-63000 MAD/mois",
+    "education_requirements": "Bac + 5",
+    "years_of_experience_required": 14,
+    "summary": "Offre de Platform Engineer Expert chez BMCE Bank. Poste requérant 14 ans d'expérience minimum. Compétences clés : Kubernetes, ELK Stack, Terraform. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 34,
+    "title": "Architecte Logiciel",
+    "company": "BMCE Bank",
+    "industry": "Retail",
+    "location": "Rabat",
+    "employment_type": "Part-time",
+    "job_description": "BMCE Bank recherche un(e) Architecte Logiciel Expert pour rejoindre son équipe technique dans le secteur Retail. Vous serez responsable de la conception et du développement de solutions innovantes. Compétences requises : GraphQL, Vue.js, Redis, TypeScript, FastAPI. Langages : JavaScript, PHP, Go. Vous travaillerez en méthodologie Agile/Scrum avec une équipe internationale.",
+    "posted": "2024-12-27",
+    "programming_languages": [
+      "JavaScript",
+      "PHP",
+      "Go"
+    ],
+    "technical_skills": [
+      "GraphQL",
+      "Vue.js",
+      "Redis",
+      "TypeScript",
+      "FastAPI",
+      "Spring Boot",
+      "Node.js",
+      "Nginx"
+    ],
+    "spoken_languages": [
+      "Anglais",
+      "Français"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "GraphQL",
+        "level": "Expert"
+      },
+      {
+        "technology": "Vue.js",
+        "level": "Expert"
+      },
+      {
+        "technology": "Redis",
+        "level": "Expert"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "JavaScript",
+        "level": "Expert"
+      },
+      {
+        "language": "PHP",
+        "level": "Expert"
+      }
+    ],
+    "experience_level": "Expert",
+    "salary_range": "56000-66000 MAD/mois",
+    "education_requirements": "Bac + 4",
+    "years_of_experience_required": 13,
+    "summary": "Offre de Architecte Logiciel Expert chez BMCE Bank. Poste requérant 13 ans d'expérience minimum. Compétences clés : GraphQL, Vue.js, Redis. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 35,
+    "title": "DevOps Engineer",
+    "company": "Alten Maroc",
+    "industry": "Télécommunications",
+    "location": "Fès",
+    "employment_type": "Part-time",
+    "job_description": "Alten Maroc recherche un(e) DevOps Engineer Confirmé pour rejoindre son équipe technique dans le secteur Télécommunications. Vous serez responsable de la conception et du développement de solutions innovantes. Compétences requises : Helm, Ansible, GitLab CI/CD, Linux, Docker. Langages : Bash, Go, Python. Vous travaillerez en méthodologie Agile/Scrum avec une équipe internationale.",
+    "posted": "2025-03-16",
+    "programming_languages": [
+      "Bash",
+      "Go",
+      "Python",
+      "HCL"
+    ],
+    "technical_skills": [
+      "Helm",
+      "Ansible",
+      "GitLab CI/CD",
+      "Linux",
+      "Docker",
+      "GCP",
+      "Azure",
+      "Terraform",
+      "Prometheus"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Arabe",
+      "Anglais"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Helm",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Ansible",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "GitLab CI/CD",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Bash",
+        "level": "Confirmé"
+      },
+      {
+        "language": "Go",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "18000-27000 MAD/mois",
+    "education_requirements": "Bac + 4",
+    "years_of_experience_required": 4,
+    "summary": "Offre de DevOps Engineer Confirmé chez Alten Maroc. Poste requérant 4 ans d'expérience minimum. Compétences clés : Helm, Ansible, GitLab CI/CD. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 36,
+    "title": "Data Scientist",
+    "company": "Capgemini Maroc",
+    "industry": "E-commerce",
+    "location": "Agadir",
+    "employment_type": "Part-time",
+    "job_description": "Capgemini Maroc recherche un(e) Data Scientist Senior pour rejoindre son équipe technique dans le secteur E-commerce. Vous serez responsable de la conception et du développement de solutions innovantes. Compétences requises : MLflow, Pandas, dbt, TensorFlow, Kubernetes. Langages : Python, Julia, SQL. Vous travaillerez en méthodologie Agile/Scrum avec une équipe internationale.",
+    "posted": "2024-11-25",
+    "programming_languages": [
+      "Python",
+      "Julia",
+      "SQL",
+      "Scala"
+    ],
+    "technical_skills": [
+      "MLflow",
+      "Pandas",
+      "dbt",
+      "TensorFlow",
+      "Kubernetes",
+      "Tableau",
+      "Scikit-learn",
+      "Redis"
+    ],
+    "spoken_languages": [
+      "Anglais",
+      "Français"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "MLflow",
+        "level": "Senior"
+      },
+      {
+        "technology": "Pandas",
+        "level": "Senior"
+      },
+      {
+        "technology": "dbt",
+        "level": "Senior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Python",
+        "level": "Senior"
+      },
+      {
+        "language": "Julia",
+        "level": "Senior"
+      }
+    ],
+    "experience_level": "Senior",
+    "salary_range": "26000-36000 MAD/mois",
+    "education_requirements": "Bac + 4",
+    "years_of_experience_required": 8,
+    "summary": "Offre de Data Scientist Senior chez Capgemini Maroc. Poste requérant 8 ans d'expérience minimum. Compétences clés : MLflow, Pandas, dbt. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 37,
+    "title": "Lead Cloud Engineer",
+    "company": "Maroc Telecom",
+    "industry": "Finance",
+    "location": "Rabat",
+    "employment_type": "Internship",
+    "job_description": "Rejoignez Maroc Telecom, acteur majeur du secteur Finance, en tant que Lead Cloud Engineer Expert. Vous contribuerez à des projets à fort impact technologique. Stack technique : Ansible, Grafana, Terraform, Helm, Jenkins. Programmation : Go, YAML, Python. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2024-10-15",
+    "programming_languages": [
+      "Go",
+      "YAML",
+      "Python",
+      "HCL"
+    ],
+    "technical_skills": [
+      "Ansible",
+      "Grafana",
+      "Terraform",
+      "Helm",
+      "Jenkins",
+      "Prometheus"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Anglais"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Ansible",
+        "level": "Expert"
+      },
+      {
+        "technology": "Grafana",
+        "level": "Expert"
+      },
+      {
+        "technology": "Terraform",
+        "level": "Expert"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Go",
+        "level": "Expert"
+      },
+      {
+        "language": "YAML",
+        "level": "Expert"
+      }
+    ],
+    "experience_level": "Expert",
+    "salary_range": "51000-65000 MAD/mois",
+    "education_requirements": "Bac + 2",
+    "years_of_experience_required": 15,
+    "summary": "Offre de Lead Cloud Engineer Expert chez Maroc Telecom. Poste requérant 15 ans d'expérience minimum. Compétences clés : Ansible, Grafana, Terraform. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 38,
+    "title": "Développeur Full Stack",
+    "company": "Ernst & Young Maroc",
+    "industry": "E-commerce",
+    "location": "Marrakech",
+    "employment_type": "Full-time",
+    "job_description": "Rejoignez Ernst & Young Maroc, acteur majeur du secteur E-commerce, en tant que Développeur Full Stack Expert. Vous contribuerez à des projets à fort impact technologique. Stack technique : Kubernetes, Jenkins, Spring Boot, Microservices, Tailwind CSS. Programmation : Java, PHP, JavaScript. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2025-02-15",
+    "programming_languages": [
+      "Java",
+      "PHP",
+      "JavaScript",
+      "Go"
+    ],
+    "technical_skills": [
+      "Kubernetes",
+      "Jenkins",
+      "Spring Boot",
+      "Microservices",
+      "Tailwind CSS",
+      "FastAPI",
+      "REST API"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Anglais",
+      "Arabe"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Kubernetes",
+        "level": "Expert"
+      },
+      {
+        "technology": "Jenkins",
+        "level": "Expert"
+      },
+      {
+        "technology": "Spring Boot",
+        "level": "Expert"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Java",
+        "level": "Expert"
+      },
+      {
+        "language": "PHP",
+        "level": "Expert"
+      }
+    ],
+    "experience_level": "Expert",
+    "salary_range": "48000-60000 MAD/mois",
+    "education_requirements": "Bac + 5",
+    "years_of_experience_required": 15,
+    "summary": "Offre de Développeur Full Stack Expert chez Ernst & Young Maroc. Poste requérant 15 ans d'expérience minimum. Compétences clés : Kubernetes, Jenkins, Spring Boot. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 39,
+    "title": "Senior DevOps Engineer",
+    "company": "Deloitte Maroc",
+    "industry": "Finance",
+    "location": "Meknès",
+    "employment_type": "Full-time",
+    "job_description": "Dans le cadre de son développement, Deloitte Maroc recrute un(e) Senior DevOps Engineer pour renforcer son pôle Finance. Missions principales : développement et maintenance des systèmes, participation aux revues de code, optimisation des performances. Technologies utilisées : AWS, Kubernetes, Bash, ArgoCD, Azure. Langages : Bash, Python, Go.",
+    "posted": "2025-03-18",
+    "programming_languages": [
+      "Bash",
+      "Python",
+      "Go"
+    ],
+    "technical_skills": [
+      "AWS",
+      "Kubernetes",
+      "Bash",
+      "ArgoCD",
+      "Azure",
+      "Jenkins",
+      "ELK Stack"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Arabe",
+      "Anglais"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "AWS",
+        "level": "Junior"
+      },
+      {
+        "technology": "Kubernetes",
+        "level": "Junior"
+      },
+      {
+        "technology": "Bash",
+        "level": "Junior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Bash",
+        "level": "Junior"
+      },
+      {
+        "language": "Python",
+        "level": "Junior"
+      }
+    ],
+    "experience_level": "Junior",
+    "salary_range": "9000-14000 MAD/mois",
+    "education_requirements": "Bac + 3",
+    "years_of_experience_required": 2,
+    "summary": "Offre de Senior DevOps Engineer Junior chez Deloitte Maroc. Poste requérant 2 ans d'expérience minimum. Compétences clés : AWS, Kubernetes, Bash. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 40,
+    "title": "RSSI",
+    "company": "IBM Maroc",
+    "industry": "Assurance",
+    "location": "Kenitra",
+    "employment_type": "Full-time",
+    "job_description": "IBM Maroc recherche un(e) RSSI Medior pour rejoindre son équipe technique dans le secteur Assurance. Vous serez responsable de la conception et du développement de solutions innovantes. Compétences requises : PKI, IDS/IPS, Wireshark, Nessus, Kali Linux. Langages : C, Python, Bash. Vous travaillerez en méthodologie Agile/Scrum avec une équipe internationale.",
+    "posted": "2025-03-12",
+    "programming_languages": [
+      "C",
+      "Python",
+      "Bash"
+    ],
+    "technical_skills": [
+      "PKI",
+      "IDS/IPS",
+      "Wireshark",
+      "Nessus",
+      "Kali Linux"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Anglais",
+      "Arabe"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "PKI",
+        "level": "Medior"
+      },
+      {
+        "technology": "IDS/IPS",
+        "level": "Medior"
+      },
+      {
+        "technology": "Wireshark",
+        "level": "Medior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "C",
+        "level": "Medior"
+      },
+      {
+        "language": "Python",
+        "level": "Medior"
+      }
+    ],
+    "experience_level": "Medior",
+    "salary_range": "16000-20000 MAD/mois",
+    "education_requirements": "Bac + 5",
+    "years_of_experience_required": 4,
+    "summary": "Offre de RSSI Medior chez IBM Maroc. Poste requérant 4 ans d'expérience minimum. Compétences clés : PKI, IDS/IPS, Wireshark. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 41,
+    "title": "Senior Data Scientist",
+    "company": "Deloitte Maroc",
+    "industry": "E-commerce",
+    "location": "Casablanca",
+    "employment_type": "Fixed-term",
+    "job_description": "Deloitte Maroc recherche un(e) Senior Data Scientist Confirmé pour rejoindre son équipe technique dans le secteur E-commerce. Vous serez responsable de la conception et du développement de solutions innovantes. Compétences requises : FastAPI, Power BI, Databricks, PyTorch, dbt. Langages : Scala, R. Vous travaillerez en méthodologie Agile/Scrum avec une équipe internationale.",
+    "posted": "2025-01-11",
+    "programming_languages": [
+      "Scala",
+      "R"
+    ],
+    "technical_skills": [
+      "FastAPI",
+      "Power BI",
+      "Databricks",
+      "PyTorch",
+      "dbt",
+      "Great Expectations",
+      "Redis",
+      "Scikit-learn"
+    ],
+    "spoken_languages": [
+      "Français"
+    ],
+    "certifications": [
+      "CISSP"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "FastAPI",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Power BI",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Databricks",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Scala",
+        "level": "Confirmé"
+      },
+      {
+        "language": "R",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "19000-30000 MAD/mois",
+    "education_requirements": "Bac + 6 et plus",
+    "years_of_experience_required": 4,
+    "summary": "Offre de Senior Data Scientist Confirmé chez Deloitte Maroc. Poste requérant 4 ans d'expérience minimum. Compétences clés : FastAPI, Power BI, Databricks. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 42,
+    "title": "Développeur Frontend",
+    "company": "CIH Bank",
+    "industry": "Retail",
+    "location": "Meknès",
+    "employment_type": "Part-time",
+    "job_description": "Dans le cadre de son développement, CIH Bank recrute un(e) Développeur Frontend pour renforcer son pôle Retail. Missions principales : développement et maintenance des systèmes, participation aux revues de code, optimisation des performances. Technologies utilisées : Nginx, React, Docker, MongoDB, Angular. Langages : Python, PHP, TypeScript.",
+    "posted": "2024-11-21",
+    "programming_languages": [
+      "Python",
+      "PHP",
+      "TypeScript"
+    ],
+    "technical_skills": [
+      "Nginx",
+      "React",
+      "Docker",
+      "MongoDB",
+      "Angular",
+      "Spring Boot",
+      "GraphQL",
+      "FastAPI"
+    ],
+    "spoken_languages": [
+      "Arabe"
+    ],
+    "certifications": [
+      "Kubernetes CKA",
+      "Azure Administrator"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Nginx",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "React",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Docker",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Python",
+        "level": "Confirmé"
+      },
+      {
+        "language": "PHP",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "19000-33000 MAD/mois",
+    "education_requirements": "Bac + 5",
+    "years_of_experience_required": 5,
+    "summary": "Offre de Développeur Frontend Confirmé chez CIH Bank. Poste requérant 5 ans d'expérience minimum. Compétences clés : Nginx, React, Docker. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 43,
+    "title": "Security Analyst",
+    "company": "Inwi",
+    "industry": "Énergie",
+    "location": "Fès",
+    "employment_type": "Part-time",
+    "job_description": "Dans le cadre de son développement, Inwi recrute un(e) Security Analyst pour renforcer son pôle Énergie. Missions principales : développement et maintenance des systèmes, participation aux revues de code, optimisation des performances. Technologies utilisées : Azure Sentinel, CrowdStrike, PKI, ISO 27001, OWASP. Langages : PowerShell, C.",
+    "posted": "2024-12-22",
+    "programming_languages": [
+      "PowerShell",
+      "C"
+    ],
+    "technical_skills": [
+      "Azure Sentinel",
+      "CrowdStrike",
+      "PKI",
+      "ISO 27001",
+      "OWASP",
+      "Metasploit",
+      "Wireshark"
+    ],
+    "spoken_languages": [
+      "Anglais"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Azure Sentinel",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "CrowdStrike",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "PKI",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "PowerShell",
+        "level": "Confirmé"
+      },
+      {
+        "language": "C",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "22000-32000 MAD/mois",
+    "education_requirements": "Bac + 6 et plus",
+    "years_of_experience_required": 4,
+    "summary": "Offre de Security Analyst Confirmé chez Inwi. Poste requérant 4 ans d'expérience minimum. Compétences clés : Azure Sentinel, CrowdStrike, PKI. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 44,
+    "title": "Infrastructure Engineer",
+    "company": "OCP",
+    "industry": "IT Services",
+    "location": "Marrakech",
+    "employment_type": "Part-time",
+    "job_description": "Rejoignez OCP, acteur majeur du secteur IT Services, en tant que Infrastructure Engineer Medior. Vous contribuerez à des projets à fort impact technologique. Stack technique : GitLab CI/CD, Prometheus, Helm, Terraform, Ansible. Programmation : YAML, Bash. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2024-10-18",
+    "programming_languages": [
+      "YAML",
+      "Bash"
+    ],
+    "technical_skills": [
+      "GitLab CI/CD",
+      "Prometheus",
+      "Helm",
+      "Terraform",
+      "Ansible",
+      "Azure",
+      "Jenkins",
+      "Bash",
+      "ELK Stack"
+    ],
+    "spoken_languages": [
+      "Arabe",
+      "Anglais"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "GitLab CI/CD",
+        "level": "Medior"
+      },
+      {
+        "technology": "Prometheus",
+        "level": "Medior"
+      },
+      {
+        "technology": "Helm",
+        "level": "Medior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "YAML",
+        "level": "Medior"
+      },
+      {
+        "language": "Bash",
+        "level": "Medior"
+      }
+    ],
+    "experience_level": "Medior",
+    "salary_range": "15000-20000 MAD/mois",
+    "education_requirements": "Bac + 4",
+    "years_of_experience_required": 3,
+    "summary": "Offre de Infrastructure Engineer Medior chez OCP. Poste requérant 3 ans d'expérience minimum. Compétences clés : GitLab CI/CD, Prometheus, Helm. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 45,
+    "title": "SRE Engineer",
+    "company": "TotalEnergies Maroc",
+    "industry": "Finance",
+    "location": "Tanger",
+    "employment_type": "Part-time",
+    "job_description": "Rejoignez TotalEnergies Maroc, acteur majeur du secteur Finance, en tant que SRE Engineer Expert. Vous contribuerez à des projets à fort impact technologique. Stack technique : Jenkins, Docker, Grafana, Linux, Prometheus. Programmation : Bash, Python, Go. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2024-10-11",
+    "programming_languages": [
+      "Bash",
+      "Python",
+      "Go"
+    ],
+    "technical_skills": [
+      "Jenkins",
+      "Docker",
+      "Grafana",
+      "Linux",
+      "Prometheus",
+      "Bash"
+    ],
+    "spoken_languages": [
+      "Anglais",
+      "Français"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Jenkins",
+        "level": "Expert"
+      },
+      {
+        "technology": "Docker",
+        "level": "Expert"
+      },
+      {
+        "technology": "Grafana",
+        "level": "Expert"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Bash",
+        "level": "Expert"
+      },
+      {
+        "language": "Python",
+        "level": "Expert"
+      }
+    ],
+    "experience_level": "Expert",
+    "salary_range": "57000-79000 MAD/mois",
+    "education_requirements": "Bac + 5",
+    "years_of_experience_required": 13,
+    "summary": "Offre de SRE Engineer Expert chez TotalEnergies Maroc. Poste requérant 13 ans d'expérience minimum. Compétences clés : Jenkins, Docker, Grafana. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 46,
+    "title": "Architecte Logiciel",
+    "company": "Inwi",
+    "industry": "E-commerce",
+    "location": "Meknès",
+    "employment_type": "Full-time",
+    "job_description": "Inwi recherche un(e) Architecte Logiciel Confirmé pour rejoindre son équipe technique dans le secteur E-commerce. Vous serez responsable de la conception et du développement de solutions innovantes. Compétences requises : PostgreSQL, TypeScript, Jenkins, Docker, React. Langages : PHP, Python. Vous travaillerez en méthodologie Agile/Scrum avec une équipe internationale.",
+    "posted": "2025-01-17",
+    "programming_languages": [
+      "PHP",
+      "Python"
+    ],
+    "technical_skills": [
+      "PostgreSQL",
+      "TypeScript",
+      "Jenkins",
+      "Docker",
+      "React",
+      "Spring Boot",
+      "REST API",
+      "MongoDB"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Arabe",
+      "Anglais"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "PostgreSQL",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "TypeScript",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Jenkins",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "PHP",
+        "level": "Confirmé"
+      },
+      {
+        "language": "Python",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "19000-27000 MAD/mois",
+    "education_requirements": "Bac + 3",
+    "years_of_experience_required": 6,
+    "summary": "Offre de Architecte Logiciel Confirmé chez Inwi. Poste requérant 6 ans d'expérience minimum. Compétences clés : PostgreSQL, TypeScript, Jenkins. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 47,
+    "title": "Développeur Backend",
+    "company": "Société Générale Maroc",
+    "industry": "Retail",
+    "location": "Remote",
+    "employment_type": "Part-time",
+    "job_description": "Dans le cadre de son développement, Société Générale Maroc recrute un(e) Développeur Backend pour renforcer son pôle Retail. Missions principales : développement et maintenance des systèmes, participation aux revues de code, optimisation des performances. Technologies utilisées : FastAPI, Redis, Vue.js, PostgreSQL, GraphQL. Langages : JavaScript, Go, PHP.",
+    "posted": "2024-12-14",
+    "programming_languages": [
+      "JavaScript",
+      "Go",
+      "PHP"
+    ],
+    "technical_skills": [
+      "FastAPI",
+      "Redis",
+      "Vue.js",
+      "PostgreSQL",
+      "GraphQL",
+      "TypeScript"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Arabe",
+      "Anglais"
+    ],
+    "certifications": [
+      "AWS Solutions Architect"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "FastAPI",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Redis",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Vue.js",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "JavaScript",
+        "level": "Confirmé"
+      },
+      {
+        "language": "Go",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "22000-35000 MAD/mois",
+    "education_requirements": "Bac + 4",
+    "years_of_experience_required": 5,
+    "summary": "Offre de Développeur Backend Confirmé chez Société Générale Maroc. Poste requérant 5 ans d'expérience minimum. Compétences clés : FastAPI, Redis, Vue.js. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 48,
+    "title": "Data Scientist",
+    "company": "CGI Maroc",
+    "industry": "Finance",
+    "location": "Kenitra",
+    "employment_type": "Fixed-term",
+    "job_description": "CGI Maroc recherche un(e) Data Scientist Junior pour rejoindre son équipe technique dans le secteur Finance. Vous serez responsable de la conception et du développement de solutions innovantes. Compétences requises : Power BI, AWS SageMaker, Apache Spark, Kubernetes, TensorFlow. Langages : Python, Julia, Scala. Vous travaillerez en méthodologie Agile/Scrum avec une équipe internationale.",
+    "posted": "2025-02-25",
+    "programming_languages": [
+      "Python",
+      "Julia",
+      "Scala",
+      "SQL"
+    ],
+    "technical_skills": [
+      "Power BI",
+      "AWS SageMaker",
+      "Apache Spark",
+      "Kubernetes",
+      "TensorFlow",
+      "FastAPI",
+      "Airflow",
+      "MLflow"
+    ],
+    "spoken_languages": [
+      "Anglais"
+    ],
+    "certifications": [
+      "PMP",
+      "Kubernetes CKA"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Power BI",
+        "level": "Junior"
+      },
+      {
+        "technology": "AWS SageMaker",
+        "level": "Junior"
+      },
+      {
+        "technology": "Apache Spark",
+        "level": "Junior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Python",
+        "level": "Junior"
+      },
+      {
+        "language": "Julia",
+        "level": "Junior"
+      }
+    ],
+    "experience_level": "Junior",
+    "salary_range": "11000-12000 MAD/mois",
+    "education_requirements": "Bac + 2",
+    "years_of_experience_required": 1,
+    "summary": "Offre de Data Scientist Junior chez CGI Maroc. Poste requérant 1 ans d'expérience minimum. Compétences clés : Power BI, AWS SageMaker, Apache Spark. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 49,
+    "title": "Cloud Architect",
+    "company": "BNP Paribas Maroc",
+    "industry": "Finance",
+    "location": "Casablanca",
+    "employment_type": "Full-time",
+    "job_description": "Dans le cadre de son développement, BNP Paribas Maroc recrute un(e) Cloud Architect pour renforcer son pôle Finance. Missions principales : développement et maintenance des systèmes, participation aux revues de code, optimisation des performances. Technologies utilisées : Grafana, Jenkins, Bash, Ansible, Prometheus. Langages : Python, Bash, YAML.",
+    "posted": "2025-02-01",
+    "programming_languages": [
+      "Python",
+      "Bash",
+      "YAML"
+    ],
+    "technical_skills": [
+      "Grafana",
+      "Jenkins",
+      "Bash",
+      "Ansible",
+      "Prometheus",
+      "Helm",
+      "GCP",
+      "Docker",
+      "ArgoCD"
+    ],
+    "spoken_languages": [
+      "Arabe",
+      "Français"
+    ],
+    "certifications": [
+      "Scrum Master PSM I",
+      "Azure Administrator"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Grafana",
+        "level": "Senior"
+      },
+      {
+        "technology": "Jenkins",
+        "level": "Senior"
+      },
+      {
+        "technology": "Bash",
+        "level": "Senior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Python",
+        "level": "Senior"
+      },
+      {
+        "language": "Bash",
+        "level": "Senior"
+      }
+    ],
+    "experience_level": "Senior",
+    "salary_range": "32000-43000 MAD/mois",
+    "education_requirements": "Bac + 2",
+    "years_of_experience_required": 7,
+    "summary": "Offre de Cloud Architect Senior chez BNP Paribas Maroc. Poste requérant 7 ans d'expérience minimum. Compétences clés : Grafana, Jenkins, Bash. Opportunité d'évolution dans un environnement technologique innovant."
+  },
+  {
+    "index": 50,
+    "title": "Développeur Full Stack",
+    "company": "Maroc Telecom",
+    "industry": "IT Services",
+    "location": "Meknès",
+    "employment_type": "Full-time",
+    "job_description": "Rejoignez Maroc Telecom, acteur majeur du secteur IT Services, en tant que Développeur Full Stack Junior. Vous contribuerez à des projets à fort impact technologique. Stack technique : Django, React, REST API, Tailwind CSS, Redis. Programmation : TypeScript, PHP. Environnement de travail stimulant et opportunités d'évolution.",
+    "posted": "2024-10-05",
+    "programming_languages": [
+      "TypeScript",
+      "PHP"
+    ],
+    "technical_skills": [
+      "Django",
+      "React",
+      "REST API",
+      "Tailwind CSS",
+      "Redis",
+      "Spring Boot"
+    ],
+    "spoken_languages": [
+      "Arabe",
+      "Français"
+    ],
+    "certifications": [
+      "Kubernetes CKA"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Django",
+        "level": "Junior"
+      },
+      {
+        "technology": "React",
+        "level": "Junior"
+      },
+      {
+        "technology": "REST API",
+        "level": "Junior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "TypeScript",
+        "level": "Junior"
+      },
+      {
+        "language": "PHP",
+        "level": "Junior"
+      }
+    ],
+    "experience_level": "Junior",
+    "salary_range": "8000-14000 MAD/mois",
+    "education_requirements": "Bac + 5",
+    "years_of_experience_required": 2,
+    "summary": "Offre de Développeur Full Stack Junior chez Maroc Telecom. Poste requérant 2 ans d'expérience minimum. Compétences clés : Django, React, REST API. Opportunité d'évolution dans un environnement technologique innovant."
+  }
+]

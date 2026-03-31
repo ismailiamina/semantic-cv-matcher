@@ -1,0 +1,143 @@
+{
+  "full_name": "Fatima Chraibi",
+  "email": "fatima.chraibi@gmail.com",
+  "phone": "+212 634 801 480",
+  "location": "Fès",
+  "years_of_experience": 14,
+  "linkedin": "linkedin.com/in/fatima-chraibi",
+  "github": "github.com/fatima51",
+  "roles_held": [
+    "Data Engineer",
+    "Data Scientist",
+    "ML Engineer"
+  ],
+  "programming_languages": [
+    "Scala",
+    "Python",
+    "Julia",
+    "R"
+  ],
+  "technical_skills": [
+    "Docker",
+    "Kafka",
+    "Elasticsearch",
+    "MLflow",
+    "Deep Learning",
+    "NumPy",
+    "Tableau",
+    "Scikit-learn",
+    "Apache Spark",
+    "PyTorch"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Espagnol",
+    "Allemand"
+  ],
+  "certifications": [
+    "Terraform Associate",
+    "Google Associate Cloud Engineer"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Docker",
+      "level": "Expert"
+    },
+    {
+      "technology": "Kafka",
+      "level": "Expert"
+    },
+    {
+      "technology": "Elasticsearch",
+      "level": "Expert"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Scala",
+      "level": "Expert"
+    },
+    {
+      "language": "Python",
+      "level": "Expert"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Banque",
+      "Énergie",
+      "Retail"
+    ]
+  },
+  "summary": "Ingénieur Expert en Data Engineer avec 14 ans d'expérience. Spécialisé en Docker, Kafka, Elasticsearch. Maîtrise des langages Scala, Python. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Systèmes Embarqués",
+  "work_experience": "Chez OCP (2012-2016), j'ai travaillé en tant que Data Engineer en utilisant Elasticsearch, FastAPI, MLflow, PyTorch, Tableau, Redis et R, Python. Chez Maroc Telecom (2016-2018), j'ai travaillé en tant que ML Engineer en utilisant Airflow, Machine Learning, Redis, Tableau et Scala, R. Chez Deloitte Maroc (2018-2024), j'ai travaillé en tant que Data Engineer en utilisant Kubernetes, NumPy, Scikit-learn, AWS SageMaker, Tableau et Julia. Chez BMCE Bank (2024-2026), j'ai travaillé en tant que Data Engineer en utilisant PyTorch, Machine Learning, Pandas et R.",
+  "projects": "Projet 'Chatbot intelligent basé sur NLP' dans le secteur Retail en utilisant Power BI, Elasticsearch, Tableau. Projet 'Système de recommandation produits' dans le secteur Retail en utilisant Redis, Machine Learning, Kafka. Projet 'Pipeline de données en temps réel' dans le secteur Énergie en utilisant Elasticsearch, Kafka, Power BI.",
+  "file_path": "synthetic_cvs/cv_0067_fatima_chraibi.json",
+  "parsing_confidence": 0.86,
+  "experience_timeline": [
+    {
+      "year_start": 2012,
+      "year_end": 2016,
+      "company": "OCP",
+      "skills_acquired": [
+        "Elasticsearch",
+        "FastAPI",
+        "MLflow",
+        "PyTorch",
+        "Tableau",
+        "Redis"
+      ],
+      "languages_used": [
+        "R",
+        "Python"
+      ]
+    },
+    {
+      "year_start": 2016,
+      "year_end": 2018,
+      "company": "Maroc Telecom",
+      "skills_acquired": [
+        "Airflow",
+        "Machine Learning",
+        "Redis",
+        "Tableau"
+      ],
+      "languages_used": [
+        "Scala",
+        "R"
+      ]
+    },
+    {
+      "year_start": 2018,
+      "year_end": 2024,
+      "company": "Deloitte Maroc",
+      "skills_acquired": [
+        "Kubernetes",
+        "NumPy",
+        "Scikit-learn",
+        "AWS SageMaker",
+        "Tableau"
+      ],
+      "languages_used": [
+        "Julia"
+      ]
+    },
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "BMCE Bank",
+      "skills_acquired": [
+        "PyTorch",
+        "Machine Learning",
+        "Pandas"
+      ],
+      "languages_used": [
+        "R"
+      ]
+    }
+  ],
+  "universite": "ENSEM",
+  "seniority_level_global": "Expert"
+}

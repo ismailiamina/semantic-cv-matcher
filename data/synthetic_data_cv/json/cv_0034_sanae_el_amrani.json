@@ -1,0 +1,92 @@
+{
+  "full_name": "Sanae El Amrani",
+  "email": "sanae.elamrani@gmail.com",
+  "phone": "+212 674 574 349",
+  "location": "Agadir",
+  "years_of_experience": 1,
+  "linkedin": "linkedin.com/in/sanae-el-amrani",
+  "github": "github.com/sanae27",
+  "roles_held": [
+    "Architecte Solutions",
+    "Tech Lead"
+  ],
+  "programming_languages": [
+    "TypeScript",
+    "Go",
+    "Java"
+  ],
+  "technical_skills": [
+    "Redis",
+    "Nginx",
+    "Node.js",
+    "HTML/CSS",
+    "Tailwind CSS",
+    "Jenkins",
+    "Spring Boot",
+    "Git",
+    "React",
+    "TypeScript",
+    "Angular",
+    "GraphQL"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Espagnol"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Redis",
+      "level": "Junior"
+    },
+    {
+      "technology": "Nginx",
+      "level": "Junior"
+    },
+    {
+      "technology": "Node.js",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "TypeScript",
+      "level": "Junior"
+    },
+    {
+      "language": "Go",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Transport"
+    ]
+  },
+  "summary": "Professionnel Architecte Solutions avec 1 années d'expérience dans le développement de solutions techniques. Expert en Redis, Nginx, Node.js. Forte maîtrise de TypeScript, Go avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Réseaux et Télécommunications",
+  "work_experience": "Chez CIH Bank (2025-2026), j'ai travaillé en tant que Architecte Solutions en utilisant Angular, REST API, FastAPI et PHP, JavaScript, Go.",
+  "projects": "Projet 'API REST microservices' dans le secteur Transport en utilisant MongoDB, Jenkins, GraphQL. Projet 'Portail client bancaire' dans le secteur Transport en utilisant FastAPI, TypeScript, HTML/CSS. Projet 'Application de gestion RH' dans le secteur Transport en utilisant MongoDB, Docker, Django. Projet 'Dashboard de reporting temps réel' dans le secteur Transport en utilisant Git, Tailwind CSS, REST API.",
+  "file_path": "synthetic_cvs/cv_0034_sanae_el_amrani.json",
+  "parsing_confidence": 0.78,
+  "experience_timeline": [
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "CIH Bank",
+      "skills_acquired": [
+        "Angular",
+        "REST API",
+        "FastAPI"
+      ],
+      "languages_used": [
+        "PHP",
+        "JavaScript",
+        "Go"
+      ]
+    }
+  ],
+  "universite": "ENSAM Meknès",
+  "seniority_level_global": "Junior"
+}

@@ -1,0 +1,139 @@
+{
+  "full_name": "Mehdi Bennani",
+  "email": "mehdi.bennani@gmail.com",
+  "phone": "+212 676 425 907",
+  "location": "Fès",
+  "years_of_experience": 12,
+  "linkedin": "linkedin.com/in/mehdi-bennani",
+  "github": "github.com/mehdi67",
+  "roles_held": [
+    "Architecte Solutions",
+    "Tech Lead",
+    "CTO"
+  ],
+  "programming_languages": [
+    "Go",
+    "TypeScript",
+    "Python"
+  ],
+  "technical_skills": [
+    "GraphQL",
+    "Node.js",
+    "Docker",
+    "Angular",
+    "Vue.js",
+    "Jenkins",
+    "Django",
+    "REST API",
+    "MongoDB",
+    "TypeScript",
+    "Spring Boot",
+    "FastAPI"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Allemand",
+    "Arabe"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "GraphQL",
+      "level": "Expert"
+    },
+    {
+      "technology": "Node.js",
+      "level": "Expert"
+    },
+    {
+      "technology": "Docker",
+      "level": "Expert"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Go",
+      "level": "Expert"
+    },
+    {
+      "language": "TypeScript",
+      "level": "Expert"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Assurance",
+      "E-commerce"
+    ]
+  },
+  "summary": "Professionnel Architecte Solutions avec 12 années d'expérience dans le développement de solutions techniques. Expert en GraphQL, Node.js, Docker. Forte maîtrise de Go, TypeScript avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 4",
+  "field_of_studies": "Cloud Computing",
+  "work_experience": "Chez Oracle Maroc (2014-2015), j'ai travaillé en tant que CTO en utilisant Angular, Docker, Spring Boot, React, GraphQL et TypeScript, JavaScript. Chez Oracle Maroc (2015-2018), j'ai travaillé en tant que Tech Lead en utilisant Git, GraphQL, Angular, Spring Boot, Jenkins et PHP. Chez Deloitte Maroc (2018-2019), j'ai travaillé en tant que Tech Lead en utilisant TypeScript, Angular, Vue.js et PHP. Chez TotalEnergies Maroc (2019-2026), j'ai travaillé en tant que Tech Lead en utilisant Angular, Kubernetes, Node.js, Docker, Redis et JavaScript.",
+  "projects": "Projet 'Dashboard de reporting temps réel' dans le secteur E-commerce en utilisant MongoDB, PostgreSQL, Node.js. Projet 'Système de réservation en ligne' dans le secteur Assurance en utilisant Nginx, GraphQL, Tailwind CSS.",
+  "file_path": "synthetic_cvs/cv_0136_mehdi_bennani.json",
+  "parsing_confidence": 0.81,
+  "experience_timeline": [
+    {
+      "year_start": 2014,
+      "year_end": 2015,
+      "company": "Oracle Maroc",
+      "skills_acquired": [
+        "Angular",
+        "Docker",
+        "Spring Boot",
+        "React",
+        "GraphQL"
+      ],
+      "languages_used": [
+        "TypeScript",
+        "JavaScript"
+      ]
+    },
+    {
+      "year_start": 2015,
+      "year_end": 2018,
+      "company": "Oracle Maroc",
+      "skills_acquired": [
+        "Git",
+        "GraphQL",
+        "Angular",
+        "Spring Boot",
+        "Jenkins"
+      ],
+      "languages_used": [
+        "PHP"
+      ]
+    },
+    {
+      "year_start": 2018,
+      "year_end": 2019,
+      "company": "Deloitte Maroc",
+      "skills_acquired": [
+        "TypeScript",
+        "Angular",
+        "Vue.js"
+      ],
+      "languages_used": [
+        "PHP"
+      ]
+    },
+    {
+      "year_start": 2019,
+      "year_end": 2026,
+      "company": "TotalEnergies Maroc",
+      "skills_acquired": [
+        "Angular",
+        "Kubernetes",
+        "Node.js",
+        "Docker",
+        "Redis"
+      ],
+      "languages_used": [
+        "JavaScript"
+      ]
+    }
+  ],
+  "universite": "HEM",
+  "seniority_level_global": "Expert"
+}

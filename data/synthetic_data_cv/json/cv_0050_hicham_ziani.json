@@ -1,0 +1,104 @@
+{
+  "full_name": "Hicham Ziani",
+  "email": "hicham.ziani@gmail.com",
+  "phone": "+212 694 304 497",
+  "location": "Oujda",
+  "years_of_experience": 5,
+  "linkedin": "linkedin.com/in/hicham-ziani",
+  "github": "github.com/hicham45",
+  "roles_held": [
+    "Architecte Solutions"
+  ],
+  "programming_languages": [
+    "Python",
+    "PHP",
+    "Java"
+  ],
+  "technical_skills": [
+    "GraphQL",
+    "Django",
+    "React",
+    "PostgreSQL",
+    "Vue.js",
+    "Spring Boot",
+    "FastAPI"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Allemand",
+    "Espagnol"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "GraphQL",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "Django",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "React",
+      "level": "Confirmé"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Python",
+      "level": "Confirmé"
+    },
+    {
+      "language": "PHP",
+      "level": "Confirmé"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Banque"
+    ]
+  },
+  "summary": "Ingénieur Confirmé en Architecte Solutions avec 5 ans d'expérience. Spécialisé en GraphQL, Django, React. Maîtrise des langages Python, PHP. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 3",
+  "field_of_studies": "Génie Informatique",
+  "work_experience": "Chez CGI Maroc (2021-2023), j'ai travaillé en tant que Architecte Solutions en utilisant Angular, REST API, PostgreSQL, Vue.js, Jenkins, React et JavaScript, Go. Chez Ernst & Young (2023-2026), j'ai travaillé en tant que Architecte Solutions en utilisant TypeScript, Vue.js, Angular, Kubernetes, Tailwind CSS et Python.",
+  "projects": "Projet 'Plateforme e-commerce full stack' dans le secteur Banque en utilisant REST API, GraphQL, React. Projet 'Système de réservation en ligne' dans le secteur Banque en utilisant React, MongoDB, PostgreSQL.",
+  "file_path": "synthetic_cvs/cv_0050_hicham_ziani.json",
+  "parsing_confidence": 0.76,
+  "experience_timeline": [
+    {
+      "year_start": 2021,
+      "year_end": 2023,
+      "company": "CGI Maroc",
+      "skills_acquired": [
+        "Angular",
+        "REST API",
+        "PostgreSQL",
+        "Vue.js",
+        "Jenkins",
+        "React"
+      ],
+      "languages_used": [
+        "JavaScript",
+        "Go"
+      ]
+    },
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Ernst & Young",
+      "skills_acquired": [
+        "TypeScript",
+        "Vue.js",
+        "Angular",
+        "Kubernetes",
+        "Tailwind CSS"
+      ],
+      "languages_used": [
+        "Python"
+      ]
+    }
+  ],
+  "universite": "ENSET",
+  "seniority_level_global": "Confirmé"
+}

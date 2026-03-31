@@ -1,0 +1,97 @@
+{
+  "full_name": "Hajar Alaoui",
+  "email": "hajar.alaoui@gmail.com",
+  "phone": "+212 691 923 139",
+  "location": "Casablanca",
+  "years_of_experience": 2,
+  "linkedin": "linkedin.com/in/hajar-alaoui",
+  "github": "github.com/hajar70",
+  "roles_held": [
+    "Ingénieur Cybersécurité",
+    "Pentester"
+  ],
+  "programming_languages": [
+    "Julia",
+    "SQL",
+    "Scala",
+    "R"
+  ],
+  "technical_skills": [
+    "AWS SageMaker",
+    "Kubernetes",
+    "TensorFlow",
+    "MLflow",
+    "PyTorch",
+    "Redis",
+    "Elasticsearch",
+    "Deep Learning",
+    "Pandas",
+    "FastAPI",
+    "Machine Learning",
+    "Airflow"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Allemand",
+    "Arabe"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "AWS SageMaker",
+      "level": "Junior"
+    },
+    {
+      "technology": "Kubernetes",
+      "level": "Junior"
+    },
+    {
+      "technology": "TensorFlow",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Julia",
+      "level": "Junior"
+    },
+    {
+      "language": "SQL",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Énergie",
+      "Santé",
+      "Finance"
+    ]
+  },
+  "summary": "Professionnel Ingénieur Cybersécurité avec 2 années d'expérience dans le développement de solutions techniques. Expert en AWS SageMaker, Kubernetes, TensorFlow. Forte maîtrise de Julia, SQL avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 3",
+  "field_of_studies": "Réseaux et Télécommunications",
+  "work_experience": "Chez TotalEnergies Maroc (2024-2026), j'ai travaillé en tant que Pentester en utilisant Kafka, PyTorch, Pandas, Docker, Apache Spark et Julia, Python.",
+  "projects": "Projet 'Chatbot intelligent basé sur NLP' dans le secteur Santé en utilisant PyTorch, Airflow, Kubernetes. Projet 'Dashboard analytique Business Intelligence' dans le secteur Santé en utilisant Tableau, NumPy, TensorFlow. Projet 'Détection de fraude par Machine Learning' dans le secteur Énergie en utilisant Kafka, Elasticsearch, Deep Learning. Projet 'Pipeline de données en temps réel' dans le secteur Santé en utilisant Scikit-learn, MLflow, Airflow.",
+  "file_path": "synthetic_cvs/cv_0167_hajar_alaoui.json",
+  "parsing_confidence": 0.8,
+  "experience_timeline": [
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "TotalEnergies Maroc",
+      "skills_acquired": [
+        "Kafka",
+        "PyTorch",
+        "Pandas",
+        "Docker",
+        "Apache Spark"
+      ],
+      "languages_used": [
+        "Julia",
+        "Python"
+      ]
+    }
+  ],
+  "universite": "ENSA Marrakech",
+  "seniority_level_global": "Junior"
+}

@@ -1,0 +1,91 @@
+{
+  "full_name": "Adil Berrada",
+  "email": "adil.berrada@gmail.com",
+  "phone": "+212 697 123 352",
+  "location": "Rabat",
+  "years_of_experience": 0,
+  "linkedin": "linkedin.com/in/adil-berrada",
+  "github": "github.com/adil23",
+  "roles_held": [
+    "Architecte Solutions"
+  ],
+  "programming_languages": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "technical_skills": [
+    "React",
+    "Spring Boot",
+    "Redis",
+    "Docker",
+    "HTML/CSS",
+    "Vue.js",
+    "PostgreSQL",
+    "REST API",
+    "Nginx",
+    "TypeScript",
+    "MongoDB"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Anglais",
+    "Espagnol"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "React",
+      "level": "Junior"
+    },
+    {
+      "technology": "Spring Boot",
+      "level": "Junior"
+    },
+    {
+      "technology": "Redis",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "JavaScript",
+      "level": "Junior"
+    },
+    {
+      "language": "TypeScript",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Énergie",
+      "E-commerce",
+      "Transport"
+    ]
+  },
+  "summary": "0 ans d'expérience en tant que Architecte Solutions. Compétences avancées en React, Spring Boot, Redis. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Cloud Computing",
+  "work_experience": "Chez Attijariwafa Bank (2026-2026), j'ai travaillé en tant que Architecte Solutions en utilisant Redis, Node.js, FastAPI, HTML/CSS et Java.",
+  "projects": "Projet 'Plateforme e-commerce full stack' dans le secteur Transport en utilisant Redis, FastAPI, Tailwind CSS. Projet 'Dashboard de reporting temps réel' dans le secteur E-commerce en utilisant FastAPI, Redis, Git. Projet 'Portail client bancaire' dans le secteur Transport en utilisant Node.js, MongoDB, Spring Boot.",
+  "file_path": "synthetic_cvs/cv_0018_adil_berrada.json",
+  "parsing_confidence": 0.81,
+  "experience_timeline": [
+    {
+      "year_start": 2026,
+      "year_end": 2026,
+      "company": "Attijariwafa Bank",
+      "skills_acquired": [
+        "Redis",
+        "Node.js",
+        "FastAPI",
+        "HTML/CSS"
+      ],
+      "languages_used": [
+        "Java"
+      ]
+    }
+  ],
+  "universite": "EMI",
+  "seniority_level_global": "Junior"
+}

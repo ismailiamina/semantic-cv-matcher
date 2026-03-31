@@ -1,0 +1,115 @@
+{
+  "full_name": "Tariq Benkirane",
+  "email": "tariq.benkirane@gmail.com",
+  "phone": "+212 648 258 413",
+  "location": "Marrakech",
+  "years_of_experience": 7,
+  "linkedin": "linkedin.com/in/tariq-benkirane",
+  "github": "github.com/tariq50",
+  "roles_held": [
+    "DevOps Engineer"
+  ],
+  "programming_languages": [
+    "YAML",
+    "Go",
+    "Bash",
+    "HCL"
+  ],
+  "technical_skills": [
+    "Prometheus",
+    "Grafana",
+    "GitLab CI/CD",
+    "ELK Stack",
+    "Jenkins",
+    "Docker"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Arabe"
+  ],
+  "certifications": [
+    "PMP"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Prometheus",
+      "level": "Senior"
+    },
+    {
+      "technology": "Grafana",
+      "level": "Senior"
+    },
+    {
+      "technology": "GitLab CI/CD",
+      "level": "Senior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "YAML",
+      "level": "Senior"
+    },
+    {
+      "language": "Go",
+      "level": "Senior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Transport",
+      "Banque"
+    ]
+  },
+  "summary": "7 ans d'expérience en tant que DevOps Engineer. Compétences avancées en Prometheus, Grafana, GitLab CI/CD. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Systèmes Embarqués",
+  "work_experience": "Chez Alten (2019-2020), j'ai travaillé en tant que DevOps Engineer en utilisant ELK Stack, AWS, Prometheus, Docker, GCP et Go. Chez BMCE Bank (2020-2025), j'ai travaillé en tant que DevOps Engineer en utilisant Terraform, Grafana, Jenkins et Bash. Chez Microsoft Maroc (2025-2026), j'ai travaillé en tant que DevOps Engineer en utilisant GitLab CI/CD, ELK Stack, Terraform et Bash.",
+  "projects": "Projet 'Pipeline CI/CD automatisé' dans le secteur Banque en utilisant GitLab CI/CD, Prometheus, Terraform. Projet 'Monitoring et alerting centralisé' dans le secteur Banque en utilisant Terraform, Linux, Bash. Projet 'Cluster Kubernetes haute disponibilité' dans le secteur Transport en utilisant Linux, ELK Stack, ArgoCD. Projet 'Infrastructure as Code avec Terraform' dans le secteur Banque en utilisant Bash, Grafana, ArgoCD.",
+  "file_path": "synthetic_cvs/cv_0014_tariq_benkirane.json",
+  "parsing_confidence": 0.84,
+  "experience_timeline": [
+    {
+      "year_start": 2019,
+      "year_end": 2020,
+      "company": "Alten",
+      "skills_acquired": [
+        "ELK Stack",
+        "AWS",
+        "Prometheus",
+        "Docker",
+        "GCP"
+      ],
+      "languages_used": [
+        "Go"
+      ]
+    },
+    {
+      "year_start": 2020,
+      "year_end": 2025,
+      "company": "BMCE Bank",
+      "skills_acquired": [
+        "Terraform",
+        "Grafana",
+        "Jenkins"
+      ],
+      "languages_used": [
+        "Bash"
+      ]
+    },
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "Microsoft Maroc",
+      "skills_acquired": [
+        "GitLab CI/CD",
+        "ELK Stack",
+        "Terraform"
+      ],
+      "languages_used": [
+        "Bash"
+      ]
+    }
+  ],
+  "universite": "INSEA",
+  "seniority_level_global": "Senior"
+}

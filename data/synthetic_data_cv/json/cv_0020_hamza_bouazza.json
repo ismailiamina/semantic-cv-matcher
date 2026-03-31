@@ -1,0 +1,93 @@
+{
+  "full_name": "Hamza Bouazza",
+  "email": "hamza.bouazza@gmail.com",
+  "phone": "+212 624 765 550",
+  "location": "Oujda",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/hamza-bouazza",
+  "github": "github.com/hamza22",
+  "roles_held": [
+    "Data Engineer",
+    "Data Scientist",
+    "ML Engineer"
+  ],
+  "programming_languages": [
+    "Julia",
+    "Python"
+  ],
+  "technical_skills": [
+    "NumPy",
+    "Power BI",
+    "Tableau",
+    "Apache Spark",
+    "Elasticsearch",
+    "Deep Learning",
+    "Redis",
+    "TensorFlow",
+    "PyTorch",
+    "Airflow"
+  ],
+  "spoken_languages": [
+    "Allemand",
+    "Français",
+    "Arabe"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "NumPy",
+      "level": "Medior"
+    },
+    {
+      "technology": "Power BI",
+      "level": "Medior"
+    },
+    {
+      "technology": "Tableau",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Julia",
+      "level": "Medior"
+    },
+    {
+      "language": "Python",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Immobilier",
+      "Transport"
+    ]
+  },
+  "summary": "3 ans d'expérience en tant que Data Engineer. Compétences avancées en NumPy, Power BI, Tableau. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Cloud Computing",
+  "work_experience": "Chez Ernst & Young (2023-2026), j'ai travaillé en tant que ML Engineer en utilisant Elasticsearch, Pandas, MLflow, TensorFlow et SQL, Julia, Scala.",
+  "projects": "Projet 'Dashboard analytique Business Intelligence' dans le secteur Transport en utilisant Scikit-learn, Redis, PyTorch. Projet 'Chatbot intelligent basé sur NLP' dans le secteur Transport en utilisant Machine Learning, Deep Learning, Redis. Projet 'Modèle de prédiction du churn client' dans le secteur Transport en utilisant AWS SageMaker, Kafka, Airflow.",
+  "file_path": "synthetic_cvs/cv_0020_hamza_bouazza.json",
+  "parsing_confidence": 0.93,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Ernst & Young",
+      "skills_acquired": [
+        "Elasticsearch",
+        "Pandas",
+        "MLflow",
+        "TensorFlow"
+      ],
+      "languages_used": [
+        "SQL",
+        "Julia",
+        "Scala"
+      ]
+    }
+  ],
+  "universite": "INSEA",
+  "seniority_level_global": "Medior"
+}

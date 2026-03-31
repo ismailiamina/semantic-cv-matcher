@@ -1,0 +1,106 @@
+{
+  "full_name": "Fatima El Fassi",
+  "email": "fatima.elfassi@gmail.com",
+  "phone": "+212 649 679 606",
+  "location": "Casablanca",
+  "years_of_experience": 5,
+  "linkedin": "linkedin.com/in/fatima-el-fassi",
+  "github": "github.com/fatima84",
+  "roles_held": [
+    "Architecte Solutions",
+    "Tech Lead"
+  ],
+  "programming_languages": [
+    "Python",
+    "JavaScript",
+    "Java"
+  ],
+  "technical_skills": [
+    "Tailwind CSS",
+    "Kubernetes",
+    "Vue.js",
+    "Angular",
+    "MongoDB",
+    "Node.js",
+    "HTML/CSS",
+    "GraphQL"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Allemand",
+    "Anglais"
+  ],
+  "certifications": [
+    "Azure Administrator"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Tailwind CSS",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "Kubernetes",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "Vue.js",
+      "level": "Confirmé"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Python",
+      "level": "Confirmé"
+    },
+    {
+      "language": "JavaScript",
+      "level": "Confirmé"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Transport",
+      "Énergie",
+      "Santé"
+    ]
+  },
+  "summary": "Ingénieur Confirmé en Architecte Solutions avec 5 ans d'expérience. Spécialisé en Tailwind CSS, Kubernetes, Vue.js. Maîtrise des langages Python, JavaScript. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Intelligence Artificielle",
+  "work_experience": "Chez Inwi (2021-2025), j'ai travaillé en tant que Tech Lead en utilisant FastAPI, GraphQL, Node.js, PostgreSQL et Python. Chez TotalEnergies Maroc (2025-2026), j'ai travaillé en tant que Architecte Solutions en utilisant Git, Angular, React et Python, PHP.",
+  "projects": "Projet 'Système de réservation en ligne' dans le secteur Énergie en utilisant Tailwind CSS, Git, FastAPI. Projet 'Plateforme e-commerce full stack' dans le secteur Santé en utilisant MongoDB, FastAPI, Nginx. Projet 'API REST microservices' dans le secteur Transport en utilisant TypeScript, Docker, GraphQL.",
+  "file_path": "synthetic_cvs/cv_0092_fatima_el_fassi.json",
+  "parsing_confidence": 0.75,
+  "experience_timeline": [
+    {
+      "year_start": 2021,
+      "year_end": 2025,
+      "company": "Inwi",
+      "skills_acquired": [
+        "FastAPI",
+        "GraphQL",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "languages_used": [
+        "Python"
+      ]
+    },
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "TotalEnergies Maroc",
+      "skills_acquired": [
+        "Git",
+        "Angular",
+        "React"
+      ],
+      "languages_used": [
+        "Python",
+        "PHP"
+      ]
+    }
+  ],
+  "universite": "ENSIAS",
+  "seniority_level_global": "Confirmé"
+}

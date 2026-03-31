@@ -1,0 +1,92 @@
+{
+  "full_name": "Sanae Rahimi",
+  "email": "sanae.rahimi@gmail.com",
+  "phone": "+212 672 408 577",
+  "location": "Tanger",
+  "years_of_experience": 2,
+  "linkedin": "linkedin.com/in/sanae-rahimi",
+  "github": "github.com/sanae70",
+  "roles_held": [
+    "Architecte Solutions"
+  ],
+  "programming_languages": [
+    "TypeScript",
+    "PHP"
+  ],
+  "technical_skills": [
+    "Vue.js",
+    "TypeScript",
+    "Docker",
+    "Spring Boot",
+    "Tailwind CSS",
+    "Jenkins",
+    "MongoDB"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Allemand",
+    "Anglais"
+  ],
+  "certifications": [
+    "Terraform Associate"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Vue.js",
+      "level": "Junior"
+    },
+    {
+      "technology": "TypeScript",
+      "level": "Junior"
+    },
+    {
+      "technology": "Docker",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "TypeScript",
+      "level": "Junior"
+    },
+    {
+      "language": "PHP",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Assurance",
+      "Immobilier"
+    ]
+  },
+  "summary": "2 ans d'expérience en tant que Architecte Solutions. Compétences avancées en Vue.js, TypeScript, Docker. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Réseaux et Télécommunications",
+  "work_experience": "Chez Oracle Maroc (2024-2026), j'ai travaillé en tant que Architecte Solutions en utilisant HTML/CSS, REST API, Angular, Kubernetes, FastAPI, Node.js et JavaScript, Java, Python.",
+  "projects": "Projet 'Système de réservation en ligne' dans le secteur Immobilier en utilisant Kubernetes, REST API, Git. Projet 'API REST microservices' dans le secteur Immobilier en utilisant GraphQL, Tailwind CSS, Vue.js.",
+  "file_path": "synthetic_cvs/cv_0147_sanae_rahimi.json",
+  "parsing_confidence": 0.91,
+  "experience_timeline": [
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "Oracle Maroc",
+      "skills_acquired": [
+        "HTML/CSS",
+        "REST API",
+        "Angular",
+        "Kubernetes",
+        "FastAPI",
+        "Node.js"
+      ],
+      "languages_used": [
+        "JavaScript",
+        "Java",
+        "Python"
+      ]
+    }
+  ],
+  "universite": "ENSAM Meknès",
+  "seniority_level_global": "Junior"
+}

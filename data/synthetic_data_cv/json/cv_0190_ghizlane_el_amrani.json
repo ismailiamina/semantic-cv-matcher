@@ -1,0 +1,92 @@
+{
+  "full_name": "Ghizlane El Amrani",
+  "email": "ghizlane.elamrani@gmail.com",
+  "phone": "+212 644 853 316",
+  "location": "Kenitra",
+  "years_of_experience": 2,
+  "linkedin": "linkedin.com/in/ghizlane-el-amrani",
+  "github": "github.com/ghizlane84",
+  "roles_held": [
+    "Ingénieur QA",
+    "Test Automation Engineer"
+  ],
+  "programming_languages": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "technical_skills": [
+    "Docker",
+    "Spring Boot",
+    "Redis",
+    "Tailwind CSS",
+    "TypeScript",
+    "Django",
+    "HTML/CSS",
+    "Jenkins"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Anglais",
+    "Français"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Docker",
+      "level": "Junior"
+    },
+    {
+      "technology": "Spring Boot",
+      "level": "Junior"
+    },
+    {
+      "technology": "Redis",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "JavaScript",
+      "level": "Junior"
+    },
+    {
+      "language": "TypeScript",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Banque",
+      "Logistique",
+      "E-commerce"
+    ]
+  },
+  "summary": "Ingénieur Junior en Ingénieur QA avec 2 ans d'expérience. Spécialisé en Docker, Spring Boot, Redis. Maîtrise des langages JavaScript, TypeScript. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Systèmes Embarqués",
+  "work_experience": "Chez Maroc Telecom (2024-2026), j'ai travaillé en tant que Ingénieur QA en utilisant REST API, Git, MongoDB, Tailwind CSS, Angular et PHP, Java, TypeScript.",
+  "projects": "Projet 'Dashboard de reporting temps réel' dans le secteur Logistique en utilisant Nginx, MongoDB, Django. Projet 'Plateforme e-commerce full stack' dans le secteur Logistique en utilisant TypeScript, Django, PostgreSQL.",
+  "file_path": "synthetic_cvs/cv_0190_ghizlane_el_amrani.json",
+  "parsing_confidence": 0.89,
+  "experience_timeline": [
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "Maroc Telecom",
+      "skills_acquired": [
+        "REST API",
+        "Git",
+        "MongoDB",
+        "Tailwind CSS",
+        "Angular"
+      ],
+      "languages_used": [
+        "PHP",
+        "Java",
+        "TypeScript"
+      ]
+    }
+  ],
+  "universite": "HEM",
+  "seniority_level_global": "Junior"
+}

@@ -1,0 +1,108 @@
+{
+  "full_name": "Amina El Fassi",
+  "email": "amina.elfassi@gmail.com",
+  "phone": "+212 621 787 479",
+  "location": "Kenitra",
+  "years_of_experience": 4,
+  "linkedin": "linkedin.com/in/amina-el-fassi",
+  "github": "github.com/amina66",
+  "roles_held": [
+    "Ingénieur Cybersécurité",
+    "Pentester"
+  ],
+  "programming_languages": [
+    "R",
+    "Julia"
+  ],
+  "technical_skills": [
+    "MLflow",
+    "Elasticsearch",
+    "Pandas",
+    "Tableau",
+    "Apache Spark",
+    "NumPy",
+    "Kafka",
+    "Airflow",
+    "FastAPI",
+    "Redis",
+    "Machine Learning"
+  ],
+  "spoken_languages": [
+    "Allemand",
+    "Anglais"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "MLflow",
+      "level": "Medior"
+    },
+    {
+      "technology": "Elasticsearch",
+      "level": "Medior"
+    },
+    {
+      "technology": "Pandas",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "R",
+      "level": "Medior"
+    },
+    {
+      "language": "Julia",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Assurance"
+    ]
+  },
+  "summary": "Professionnel Ingénieur Cybersécurité avec 4 années d'expérience dans le développement de solutions techniques. Expert en MLflow, Elasticsearch, Pandas. Forte maîtrise de R, Julia avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 4",
+  "field_of_studies": "Réseaux et Télécommunications",
+  "work_experience": "Chez Atos Maroc (2022-2024), j'ai travaillé en tant que Pentester en utilisant AWS SageMaker, Deep Learning, Airflow, NumPy, Scikit-learn et Python, Julia, Scala. Chez Leyton (2024-2026), j'ai travaillé en tant que Ingénieur Cybersécurité en utilisant AWS SageMaker, Machine Learning, Pandas, NumPy, Deep Learning et Julia, Scala.",
+  "projects": "Projet 'Système de recommandation produits' dans le secteur Assurance en utilisant Deep Learning, Kubernetes, Airflow. Projet 'Dashboard analytique Business Intelligence' dans le secteur Assurance en utilisant TensorFlow, FastAPI, Kafka. Projet 'Chatbot intelligent basé sur NLP' dans le secteur Assurance en utilisant MLflow, Kafka, PyTorch. Projet 'Détection de fraude par Machine Learning' dans le secteur Assurance en utilisant Tableau, Apache Spark, Kubernetes.",
+  "file_path": "synthetic_cvs/cv_0105_amina_el_fassi.json",
+  "parsing_confidence": 0.97,
+  "experience_timeline": [
+    {
+      "year_start": 2022,
+      "year_end": 2024,
+      "company": "Atos Maroc",
+      "skills_acquired": [
+        "AWS SageMaker",
+        "Deep Learning",
+        "Airflow",
+        "NumPy",
+        "Scikit-learn"
+      ],
+      "languages_used": [
+        "Python",
+        "Julia",
+        "Scala"
+      ]
+    },
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "Leyton",
+      "skills_acquired": [
+        "AWS SageMaker",
+        "Machine Learning",
+        "Pandas",
+        "NumPy",
+        "Deep Learning"
+      ],
+      "languages_used": [
+        "Julia",
+        "Scala"
+      ]
+    }
+  ],
+  "universite": "ENSIAS",
+  "seniority_level_global": "Medior"
+}

@@ -1,0 +1,92 @@
+{
+  "full_name": "Rachid Ouazzani",
+  "email": "rachid.ouazzani@gmail.com",
+  "phone": "+212 645 441 276",
+  "location": "Casablanca",
+  "years_of_experience": 0,
+  "linkedin": "linkedin.com/in/rachid-ouazzani",
+  "github": "github.com/rachid93",
+  "roles_held": [
+    "Développeur Mobile"
+  ],
+  "programming_languages": [
+    "Kotlin",
+    "Dart",
+    "Swift",
+    "JavaScript"
+  ],
+  "technical_skills": [
+    "GraphQL",
+    "TestFlight",
+    "Flutter",
+    "Jetpack Compose",
+    "SQLite",
+    "Xcode",
+    "Android Studio",
+    "REST API",
+    "Fastlane"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Espagnol"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "GraphQL",
+      "level": "Junior"
+    },
+    {
+      "technology": "TestFlight",
+      "level": "Junior"
+    },
+    {
+      "technology": "Flutter",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Kotlin",
+      "level": "Junior"
+    },
+    {
+      "language": "Dart",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Banque",
+      "Éducation",
+      "Énergie"
+    ]
+  },
+  "summary": "Ingénieur Junior en Développeur Mobile avec 0 ans d'expérience. Spécialisé en GraphQL, TestFlight, Flutter. Maîtrise des langages Kotlin, Dart. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Science des Données",
+  "work_experience": "Chez Maroc Telecom (2026-2026), j'ai travaillé en tant que Développeur Mobile en utilisant Firebase, Flutter, Fastlane, Android Studio, SwiftUI et JavaScript, Swift.",
+  "projects": "Projet 'Application mobile bancaire' dans le secteur Banque en utilisant React Native, SQLite, Jetpack Compose. Projet 'Application de livraison en temps réel' dans le secteur Énergie en utilisant React Native, SwiftUI, Android Studio. Projet 'Application santé et fitness' dans le secteur Éducation en utilisant TestFlight, React Native, GraphQL.",
+  "file_path": "synthetic_cvs/cv_0053_rachid_ouazzani.json",
+  "parsing_confidence": 0.89,
+  "experience_timeline": [
+    {
+      "year_start": 2026,
+      "year_end": 2026,
+      "company": "Maroc Telecom",
+      "skills_acquired": [
+        "Firebase",
+        "Flutter",
+        "Fastlane",
+        "Android Studio",
+        "SwiftUI"
+      ],
+      "languages_used": [
+        "JavaScript",
+        "Swift"
+      ]
+    }
+  ],
+  "universite": "EMSI",
+  "seniority_level_global": "Junior"
+}

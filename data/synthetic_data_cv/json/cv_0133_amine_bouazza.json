@@ -1,0 +1,103 @@
+{
+  "full_name": "Amine Bouazza",
+  "email": "amine.bouazza@gmail.com",
+  "phone": "+212 685 740 184",
+  "location": "Casablanca",
+  "years_of_experience": 4,
+  "linkedin": "linkedin.com/in/amine-bouazza",
+  "github": "github.com/amine29",
+  "roles_held": [
+    "Ingénieur Cybersécurité",
+    "Pentester"
+  ],
+  "programming_languages": [
+    "Scala",
+    "Python"
+  ],
+  "technical_skills": [
+    "Machine Learning",
+    "Scikit-learn",
+    "Kafka",
+    "FastAPI",
+    "NumPy",
+    "Power BI",
+    "TensorFlow",
+    "Tableau",
+    "Kubernetes"
+  ],
+  "spoken_languages": [
+    "Allemand",
+    "Arabe"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Machine Learning",
+      "level": "Medior"
+    },
+    {
+      "technology": "Scikit-learn",
+      "level": "Medior"
+    },
+    {
+      "technology": "Kafka",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Scala",
+      "level": "Medior"
+    },
+    {
+      "language": "Python",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Manufacturing",
+      "Santé",
+      "Énergie"
+    ]
+  },
+  "summary": "4 ans d'expérience en tant que Ingénieur Cybersécurité. Compétences avancées en Machine Learning, Scikit-learn, Kafka. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 4",
+  "field_of_studies": "Réseaux et Télécommunications",
+  "work_experience": "Chez Ernst & Young (2022-2023), j'ai travaillé en tant que Pentester en utilisant Apache Spark, Deep Learning, PyTorch et Python. Chez Microsoft Maroc (2023-2026), j'ai travaillé en tant que Ingénieur Cybersécurité en utilisant Airflow, Elasticsearch, MLflow, AWS SageMaker et Python, Julia.",
+  "projects": "Projet 'Modèle de prédiction du churn client' dans le secteur Santé en utilisant FastAPI, Scikit-learn, Elasticsearch. Projet 'Dashboard analytique Business Intelligence' dans le secteur Santé en utilisant Deep Learning, Machine Learning, Docker.",
+  "file_path": "synthetic_cvs/cv_0133_amine_bouazza.json",
+  "parsing_confidence": 0.93,
+  "experience_timeline": [
+    {
+      "year_start": 2022,
+      "year_end": 2023,
+      "company": "Ernst & Young",
+      "skills_acquired": [
+        "Apache Spark",
+        "Deep Learning",
+        "PyTorch"
+      ],
+      "languages_used": [
+        "Python"
+      ]
+    },
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Microsoft Maroc",
+      "skills_acquired": [
+        "Airflow",
+        "Elasticsearch",
+        "MLflow",
+        "AWS SageMaker"
+      ],
+      "languages_used": [
+        "Python",
+        "Julia"
+      ]
+    }
+  ],
+  "universite": "INSEA",
+  "seniority_level_global": "Medior"
+}

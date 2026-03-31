@@ -1,0 +1,99 @@
+{
+  "full_name": "Mourad Tazi",
+  "email": "mourad.tazi@gmail.com",
+  "phone": "+212 681 696 952",
+  "location": "Tanger",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/mourad-tazi",
+  "github": "github.com/mourad88",
+  "roles_held": [
+    "DevOps Engineer",
+    "SRE Engineer"
+  ],
+  "programming_languages": [
+    "HCL",
+    "YAML",
+    "Bash"
+  ],
+  "technical_skills": [
+    "GitLab CI/CD",
+    "Terraform",
+    "GCP",
+    "ArgoCD",
+    "AWS",
+    "Bash",
+    "Ansible",
+    "Jenkins",
+    "Kubernetes",
+    "Linux",
+    "Docker",
+    "Helm"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Allemand",
+    "Français"
+  ],
+  "certifications": [
+    "PMP",
+    "Terraform Associate"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "GitLab CI/CD",
+      "level": "Medior"
+    },
+    {
+      "technology": "Terraform",
+      "level": "Medior"
+    },
+    {
+      "technology": "GCP",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "HCL",
+      "level": "Medior"
+    },
+    {
+      "language": "YAML",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Éducation"
+    ]
+  },
+  "summary": "Professionnel DevOps Engineer avec 3 années d'expérience dans le développement de solutions techniques. Expert en GitLab CI/CD, Terraform, GCP. Forte maîtrise de HCL, YAML avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Science des Données",
+  "work_experience": "Chez Inwi (2023-2026), j'ai travaillé en tant que SRE Engineer en utilisant Docker, Terraform, Kubernetes, GitLab CI/CD, ELK Stack, Grafana et Go, HCL, Python.",
+  "projects": "Projet 'Cluster Kubernetes haute disponibilité' dans le secteur Éducation en utilisant Jenkins, GCP, Terraform. Projet 'Pipeline CI/CD automatisé' dans le secteur Éducation en utilisant Ansible, ELK Stack, GCP. Projet 'Monitoring et alerting centralisé' dans le secteur Éducation en utilisant Ansible, AWS, Azure.",
+  "file_path": "synthetic_cvs/cv_0091_mourad_tazi.json",
+  "parsing_confidence": 0.91,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Inwi",
+      "skills_acquired": [
+        "Docker",
+        "Terraform",
+        "Kubernetes",
+        "GitLab CI/CD",
+        "ELK Stack",
+        "Grafana"
+      ],
+      "languages_used": [
+        "Go",
+        "HCL",
+        "Python"
+      ]
+    }
+  ],
+  "universite": "EMSI",
+  "seniority_level_global": "Medior"
+}

@@ -1,0 +1,104 @@
+{
+  "full_name": "Mehdi Kettani",
+  "email": "mehdi.kettani@gmail.com",
+  "phone": "+212 647 692 219",
+  "location": "Marrakech",
+  "years_of_experience": 4,
+  "linkedin": "linkedin.com/in/mehdi-kettani",
+  "github": "github.com/mehdi90",
+  "roles_held": [
+    "Développeur Mobile"
+  ],
+  "programming_languages": [
+    "Dart",
+    "Swift"
+  ],
+  "technical_skills": [
+    "TestFlight",
+    "Xcode",
+    "React Native",
+    "Flutter",
+    "Android Studio",
+    "Firebase",
+    "Redux"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Français"
+  ],
+  "certifications": [
+    "Scrum Master PSM I"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "TestFlight",
+      "level": "Medior"
+    },
+    {
+      "technology": "Xcode",
+      "level": "Medior"
+    },
+    {
+      "technology": "React Native",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Dart",
+      "level": "Medior"
+    },
+    {
+      "language": "Swift",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Assurance",
+      "Santé"
+    ]
+  },
+  "summary": "Ingénieur Medior en Développeur Mobile avec 4 ans d'expérience. Spécialisé en TestFlight, Xcode, React Native. Maîtrise des langages Dart, Swift. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 3",
+  "field_of_studies": "Science des Données",
+  "work_experience": "Chez Ernst & Young (2022-2025), j'ai travaillé en tant que Développeur Mobile en utilisant Android Studio, Redux, GraphQL, Firebase et Kotlin, Dart, JavaScript. Chez Sopra Steria (2025-2026), j'ai travaillé en tant que Développeur Mobile en utilisant SwiftUI, Redux, Firebase, SQLite, GraphQL et Kotlin.",
+  "projects": "Projet 'Application e-commerce mobile' dans le secteur Assurance en utilisant REST API, Xcode, Jetpack Compose. Projet 'Application santé et fitness' dans le secteur Assurance en utilisant Flutter, Xcode, SQLite. Projet 'Application mobile bancaire' dans le secteur Santé en utilisant Xcode, Flutter, Redux. Projet 'Application de livraison en temps réel' dans le secteur Assurance en utilisant React Native, SwiftUI, TestFlight.",
+  "file_path": "synthetic_cvs/cv_0138_mehdi_kettani.json",
+  "parsing_confidence": 0.8,
+  "experience_timeline": [
+    {
+      "year_start": 2022,
+      "year_end": 2025,
+      "company": "Ernst & Young",
+      "skills_acquired": [
+        "Android Studio",
+        "Redux",
+        "GraphQL",
+        "Firebase"
+      ],
+      "languages_used": [
+        "Kotlin",
+        "Dart",
+        "JavaScript"
+      ]
+    },
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "Sopra Steria",
+      "skills_acquired": [
+        "SwiftUI",
+        "Redux",
+        "Firebase",
+        "SQLite",
+        "GraphQL"
+      ],
+      "languages_used": [
+        "Kotlin"
+      ]
+    }
+  ],
+  "universite": "EMI",
+  "seniority_level_global": "Medior"
+}

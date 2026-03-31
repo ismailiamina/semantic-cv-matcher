@@ -1,0 +1,89 @@
+{
+  "full_name": "Hajar Ouazzani",
+  "email": "hajar.ouazzani@gmail.com",
+  "phone": "+212 632 712 797",
+  "location": "Rabat",
+  "years_of_experience": 0,
+  "linkedin": "linkedin.com/in/hajar-ouazzani",
+  "github": "github.com/hajar17",
+  "roles_held": [
+    "Développeur Backend"
+  ],
+  "programming_languages": [
+    "Java",
+    "TypeScript"
+  ],
+  "technical_skills": [
+    "Jenkins",
+    "Kubernetes",
+    "Spring Boot",
+    "Nginx",
+    "FastAPI",
+    "Django",
+    "Angular",
+    "GraphQL",
+    "React",
+    "HTML/CSS"
+  ],
+  "spoken_languages": [
+    "Français",
+    "Allemand"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Jenkins",
+      "level": "Junior"
+    },
+    {
+      "technology": "Kubernetes",
+      "level": "Junior"
+    },
+    {
+      "technology": "Spring Boot",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Java",
+      "level": "Junior"
+    },
+    {
+      "language": "TypeScript",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Banque",
+      "Assurance"
+    ]
+  },
+  "summary": "0 ans d'expérience en tant que Développeur Backend. Compétences avancées en Jenkins, Kubernetes, Spring Boot. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 4",
+  "field_of_studies": "Intelligence Artificielle",
+  "work_experience": "Chez CIH Bank (2026-2026), j'ai travaillé en tant que Développeur Backend en utilisant Tailwind CSS, Kubernetes, PostgreSQL, TypeScript, Node.js et Java.",
+  "projects": "Projet 'Plateforme e-commerce full stack' dans le secteur Banque en utilisant Jenkins, Kubernetes, Django. Projet 'Système de réservation en ligne' dans le secteur Assurance en utilisant FastAPI, Node.js, PostgreSQL. Projet 'Application de gestion RH' dans le secteur Assurance en utilisant HTML/CSS, Vue.js, REST API.",
+  "file_path": "synthetic_cvs/cv_0045_hajar_ouazzani.json",
+  "parsing_confidence": 0.91,
+  "experience_timeline": [
+    {
+      "year_start": 2026,
+      "year_end": 2026,
+      "company": "CIH Bank",
+      "skills_acquired": [
+        "Tailwind CSS",
+        "Kubernetes",
+        "PostgreSQL",
+        "TypeScript",
+        "Node.js"
+      ],
+      "languages_used": [
+        "Java"
+      ]
+    }
+  ],
+  "universite": "ENSA Marrakech",
+  "seniority_level_global": "Junior"
+}

@@ -1,0 +1,92 @@
+{
+  "full_name": "Houda Bencheikh",
+  "email": "houda.bencheikh@gmail.com",
+  "phone": "+212 652 943 236",
+  "location": "Tétouan",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/houda-bencheikh",
+  "github": "github.com/houda58",
+  "roles_held": [
+    "Développeur Backend",
+    "Ingénieur API"
+  ],
+  "programming_languages": [
+    "TypeScript",
+    "Java",
+    "Go",
+    "Python"
+  ],
+  "technical_skills": [
+    "Node.js",
+    "REST API",
+    "Kubernetes",
+    "Django",
+    "React",
+    "Git",
+    "PostgreSQL",
+    "Redis",
+    "MongoDB"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Allemand"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Node.js",
+      "level": "Medior"
+    },
+    {
+      "technology": "REST API",
+      "level": "Medior"
+    },
+    {
+      "technology": "Kubernetes",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "TypeScript",
+      "level": "Medior"
+    },
+    {
+      "language": "Java",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "E-commerce",
+      "Finance"
+    ]
+  },
+  "summary": "Professionnel Développeur Backend avec 3 années d'expérience dans le développement de solutions techniques. Expert en Node.js, REST API, Kubernetes. Forte maîtrise de TypeScript, Java avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Science des Données",
+  "work_experience": "Chez Sopra Steria (2023-2026), j'ai travaillé en tant que Développeur Backend en utilisant PostgreSQL, MongoDB, Kubernetes, Node.js et Go, JavaScript, Java.",
+  "projects": "Projet 'Application de gestion RH' dans le secteur E-commerce en utilisant Git, GraphQL, Spring Boot. Projet 'Système de réservation en ligne' dans le secteur E-commerce en utilisant MongoDB, Django, Tailwind CSS. Projet 'Dashboard de reporting temps réel' dans le secteur Finance en utilisant GraphQL, PostgreSQL, Angular. Projet 'API REST microservices' dans le secteur E-commerce en utilisant Docker, FastAPI, REST API.",
+  "file_path": "synthetic_cvs/cv_0041_houda_bencheikh.json",
+  "parsing_confidence": 0.79,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Sopra Steria",
+      "skills_acquired": [
+        "PostgreSQL",
+        "MongoDB",
+        "Kubernetes",
+        "Node.js"
+      ],
+      "languages_used": [
+        "Go",
+        "JavaScript",
+        "Java"
+      ]
+    }
+  ],
+  "universite": "ENSIAS",
+  "seniority_level_global": "Medior"
+}

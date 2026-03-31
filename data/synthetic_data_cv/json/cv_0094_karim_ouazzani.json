@@ -1,0 +1,90 @@
+{
+  "full_name": "Karim Ouazzani",
+  "email": "karim.ouazzani@gmail.com",
+  "phone": "+212 665 988 640",
+  "location": "Casablanca",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/karim-ouazzani",
+  "github": "github.com/karim70",
+  "roles_held": [
+    "DevOps Engineer",
+    "SRE Engineer"
+  ],
+  "programming_languages": [
+    "HCL",
+    "Bash",
+    "Python"
+  ],
+  "technical_skills": [
+    "Docker",
+    "GCP",
+    "Ansible",
+    "Helm",
+    "ArgoCD",
+    "AWS",
+    "Kubernetes",
+    "Jenkins",
+    "GitLab CI/CD"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Français"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Docker",
+      "level": "Medior"
+    },
+    {
+      "technology": "GCP",
+      "level": "Medior"
+    },
+    {
+      "technology": "Ansible",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "HCL",
+      "level": "Medior"
+    },
+    {
+      "language": "Bash",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Transport",
+      "E-commerce"
+    ]
+  },
+  "summary": "3 ans d'expérience en tant que DevOps Engineer. Compétences avancées en Docker, GCP, Ansible. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Intelligence Artificielle",
+  "work_experience": "Chez Leyton (2023-2026), j'ai travaillé en tant que SRE Engineer en utilisant Grafana, Linux, Ansible, Azure, AWS et Bash.",
+  "projects": "Projet 'Monitoring et alerting centralisé' dans le secteur Transport en utilisant Terraform, ArgoCD, Azure. Projet 'Cluster Kubernetes haute disponibilité' dans le secteur E-commerce en utilisant Grafana, Ansible, Kubernetes. Projet 'Pipeline CI/CD automatisé' dans le secteur E-commerce en utilisant GCP, Linux, Grafana. Projet 'Migration infrastructure vers le Cloud' dans le secteur E-commerce en utilisant ELK Stack, Kubernetes, GCP.",
+  "file_path": "synthetic_cvs/cv_0094_karim_ouazzani.json",
+  "parsing_confidence": 0.97,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Leyton",
+      "skills_acquired": [
+        "Grafana",
+        "Linux",
+        "Ansible",
+        "Azure",
+        "AWS"
+      ],
+      "languages_used": [
+        "Bash"
+      ]
+    }
+  ],
+  "universite": "HEM",
+  "seniority_level_global": "Medior"
+}

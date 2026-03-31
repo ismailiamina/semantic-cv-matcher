@@ -1,0 +1,104 @@
+{
+  "full_name": "Ilias Rahimi",
+  "email": "ilias.rahimi@gmail.com",
+  "phone": "+212 656 364 972",
+  "location": "Tétouan",
+  "years_of_experience": 4,
+  "linkedin": "linkedin.com/in/ilias-rahimi",
+  "github": "github.com/ilias69",
+  "roles_held": [
+    "Ingénieur Cybersécurité"
+  ],
+  "programming_languages": [
+    "Python",
+    "R",
+    "Scala",
+    "Julia"
+  ],
+  "technical_skills": [
+    "PyTorch",
+    "Kafka",
+    "Pandas",
+    "Redis",
+    "Kubernetes",
+    "MLflow",
+    "Airflow"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Espagnol",
+    "Français"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "PyTorch",
+      "level": "Medior"
+    },
+    {
+      "technology": "Kafka",
+      "level": "Medior"
+    },
+    {
+      "technology": "Pandas",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Python",
+      "level": "Medior"
+    },
+    {
+      "language": "R",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Manufacturing",
+      "Assurance"
+    ]
+  },
+  "summary": "Professionnel Ingénieur Cybersécurité avec 4 années d'expérience dans le développement de solutions techniques. Expert en PyTorch, Kafka, Pandas. Forte maîtrise de Python, R avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Génie Logiciel",
+  "work_experience": "Chez Capgemini Maroc (2022-2024), j'ai travaillé en tant que Ingénieur Cybersécurité en utilisant Docker, Kubernetes, NumPy et Julia, SQL. Chez CIH Bank (2024-2026), j'ai travaillé en tant que Ingénieur Cybersécurité en utilisant Apache Spark, Tableau, Docker, NumPy et Julia, SQL, R.",
+  "projects": "Projet 'Dashboard analytique Business Intelligence' dans le secteur Assurance en utilisant Scikit-learn, Tableau, Pandas. Projet 'Système de recommandation produits' dans le secteur Assurance en utilisant MLflow, Docker, Deep Learning. Projet 'Pipeline de données en temps réel' dans le secteur Manufacturing en utilisant AWS SageMaker, Deep Learning, TensorFlow.",
+  "file_path": "synthetic_cvs/cv_0174_ilias_rahimi.json",
+  "parsing_confidence": 0.88,
+  "experience_timeline": [
+    {
+      "year_start": 2022,
+      "year_end": 2024,
+      "company": "Capgemini Maroc",
+      "skills_acquired": [
+        "Docker",
+        "Kubernetes",
+        "NumPy"
+      ],
+      "languages_used": [
+        "Julia",
+        "SQL"
+      ]
+    },
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "CIH Bank",
+      "skills_acquired": [
+        "Apache Spark",
+        "Tableau",
+        "Docker",
+        "NumPy"
+      ],
+      "languages_used": [
+        "Julia",
+        "SQL",
+        "R"
+      ]
+    }
+  ],
+  "universite": "HEM",
+  "seniority_level_global": "Medior"
+}

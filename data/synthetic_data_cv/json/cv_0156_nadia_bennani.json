@@ -1,0 +1,86 @@
+{
+  "full_name": "Nadia Bennani",
+  "email": "nadia.bennani@gmail.com",
+  "phone": "+212 676 143 620",
+  "location": "Tétouan",
+  "years_of_experience": 1,
+  "linkedin": "linkedin.com/in/nadia-bennani",
+  "github": "github.com/nadia87",
+  "roles_held": [
+    "Data Analyst"
+  ],
+  "programming_languages": [
+    "Scala",
+    "R"
+  ],
+  "technical_skills": [
+    "Airflow",
+    "AWS SageMaker",
+    "TensorFlow",
+    "Machine Learning",
+    "PyTorch",
+    "Pandas",
+    "NumPy"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Arabe"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Airflow",
+      "level": "Junior"
+    },
+    {
+      "technology": "AWS SageMaker",
+      "level": "Junior"
+    },
+    {
+      "technology": "TensorFlow",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Scala",
+      "level": "Junior"
+    },
+    {
+      "language": "R",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Retail",
+      "Éducation",
+      "Assurance"
+    ]
+  },
+  "summary": "Ingénieur Junior en Data Analyst avec 1 ans d'expérience. Spécialisé en Airflow, AWS SageMaker, TensorFlow. Maîtrise des langages Scala, R. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 4",
+  "field_of_studies": "Génie Logiciel",
+  "work_experience": "Chez BNP Paribas Maroc (2025-2026), j'ai travaillé en tant que Data Analyst en utilisant Redis, Airflow, Kafka et Python, Julia.",
+  "projects": "Projet 'Chatbot intelligent basé sur NLP' dans le secteur Assurance en utilisant Scikit-learn, Redis, PyTorch. Projet 'Système de recommandation produits' dans le secteur Assurance en utilisant Docker, Redis, TensorFlow.",
+  "file_path": "synthetic_cvs/cv_0156_nadia_bennani.json",
+  "parsing_confidence": 0.79,
+  "experience_timeline": [
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "BNP Paribas Maroc",
+      "skills_acquired": [
+        "Redis",
+        "Airflow",
+        "Kafka"
+      ],
+      "languages_used": [
+        "Python",
+        "Julia"
+      ]
+    }
+  ],
+  "universite": "ENSEM",
+  "seniority_level_global": "Junior"
+}

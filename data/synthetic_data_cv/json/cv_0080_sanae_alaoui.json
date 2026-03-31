@@ -1,0 +1,87 @@
+{
+  "full_name": "Sanae Alaoui",
+  "email": "sanae.alaoui@gmail.com",
+  "phone": "+212 632 125 485",
+  "location": "Fès",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/sanae-alaoui",
+  "github": "github.com/sanae57",
+  "roles_held": [
+    "Architecte Solutions"
+  ],
+  "programming_languages": [
+    "PHP",
+    "Go"
+  ],
+  "technical_skills": [
+    "MongoDB",
+    "Nginx",
+    "Git",
+    "Jenkins",
+    "Node.js",
+    "Angular",
+    "Docker",
+    "Kubernetes"
+  ],
+  "spoken_languages": [
+    "Allemand",
+    "Arabe",
+    "Anglais"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "MongoDB",
+      "level": "Medior"
+    },
+    {
+      "technology": "Nginx",
+      "level": "Medior"
+    },
+    {
+      "technology": "Git",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "PHP",
+      "level": "Medior"
+    },
+    {
+      "language": "Go",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Banque",
+      "Transport"
+    ]
+  },
+  "summary": "3 ans d'expérience en tant que Architecte Solutions. Compétences avancées en MongoDB, Nginx, Git. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 3",
+  "field_of_studies": "Science des Données",
+  "work_experience": "Chez BNP Paribas Maroc (2023-2026), j'ai travaillé en tant que Architecte Solutions en utilisant Tailwind CSS, Docker, Spring Boot, FastAPI et JavaScript.",
+  "projects": "Projet 'API REST microservices' dans le secteur Transport en utilisant Kubernetes, MongoDB, Django. Projet 'Application de gestion RH' dans le secteur Banque en utilisant PostgreSQL, Git, Vue.js. Projet 'Plateforme e-commerce full stack' dans le secteur Transport en utilisant React, Git, TypeScript.",
+  "file_path": "synthetic_cvs/cv_0080_sanae_alaoui.json",
+  "parsing_confidence": 0.95,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "BNP Paribas Maroc",
+      "skills_acquired": [
+        "Tailwind CSS",
+        "Docker",
+        "Spring Boot",
+        "FastAPI"
+      ],
+      "languages_used": [
+        "JavaScript"
+      ]
+    }
+  ],
+  "universite": "ENSA Rabat",
+  "seniority_level_global": "Medior"
+}

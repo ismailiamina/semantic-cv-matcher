@@ -1,0 +1,90 @@
+{
+  "full_name": "Ilias El Fassi",
+  "email": "ilias.elfassi@gmail.com",
+  "phone": "+212 639 692 512",
+  "location": "Agadir",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/ilias-el-fassi",
+  "github": "github.com/ilias72",
+  "roles_held": [
+    "Architecte Solutions"
+  ],
+  "programming_languages": [
+    "Go",
+    "PHP",
+    "TypeScript"
+  ],
+  "technical_skills": [
+    "Tailwind CSS",
+    "Nginx",
+    "Vue.js",
+    "PostgreSQL",
+    "Spring Boot"
+  ],
+  "spoken_languages": [
+    "Allemand",
+    "Français"
+  ],
+  "certifications": [
+    "Kubernetes CKA",
+    "AWS Cloud Practitioner"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Tailwind CSS",
+      "level": "Medior"
+    },
+    {
+      "technology": "Nginx",
+      "level": "Medior"
+    },
+    {
+      "technology": "Vue.js",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Go",
+      "level": "Medior"
+    },
+    {
+      "language": "PHP",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Finance",
+      "Transport"
+    ]
+  },
+  "summary": "Ingénieur Medior en Architecte Solutions avec 3 ans d'expérience. Spécialisé en Tailwind CSS, Nginx, Vue.js. Maîtrise des langages Go, PHP. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 4",
+  "field_of_studies": "Cybersécurité",
+  "work_experience": "Chez Leyton (2023-2026), j'ai travaillé en tant que Architecte Solutions en utilisant Nginx, GraphQL, Git, React, Angular et TypeScript, JavaScript, PHP.",
+  "projects": "Projet 'Système de réservation en ligne' dans le secteur Transport en utilisant GraphQL, Kubernetes, Redis. Projet 'Plateforme e-commerce full stack' dans le secteur Transport en utilisant Kubernetes, GraphQL, Git.",
+  "file_path": "synthetic_cvs/cv_0166_ilias_el_fassi.json",
+  "parsing_confidence": 0.94,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Leyton",
+      "skills_acquired": [
+        "Nginx",
+        "GraphQL",
+        "Git",
+        "React",
+        "Angular"
+      ],
+      "languages_used": [
+        "TypeScript",
+        "JavaScript",
+        "PHP"
+      ]
+    }
+  ],
+  "universite": "EMSI",
+  "seniority_level_global": "Medior"
+}

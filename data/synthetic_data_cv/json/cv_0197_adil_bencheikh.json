@@ -1,0 +1,89 @@
+{
+  "full_name": "Adil Bencheikh",
+  "email": "adil.bencheikh@gmail.com",
+  "phone": "+212 672 874 919",
+  "location": "Tétouan",
+  "years_of_experience": 2,
+  "linkedin": "linkedin.com/in/adil-bencheikh",
+  "github": "github.com/adil62",
+  "roles_held": [
+    "Ingénieur Cybersécurité"
+  ],
+  "programming_languages": [
+    "SQL",
+    "Python",
+    "Julia"
+  ],
+  "technical_skills": [
+    "PyTorch",
+    "Kubernetes",
+    "Airflow",
+    "Scikit-learn",
+    "Tableau",
+    "MLflow",
+    "Deep Learning",
+    "Docker",
+    "FastAPI"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Anglais"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "PyTorch",
+      "level": "Junior"
+    },
+    {
+      "technology": "Kubernetes",
+      "level": "Junior"
+    },
+    {
+      "technology": "Airflow",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "SQL",
+      "level": "Junior"
+    },
+    {
+      "language": "Python",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Retail",
+      "Télécommunications",
+      "Finance"
+    ]
+  },
+  "summary": "Professionnel Ingénieur Cybersécurité avec 2 années d'expérience dans le développement de solutions techniques. Expert en PyTorch, Kubernetes, Airflow. Forte maîtrise de SQL, Python avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 4",
+  "field_of_studies": "Systèmes Embarqués",
+  "work_experience": "Chez Sopra Steria (2024-2026), j'ai travaillé en tant que Ingénieur Cybersécurité en utilisant Kafka, AWS SageMaker, Machine Learning, PyTorch et Julia.",
+  "projects": "Projet 'Détection de fraude par Machine Learning' dans le secteur Finance en utilisant FastAPI, TensorFlow, Kafka. Projet 'Chatbot intelligent basé sur NLP' dans le secteur Retail en utilisant Redis, Apache Spark, Power BI. Projet 'Modèle de prédiction du churn client' dans le secteur Finance en utilisant Deep Learning, Airflow, Elasticsearch. Projet 'Dashboard analytique Business Intelligence' dans le secteur Finance en utilisant MLflow, Docker, Tableau.",
+  "file_path": "synthetic_cvs/cv_0197_adil_bencheikh.json",
+  "parsing_confidence": 0.86,
+  "experience_timeline": [
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "Sopra Steria",
+      "skills_acquired": [
+        "Kafka",
+        "AWS SageMaker",
+        "Machine Learning",
+        "PyTorch"
+      ],
+      "languages_used": [
+        "Julia"
+      ]
+    }
+  ],
+  "universite": "ENSET",
+  "seniority_level_global": "Junior"
+}

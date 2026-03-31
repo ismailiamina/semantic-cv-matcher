@@ -1,0 +1,105 @@
+{
+  "full_name": "Saad Hajji",
+  "email": "saad.hajji@gmail.com",
+  "phone": "+212 697 885 265",
+  "location": "Kenitra",
+  "years_of_experience": 5,
+  "linkedin": "linkedin.com/in/saad-hajji",
+  "github": "github.com/saad82",
+  "roles_held": [
+    "Scrum Master",
+    "Product Owner",
+    "Agile Coach"
+  ],
+  "programming_languages": [
+    "PHP",
+    "JavaScript",
+    "Python"
+  ],
+  "technical_skills": [
+    "HTML/CSS",
+    "Django",
+    "Kubernetes",
+    "PostgreSQL",
+    "Redis",
+    "Spring Boot"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Français"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "HTML/CSS",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "Django",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "Kubernetes",
+      "level": "Confirmé"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "PHP",
+      "level": "Confirmé"
+    },
+    {
+      "language": "JavaScript",
+      "level": "Confirmé"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Manufacturing"
+    ]
+  },
+  "summary": "Professionnel Scrum Master avec 5 années d'expérience dans le développement de solutions techniques. Expert en HTML/CSS, Django, Kubernetes. Forte maîtrise de PHP, JavaScript avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Réseaux et Télécommunications",
+  "work_experience": "Chez Attijariwafa Bank (2021-2024), j'ai travaillé en tant que Agile Coach en utilisant HTML/CSS, TypeScript, Docker, Spring Boot et Java, JavaScript, TypeScript. Chez Accenture Maroc (2024-2026), j'ai travaillé en tant que Product Owner en utilisant Redis, Spring Boot, PostgreSQL, Docker, Django et JavaScript, Python, Java.",
+  "projects": "Projet 'Système de réservation en ligne' dans le secteur Manufacturing en utilisant Git, PostgreSQL, FastAPI. Projet 'API REST microservices' dans le secteur Manufacturing en utilisant HTML/CSS, TypeScript, Spring Boot.",
+  "file_path": "synthetic_cvs/cv_0153_saad_hajji.json",
+  "parsing_confidence": 0.98,
+  "experience_timeline": [
+    {
+      "year_start": 2021,
+      "year_end": 2024,
+      "company": "Attijariwafa Bank",
+      "skills_acquired": [
+        "HTML/CSS",
+        "TypeScript",
+        "Docker",
+        "Spring Boot"
+      ],
+      "languages_used": [
+        "Java",
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "Accenture Maroc",
+      "skills_acquired": [
+        "Redis",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker",
+        "Django"
+      ],
+      "languages_used": [
+        "JavaScript",
+        "Python",
+        "Java"
+      ]
+    }
+  ],
+  "universite": "ENSA Casablanca",
+  "seniority_level_global": "Confirmé"
+}

@@ -1,0 +1,90 @@
+{
+  "full_name": "Soufiane El Idrissi",
+  "email": "soufiane.elidrissi@gmail.com",
+  "phone": "+212 661 119 860",
+  "location": "Tanger",
+  "years_of_experience": 1,
+  "linkedin": "linkedin.com/in/soufiane-el-idrissi",
+  "github": "github.com/soufiane41",
+  "roles_held": [
+    "Data Engineer",
+    "Data Scientist"
+  ],
+  "programming_languages": [
+    "R",
+    "Julia"
+  ],
+  "technical_skills": [
+    "TensorFlow",
+    "Machine Learning",
+    "NumPy",
+    "Deep Learning",
+    "AWS SageMaker",
+    "PyTorch",
+    "FastAPI"
+  ],
+  "spoken_languages": [
+    "Français",
+    "Anglais",
+    "Allemand"
+  ],
+  "certifications": [
+    "AWS Solutions Architect",
+    "CISSP"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "TensorFlow",
+      "level": "Junior"
+    },
+    {
+      "technology": "Machine Learning",
+      "level": "Junior"
+    },
+    {
+      "technology": "NumPy",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "R",
+      "level": "Junior"
+    },
+    {
+      "language": "Julia",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Transport"
+    ]
+  },
+  "summary": "1 ans d'expérience en tant que Data Engineer. Compétences avancées en TensorFlow, Machine Learning, NumPy. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 3",
+  "field_of_studies": "Big Data",
+  "work_experience": "Chez HPS (2025-2026), j'ai travaillé en tant que Data Scientist en utilisant AWS SageMaker, Docker, Redis, Deep Learning, Kafka et Julia.",
+  "projects": "Projet 'Dashboard analytique Business Intelligence' dans le secteur Transport en utilisant PyTorch, FastAPI, Docker. Projet 'Chatbot intelligent basé sur NLP' dans le secteur Transport en utilisant Machine Learning, MLflow, TensorFlow. Projet 'Modèle de prédiction du churn client' dans le secteur Transport en utilisant Tableau, Machine Learning, Power BI. Projet 'Système de recommandation produits' dans le secteur Transport en utilisant Elasticsearch, Kafka, Docker.",
+  "file_path": "synthetic_cvs/cv_0111_soufiane_el_idrissi.json",
+  "parsing_confidence": 0.88,
+  "experience_timeline": [
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "HPS",
+      "skills_acquired": [
+        "AWS SageMaker",
+        "Docker",
+        "Redis",
+        "Deep Learning",
+        "Kafka"
+      ],
+      "languages_used": [
+        "Julia"
+      ]
+    }
+  ],
+  "universite": "UIR",
+  "seniority_level_global": "Junior"
+}

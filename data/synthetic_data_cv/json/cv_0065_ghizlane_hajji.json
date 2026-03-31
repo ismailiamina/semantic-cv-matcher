@@ -1,0 +1,112 @@
+{
+  "full_name": "Ghizlane Hajji",
+  "email": "ghizlane.hajji@gmail.com",
+  "phone": "+212 624 842 428",
+  "location": "Agadir",
+  "years_of_experience": 5,
+  "linkedin": "linkedin.com/in/ghizlane-hajji",
+  "github": "github.com/ghizlane25",
+  "roles_held": [
+    "DevOps Engineer"
+  ],
+  "programming_languages": [
+    "Python",
+    "YAML",
+    "Bash"
+  ],
+  "technical_skills": [
+    "Docker",
+    "AWS",
+    "Ansible",
+    "Linux",
+    "Terraform",
+    "GCP",
+    "GitLab CI/CD",
+    "Prometheus",
+    "Azure",
+    "ELK Stack",
+    "Kubernetes",
+    "Bash"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Français"
+  ],
+  "certifications": [
+    "Scrum Master PSM I"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Docker",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "AWS",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "Ansible",
+      "level": "Confirmé"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Python",
+      "level": "Confirmé"
+    },
+    {
+      "language": "YAML",
+      "level": "Confirmé"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Immobilier",
+      "E-commerce"
+    ]
+  },
+  "summary": "5 ans d'expérience en tant que DevOps Engineer. Compétences avancées en Docker, AWS, Ansible. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Intelligence Artificielle",
+  "work_experience": "Chez CGI Maroc (2021-2025), j'ai travaillé en tant que DevOps Engineer en utilisant Docker, Ansible, Kubernetes, Jenkins, Prometheus, GCP et Go, HCL, Bash. Chez Inwi (2025-2026), j'ai travaillé en tant que DevOps Engineer en utilisant Docker, Ansible, Kubernetes, Grafana, ELK Stack et HCL.",
+  "projects": "Projet 'Monitoring et alerting centralisé' dans le secteur E-commerce en utilisant Bash, Helm, Terraform. Projet 'Infrastructure as Code avec Terraform' dans le secteur E-commerce en utilisant Azure, GitLab CI/CD, Prometheus. Projet 'Pipeline CI/CD automatisé' dans le secteur Immobilier en utilisant Kubernetes, Azure, GCP.",
+  "file_path": "synthetic_cvs/cv_0065_ghizlane_hajji.json",
+  "parsing_confidence": 0.78,
+  "experience_timeline": [
+    {
+      "year_start": 2021,
+      "year_end": 2025,
+      "company": "CGI Maroc",
+      "skills_acquired": [
+        "Docker",
+        "Ansible",
+        "Kubernetes",
+        "Jenkins",
+        "Prometheus",
+        "GCP"
+      ],
+      "languages_used": [
+        "Go",
+        "HCL",
+        "Bash"
+      ]
+    },
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "Inwi",
+      "skills_acquired": [
+        "Docker",
+        "Ansible",
+        "Kubernetes",
+        "Grafana",
+        "ELK Stack"
+      ],
+      "languages_used": [
+        "HCL"
+      ]
+    }
+  ],
+  "universite": "UIR",
+  "seniority_level_global": "Confirmé"
+}

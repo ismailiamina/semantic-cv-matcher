@@ -1,0 +1,138 @@
+{
+  "full_name": "Walid Ouazzani",
+  "email": "walid.ouazzani@gmail.com",
+  "phone": "+212 665 665 959",
+  "location": "Casablanca",
+  "years_of_experience": 8,
+  "linkedin": "linkedin.com/in/walid-ouazzani",
+  "github": "github.com/walid22",
+  "roles_held": [
+    "Architecte Solutions",
+    "Tech Lead",
+    "CTO"
+  ],
+  "programming_languages": [
+    "Python",
+    "TypeScript",
+    "Java"
+  ],
+  "technical_skills": [
+    "Nginx",
+    "TypeScript",
+    "PostgreSQL",
+    "Git",
+    "Django",
+    "Spring Boot"
+  ],
+  "spoken_languages": [
+    "Allemand",
+    "Espagnol"
+  ],
+  "certifications": [
+    "AWS Cloud Practitioner"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Nginx",
+      "level": "Senior"
+    },
+    {
+      "technology": "TypeScript",
+      "level": "Senior"
+    },
+    {
+      "technology": "PostgreSQL",
+      "level": "Senior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Python",
+      "level": "Senior"
+    },
+    {
+      "language": "TypeScript",
+      "level": "Senior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "E-commerce",
+      "Assurance"
+    ]
+  },
+  "summary": "Ingénieur Senior en Architecte Solutions avec 8 ans d'expérience. Spécialisé en Nginx, TypeScript, PostgreSQL. Maîtrise des langages Python, TypeScript. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Génie Logiciel",
+  "work_experience": "Chez Capgemini Maroc (2018-2019), j'ai travaillé en tant que Tech Lead en utilisant MongoDB, Tailwind CSS, FastAPI, Django, Vue.js, Node.js et Python, TypeScript. Chez Capgemini Maroc (2019-2022), j'ai travaillé en tant que CTO en utilisant REST API, Kubernetes, TypeScript, FastAPI et TypeScript, JavaScript. Chez Alten (2022-2023), j'ai travaillé en tant que Tech Lead en utilisant HTML/CSS, Spring Boot, PostgreSQL et JavaScript, Python, Go. Chez HPS (2023-2026), j'ai travaillé en tant que Architecte Solutions en utilisant Redis, Git, REST API, Node.js, React, Docker et PHP.",
+  "projects": "Projet 'Système de réservation en ligne' dans le secteur E-commerce en utilisant REST API, GraphQL, Angular. Projet 'Application de gestion RH' dans le secteur Assurance en utilisant Nginx, Jenkins, Angular.",
+  "file_path": "synthetic_cvs/cv_0019_walid_ouazzani.json",
+  "parsing_confidence": 0.98,
+  "experience_timeline": [
+    {
+      "year_start": 2018,
+      "year_end": 2019,
+      "company": "Capgemini Maroc",
+      "skills_acquired": [
+        "MongoDB",
+        "Tailwind CSS",
+        "FastAPI",
+        "Django",
+        "Vue.js",
+        "Node.js"
+      ],
+      "languages_used": [
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "year_start": 2019,
+      "year_end": 2022,
+      "company": "Capgemini Maroc",
+      "skills_acquired": [
+        "REST API",
+        "Kubernetes",
+        "TypeScript",
+        "FastAPI"
+      ],
+      "languages_used": [
+        "TypeScript",
+        "JavaScript"
+      ]
+    },
+    {
+      "year_start": 2022,
+      "year_end": 2023,
+      "company": "Alten",
+      "skills_acquired": [
+        "HTML/CSS",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "languages_used": [
+        "JavaScript",
+        "Python",
+        "Go"
+      ]
+    },
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "HPS",
+      "skills_acquired": [
+        "Redis",
+        "Git",
+        "REST API",
+        "Node.js",
+        "React",
+        "Docker"
+      ],
+      "languages_used": [
+        "PHP"
+      ]
+    }
+  ],
+  "universite": "ENSET",
+  "seniority_level_global": "Senior"
+}

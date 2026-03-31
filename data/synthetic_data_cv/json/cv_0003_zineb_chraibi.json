@@ -1,0 +1,109 @@
+{
+  "full_name": "Zineb Chraibi",
+  "email": "zineb.chraibi@gmail.com",
+  "phone": "+212 624 696 234",
+  "location": "Agadir",
+  "years_of_experience": 5,
+  "linkedin": "linkedin.com/in/zineb-chraibi",
+  "github": "github.com/zineb39",
+  "roles_held": [
+    "Développeur Backend"
+  ],
+  "programming_languages": [
+    "PHP",
+    "TypeScript",
+    "JavaScript",
+    "Python"
+  ],
+  "technical_skills": [
+    "Redis",
+    "Docker",
+    "GraphQL",
+    "TypeScript",
+    "Django",
+    "REST API",
+    "MongoDB"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Allemand"
+  ],
+  "certifications": [
+    "PMP",
+    "Azure Administrator"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Redis",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "Docker",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "GraphQL",
+      "level": "Confirmé"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "PHP",
+      "level": "Confirmé"
+    },
+    {
+      "language": "TypeScript",
+      "level": "Confirmé"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Transport",
+      "Énergie"
+    ]
+  },
+  "summary": "5 ans d'expérience en tant que Développeur Backend. Compétences avancées en Redis, Docker, GraphQL. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Intelligence Artificielle",
+  "work_experience": "Chez BMCE Bank (2021-2023), j'ai travaillé en tant que Développeur Backend en utilisant TypeScript, HTML/CSS, Nginx, Spring Boot, Kubernetes, Angular et PHP, JavaScript. Chez BMCE Bank (2023-2026), j'ai travaillé en tant que Développeur Backend en utilisant PostgreSQL, GraphQL, Git, Jenkins, TypeScript et Python, JavaScript.",
+  "projects": "Projet 'Portail client bancaire' dans le secteur Transport en utilisant Node.js, Angular, Tailwind CSS. Projet 'Dashboard de reporting temps réel' dans le secteur Transport en utilisant Jenkins, FastAPI, MongoDB. Projet 'API REST microservices' dans le secteur Transport en utilisant REST API, Angular, Redis. Projet 'Application de gestion RH' dans le secteur Transport en utilisant Nginx, HTML/CSS, Jenkins.",
+  "file_path": "synthetic_cvs/cv_0003_zineb_chraibi.json",
+  "parsing_confidence": 0.75,
+  "experience_timeline": [
+    {
+      "year_start": 2021,
+      "year_end": 2023,
+      "company": "BMCE Bank",
+      "skills_acquired": [
+        "TypeScript",
+        "HTML/CSS",
+        "Nginx",
+        "Spring Boot",
+        "Kubernetes",
+        "Angular"
+      ],
+      "languages_used": [
+        "PHP",
+        "JavaScript"
+      ]
+    },
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "BMCE Bank",
+      "skills_acquired": [
+        "PostgreSQL",
+        "GraphQL",
+        "Git",
+        "Jenkins",
+        "TypeScript"
+      ],
+      "languages_used": [
+        "Python",
+        "JavaScript"
+      ]
+    }
+  ],
+  "universite": "FST Mohammedia",
+  "seniority_level_global": "Confirmé"
+}

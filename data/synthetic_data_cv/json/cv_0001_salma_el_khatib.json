@@ -1,0 +1,119 @@
+{
+  "full_name": "Salma El Khatib",
+  "email": "salma.elkhatib@gmail.com",
+  "phone": "+212 651 619 317",
+  "location": "Meknès",
+  "years_of_experience": 7,
+  "linkedin": "linkedin.com/in/salma-el-khatib",
+  "github": "github.com/salma84",
+  "roles_held": [
+    "Data Engineer"
+  ],
+  "programming_languages": [
+    "Scala",
+    "R",
+    "Julia"
+  ],
+  "technical_skills": [
+    "Apache Spark",
+    "Airflow",
+    "Tableau",
+    "Kafka",
+    "Deep Learning",
+    "Power BI"
+  ],
+  "spoken_languages": [
+    "Français",
+    "Anglais"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Apache Spark",
+      "level": "Senior"
+    },
+    {
+      "technology": "Airflow",
+      "level": "Senior"
+    },
+    {
+      "technology": "Tableau",
+      "level": "Senior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Scala",
+      "level": "Senior"
+    },
+    {
+      "language": "R",
+      "level": "Senior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Logistique",
+      "Banque",
+      "Finance"
+    ]
+  },
+  "summary": "Ingénieur Senior en Data Engineer avec 7 ans d'expérience. Spécialisé en Apache Spark, Airflow, Tableau. Maîtrise des langages Scala, R. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Systèmes Embarqués",
+  "work_experience": "Chez Leyton (2019-2020), j'ai travaillé en tant que Data Engineer en utilisant AWS SageMaker, Pandas, Machine Learning, Apache Spark, Scikit-learn, Elasticsearch et Python, SQL. Chez Renault Maroc (2020-2022), j'ai travaillé en tant que Data Engineer en utilisant Apache Spark, Deep Learning, Kubernetes, Redis et R, Python, Julia. Chez Leyton (2022-2026), j'ai travaillé en tant que Data Engineer en utilisant Redis, AWS SageMaker, TensorFlow et Scala, R.",
+  "projects": "Projet 'Dashboard analytique Business Intelligence' dans le secteur Logistique en utilisant PyTorch, Power BI, Apache Spark. Projet 'Système de recommandation produits' dans le secteur Finance en utilisant Power BI, Scikit-learn, Airflow. Projet 'Chatbot intelligent basé sur NLP' dans le secteur Finance en utilisant Pandas, Deep Learning, MLflow.",
+  "file_path": "synthetic_cvs/cv_0001_salma_el_khatib.json",
+  "parsing_confidence": 0.88,
+  "experience_timeline": [
+    {
+      "year_start": 2019,
+      "year_end": 2020,
+      "company": "Leyton",
+      "skills_acquired": [
+        "AWS SageMaker",
+        "Pandas",
+        "Machine Learning",
+        "Apache Spark",
+        "Scikit-learn",
+        "Elasticsearch"
+      ],
+      "languages_used": [
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "year_start": 2020,
+      "year_end": 2022,
+      "company": "Renault Maroc",
+      "skills_acquired": [
+        "Apache Spark",
+        "Deep Learning",
+        "Kubernetes",
+        "Redis"
+      ],
+      "languages_used": [
+        "R",
+        "Python",
+        "Julia"
+      ]
+    },
+    {
+      "year_start": 2022,
+      "year_end": 2026,
+      "company": "Leyton",
+      "skills_acquired": [
+        "Redis",
+        "AWS SageMaker",
+        "TensorFlow"
+      ],
+      "languages_used": [
+        "Scala",
+        "R"
+      ]
+    }
+  ],
+  "universite": "UIR",
+  "seniority_level_global": "Senior"
+}

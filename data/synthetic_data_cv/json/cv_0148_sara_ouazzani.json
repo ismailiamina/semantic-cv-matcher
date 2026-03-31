@@ -1,0 +1,126 @@
+{
+  "full_name": "Sara Ouazzani",
+  "email": "sara.ouazzani@gmail.com",
+  "phone": "+212 635 228 810",
+  "location": "Meknès",
+  "years_of_experience": 6,
+  "linkedin": "linkedin.com/in/sara-ouazzani",
+  "github": "github.com/sara10",
+  "roles_held": [
+    "Architecte Solutions",
+    "Tech Lead"
+  ],
+  "programming_languages": [
+    "PHP",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "technical_skills": [
+    "Jenkins",
+    "Spring Boot",
+    "Docker",
+    "Git",
+    "Django",
+    "Kubernetes",
+    "FastAPI",
+    "REST API",
+    "Angular"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Arabe",
+    "Espagnol"
+  ],
+  "certifications": [
+    "Google Associate Cloud Engineer",
+    "Kubernetes CKA"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Jenkins",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "Spring Boot",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "Docker",
+      "level": "Confirmé"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "PHP",
+      "level": "Confirmé"
+    },
+    {
+      "language": "JavaScript",
+      "level": "Confirmé"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Transport",
+      "Retail"
+    ]
+  },
+  "summary": "Ingénieur Confirmé en Architecte Solutions avec 6 ans d'expérience. Spécialisé en Jenkins, Spring Boot, Docker. Maîtrise des langages PHP, JavaScript. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 3",
+  "field_of_studies": "Génie Logiciel",
+  "work_experience": "Chez Deloitte Maroc (2020-2021), j'ai travaillé en tant que Architecte Solutions en utilisant GraphQL, PostgreSQL, React, Spring Boot, Tailwind CSS et Go, TypeScript, JavaScript. Chez Deloitte Maroc (2021-2023), j'ai travaillé en tant que Architecte Solutions en utilisant Jenkins, REST API, Spring Boot et Go, PHP. Chez Accenture Maroc (2023-2026), j'ai travaillé en tant que Tech Lead en utilisant Nginx, Angular, TypeScript, Git et JavaScript, Go, Python.",
+  "projects": "Projet 'Portail client bancaire' dans le secteur Retail en utilisant Node.js, Nginx, REST API. Projet 'Système de réservation en ligne' dans le secteur Transport en utilisant TypeScript, Docker, MongoDB. Projet 'Plateforme e-commerce full stack' dans le secteur Transport en utilisant Git, PostgreSQL, Vue.js.",
+  "file_path": "synthetic_cvs/cv_0148_sara_ouazzani.json",
+  "parsing_confidence": 0.87,
+  "experience_timeline": [
+    {
+      "year_start": 2020,
+      "year_end": 2021,
+      "company": "Deloitte Maroc",
+      "skills_acquired": [
+        "GraphQL",
+        "PostgreSQL",
+        "React",
+        "Spring Boot",
+        "Tailwind CSS"
+      ],
+      "languages_used": [
+        "Go",
+        "TypeScript",
+        "JavaScript"
+      ]
+    },
+    {
+      "year_start": 2021,
+      "year_end": 2023,
+      "company": "Deloitte Maroc",
+      "skills_acquired": [
+        "Jenkins",
+        "REST API",
+        "Spring Boot"
+      ],
+      "languages_used": [
+        "Go",
+        "PHP"
+      ]
+    },
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Accenture Maroc",
+      "skills_acquired": [
+        "Nginx",
+        "Angular",
+        "TypeScript",
+        "Git"
+      ],
+      "languages_used": [
+        "JavaScript",
+        "Go",
+        "Python"
+      ]
+    }
+  ],
+  "universite": "ENSA Casablanca",
+  "seniority_level_global": "Confirmé"
+}

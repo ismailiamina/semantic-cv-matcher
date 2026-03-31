@@ -1,0 +1,144 @@
+{
+  "full_name": "Reda Ziani",
+  "email": "reda.ziani@gmail.com",
+  "phone": "+212 634 639 461",
+  "location": "Kenitra",
+  "years_of_experience": 8,
+  "linkedin": "linkedin.com/in/reda-ziani",
+  "github": "github.com/reda35",
+  "roles_held": [
+    "Ingénieur Cybersécurité",
+    "Pentester"
+  ],
+  "programming_languages": [
+    "SQL",
+    "Scala",
+    "Python",
+    "Julia"
+  ],
+  "technical_skills": [
+    "Docker",
+    "PyTorch",
+    "Elasticsearch",
+    "TensorFlow",
+    "Scikit-learn",
+    "Deep Learning",
+    "Redis",
+    "Kafka",
+    "Power BI",
+    "Tableau",
+    "FastAPI",
+    "MLflow"
+  ],
+  "spoken_languages": [
+    "Allemand",
+    "Anglais",
+    "Arabe"
+  ],
+  "certifications": [
+    "Scrum Master PSM I",
+    "Kubernetes CKA"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Docker",
+      "level": "Senior"
+    },
+    {
+      "technology": "PyTorch",
+      "level": "Senior"
+    },
+    {
+      "technology": "Elasticsearch",
+      "level": "Senior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "SQL",
+      "level": "Senior"
+    },
+    {
+      "language": "Scala",
+      "level": "Senior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Manufacturing",
+      "Éducation"
+    ]
+  },
+  "summary": "Ingénieur Senior en Ingénieur Cybersécurité avec 8 ans d'expérience. Spécialisé en Docker, PyTorch, Elasticsearch. Maîtrise des langages SQL, Scala. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Science des Données",
+  "work_experience": "Chez Atos Maroc (2018-2020), j'ai travaillé en tant que Pentester en utilisant TensorFlow, Machine Learning, Power BI, NumPy, FastAPI, Apache Spark et R. Chez Maroc Telecom (2020-2023), j'ai travaillé en tant que Ingénieur Cybersécurité en utilisant Power BI, Tableau, Deep Learning et R. Chez Capgemini Maroc (2023-2024), j'ai travaillé en tant que Pentester en utilisant Tableau, Elasticsearch, TensorFlow, MLflow, AWS SageMaker, Power BI et Julia, Scala. Chez Capgemini Maroc (2024-2026), j'ai travaillé en tant que Ingénieur Cybersécurité en utilisant Power BI, Kubernetes, NumPy, Airflow, Machine Learning et R.",
+  "projects": "Projet 'Pipeline de données en temps réel' dans le secteur Éducation en utilisant Airflow, Kafka, Kubernetes. Projet 'Détection de fraude par Machine Learning' dans le secteur Manufacturing en utilisant AWS SageMaker, Apache Spark, NumPy. Projet 'Modèle de prédiction du churn client' dans le secteur Manufacturing en utilisant Scikit-learn, FastAPI, MLflow.",
+  "file_path": "synthetic_cvs/cv_0127_reda_ziani.json",
+  "parsing_confidence": 0.91,
+  "experience_timeline": [
+    {
+      "year_start": 2018,
+      "year_end": 2020,
+      "company": "Atos Maroc",
+      "skills_acquired": [
+        "TensorFlow",
+        "Machine Learning",
+        "Power BI",
+        "NumPy",
+        "FastAPI",
+        "Apache Spark"
+      ],
+      "languages_used": [
+        "R"
+      ]
+    },
+    {
+      "year_start": 2020,
+      "year_end": 2023,
+      "company": "Maroc Telecom",
+      "skills_acquired": [
+        "Power BI",
+        "Tableau",
+        "Deep Learning"
+      ],
+      "languages_used": [
+        "R"
+      ]
+    },
+    {
+      "year_start": 2023,
+      "year_end": 2024,
+      "company": "Capgemini Maroc",
+      "skills_acquired": [
+        "Tableau",
+        "Elasticsearch",
+        "TensorFlow",
+        "MLflow",
+        "AWS SageMaker",
+        "Power BI"
+      ],
+      "languages_used": [
+        "Julia",
+        "Scala"
+      ]
+    },
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "Capgemini Maroc",
+      "skills_acquired": [
+        "Power BI",
+        "Kubernetes",
+        "NumPy",
+        "Airflow",
+        "Machine Learning"
+      ],
+      "languages_used": [
+        "R"
+      ]
+    }
+  ],
+  "universite": "ENSA Marrakech",
+  "seniority_level_global": "Senior"
+}

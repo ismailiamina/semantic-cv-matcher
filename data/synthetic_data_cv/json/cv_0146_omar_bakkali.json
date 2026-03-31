@@ -1,0 +1,93 @@
+{
+  "full_name": "Omar Bakkali",
+  "email": "omar.bakkali@gmail.com",
+  "phone": "+212 643 103 680",
+  "location": "Rabat",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/omar-bakkali",
+  "github": "github.com/omar56",
+  "roles_held": [
+    "Développeur Full Stack",
+    "Ingénieur Backend"
+  ],
+  "programming_languages": [
+    "PHP",
+    "TypeScript",
+    "Java"
+  ],
+  "technical_skills": [
+    "HTML/CSS",
+    "Docker",
+    "Angular",
+    "PostgreSQL",
+    "Git",
+    "Jenkins",
+    "FastAPI",
+    "Spring Boot"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Anglais"
+  ],
+  "certifications": [
+    "Terraform Associate",
+    "Google Associate Cloud Engineer"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "HTML/CSS",
+      "level": "Medior"
+    },
+    {
+      "technology": "Docker",
+      "level": "Medior"
+    },
+    {
+      "technology": "Angular",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "PHP",
+      "level": "Medior"
+    },
+    {
+      "language": "TypeScript",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Télécommunications",
+      "Énergie",
+      "E-commerce"
+    ]
+  },
+  "summary": "3 ans d'expérience en tant que Développeur Full Stack. Compétences avancées en HTML/CSS, Docker, Angular. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 4",
+  "field_of_studies": "Intelligence Artificielle",
+  "work_experience": "Chez Inwi (2023-2026), j'ai travaillé en tant que Ingénieur Backend en utilisant Node.js, Spring Boot, MongoDB, Docker, Redis et Java.",
+  "projects": "Projet 'Plateforme e-commerce full stack' dans le secteur E-commerce en utilisant Node.js, TypeScript, Jenkins. Projet 'Système de réservation en ligne' dans le secteur Télécommunications en utilisant Nginx, Kubernetes, Git. Projet 'Dashboard de reporting temps réel' dans le secteur E-commerce en utilisant Kubernetes, Redis, Jenkins.",
+  "file_path": "synthetic_cvs/cv_0146_omar_bakkali.json",
+  "parsing_confidence": 0.93,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Inwi",
+      "skills_acquired": [
+        "Node.js",
+        "Spring Boot",
+        "MongoDB",
+        "Docker",
+        "Redis"
+      ],
+      "languages_used": [
+        "Java"
+      ]
+    }
+  ],
+  "universite": "ENSAM Meknès",
+  "seniority_level_global": "Medior"
+}

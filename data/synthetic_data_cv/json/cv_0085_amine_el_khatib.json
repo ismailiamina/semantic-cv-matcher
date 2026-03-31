@@ -1,0 +1,89 @@
+{
+  "full_name": "Amine El Khatib",
+  "email": "amine.elkhatib@gmail.com",
+  "phone": "+212 631 645 809",
+  "location": "Rabat",
+  "years_of_experience": 1,
+  "linkedin": "linkedin.com/in/amine-el-khatib",
+  "github": "github.com/amine81",
+  "roles_held": [
+    "Architecte Solutions"
+  ],
+  "programming_languages": [
+    "Go",
+    "JavaScript",
+    "TypeScript",
+    "Python"
+  ],
+  "technical_skills": [
+    "Kubernetes",
+    "Spring Boot",
+    "TypeScript",
+    "HTML/CSS",
+    "Git",
+    "PostgreSQL"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Français"
+  ],
+  "certifications": [
+    "AWS Cloud Practitioner"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Kubernetes",
+      "level": "Junior"
+    },
+    {
+      "technology": "Spring Boot",
+      "level": "Junior"
+    },
+    {
+      "technology": "TypeScript",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Go",
+      "level": "Junior"
+    },
+    {
+      "language": "JavaScript",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Retail",
+      "Immobilier",
+      "Banque"
+    ]
+  },
+  "summary": "Professionnel Architecte Solutions avec 1 années d'expérience dans le développement de solutions techniques. Expert en Kubernetes, Spring Boot, TypeScript. Forte maîtrise de Go, JavaScript avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Science des Données",
+  "work_experience": "Chez Orange Maroc (2025-2026), j'ai travaillé en tant que Architecte Solutions en utilisant Vue.js, Django, Kubernetes et PHP, JavaScript.",
+  "projects": "Projet 'Application de gestion RH' dans le secteur Banque en utilisant Nginx, Jenkins, Git. Projet 'Dashboard de reporting temps réel' dans le secteur Immobilier en utilisant Git, TypeScript, Node.js.",
+  "file_path": "synthetic_cvs/cv_0085_amine_el_khatib.json",
+  "parsing_confidence": 0.94,
+  "experience_timeline": [
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "Orange Maroc",
+      "skills_acquired": [
+        "Vue.js",
+        "Django",
+        "Kubernetes"
+      ],
+      "languages_used": [
+        "PHP",
+        "JavaScript"
+      ]
+    }
+  ],
+  "universite": "EMSI",
+  "seniority_level_global": "Junior"
+}

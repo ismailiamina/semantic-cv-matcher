@@ -1,0 +1,88 @@
+{
+  "full_name": "Tariq El Fassi",
+  "email": "tariq.elfassi@gmail.com",
+  "phone": "+212 662 896 719",
+  "location": "Agadir",
+  "years_of_experience": 1,
+  "linkedin": "linkedin.com/in/tariq-el-fassi",
+  "github": "github.com/tariq95",
+  "roles_held": [
+    "Architecte Solutions",
+    "Tech Lead"
+  ],
+  "programming_languages": [
+    "Python",
+    "TypeScript"
+  ],
+  "technical_skills": [
+    "HTML/CSS",
+    "PostgreSQL",
+    "Vue.js",
+    "Tailwind CSS",
+    "Django",
+    "GraphQL",
+    "Jenkins"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Français",
+    "Allemand"
+  ],
+  "certifications": [
+    "CEH"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "HTML/CSS",
+      "level": "Junior"
+    },
+    {
+      "technology": "PostgreSQL",
+      "level": "Junior"
+    },
+    {
+      "technology": "Vue.js",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Python",
+      "level": "Junior"
+    },
+    {
+      "language": "TypeScript",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "E-commerce"
+    ]
+  },
+  "summary": "Professionnel Architecte Solutions avec 1 années d'expérience dans le développement de solutions techniques. Expert en HTML/CSS, PostgreSQL, Vue.js. Forte maîtrise de Python, TypeScript avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Big Data",
+  "work_experience": "Chez Atos Maroc (2025-2026), j'ai travaillé en tant que Architecte Solutions en utilisant Jenkins, Kubernetes, Django, MongoDB et Java.",
+  "projects": "Projet 'Application de gestion RH' dans le secteur E-commerce en utilisant React, Jenkins, Angular. Projet 'API REST microservices' dans le secteur E-commerce en utilisant MongoDB, Django, GraphQL. Projet 'Système de réservation en ligne' dans le secteur E-commerce en utilisant HTML/CSS, Redis, MongoDB. Projet 'Plateforme e-commerce full stack' dans le secteur E-commerce en utilisant GraphQL, Angular, MongoDB.",
+  "file_path": "synthetic_cvs/cv_0084_tariq_el_fassi.json",
+  "parsing_confidence": 0.77,
+  "experience_timeline": [
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "Atos Maroc",
+      "skills_acquired": [
+        "Jenkins",
+        "Kubernetes",
+        "Django",
+        "MongoDB"
+      ],
+      "languages_used": [
+        "Java"
+      ]
+    }
+  ],
+  "universite": "HEM",
+  "seniority_level_global": "Junior"
+}

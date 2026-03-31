@@ -1,0 +1,97 @@
+{
+  "full_name": "Walid Hajji",
+  "email": "walid.hajji@gmail.com",
+  "phone": "+212 661 262 155",
+  "location": "Meknès",
+  "years_of_experience": 1,
+  "linkedin": "linkedin.com/in/walid-hajji",
+  "github": "github.com/walid18",
+  "roles_held": [
+    "Développeur Backend",
+    "Ingénieur API",
+    "Développeur Python"
+  ],
+  "programming_languages": [
+    "TypeScript",
+    "Java",
+    "PHP"
+  ],
+  "technical_skills": [
+    "MongoDB",
+    "Redis",
+    "Jenkins",
+    "Node.js",
+    "REST API",
+    "Kubernetes",
+    "GraphQL",
+    "Django",
+    "HTML/CSS",
+    "Nginx",
+    "Spring Boot"
+  ],
+  "spoken_languages": [
+    "Français",
+    "Espagnol"
+  ],
+  "certifications": [
+    "Scrum Master PSM I",
+    "CISSP"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "MongoDB",
+      "level": "Junior"
+    },
+    {
+      "technology": "Redis",
+      "level": "Junior"
+    },
+    {
+      "technology": "Jenkins",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "TypeScript",
+      "level": "Junior"
+    },
+    {
+      "language": "Java",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Télécommunications"
+    ]
+  },
+  "summary": "1 ans d'expérience en tant que Développeur Backend. Compétences avancées en MongoDB, Redis, Jenkins. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 3",
+  "field_of_studies": "Big Data",
+  "work_experience": "Chez Inwi (2025-2026), j'ai travaillé en tant que Ingénieur API en utilisant Kubernetes, React, HTML/CSS, GraphQL, Tailwind CSS, FastAPI et PHP, TypeScript.",
+  "projects": "Projet 'Portail client bancaire' dans le secteur Télécommunications en utilisant TypeScript, Nginx, Redis. Projet 'API REST microservices' dans le secteur Télécommunications en utilisant Spring Boot, REST API, PostgreSQL. Projet 'Dashboard de reporting temps réel' dans le secteur Télécommunications en utilisant Git, Docker, PostgreSQL.",
+  "file_path": "synthetic_cvs/cv_0071_walid_hajji.json",
+  "parsing_confidence": 0.87,
+  "experience_timeline": [
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "Inwi",
+      "skills_acquired": [
+        "Kubernetes",
+        "React",
+        "HTML/CSS",
+        "GraphQL",
+        "Tailwind CSS",
+        "FastAPI"
+      ],
+      "languages_used": [
+        "PHP",
+        "TypeScript"
+      ]
+    }
+  ],
+  "universite": "ENSEM",
+  "seniority_level_global": "Junior"
+}

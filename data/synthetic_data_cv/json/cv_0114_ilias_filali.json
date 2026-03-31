@@ -1,0 +1,92 @@
+{
+  "full_name": "Ilias Filali",
+  "email": "ilias.filali@gmail.com",
+  "phone": "+212 641 885 546",
+  "location": "Tétouan",
+  "years_of_experience": 2,
+  "linkedin": "linkedin.com/in/ilias-filali",
+  "github": "github.com/ilias36",
+  "roles_held": [
+    "Développeur Backend",
+    "Ingénieur API",
+    "Développeur Python"
+  ],
+  "programming_languages": [
+    "Go",
+    "Java"
+  ],
+  "technical_skills": [
+    "Tailwind CSS",
+    "Redis",
+    "FastAPI",
+    "Nginx",
+    "Vue.js",
+    "HTML/CSS",
+    "Django",
+    "Spring Boot",
+    "MongoDB",
+    "PostgreSQL",
+    "Kubernetes"
+  ],
+  "spoken_languages": [
+    "Allemand",
+    "Anglais"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Tailwind CSS",
+      "level": "Junior"
+    },
+    {
+      "technology": "Redis",
+      "level": "Junior"
+    },
+    {
+      "technology": "FastAPI",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Go",
+      "level": "Junior"
+    },
+    {
+      "language": "Java",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Éducation"
+    ]
+  },
+  "summary": "2 ans d'expérience en tant que Développeur Backend. Compétences avancées en Tailwind CSS, Redis, FastAPI. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Cybersécurité",
+  "work_experience": "Chez Leyton (2024-2026), j'ai travaillé en tant que Développeur Backend en utilisant Nginx, Redis, Jenkins, Vue.js, Tailwind CSS et PHP, TypeScript.",
+  "projects": "Projet 'Système de réservation en ligne' dans le secteur Éducation en utilisant TypeScript, Tailwind CSS, Redis. Projet 'Plateforme e-commerce full stack' dans le secteur Éducation en utilisant Django, Angular, Node.js. Projet 'Application de gestion RH' dans le secteur Éducation en utilisant Nginx, Node.js, Tailwind CSS.",
+  "file_path": "synthetic_cvs/cv_0114_ilias_filali.json",
+  "parsing_confidence": 0.98,
+  "experience_timeline": [
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "Leyton",
+      "skills_acquired": [
+        "Nginx",
+        "Redis",
+        "Jenkins",
+        "Vue.js",
+        "Tailwind CSS"
+      ],
+      "languages_used": [
+        "PHP",
+        "TypeScript"
+      ]
+    }
+  ],
+  "universite": "ENSIAS",
+  "seniority_level_global": "Junior"
+}

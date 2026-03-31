@@ -1,0 +1,93 @@
+{
+  "full_name": "Loubna El Khatib",
+  "email": "loubna.elkhatib@gmail.com",
+  "phone": "+212 699 892 203",
+  "location": "Marrakech",
+  "years_of_experience": 1,
+  "linkedin": "linkedin.com/in/loubna-el-khatib",
+  "github": "github.com/loubna14",
+  "roles_held": [
+    "Développeur Full Stack",
+    "Ingénieur Backend"
+  ],
+  "programming_languages": [
+    "Java",
+    "Python"
+  ],
+  "technical_skills": [
+    "Docker",
+    "FastAPI",
+    "Django",
+    "Tailwind CSS",
+    "MongoDB",
+    "TypeScript",
+    "Node.js",
+    "Vue.js",
+    "Git",
+    "Spring Boot",
+    "PostgreSQL"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Allemand"
+  ],
+  "certifications": [
+    "Microsoft Azure Developer",
+    "PMP"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Docker",
+      "level": "Junior"
+    },
+    {
+      "technology": "FastAPI",
+      "level": "Junior"
+    },
+    {
+      "technology": "Django",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Java",
+      "level": "Junior"
+    },
+    {
+      "language": "Python",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Transport"
+    ]
+  },
+  "summary": "1 ans d'expérience en tant que Développeur Full Stack. Compétences avancées en Docker, FastAPI, Django. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 3",
+  "field_of_studies": "Génie Informatique",
+  "work_experience": "Chez Attijariwafa Bank (2025-2026), j'ai travaillé en tant que Développeur Full Stack en utilisant REST API, Tailwind CSS, Docker, Angular, Vue.js et JavaScript.",
+  "projects": "Projet 'API REST microservices' dans le secteur Transport en utilisant Angular, Spring Boot, Vue.js. Projet 'Système de réservation en ligne' dans le secteur Transport en utilisant Node.js, Vue.js, Tailwind CSS. Projet 'Dashboard de reporting temps réel' dans le secteur Transport en utilisant MongoDB, Docker, Nginx.",
+  "file_path": "synthetic_cvs/cv_0112_loubna_el_khatib.json",
+  "parsing_confidence": 0.9,
+  "experience_timeline": [
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "Attijariwafa Bank",
+      "skills_acquired": [
+        "REST API",
+        "Tailwind CSS",
+        "Docker",
+        "Angular",
+        "Vue.js"
+      ],
+      "languages_used": [
+        "JavaScript"
+      ]
+    }
+  ],
+  "universite": "FST Mohammedia",
+  "seniority_level_global": "Junior"
+}

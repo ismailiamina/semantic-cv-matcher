@@ -1,0 +1,136 @@
+{
+  "full_name": "Meryem Bakkali",
+  "email": "meryem.bakkali@gmail.com",
+  "phone": "+212 613 559 184",
+  "location": "Tétouan",
+  "years_of_experience": 8,
+  "linkedin": "linkedin.com/in/meryem-bakkali",
+  "github": "github.com/meryem78",
+  "roles_held": [
+    "Architecte Solutions"
+  ],
+  "programming_languages": [
+    "Python",
+    "PHP",
+    "TypeScript",
+    "Java"
+  ],
+  "technical_skills": [
+    "Docker",
+    "FastAPI",
+    "Tailwind CSS",
+    "Node.js",
+    "Angular",
+    "React",
+    "MongoDB",
+    "Django"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Arabe"
+  ],
+  "certifications": [
+    "Google Associate Cloud Engineer"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Docker",
+      "level": "Senior"
+    },
+    {
+      "technology": "FastAPI",
+      "level": "Senior"
+    },
+    {
+      "technology": "Tailwind CSS",
+      "level": "Senior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Python",
+      "level": "Senior"
+    },
+    {
+      "language": "PHP",
+      "level": "Senior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Assurance"
+    ]
+  },
+  "summary": "8 ans d'expérience en tant que Architecte Solutions. Compétences avancées en Docker, FastAPI, Tailwind CSS. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Cloud Computing",
+  "work_experience": "Chez TotalEnergies Maroc (2018-2019), j'ai travaillé en tant que Architecte Solutions en utilisant TypeScript, FastAPI, Django, GraphQL et Python, TypeScript. Chez OCP (2019-2020), j'ai travaillé en tant que Architecte Solutions en utilisant Spring Boot, MongoDB, Docker, Jenkins, Tailwind CSS, React et PHP, JavaScript. Chez IBM Maroc (2020-2023), j'ai travaillé en tant que Architecte Solutions en utilisant Jenkins, REST API, Nginx, Spring Boot et JavaScript. Chez TotalEnergies Maroc (2023-2026), j'ai travaillé en tant que Architecte Solutions en utilisant MongoDB, Git, TypeScript, Tailwind CSS, HTML/CSS et Java.",
+  "projects": "Projet 'Dashboard de reporting temps réel' dans le secteur Assurance en utilisant Node.js, REST API, Nginx. Projet 'API REST microservices' dans le secteur Assurance en utilisant Nginx, Jenkins, Docker. Projet 'Système de réservation en ligne' dans le secteur Assurance en utilisant Angular, Git, Tailwind CSS. Projet 'Plateforme e-commerce full stack' dans le secteur Assurance en utilisant Vue.js, Angular, PostgreSQL.",
+  "file_path": "synthetic_cvs/cv_0124_meryem_bakkali.json",
+  "parsing_confidence": 0.98,
+  "experience_timeline": [
+    {
+      "year_start": 2018,
+      "year_end": 2019,
+      "company": "TotalEnergies Maroc",
+      "skills_acquired": [
+        "TypeScript",
+        "FastAPI",
+        "Django",
+        "GraphQL"
+      ],
+      "languages_used": [
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "year_start": 2019,
+      "year_end": 2020,
+      "company": "OCP",
+      "skills_acquired": [
+        "Spring Boot",
+        "MongoDB",
+        "Docker",
+        "Jenkins",
+        "Tailwind CSS",
+        "React"
+      ],
+      "languages_used": [
+        "PHP",
+        "JavaScript"
+      ]
+    },
+    {
+      "year_start": 2020,
+      "year_end": 2023,
+      "company": "IBM Maroc",
+      "skills_acquired": [
+        "Jenkins",
+        "REST API",
+        "Nginx",
+        "Spring Boot"
+      ],
+      "languages_used": [
+        "JavaScript"
+      ]
+    },
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "TotalEnergies Maroc",
+      "skills_acquired": [
+        "MongoDB",
+        "Git",
+        "TypeScript",
+        "Tailwind CSS",
+        "HTML/CSS"
+      ],
+      "languages_used": [
+        "Java"
+      ]
+    }
+  ],
+  "universite": "ESGI",
+  "seniority_level_global": "Senior"
+}

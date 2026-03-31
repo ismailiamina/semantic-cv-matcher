@@ -1,0 +1,87 @@
+{
+  "full_name": "Youssef Ouazzani",
+  "email": "youssef.ouazzani@gmail.com",
+  "phone": "+212 614 150 333",
+  "location": "Rabat",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/youssef-ouazzani",
+  "github": "github.com/youssef77",
+  "roles_held": [
+    "Ingénieur QA",
+    "Test Automation Engineer"
+  ],
+  "programming_languages": [
+    "Go",
+    "JavaScript"
+  ],
+  "technical_skills": [
+    "Django",
+    "PostgreSQL",
+    "Tailwind CSS",
+    "GraphQL",
+    "React",
+    "FastAPI",
+    "Git"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Espagnol"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Django",
+      "level": "Medior"
+    },
+    {
+      "technology": "PostgreSQL",
+      "level": "Medior"
+    },
+    {
+      "technology": "Tailwind CSS",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Go",
+      "level": "Medior"
+    },
+    {
+      "language": "JavaScript",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Manufacturing",
+      "E-commerce",
+      "Banque"
+    ]
+  },
+  "summary": "Professionnel Ingénieur QA avec 3 années d'expérience dans le développement de solutions techniques. Expert en Django, PostgreSQL, Tailwind CSS. Forte maîtrise de Go, JavaScript avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 3",
+  "field_of_studies": "Cybersécurité",
+  "work_experience": "Chez BNP Paribas Maroc (2023-2026), j'ai travaillé en tant que Ingénieur QA en utilisant Angular, Nginx, MongoDB et Python, PHP.",
+  "projects": "Projet 'API REST microservices' dans le secteur E-commerce en utilisant FastAPI, Nginx, Redis. Projet 'Portail client bancaire' dans le secteur Banque en utilisant FastAPI, Angular, GraphQL. Projet 'Plateforme e-commerce full stack' dans le secteur E-commerce en utilisant MongoDB, Angular, Kubernetes.",
+  "file_path": "synthetic_cvs/cv_0033_youssef_ouazzani.json",
+  "parsing_confidence": 0.85,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "BNP Paribas Maroc",
+      "skills_acquired": [
+        "Angular",
+        "Nginx",
+        "MongoDB"
+      ],
+      "languages_used": [
+        "Python",
+        "PHP"
+      ]
+    }
+  ],
+  "universite": "EMSI",
+  "seniority_level_global": "Medior"
+}

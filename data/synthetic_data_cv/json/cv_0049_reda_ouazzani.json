@@ -1,0 +1,93 @@
+{
+  "full_name": "Reda Ouazzani",
+  "email": "reda.ouazzani@gmail.com",
+  "phone": "+212 693 139 549",
+  "location": "Fès",
+  "years_of_experience": 1,
+  "linkedin": "linkedin.com/in/reda-ouazzani",
+  "github": "github.com/reda27",
+  "roles_held": [
+    "Data Analyst"
+  ],
+  "programming_languages": [
+    "Julia",
+    "SQL",
+    "Scala",
+    "Python"
+  ],
+  "technical_skills": [
+    "Apache Spark",
+    "Scikit-learn",
+    "TensorFlow",
+    "Pandas",
+    "MLflow",
+    "Machine Learning",
+    "Kafka",
+    "Tableau"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Allemand",
+    "Espagnol"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Apache Spark",
+      "level": "Junior"
+    },
+    {
+      "technology": "Scikit-learn",
+      "level": "Junior"
+    },
+    {
+      "technology": "TensorFlow",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Julia",
+      "level": "Junior"
+    },
+    {
+      "language": "SQL",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Assurance",
+      "Santé",
+      "Manufacturing"
+    ]
+  },
+  "summary": "Ingénieur Junior en Data Analyst avec 1 ans d'expérience. Spécialisé en Apache Spark, Scikit-learn, TensorFlow. Maîtrise des langages Julia, SQL. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 4",
+  "field_of_studies": "Développement Web",
+  "work_experience": "Chez BMCE Bank (2025-2026), j'ai travaillé en tant que Data Analyst en utilisant Kubernetes, Elasticsearch, MLflow, Docker, Scikit-learn, FastAPI et SQL, Julia.",
+  "projects": "Projet 'Système de recommandation produits' dans le secteur Santé en utilisant Docker, Kubernetes, Pandas. Projet 'Chatbot intelligent basé sur NLP' dans le secteur Santé en utilisant AWS SageMaker, Machine Learning, TensorFlow.",
+  "file_path": "synthetic_cvs/cv_0049_reda_ouazzani.json",
+  "parsing_confidence": 0.97,
+  "experience_timeline": [
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "BMCE Bank",
+      "skills_acquired": [
+        "Kubernetes",
+        "Elasticsearch",
+        "MLflow",
+        "Docker",
+        "Scikit-learn",
+        "FastAPI"
+      ],
+      "languages_used": [
+        "SQL",
+        "Julia"
+      ]
+    }
+  ],
+  "universite": "INSEA",
+  "seniority_level_global": "Junior"
+}

@@ -1,0 +1,97 @@
+{
+  "full_name": "Hicham Ouazzani",
+  "email": "hicham.ouazzani@gmail.com",
+  "phone": "+212 625 402 692",
+  "location": "Agadir",
+  "years_of_experience": 0,
+  "linkedin": "linkedin.com/in/hicham-ouazzani",
+  "github": "github.com/hicham65",
+  "roles_held": [
+    "Développeur Backend",
+    "Ingénieur API",
+    "Développeur Python"
+  ],
+  "programming_languages": [
+    "TypeScript",
+    "Python",
+    "JavaScript"
+  ],
+  "technical_skills": [
+    "MongoDB",
+    "Vue.js",
+    "PostgreSQL",
+    "React",
+    "Node.js",
+    "Django",
+    "Redis",
+    "Kubernetes",
+    "FastAPI",
+    "Tailwind CSS",
+    "Docker",
+    "Git"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Allemand"
+  ],
+  "certifications": [
+    "Google Associate Cloud Engineer"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "MongoDB",
+      "level": "Junior"
+    },
+    {
+      "technology": "Vue.js",
+      "level": "Junior"
+    },
+    {
+      "technology": "PostgreSQL",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "TypeScript",
+      "level": "Junior"
+    },
+    {
+      "language": "Python",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Transport",
+      "Assurance"
+    ]
+  },
+  "summary": "Ingénieur Junior en Développeur Backend avec 0 ans d'expérience. Spécialisé en MongoDB, Vue.js, PostgreSQL. Maîtrise des langages TypeScript, Python. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 4",
+  "field_of_studies": "Génie Informatique",
+  "work_experience": "Chez CIH Bank (2026-2026), j'ai travaillé en tant que Développeur Backend en utilisant PostgreSQL, MongoDB, Node.js, Angular, Django, Redis et Java.",
+  "projects": "Projet 'API REST microservices' dans le secteur Transport en utilisant Node.js, Git, Redis. Projet 'Portail client bancaire' dans le secteur Transport en utilisant FastAPI, React, GraphQL. Projet 'Système de réservation en ligne' dans le secteur Assurance en utilisant Angular, Spring Boot, Kubernetes.",
+  "file_path": "synthetic_cvs/cv_0052_hicham_ouazzani.json",
+  "parsing_confidence": 0.86,
+  "experience_timeline": [
+    {
+      "year_start": 2026,
+      "year_end": 2026,
+      "company": "CIH Bank",
+      "skills_acquired": [
+        "PostgreSQL",
+        "MongoDB",
+        "Node.js",
+        "Angular",
+        "Django",
+        "Redis"
+      ],
+      "languages_used": [
+        "Java"
+      ]
+    }
+  ],
+  "universite": "ESGI",
+  "seniority_level_global": "Junior"
+}

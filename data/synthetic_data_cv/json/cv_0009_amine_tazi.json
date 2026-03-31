@@ -1,0 +1,97 @@
+{
+  "full_name": "Amine Tazi",
+  "email": "amine.tazi@gmail.com",
+  "phone": "+212 690 802 679",
+  "location": "Tétouan",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/amine-tazi",
+  "github": "github.com/amine66",
+  "roles_held": [
+    "Développeur Backend",
+    "Ingénieur API",
+    "Développeur Python"
+  ],
+  "programming_languages": [
+    "JavaScript",
+    "Go"
+  ],
+  "technical_skills": [
+    "Jenkins",
+    "GraphQL",
+    "REST API",
+    "Nginx",
+    "Tailwind CSS",
+    "Spring Boot",
+    "Angular",
+    "React",
+    "FastAPI",
+    "TypeScript",
+    "Node.js"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Arabe",
+    "Allemand"
+  ],
+  "certifications": [
+    "Microsoft Azure Developer"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Jenkins",
+      "level": "Medior"
+    },
+    {
+      "technology": "GraphQL",
+      "level": "Medior"
+    },
+    {
+      "technology": "REST API",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "JavaScript",
+      "level": "Medior"
+    },
+    {
+      "language": "Go",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Santé"
+    ]
+  },
+  "summary": "Ingénieur Medior en Développeur Backend avec 3 ans d'expérience. Spécialisé en Jenkins, GraphQL, REST API. Maîtrise des langages JavaScript, Go. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 3",
+  "field_of_studies": "Génie Logiciel",
+  "work_experience": "Chez Inwi (2023-2026), j'ai travaillé en tant que Développeur Python en utilisant HTML/CSS, GraphQL, PostgreSQL, Tailwind CSS, React, Nginx et TypeScript, PHP, Python.",
+  "projects": "Projet 'Dashboard de reporting temps réel' dans le secteur Santé en utilisant Kubernetes, Git, Angular. Projet 'Application de gestion RH' dans le secteur Santé en utilisant REST API, Nginx, Node.js.",
+  "file_path": "synthetic_cvs/cv_0009_amine_tazi.json",
+  "parsing_confidence": 0.99,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Inwi",
+      "skills_acquired": [
+        "HTML/CSS",
+        "GraphQL",
+        "PostgreSQL",
+        "Tailwind CSS",
+        "React",
+        "Nginx"
+      ],
+      "languages_used": [
+        "TypeScript",
+        "PHP",
+        "Python"
+      ]
+    }
+  ],
+  "universite": "HEM",
+  "seniority_level_global": "Medior"
+}

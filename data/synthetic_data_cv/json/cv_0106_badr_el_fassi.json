@@ -1,0 +1,93 @@
+{
+  "full_name": "Badr El Fassi",
+  "email": "badr.elfassi@gmail.com",
+  "phone": "+212 611 767 170",
+  "location": "Rabat",
+  "years_of_experience": 1,
+  "linkedin": "linkedin.com/in/badr-el-fassi",
+  "github": "github.com/badr36",
+  "roles_held": [
+    "DevOps Engineer"
+  ],
+  "programming_languages": [
+    "Go",
+    "YAML",
+    "Python"
+  ],
+  "technical_skills": [
+    "Docker",
+    "Terraform",
+    "GCP",
+    "Linux",
+    "AWS",
+    "Prometheus",
+    "GitLab CI/CD"
+  ],
+  "spoken_languages": [
+    "Français",
+    "Allemand",
+    "Anglais"
+  ],
+  "certifications": [
+    "Azure Administrator"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Docker",
+      "level": "Junior"
+    },
+    {
+      "technology": "Terraform",
+      "level": "Junior"
+    },
+    {
+      "technology": "GCP",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Go",
+      "level": "Junior"
+    },
+    {
+      "language": "YAML",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Immobilier",
+      "Énergie",
+      "E-commerce"
+    ]
+  },
+  "summary": "Professionnel DevOps Engineer avec 1 années d'expérience dans le développement de solutions techniques. Expert en Docker, Terraform, GCP. Forte maîtrise de Go, YAML avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Science des Données",
+  "work_experience": "Chez Inwi (2025-2026), j'ai travaillé en tant que DevOps Engineer en utilisant Linux, ArgoCD, Helm, GCP, Azure et Python, Bash, Go.",
+  "projects": "Projet 'Cluster Kubernetes haute disponibilité' dans le secteur E-commerce en utilisant AWS, GCP, Docker. Projet 'Migration infrastructure vers le Cloud' dans le secteur Immobilier en utilisant Docker, Terraform, Kubernetes.",
+  "file_path": "synthetic_cvs/cv_0106_badr_el_fassi.json",
+  "parsing_confidence": 0.78,
+  "experience_timeline": [
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "Inwi",
+      "skills_acquired": [
+        "Linux",
+        "ArgoCD",
+        "Helm",
+        "GCP",
+        "Azure"
+      ],
+      "languages_used": [
+        "Python",
+        "Bash",
+        "Go"
+      ]
+    }
+  ],
+  "universite": "ENSA Rabat",
+  "seniority_level_global": "Junior"
+}

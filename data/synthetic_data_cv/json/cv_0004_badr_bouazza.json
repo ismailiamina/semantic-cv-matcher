@@ -1,0 +1,137 @@
+{
+  "full_name": "Badr Bouazza",
+  "email": "badr.bouazza@gmail.com",
+  "phone": "+212 615 477 366",
+  "location": "Agadir",
+  "years_of_experience": 8,
+  "linkedin": "linkedin.com/in/badr-bouazza",
+  "github": "github.com/badr58",
+  "roles_held": [
+    "Scrum Master"
+  ],
+  "programming_languages": [
+    "Go",
+    "Python"
+  ],
+  "technical_skills": [
+    "Tailwind CSS",
+    "Kubernetes",
+    "Spring Boot",
+    "Redis",
+    "TypeScript",
+    "Vue.js",
+    "FastAPI",
+    "Node.js",
+    "Docker",
+    "Git"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Français"
+  ],
+  "certifications": [
+    "Kubernetes CKA",
+    "Microsoft Azure Developer"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Tailwind CSS",
+      "level": "Senior"
+    },
+    {
+      "technology": "Kubernetes",
+      "level": "Senior"
+    },
+    {
+      "technology": "Spring Boot",
+      "level": "Senior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Go",
+      "level": "Senior"
+    },
+    {
+      "language": "Python",
+      "level": "Senior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Logistique"
+    ]
+  },
+  "summary": "Professionnel Scrum Master avec 8 années d'expérience dans le développement de solutions techniques. Expert en Tailwind CSS, Kubernetes, Spring Boot. Forte maîtrise de Go, Python avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Génie Informatique",
+  "work_experience": "Chez Leyton (2018-2019), j'ai travaillé en tant que Scrum Master en utilisant Angular, React, MongoDB, Tailwind CSS, Vue.js et TypeScript, Python. Chez Leyton (2019-2020), j'ai travaillé en tant que Scrum Master en utilisant TypeScript, Angular, Django et PHP, Java, JavaScript. Chez CGI Maroc (2020-2023), j'ai travaillé en tant que Scrum Master en utilisant PostgreSQL, Nginx, Kubernetes, Tailwind CSS et TypeScript. Chez Leyton (2023-2026), j'ai travaillé en tant que Scrum Master en utilisant PostgreSQL, TypeScript, Django, GraphQL et TypeScript, JavaScript, Go.",
+  "projects": "Projet 'Système de réservation en ligne' dans le secteur Logistique en utilisant Jenkins, Spring Boot, MongoDB. Projet 'Application de gestion RH' dans le secteur Logistique en utilisant GraphQL, Git, MongoDB.",
+  "file_path": "synthetic_cvs/cv_0004_badr_bouazza.json",
+  "parsing_confidence": 0.86,
+  "experience_timeline": [
+    {
+      "year_start": 2018,
+      "year_end": 2019,
+      "company": "Leyton",
+      "skills_acquired": [
+        "Angular",
+        "React",
+        "MongoDB",
+        "Tailwind CSS",
+        "Vue.js"
+      ],
+      "languages_used": [
+        "TypeScript",
+        "Python"
+      ]
+    },
+    {
+      "year_start": 2019,
+      "year_end": 2020,
+      "company": "Leyton",
+      "skills_acquired": [
+        "TypeScript",
+        "Angular",
+        "Django"
+      ],
+      "languages_used": [
+        "PHP",
+        "Java",
+        "JavaScript"
+      ]
+    },
+    {
+      "year_start": 2020,
+      "year_end": 2023,
+      "company": "CGI Maroc",
+      "skills_acquired": [
+        "PostgreSQL",
+        "Nginx",
+        "Kubernetes",
+        "Tailwind CSS"
+      ],
+      "languages_used": [
+        "TypeScript"
+      ]
+    },
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Leyton",
+      "skills_acquired": [
+        "PostgreSQL",
+        "TypeScript",
+        "Django",
+        "GraphQL"
+      ],
+      "languages_used": [
+        "TypeScript",
+        "JavaScript",
+        "Go"
+      ]
+    }
+  ],
+  "universite": "INPT",
+  "seniority_level_global": "Senior"
+}

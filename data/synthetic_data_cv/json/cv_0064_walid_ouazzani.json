@@ -1,0 +1,126 @@
+{
+  "full_name": "Walid Ouazzani",
+  "email": "walid.ouazzani@gmail.com",
+  "phone": "+212 621 339 625",
+  "location": "Oujda",
+  "years_of_experience": 6,
+  "linkedin": "linkedin.com/in/walid-ouazzani",
+  "github": "github.com/walid46",
+  "roles_held": [
+    "Ingénieur QA",
+    "Test Automation Engineer"
+  ],
+  "programming_languages": [
+    "Java",
+    "PHP"
+  ],
+  "technical_skills": [
+    "TypeScript",
+    "Jenkins",
+    "Nginx",
+    "React",
+    "Kubernetes",
+    "PostgreSQL",
+    "MongoDB",
+    "Angular",
+    "Spring Boot",
+    "FastAPI",
+    "Redis",
+    "HTML/CSS"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Espagnol"
+  ],
+  "certifications": [
+    "Google Associate Cloud Engineer"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "TypeScript",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "Jenkins",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "Nginx",
+      "level": "Confirmé"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Java",
+      "level": "Confirmé"
+    },
+    {
+      "language": "PHP",
+      "level": "Confirmé"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Télécommunications",
+      "Manufacturing",
+      "Éducation"
+    ]
+  },
+  "summary": "Ingénieur Confirmé en Ingénieur QA avec 6 ans d'expérience. Spécialisé en TypeScript, Jenkins, Nginx. Maîtrise des langages Java, PHP. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Cybersécurité",
+  "work_experience": "Chez Ernst & Young (2020-2023), j'ai travaillé en tant que Test Automation Engineer en utilisant Git, Redis, Tailwind CSS et Java, Go, TypeScript. Chez Ernst & Young (2023-2024), j'ai travaillé en tant que Test Automation Engineer en utilisant Git, GraphQL, FastAPI, TypeScript, MongoDB, Redis et Python. Chez Attijariwafa Bank (2024-2026), j'ai travaillé en tant que Test Automation Engineer en utilisant GraphQL, Docker, TypeScript, PostgreSQL, Angular et PHP.",
+  "projects": "Projet 'Portail client bancaire' dans le secteur Télécommunications en utilisant Tailwind CSS, PostgreSQL, HTML/CSS. Projet 'Système de réservation en ligne' dans le secteur Télécommunications en utilisant Angular, Kubernetes, Node.js.",
+  "file_path": "synthetic_cvs/cv_0064_walid_ouazzani.json",
+  "parsing_confidence": 0.93,
+  "experience_timeline": [
+    {
+      "year_start": 2020,
+      "year_end": 2023,
+      "company": "Ernst & Young",
+      "skills_acquired": [
+        "Git",
+        "Redis",
+        "Tailwind CSS"
+      ],
+      "languages_used": [
+        "Java",
+        "Go",
+        "TypeScript"
+      ]
+    },
+    {
+      "year_start": 2023,
+      "year_end": 2024,
+      "company": "Ernst & Young",
+      "skills_acquired": [
+        "Git",
+        "GraphQL",
+        "FastAPI",
+        "TypeScript",
+        "MongoDB",
+        "Redis"
+      ],
+      "languages_used": [
+        "Python"
+      ]
+    },
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "Attijariwafa Bank",
+      "skills_acquired": [
+        "GraphQL",
+        "Docker",
+        "TypeScript",
+        "PostgreSQL",
+        "Angular"
+      ],
+      "languages_used": [
+        "PHP"
+      ]
+    }
+  ],
+  "universite": "ESGI",
+  "seniority_level_global": "Confirmé"
+}

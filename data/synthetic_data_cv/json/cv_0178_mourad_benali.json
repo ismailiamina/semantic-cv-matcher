@@ -1,0 +1,106 @@
+{
+  "full_name": "Mourad Benali",
+  "email": "mourad.benali@gmail.com",
+  "phone": "+212 680 174 976",
+  "location": "Casablanca",
+  "years_of_experience": 4,
+  "linkedin": "linkedin.com/in/mourad-benali",
+  "github": "github.com/mourad31",
+  "roles_held": [
+    "Développeur Mobile",
+    "iOS Developer"
+  ],
+  "programming_languages": [
+    "Dart",
+    "JavaScript"
+  ],
+  "technical_skills": [
+    "Fastlane",
+    "Xcode",
+    "GraphQL",
+    "Redux",
+    "Jetpack Compose",
+    "Android Studio",
+    "SwiftUI",
+    "SQLite",
+    "React Native",
+    "REST API",
+    "Flutter",
+    "Firebase"
+  ],
+  "spoken_languages": [
+    "Allemand",
+    "Anglais",
+    "Français"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Fastlane",
+      "level": "Medior"
+    },
+    {
+      "technology": "Xcode",
+      "level": "Medior"
+    },
+    {
+      "technology": "GraphQL",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Dart",
+      "level": "Medior"
+    },
+    {
+      "language": "JavaScript",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Finance",
+      "Manufacturing",
+      "Éducation"
+    ]
+  },
+  "summary": "Ingénieur Medior en Développeur Mobile avec 4 ans d'expérience. Spécialisé en Fastlane, Xcode, GraphQL. Maîtrise des langages Dart, JavaScript. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 4",
+  "field_of_studies": "Génie Logiciel",
+  "work_experience": "Chez BMCE Bank (2022-2024), j'ai travaillé en tant que Développeur Mobile en utilisant Fastlane, Redux, TestFlight et Kotlin. Chez Sopra Steria (2024-2026), j'ai travaillé en tant que Développeur Mobile en utilisant REST API, Android Studio, Xcode et Dart, Swift.",
+  "projects": "Projet 'Application de livraison en temps réel' dans le secteur Finance en utilisant TestFlight, Jetpack Compose, React Native. Projet 'Application e-commerce mobile' dans le secteur Éducation en utilisant Firebase, SwiftUI, Xcode. Projet 'Application santé et fitness' dans le secteur Manufacturing en utilisant SwiftUI, GraphQL, Redux. Projet 'Application mobile bancaire' dans le secteur Manufacturing en utilisant React Native, Fastlane, SQLite.",
+  "file_path": "synthetic_cvs/cv_0178_mourad_benali.json",
+  "parsing_confidence": 0.8,
+  "experience_timeline": [
+    {
+      "year_start": 2022,
+      "year_end": 2024,
+      "company": "BMCE Bank",
+      "skills_acquired": [
+        "Fastlane",
+        "Redux",
+        "TestFlight"
+      ],
+      "languages_used": [
+        "Kotlin"
+      ]
+    },
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "Sopra Steria",
+      "skills_acquired": [
+        "REST API",
+        "Android Studio",
+        "Xcode"
+      ],
+      "languages_used": [
+        "Dart",
+        "Swift"
+      ]
+    }
+  ],
+  "universite": "INSEA",
+  "seniority_level_global": "Medior"
+}

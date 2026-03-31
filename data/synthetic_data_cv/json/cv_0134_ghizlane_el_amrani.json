@@ -1,0 +1,134 @@
+{
+  "full_name": "Ghizlane El Amrani",
+  "email": "ghizlane.elamrani@gmail.com",
+  "phone": "+212 612 789 185",
+  "location": "Oujda",
+  "years_of_experience": 10,
+  "linkedin": "linkedin.com/in/ghizlane-el-amrani",
+  "github": "github.com/ghizlane20",
+  "roles_held": [
+    "DevOps Engineer"
+  ],
+  "programming_languages": [
+    "Go",
+    "Python",
+    "HCL",
+    "Bash"
+  ],
+  "technical_skills": [
+    "Azure",
+    "ArgoCD",
+    "AWS",
+    "Ansible",
+    "Prometheus",
+    "Grafana",
+    "GCP",
+    "Linux"
+  ],
+  "spoken_languages": [
+    "Français",
+    "Espagnol"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Azure",
+      "level": "Senior"
+    },
+    {
+      "technology": "ArgoCD",
+      "level": "Senior"
+    },
+    {
+      "technology": "AWS",
+      "level": "Senior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Go",
+      "level": "Senior"
+    },
+    {
+      "language": "Python",
+      "level": "Senior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Télécommunications"
+    ]
+  },
+  "summary": "10 ans d'expérience en tant que DevOps Engineer. Compétences avancées en Azure, ArgoCD, AWS. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 4",
+  "field_of_studies": "Cloud Computing",
+  "work_experience": "Chez Société Générale (2016-2017), j'ai travaillé en tant que DevOps Engineer en utilisant Ansible, Jenkins, GitLab CI/CD et Go, Bash. Chez Attijariwafa Bank (2017-2019), j'ai travaillé en tant que DevOps Engineer en utilisant Terraform, ArgoCD, Linux, Bash et Bash, YAML, Python. Chez Société Générale (2019-2022), j'ai travaillé en tant que DevOps Engineer en utilisant Prometheus, Linux, Kubernetes, Grafana et HCL, Python. Chez Renault Maroc (2022-2026), j'ai travaillé en tant que DevOps Engineer en utilisant GCP, Prometheus, ArgoCD, Linux et YAML, HCL, Bash.",
+  "projects": "Projet 'Infrastructure as Code avec Terraform' dans le secteur Télécommunications en utilisant Azure, GitLab CI/CD, Jenkins. Projet 'Monitoring et alerting centralisé' dans le secteur Télécommunications en utilisant Bash, ArgoCD, GitLab CI/CD.",
+  "file_path": "synthetic_cvs/cv_0134_ghizlane_el_amrani.json",
+  "parsing_confidence": 0.98,
+  "experience_timeline": [
+    {
+      "year_start": 2016,
+      "year_end": 2017,
+      "company": "Société Générale",
+      "skills_acquired": [
+        "Ansible",
+        "Jenkins",
+        "GitLab CI/CD"
+      ],
+      "languages_used": [
+        "Go",
+        "Bash"
+      ]
+    },
+    {
+      "year_start": 2017,
+      "year_end": 2019,
+      "company": "Attijariwafa Bank",
+      "skills_acquired": [
+        "Terraform",
+        "ArgoCD",
+        "Linux",
+        "Bash"
+      ],
+      "languages_used": [
+        "Bash",
+        "YAML",
+        "Python"
+      ]
+    },
+    {
+      "year_start": 2019,
+      "year_end": 2022,
+      "company": "Société Générale",
+      "skills_acquired": [
+        "Prometheus",
+        "Linux",
+        "Kubernetes",
+        "Grafana"
+      ],
+      "languages_used": [
+        "HCL",
+        "Python"
+      ]
+    },
+    {
+      "year_start": 2022,
+      "year_end": 2026,
+      "company": "Renault Maroc",
+      "skills_acquired": [
+        "GCP",
+        "Prometheus",
+        "ArgoCD",
+        "Linux"
+      ],
+      "languages_used": [
+        "YAML",
+        "HCL",
+        "Bash"
+      ]
+    }
+  ],
+  "universite": "UIR",
+  "seniority_level_global": "Senior"
+}

@@ -1,0 +1,95 @@
+{
+  "full_name": "Ilias Rahimi",
+  "email": "ilias.rahimi@gmail.com",
+  "phone": "+212 655 380 498",
+  "location": "Oujda",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/ilias-rahimi",
+  "github": "github.com/ilias44",
+  "roles_held": [
+    "Développeur Mobile",
+    "iOS Developer",
+    "Android Developer"
+  ],
+  "programming_languages": [
+    "JavaScript",
+    "Kotlin"
+  ],
+  "technical_skills": [
+    "SQLite",
+    "Fastlane",
+    "Jetpack Compose",
+    "REST API",
+    "Xcode",
+    "Firebase",
+    "React Native",
+    "GraphQL",
+    "TestFlight",
+    "Flutter",
+    "SwiftUI"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Français",
+    "Arabe"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "SQLite",
+      "level": "Medior"
+    },
+    {
+      "technology": "Fastlane",
+      "level": "Medior"
+    },
+    {
+      "technology": "Jetpack Compose",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "JavaScript",
+      "level": "Medior"
+    },
+    {
+      "language": "Kotlin",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Immobilier",
+      "E-commerce",
+      "Banque"
+    ]
+  },
+  "summary": "Professionnel Développeur Mobile avec 3 années d'expérience dans le développement de solutions techniques. Expert en SQLite, Fastlane, Jetpack Compose. Forte maîtrise de JavaScript, Kotlin avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Développement Web",
+  "work_experience": "Chez TotalEnergies Maroc (2023-2026), j'ai travaillé en tant que iOS Developer en utilisant Redux, Fastlane, Flutter, TestFlight et Kotlin, Swift, Dart.",
+  "projects": "Projet 'Application e-commerce mobile' dans le secteur E-commerce en utilisant Jetpack Compose, Fastlane, Redux. Projet 'Application santé et fitness' dans le secteur Immobilier en utilisant Jetpack Compose, Android Studio, Redux.",
+  "file_path": "synthetic_cvs/cv_0109_ilias_rahimi.json",
+  "parsing_confidence": 0.89,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "TotalEnergies Maroc",
+      "skills_acquired": [
+        "Redux",
+        "Fastlane",
+        "Flutter",
+        "TestFlight"
+      ],
+      "languages_used": [
+        "Kotlin",
+        "Swift",
+        "Dart"
+      ]
+    }
+  ],
+  "universite": "UIR",
+  "seniority_level_global": "Medior"
+}

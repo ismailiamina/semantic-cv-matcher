@@ -1,0 +1,96 @@
+{
+  "full_name": "Zakaria Tahiri",
+  "email": "zakaria.tahiri@gmail.com",
+  "phone": "+212 644 245 727",
+  "location": "Agadir",
+  "years_of_experience": 1,
+  "linkedin": "linkedin.com/in/zakaria-tahiri",
+  "github": "github.com/zakaria29",
+  "roles_held": [
+    "Data Analyst",
+    "Business Intelligence Developer",
+    "Data Scientist"
+  ],
+  "programming_languages": [
+    "Python",
+    "Julia",
+    "R",
+    "Scala"
+  ],
+  "technical_skills": [
+    "Docker",
+    "Pandas",
+    "PyTorch",
+    "Redis",
+    "AWS SageMaker",
+    "Apache Spark",
+    "TensorFlow",
+    "Airflow",
+    "Machine Learning",
+    "MLflow",
+    "Power BI",
+    "Tableau"
+  ],
+  "spoken_languages": [
+    "Français",
+    "Allemand"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Docker",
+      "level": "Junior"
+    },
+    {
+      "technology": "Pandas",
+      "level": "Junior"
+    },
+    {
+      "technology": "PyTorch",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Python",
+      "level": "Junior"
+    },
+    {
+      "language": "Julia",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Immobilier",
+      "Logistique"
+    ]
+  },
+  "summary": "Professionnel Data Analyst avec 1 années d'expérience dans le développement de solutions techniques. Expert en Docker, Pandas, PyTorch. Forte maîtrise de Python, Julia avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 3",
+  "field_of_studies": "Réseaux et Télécommunications",
+  "work_experience": "Chez HPS (2025-2026), j'ai travaillé en tant que Business Intelligence Developer en utilisant Pandas, FastAPI, Kafka, Apache Spark et Julia, Python, R.",
+  "projects": "Projet 'Système de recommandation produits' dans le secteur Immobilier en utilisant Tableau, Deep Learning, Machine Learning. Projet 'Dashboard analytique Business Intelligence' dans le secteur Immobilier en utilisant Apache Spark, FastAPI, Deep Learning. Projet 'Chatbot intelligent basé sur NLP' dans le secteur Logistique en utilisant AWS SageMaker, Kubernetes, NumPy.",
+  "file_path": "synthetic_cvs/cv_0145_zakaria_tahiri.json",
+  "parsing_confidence": 0.84,
+  "experience_timeline": [
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "HPS",
+      "skills_acquired": [
+        "Pandas",
+        "FastAPI",
+        "Kafka",
+        "Apache Spark"
+      ],
+      "languages_used": [
+        "Julia",
+        "Python",
+        "R"
+      ]
+    }
+  ],
+  "universite": "ENSA Marrakech",
+  "seniority_level_global": "Junior"
+}

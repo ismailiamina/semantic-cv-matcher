@@ -1,0 +1,90 @@
+{
+  "full_name": "Meryem Moussaoui",
+  "email": "meryem.moussaoui@gmail.com",
+  "phone": "+212 675 786 860",
+  "location": "Tanger",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/meryem-moussaoui",
+  "github": "github.com/meryem28",
+  "roles_held": [
+    "Data Analyst",
+    "Business Intelligence Developer"
+  ],
+  "programming_languages": [
+    "Scala",
+    "SQL",
+    "R"
+  ],
+  "technical_skills": [
+    "AWS SageMaker",
+    "Pandas",
+    "Power BI",
+    "Apache Spark",
+    "Airflow",
+    "PyTorch",
+    "Kafka",
+    "Scikit-learn",
+    "TensorFlow",
+    "Docker"
+  ],
+  "spoken_languages": [
+    "Français",
+    "Arabe"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "AWS SageMaker",
+      "level": "Medior"
+    },
+    {
+      "technology": "Pandas",
+      "level": "Medior"
+    },
+    {
+      "technology": "Power BI",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Scala",
+      "level": "Medior"
+    },
+    {
+      "language": "SQL",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Assurance"
+    ]
+  },
+  "summary": "Ingénieur Medior en Data Analyst avec 3 ans d'expérience. Spécialisé en AWS SageMaker, Pandas, Power BI. Maîtrise des langages Scala, SQL. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Génie Informatique",
+  "work_experience": "Chez IBM Maroc (2023-2026), j'ai travaillé en tant que Business Intelligence Developer en utilisant TensorFlow, Kafka, Power BI, Redis et R, Julia.",
+  "projects": "Projet 'Pipeline de données en temps réel' dans le secteur Assurance en utilisant Tableau, Airflow, Scikit-learn. Projet 'Système de recommandation produits' dans le secteur Assurance en utilisant FastAPI, Tableau, Apache Spark.",
+  "file_path": "synthetic_cvs/cv_0072_meryem_moussaoui.json",
+  "parsing_confidence": 0.97,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "IBM Maroc",
+      "skills_acquired": [
+        "TensorFlow",
+        "Kafka",
+        "Power BI",
+        "Redis"
+      ],
+      "languages_used": [
+        "R",
+        "Julia"
+      ]
+    }
+  ],
+  "universite": "HEM",
+  "seniority_level_global": "Medior"
+}

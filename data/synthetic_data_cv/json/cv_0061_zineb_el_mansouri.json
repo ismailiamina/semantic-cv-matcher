@@ -1,0 +1,125 @@
+{
+  "full_name": "Zineb El Mansouri",
+  "email": "zineb.elmansouri@gmail.com",
+  "phone": "+212 620 873 295",
+  "location": "Tanger",
+  "years_of_experience": 7,
+  "linkedin": "linkedin.com/in/zineb-el-mansouri",
+  "github": "github.com/zineb72",
+  "roles_held": [
+    "Développeur Mobile",
+    "iOS Developer",
+    "Android Developer"
+  ],
+  "programming_languages": [
+    "Dart",
+    "Swift"
+  ],
+  "technical_skills": [
+    "Xcode",
+    "Firebase",
+    "Redux",
+    "TestFlight",
+    "Fastlane",
+    "Jetpack Compose",
+    "SwiftUI",
+    "SQLite"
+  ],
+  "spoken_languages": [
+    "Allemand",
+    "Espagnol"
+  ],
+  "certifications": [
+    "Google Cloud Professional",
+    "Kubernetes CKA"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Xcode",
+      "level": "Senior"
+    },
+    {
+      "technology": "Firebase",
+      "level": "Senior"
+    },
+    {
+      "technology": "Redux",
+      "level": "Senior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Dart",
+      "level": "Senior"
+    },
+    {
+      "language": "Swift",
+      "level": "Senior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Santé",
+      "Manufacturing",
+      "Assurance"
+    ]
+  },
+  "summary": "7 ans d'expérience en tant que Développeur Mobile. Compétences avancées en Xcode, Firebase, Redux. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Génie Logiciel",
+  "work_experience": "Chez Orange Maroc (2019-2020), j'ai travaillé en tant que Android Developer en utilisant Flutter, SQLite, Redux et JavaScript, Kotlin. Chez Sopra Steria (2020-2021), j'ai travaillé en tant que iOS Developer en utilisant Flutter, SwiftUI, Jetpack Compose, Firebase et Dart, Swift, Kotlin. Chez OCP (2021-2026), j'ai travaillé en tant que iOS Developer en utilisant GraphQL, Redux, React Native, TestFlight, SwiftUI, Fastlane et JavaScript, Dart.",
+  "projects": "Projet 'Application santé et fitness' dans le secteur Santé en utilisant Xcode, Fastlane, Jetpack Compose. Projet 'Application e-commerce mobile' dans le secteur Assurance en utilisant Xcode, GraphQL, Jetpack Compose. Projet 'Application mobile bancaire' dans le secteur Manufacturing en utilisant TestFlight, React Native, Redux.",
+  "file_path": "synthetic_cvs/cv_0061_zineb_el_mansouri.json",
+  "parsing_confidence": 0.96,
+  "experience_timeline": [
+    {
+      "year_start": 2019,
+      "year_end": 2020,
+      "company": "Orange Maroc",
+      "skills_acquired": [
+        "Flutter",
+        "SQLite",
+        "Redux"
+      ],
+      "languages_used": [
+        "JavaScript",
+        "Kotlin"
+      ]
+    },
+    {
+      "year_start": 2020,
+      "year_end": 2021,
+      "company": "Sopra Steria",
+      "skills_acquired": [
+        "Flutter",
+        "SwiftUI",
+        "Jetpack Compose",
+        "Firebase"
+      ],
+      "languages_used": [
+        "Dart",
+        "Swift",
+        "Kotlin"
+      ]
+    },
+    {
+      "year_start": 2021,
+      "year_end": 2026,
+      "company": "OCP",
+      "skills_acquired": [
+        "GraphQL",
+        "Redux",
+        "React Native",
+        "TestFlight",
+        "SwiftUI",
+        "Fastlane"
+      ],
+      "languages_used": [
+        "JavaScript",
+        "Dart"
+      ]
+    }
+  ],
+  "universite": "ENSEM",
+  "seniority_level_global": "Senior"
+}

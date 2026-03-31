@@ -1,0 +1,96 @@
+{
+  "full_name": "Bilal Filali",
+  "email": "bilal.filali@gmail.com",
+  "phone": "+212 648 904 851",
+  "location": "Agadir",
+  "years_of_experience": 0,
+  "linkedin": "linkedin.com/in/bilal-filali",
+  "github": "github.com/bilal44",
+  "roles_held": [
+    "DevOps Engineer",
+    "SRE Engineer",
+    "Cloud Architect"
+  ],
+  "programming_languages": [
+    "YAML",
+    "Python",
+    "Bash",
+    "HCL"
+  ],
+  "technical_skills": [
+    "Jenkins",
+    "GCP",
+    "Bash",
+    "Ansible",
+    "Azure",
+    "Linux",
+    "Helm",
+    "Kubernetes",
+    "ELK Stack",
+    "Docker",
+    "Grafana"
+  ],
+  "spoken_languages": [
+    "Français",
+    "Anglais",
+    "Espagnol"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Jenkins",
+      "level": "Junior"
+    },
+    {
+      "technology": "GCP",
+      "level": "Junior"
+    },
+    {
+      "technology": "Bash",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "YAML",
+      "level": "Junior"
+    },
+    {
+      "language": "Python",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "E-commerce",
+      "Immobilier"
+    ]
+  },
+  "summary": "Professionnel DevOps Engineer avec 0 années d'expérience dans le développement de solutions techniques. Expert en Jenkins, GCP, Bash. Forte maîtrise de YAML, Python avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Cloud Computing",
+  "work_experience": "Chez BMCE Bank (2026-2026), j'ai travaillé en tant que SRE Engineer en utilisant Azure, Bash, Ansible, GitLab CI/CD, Prometheus et YAML, HCL.",
+  "projects": "Projet 'Monitoring et alerting centralisé' dans le secteur E-commerce en utilisant Linux, Bash, AWS. Projet 'Cluster Kubernetes haute disponibilité' dans le secteur E-commerce en utilisant Ansible, Linux, GCP. Projet 'Pipeline CI/CD automatisé' dans le secteur E-commerce en utilisant Ansible, Kubernetes, ELK Stack. Projet 'Migration infrastructure vers le Cloud' dans le secteur Immobilier en utilisant GitLab CI/CD, Ansible, Linux.",
+  "file_path": "synthetic_cvs/cv_0042_bilal_filali.json",
+  "parsing_confidence": 0.82,
+  "experience_timeline": [
+    {
+      "year_start": 2026,
+      "year_end": 2026,
+      "company": "BMCE Bank",
+      "skills_acquired": [
+        "Azure",
+        "Bash",
+        "Ansible",
+        "GitLab CI/CD",
+        "Prometheus"
+      ],
+      "languages_used": [
+        "YAML",
+        "HCL"
+      ]
+    }
+  ],
+  "universite": "HEM",
+  "seniority_level_global": "Junior"
+}

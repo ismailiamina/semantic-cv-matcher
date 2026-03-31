@@ -1,0 +1,84 @@
+{
+  "full_name": "Khadija Boutaleb",
+  "email": "khadija.boutaleb@gmail.com",
+  "phone": "+212 646 757 304",
+  "location": "Agadir",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/khadija-boutaleb",
+  "github": "github.com/khadija56",
+  "roles_held": [
+    "Scrum Master"
+  ],
+  "programming_languages": [
+    "Go",
+    "PHP",
+    "Java"
+  ],
+  "technical_skills": [
+    "Nginx",
+    "Tailwind CSS",
+    "Angular",
+    "React",
+    "Node.js"
+  ],
+  "spoken_languages": [
+    "Français",
+    "Allemand"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Nginx",
+      "level": "Medior"
+    },
+    {
+      "technology": "Tailwind CSS",
+      "level": "Medior"
+    },
+    {
+      "technology": "Angular",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Go",
+      "level": "Medior"
+    },
+    {
+      "language": "PHP",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Assurance",
+      "Manufacturing",
+      "Transport"
+    ]
+  },
+  "summary": "Professionnel Scrum Master avec 3 années d'expérience dans le développement de solutions techniques. Expert en Nginx, Tailwind CSS, Angular. Forte maîtrise de Go, PHP avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 3",
+  "field_of_studies": "Science des Données",
+  "work_experience": "Chez Capgemini Maroc (2023-2026), j'ai travaillé en tant que Scrum Master en utilisant Vue.js, Spring Boot, PostgreSQL et Go.",
+  "projects": "Projet 'Portail client bancaire' dans le secteur Transport en utilisant React, Django, REST API. Projet 'API REST microservices' dans le secteur Manufacturing en utilisant Git, Redis, Docker. Projet 'Plateforme e-commerce full stack' dans le secteur Manufacturing en utilisant Docker, Redis, Jenkins. Projet 'Dashboard de reporting temps réel' dans le secteur Transport en utilisant FastAPI, React, REST API.",
+  "file_path": "synthetic_cvs/cv_0043_khadija_boutaleb.json",
+  "parsing_confidence": 0.91,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Capgemini Maroc",
+      "skills_acquired": [
+        "Vue.js",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "languages_used": [
+        "Go"
+      ]
+    }
+  ],
+  "universite": "FST Mohammedia",
+  "seniority_level_global": "Medior"
+}

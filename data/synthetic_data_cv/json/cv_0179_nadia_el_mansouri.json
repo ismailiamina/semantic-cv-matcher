@@ -1,0 +1,91 @@
+{
+  "full_name": "Nadia El Mansouri",
+  "email": "nadia.elmansouri@gmail.com",
+  "phone": "+212 681 740 354",
+  "location": "Kenitra",
+  "years_of_experience": 2,
+  "linkedin": "linkedin.com/in/nadia-el-mansouri",
+  "github": "github.com/nadia56",
+  "roles_held": [
+    "Data Analyst",
+    "Business Intelligence Developer",
+    "Data Scientist"
+  ],
+  "programming_languages": [
+    "R",
+    "SQL",
+    "Scala"
+  ],
+  "technical_skills": [
+    "Deep Learning",
+    "Tableau",
+    "Docker",
+    "Redis",
+    "TensorFlow"
+  ],
+  "spoken_languages": [
+    "Allemand",
+    "Français",
+    "Espagnol"
+  ],
+  "certifications": [
+    "CEH"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Deep Learning",
+      "level": "Junior"
+    },
+    {
+      "technology": "Tableau",
+      "level": "Junior"
+    },
+    {
+      "technology": "Docker",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "R",
+      "level": "Junior"
+    },
+    {
+      "language": "SQL",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Manufacturing",
+      "Transport",
+      "Énergie"
+    ]
+  },
+  "summary": "2 ans d'expérience en tant que Data Analyst. Compétences avancées en Deep Learning, Tableau, Docker. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Développement Web",
+  "work_experience": "Chez IBM Maroc (2024-2026), j'ai travaillé en tant que Data Analyst en utilisant Kafka, Deep Learning, Machine Learning, Docker et SQL, R.",
+  "projects": "Projet 'Pipeline de données en temps réel' dans le secteur Manufacturing en utilisant Tableau, Deep Learning, FastAPI. Projet 'Modèle de prédiction du churn client' dans le secteur Manufacturing en utilisant Elasticsearch, Tableau, Kafka. Projet 'Chatbot intelligent basé sur NLP' dans le secteur Énergie en utilisant Pandas, Airflow, TensorFlow.",
+  "file_path": "synthetic_cvs/cv_0179_nadia_el_mansouri.json",
+  "parsing_confidence": 0.8,
+  "experience_timeline": [
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "IBM Maroc",
+      "skills_acquired": [
+        "Kafka",
+        "Deep Learning",
+        "Machine Learning",
+        "Docker"
+      ],
+      "languages_used": [
+        "SQL",
+        "R"
+      ]
+    }
+  ],
+  "universite": "UIR",
+  "seniority_level_global": "Junior"
+}

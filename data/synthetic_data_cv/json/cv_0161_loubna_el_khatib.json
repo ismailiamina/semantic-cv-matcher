@@ -1,0 +1,98 @@
+{
+  "full_name": "Loubna El Khatib",
+  "email": "loubna.elkhatib@gmail.com",
+  "phone": "+212 640 813 154",
+  "location": "Meknès",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/loubna-el-khatib",
+  "github": "github.com/loubna97",
+  "roles_held": [
+    "Data Engineer"
+  ],
+  "programming_languages": [
+    "R",
+    "Scala"
+  ],
+  "technical_skills": [
+    "Docker",
+    "Apache Spark",
+    "Kafka",
+    "Kubernetes",
+    "Tableau",
+    "PyTorch",
+    "Deep Learning",
+    "Elasticsearch",
+    "Power BI",
+    "Scikit-learn",
+    "Redis",
+    "NumPy"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Arabe"
+  ],
+  "certifications": [
+    "AWS Solutions Architect",
+    "Kubernetes CKA"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Docker",
+      "level": "Medior"
+    },
+    {
+      "technology": "Apache Spark",
+      "level": "Medior"
+    },
+    {
+      "technology": "Kafka",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "R",
+      "level": "Medior"
+    },
+    {
+      "language": "Scala",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Santé",
+      "Transport",
+      "Finance"
+    ]
+  },
+  "summary": "3 ans d'expérience en tant que Data Engineer. Compétences avancées en Docker, Apache Spark, Kafka. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Réseaux et Télécommunications",
+  "work_experience": "Chez Atos Maroc (2023-2026), j'ai travaillé en tant que Data Engineer en utilisant Apache Spark, Pandas, Scikit-learn, Redis, Airflow, Docker et Julia, Scala, R.",
+  "projects": "Projet 'Pipeline de données en temps réel' dans le secteur Santé en utilisant Pandas, NumPy, Deep Learning. Projet 'Dashboard analytique Business Intelligence' dans le secteur Finance en utilisant Pandas, Kubernetes, Scikit-learn. Projet 'Modèle de prédiction du churn client' dans le secteur Transport en utilisant Machine Learning, FastAPI, Pandas. Projet 'Système de recommandation produits' dans le secteur Finance en utilisant Airflow, PyTorch, Docker.",
+  "file_path": "synthetic_cvs/cv_0161_loubna_el_khatib.json",
+  "parsing_confidence": 0.75,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Atos Maroc",
+      "skills_acquired": [
+        "Apache Spark",
+        "Pandas",
+        "Scikit-learn",
+        "Redis",
+        "Airflow",
+        "Docker"
+      ],
+      "languages_used": [
+        "Julia",
+        "Scala",
+        "R"
+      ]
+    }
+  ],
+  "universite": "EMSI",
+  "seniority_level_global": "Medior"
+}

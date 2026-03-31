@@ -1,0 +1,92 @@
+{
+  "full_name": "Omar Kettani",
+  "email": "omar.kettani@gmail.com",
+  "phone": "+212 680 707 271",
+  "location": "Meknès",
+  "years_of_experience": 2,
+  "linkedin": "linkedin.com/in/omar-kettani",
+  "github": "github.com/omar76",
+  "roles_held": [
+    "DevOps Engineer",
+    "SRE Engineer",
+    "Cloud Architect"
+  ],
+  "programming_languages": [
+    "Go",
+    "Bash"
+  ],
+  "technical_skills": [
+    "Docker",
+    "GitLab CI/CD",
+    "Linux",
+    "Bash",
+    "Ansible"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Anglais",
+    "Français"
+  ],
+  "certifications": [
+    "Google Associate Cloud Engineer"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Docker",
+      "level": "Junior"
+    },
+    {
+      "technology": "GitLab CI/CD",
+      "level": "Junior"
+    },
+    {
+      "technology": "Linux",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Go",
+      "level": "Junior"
+    },
+    {
+      "language": "Bash",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Énergie",
+      "Retail",
+      "Transport"
+    ]
+  },
+  "summary": "Ingénieur Junior en DevOps Engineer avec 2 ans d'expérience. Spécialisé en Docker, GitLab CI/CD, Linux. Maîtrise des langages Go, Bash. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Cloud Computing",
+  "work_experience": "Chez Inwi (2024-2026), j'ai travaillé en tant que Cloud Architect en utilisant ELK Stack, Docker, GCP, GitLab CI/CD, Linux et Bash, Go, YAML.",
+  "projects": "Projet 'Monitoring et alerting centralisé' dans le secteur Énergie en utilisant ArgoCD, GCP, Kubernetes. Projet 'Pipeline CI/CD automatisé' dans le secteur Énergie en utilisant ArgoCD, Jenkins, Azure. Projet 'Migration infrastructure vers le Cloud' dans le secteur Transport en utilisant GitLab CI/CD, AWS, ELK Stack.",
+  "file_path": "synthetic_cvs/cv_0063_omar_kettani.json",
+  "parsing_confidence": 0.83,
+  "experience_timeline": [
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "Inwi",
+      "skills_acquired": [
+        "ELK Stack",
+        "Docker",
+        "GCP",
+        "GitLab CI/CD",
+        "Linux"
+      ],
+      "languages_used": [
+        "Bash",
+        "Go",
+        "YAML"
+      ]
+    }
+  ],
+  "universite": "FST Mohammedia",
+  "seniority_level_global": "Junior"
+}

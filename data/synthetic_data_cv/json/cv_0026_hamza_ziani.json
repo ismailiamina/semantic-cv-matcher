@@ -1,0 +1,98 @@
+{
+  "full_name": "Hamza Ziani",
+  "email": "hamza.ziani@gmail.com",
+  "phone": "+212 658 987 513",
+  "location": "Tanger",
+  "years_of_experience": 1,
+  "linkedin": "linkedin.com/in/hamza-ziani",
+  "github": "github.com/hamza14",
+  "roles_held": [
+    "Architecte Solutions",
+    "Tech Lead",
+    "CTO"
+  ],
+  "programming_languages": [
+    "Java",
+    "Python",
+    "JavaScript"
+  ],
+  "technical_skills": [
+    "FastAPI",
+    "Git",
+    "HTML/CSS",
+    "Kubernetes",
+    "Jenkins",
+    "PostgreSQL",
+    "Nginx",
+    "TypeScript",
+    "React",
+    "Vue.js",
+    "Docker"
+  ],
+  "spoken_languages": [
+    "Allemand",
+    "Français",
+    "Anglais"
+  ],
+  "certifications": [
+    "Kubernetes CKA"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "FastAPI",
+      "level": "Junior"
+    },
+    {
+      "technology": "Git",
+      "level": "Junior"
+    },
+    {
+      "technology": "HTML/CSS",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Java",
+      "level": "Junior"
+    },
+    {
+      "language": "Python",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Énergie",
+      "Manufacturing",
+      "Éducation"
+    ]
+  },
+  "summary": "Professionnel Architecte Solutions avec 1 années d'expérience dans le développement de solutions techniques. Expert en FastAPI, Git, HTML/CSS. Forte maîtrise de Java, Python avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Réseaux et Télécommunications",
+  "work_experience": "Chez Oracle Maroc (2025-2026), j'ai travaillé en tant que Tech Lead en utilisant Kubernetes, Spring Boot, Vue.js, HTML/CSS, Node.js et TypeScript, Python.",
+  "projects": "Projet 'Plateforme e-commerce full stack' dans le secteur Énergie en utilisant Nginx, GraphQL, Kubernetes. Projet 'API REST microservices' dans le secteur Éducation en utilisant TypeScript, REST API, Git.",
+  "file_path": "synthetic_cvs/cv_0026_hamza_ziani.json",
+  "parsing_confidence": 0.97,
+  "experience_timeline": [
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "Oracle Maroc",
+      "skills_acquired": [
+        "Kubernetes",
+        "Spring Boot",
+        "Vue.js",
+        "HTML/CSS",
+        "Node.js"
+      ],
+      "languages_used": [
+        "TypeScript",
+        "Python"
+      ]
+    }
+  ],
+  "universite": "EMSI",
+  "seniority_level_global": "Junior"
+}

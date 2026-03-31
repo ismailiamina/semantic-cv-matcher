@@ -1,0 +1,134 @@
+{
+  "full_name": "Othmane Rahimi",
+  "email": "othmane.rahimi@gmail.com",
+  "phone": "+212 654 591 284",
+  "location": "Kenitra",
+  "years_of_experience": 11,
+  "linkedin": "linkedin.com/in/othmane-rahimi",
+  "github": "github.com/othmane13",
+  "roles_held": [
+    "Développeur Full Stack",
+    "Ingénieur Backend",
+    "Développeur Frontend"
+  ],
+  "programming_languages": [
+    "TypeScript",
+    "Java",
+    "Go",
+    "Python"
+  ],
+  "technical_skills": [
+    "Git",
+    "Node.js",
+    "Tailwind CSS",
+    "Jenkins",
+    "Nginx"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Espagnol",
+    "Arabe"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Git",
+      "level": "Expert"
+    },
+    {
+      "technology": "Node.js",
+      "level": "Expert"
+    },
+    {
+      "technology": "Tailwind CSS",
+      "level": "Expert"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "TypeScript",
+      "level": "Expert"
+    },
+    {
+      "language": "Java",
+      "level": "Expert"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Assurance",
+      "Télécommunications"
+    ]
+  },
+  "summary": "Professionnel Développeur Full Stack avec 11 années d'expérience dans le développement de solutions techniques. Expert en Git, Node.js, Tailwind CSS. Forte maîtrise de TypeScript, Java avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Cloud Computing",
+  "work_experience": "Chez Ernst & Young (2015-2018), j'ai travaillé en tant que Développeur Full Stack en utilisant Docker, TypeScript, HTML/CSS et PHP, TypeScript, Go. Chez OCP (2018-2021), j'ai travaillé en tant que Développeur Full Stack en utilisant Spring Boot, Git, Django et TypeScript, Java, Python. Chez Ernst & Young (2021-2024), j'ai travaillé en tant que Développeur Full Stack en utilisant Django, GraphQL, REST API, Redis, Git et PHP, Java, Python. Chez OCP (2024-2026), j'ai travaillé en tant que Développeur Frontend en utilisant REST API, Nginx, Django et JavaScript.",
+  "projects": "Projet 'Dashboard de reporting temps réel' dans le secteur Télécommunications en utilisant TypeScript, React, Docker. Projet 'Application de gestion RH' dans le secteur Assurance en utilisant Redis, Vue.js, TypeScript. Projet 'Portail client bancaire' dans le secteur Télécommunications en utilisant Docker, PostgreSQL, Tailwind CSS. Projet 'Plateforme e-commerce full stack' dans le secteur Assurance en utilisant Tailwind CSS, Jenkins, Kubernetes.",
+  "file_path": "synthetic_cvs/cv_0154_othmane_rahimi.json",
+  "parsing_confidence": 0.81,
+  "experience_timeline": [
+    {
+      "year_start": 2015,
+      "year_end": 2018,
+      "company": "Ernst & Young",
+      "skills_acquired": [
+        "Docker",
+        "TypeScript",
+        "HTML/CSS"
+      ],
+      "languages_used": [
+        "PHP",
+        "TypeScript",
+        "Go"
+      ]
+    },
+    {
+      "year_start": 2018,
+      "year_end": 2021,
+      "company": "OCP",
+      "skills_acquired": [
+        "Spring Boot",
+        "Git",
+        "Django"
+      ],
+      "languages_used": [
+        "TypeScript",
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "year_start": 2021,
+      "year_end": 2024,
+      "company": "Ernst & Young",
+      "skills_acquired": [
+        "Django",
+        "GraphQL",
+        "REST API",
+        "Redis",
+        "Git"
+      ],
+      "languages_used": [
+        "PHP",
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "OCP",
+      "skills_acquired": [
+        "REST API",
+        "Nginx",
+        "Django"
+      ],
+      "languages_used": [
+        "JavaScript"
+      ]
+    }
+  ],
+  "universite": "HEM",
+  "seniority_level_global": "Expert"
+}

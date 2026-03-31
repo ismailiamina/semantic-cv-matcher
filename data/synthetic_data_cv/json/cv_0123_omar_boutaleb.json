@@ -1,0 +1,103 @@
+{
+  "full_name": "Omar Boutaleb",
+  "email": "omar.boutaleb@gmail.com",
+  "phone": "+212 690 681 765",
+  "location": "Rabat",
+  "years_of_experience": 5,
+  "linkedin": "linkedin.com/in/omar-boutaleb",
+  "github": "github.com/omar60",
+  "roles_held": [
+    "Scrum Master",
+    "Product Owner",
+    "Agile Coach"
+  ],
+  "programming_languages": [
+    "PHP",
+    "JavaScript"
+  ],
+  "technical_skills": [
+    "Django",
+    "MongoDB",
+    "TypeScript",
+    "Node.js",
+    "Kubernetes",
+    "Vue.js",
+    "Angular"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Allemand"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Django",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "MongoDB",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "TypeScript",
+      "level": "Confirmé"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "PHP",
+      "level": "Confirmé"
+    },
+    {
+      "language": "JavaScript",
+      "level": "Confirmé"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Santé"
+    ]
+  },
+  "summary": "Ingénieur Confirmé en Scrum Master avec 5 ans d'expérience. Spécialisé en Django, MongoDB, TypeScript. Maîtrise des langages PHP, JavaScript. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Génie Logiciel",
+  "work_experience": "Chez CIH Bank (2021-2025), j'ai travaillé en tant que Scrum Master en utilisant Tailwind CSS, TypeScript, Nginx, Docker, PostgreSQL et Go. Chez Accenture Maroc (2025-2026), j'ai travaillé en tant que Product Owner en utilisant Node.js, Tailwind CSS, Redis, Django, Spring Boot, HTML/CSS et TypeScript.",
+  "projects": "Projet 'Portail client bancaire' dans le secteur Santé en utilisant MongoDB, Tailwind CSS, React. Projet 'Système de réservation en ligne' dans le secteur Santé en utilisant Node.js, Vue.js, GraphQL.",
+  "file_path": "synthetic_cvs/cv_0123_omar_boutaleb.json",
+  "parsing_confidence": 0.88,
+  "experience_timeline": [
+    {
+      "year_start": 2021,
+      "year_end": 2025,
+      "company": "CIH Bank",
+      "skills_acquired": [
+        "Tailwind CSS",
+        "TypeScript",
+        "Nginx",
+        "Docker",
+        "PostgreSQL"
+      ],
+      "languages_used": [
+        "Go"
+      ]
+    },
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "Accenture Maroc",
+      "skills_acquired": [
+        "Node.js",
+        "Tailwind CSS",
+        "Redis",
+        "Django",
+        "Spring Boot",
+        "HTML/CSS"
+      ],
+      "languages_used": [
+        "TypeScript"
+      ]
+    }
+  ],
+  "universite": "UIR",
+  "seniority_level_global": "Confirmé"
+}

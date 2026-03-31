@@ -1,0 +1,109 @@
+{
+  "full_name": "Reda Bakkali",
+  "email": "reda.bakkali@gmail.com",
+  "phone": "+212 619 472 538",
+  "location": "Meknès",
+  "years_of_experience": 5,
+  "linkedin": "linkedin.com/in/reda-bakkali",
+  "github": "github.com/reda62",
+  "roles_held": [
+    "Data Analyst",
+    "Business Intelligence Developer"
+  ],
+  "programming_languages": [
+    "R",
+    "SQL",
+    "Scala",
+    "Python"
+  ],
+  "technical_skills": [
+    "Apache Spark",
+    "Elasticsearch",
+    "Power BI",
+    "Redis",
+    "Deep Learning",
+    "Pandas",
+    "AWS SageMaker",
+    "Docker",
+    "Kafka"
+  ],
+  "spoken_languages": [
+    "Français",
+    "Allemand",
+    "Arabe"
+  ],
+  "certifications": [
+    "Scrum Master PSM I"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Apache Spark",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "Elasticsearch",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "Power BI",
+      "level": "Confirmé"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "R",
+      "level": "Confirmé"
+    },
+    {
+      "language": "SQL",
+      "level": "Confirmé"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Finance",
+      "Immobilier",
+      "Banque"
+    ]
+  },
+  "summary": "Professionnel Data Analyst avec 5 années d'expérience dans le développement de solutions techniques. Expert en Apache Spark, Elasticsearch, Power BI. Forte maîtrise de R, SQL avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Développement Web",
+  "work_experience": "Chez Attijariwafa Bank (2021-2022), j'ai travaillé en tant que Data Analyst en utilisant Power BI, AWS SageMaker, Apache Spark, FastAPI, Airflow, Deep Learning et SQL. Chez Inwi (2022-2026), j'ai travaillé en tant que Data Analyst en utilisant Apache Spark, Power BI, Airflow et Scala.",
+  "projects": "Projet 'Dashboard analytique Business Intelligence' dans le secteur Banque en utilisant MLflow, Docker, Elasticsearch. Projet 'Pipeline de données en temps réel' dans le secteur Immobilier en utilisant PyTorch, Power BI, Tableau. Projet 'Modèle de prédiction du churn client' dans le secteur Immobilier en utilisant Tableau, FastAPI, Machine Learning. Projet 'Système de recommandation produits' dans le secteur Immobilier en utilisant Airflow, Kafka, Redis.",
+  "file_path": "synthetic_cvs/cv_0107_reda_bakkali.json",
+  "parsing_confidence": 0.78,
+  "experience_timeline": [
+    {
+      "year_start": 2021,
+      "year_end": 2022,
+      "company": "Attijariwafa Bank",
+      "skills_acquired": [
+        "Power BI",
+        "AWS SageMaker",
+        "Apache Spark",
+        "FastAPI",
+        "Airflow",
+        "Deep Learning"
+      ],
+      "languages_used": [
+        "SQL"
+      ]
+    },
+    {
+      "year_start": 2022,
+      "year_end": 2026,
+      "company": "Inwi",
+      "skills_acquired": [
+        "Apache Spark",
+        "Power BI",
+        "Airflow"
+      ],
+      "languages_used": [
+        "Scala"
+      ]
+    }
+  ],
+  "universite": "HEM",
+  "seniority_level_global": "Confirmé"
+}

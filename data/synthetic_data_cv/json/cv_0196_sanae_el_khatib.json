@@ -1,0 +1,109 @@
+{
+  "full_name": "Sanae El Khatib",
+  "email": "sanae.elkhatib@gmail.com",
+  "phone": "+212 638 931 845",
+  "location": "Oujda",
+  "years_of_experience": 5,
+  "linkedin": "linkedin.com/in/sanae-el-khatib",
+  "github": "github.com/sanae12",
+  "roles_held": [
+    "Architecte Solutions",
+    "Tech Lead",
+    "CTO"
+  ],
+  "programming_languages": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "technical_skills": [
+    "Angular",
+    "GraphQL",
+    "Jenkins",
+    "REST API",
+    "Spring Boot",
+    "Django",
+    "Nginx"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Allemand"
+  ],
+  "certifications": [
+    "Terraform Associate"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Angular",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "GraphQL",
+      "level": "Confirmé"
+    },
+    {
+      "technology": "Jenkins",
+      "level": "Confirmé"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "JavaScript",
+      "level": "Confirmé"
+    },
+    {
+      "language": "TypeScript",
+      "level": "Confirmé"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Transport",
+      "Assurance",
+      "E-commerce"
+    ]
+  },
+  "summary": "Ingénieur Confirmé en Architecte Solutions avec 5 ans d'expérience. Spécialisé en Angular, GraphQL, Jenkins. Maîtrise des langages JavaScript, TypeScript. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Systèmes Embarqués",
+  "work_experience": "Chez Attijariwafa Bank (2021-2023), j'ai travaillé en tant que Architecte Solutions en utilisant Kubernetes, TypeScript, FastAPI, Spring Boot, Nginx, PostgreSQL et JavaScript, Python, TypeScript. Chez Attijariwafa Bank (2023-2026), j'ai travaillé en tant que CTO en utilisant Redis, TypeScript, Spring Boot, Angular, FastAPI et Python.",
+  "projects": "Projet 'Système de réservation en ligne' dans le secteur Assurance en utilisant Kubernetes, PostgreSQL, MongoDB. Projet 'Portail client bancaire' dans le secteur Transport en utilisant TypeScript, Redis, Nginx. Projet 'API REST microservices' dans le secteur Transport en utilisant GraphQL, Spring Boot, FastAPI. Projet 'Dashboard de reporting temps réel' dans le secteur Transport en utilisant FastAPI, Tailwind CSS, Vue.js.",
+  "file_path": "synthetic_cvs/cv_0196_sanae_el_khatib.json",
+  "parsing_confidence": 0.97,
+  "experience_timeline": [
+    {
+      "year_start": 2021,
+      "year_end": 2023,
+      "company": "Attijariwafa Bank",
+      "skills_acquired": [
+        "Kubernetes",
+        "TypeScript",
+        "FastAPI",
+        "Spring Boot",
+        "Nginx",
+        "PostgreSQL"
+      ],
+      "languages_used": [
+        "JavaScript",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Attijariwafa Bank",
+      "skills_acquired": [
+        "Redis",
+        "TypeScript",
+        "Spring Boot",
+        "Angular",
+        "FastAPI"
+      ],
+      "languages_used": [
+        "Python"
+      ]
+    }
+  ],
+  "universite": "UIR",
+  "seniority_level_global": "Confirmé"
+}

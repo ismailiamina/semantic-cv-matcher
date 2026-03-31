@@ -1,0 +1,124 @@
+{
+  "full_name": "Mourad Tahiri",
+  "email": "mourad.tahiri@gmail.com",
+  "phone": "+212 694 581 490",
+  "location": "Agadir",
+  "years_of_experience": 7,
+  "linkedin": "linkedin.com/in/mourad-tahiri",
+  "github": "github.com/mourad91",
+  "roles_held": [
+    "Data Analyst"
+  ],
+  "programming_languages": [
+    "R",
+    "SQL",
+    "Scala"
+  ],
+  "technical_skills": [
+    "Redis",
+    "Elasticsearch",
+    "Tableau",
+    "MLflow",
+    "Airflow",
+    "FastAPI",
+    "NumPy",
+    "Kubernetes",
+    "PyTorch",
+    "Kafka"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Allemand"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Redis",
+      "level": "Senior"
+    },
+    {
+      "technology": "Elasticsearch",
+      "level": "Senior"
+    },
+    {
+      "technology": "Tableau",
+      "level": "Senior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "R",
+      "level": "Senior"
+    },
+    {
+      "language": "SQL",
+      "level": "Senior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Finance",
+      "Énergie",
+      "Éducation"
+    ]
+  },
+  "summary": "7 ans d'expérience en tant que Data Analyst. Compétences avancées en Redis, Elasticsearch, Tableau. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 4",
+  "field_of_studies": "Cloud Computing",
+  "work_experience": "Chez Renault Maroc (2019-2020), j'ai travaillé en tant que Data Analyst en utilisant Kubernetes, Scikit-learn, Pandas, Tableau, Airflow, Deep Learning et Julia, R. Chez Attijariwafa Bank (2020-2021), j'ai travaillé en tant que Data Analyst en utilisant Redis, PyTorch, Power BI, Scikit-learn, Tableau et Python, Scala. Chez BMCE Bank (2021-2026), j'ai travaillé en tant que Data Analyst en utilisant Scikit-learn, Machine Learning, FastAPI, NumPy et R, Python.",
+  "projects": "Projet 'Modèle de prédiction du churn client' dans le secteur Finance en utilisant Tableau, Apache Spark, Airflow. Projet 'Pipeline de données en temps réel' dans le secteur Finance en utilisant Apache Spark, Scikit-learn, Kubernetes. Projet 'Système de recommandation produits' dans le secteur Finance en utilisant Kafka, PyTorch, Kubernetes. Projet 'Détection de fraude par Machine Learning' dans le secteur Finance en utilisant Kafka, TensorFlow, Power BI.",
+  "file_path": "synthetic_cvs/cv_0104_mourad_tahiri.json",
+  "parsing_confidence": 0.93,
+  "experience_timeline": [
+    {
+      "year_start": 2019,
+      "year_end": 2020,
+      "company": "Renault Maroc",
+      "skills_acquired": [
+        "Kubernetes",
+        "Scikit-learn",
+        "Pandas",
+        "Tableau",
+        "Airflow",
+        "Deep Learning"
+      ],
+      "languages_used": [
+        "Julia",
+        "R"
+      ]
+    },
+    {
+      "year_start": 2020,
+      "year_end": 2021,
+      "company": "Attijariwafa Bank",
+      "skills_acquired": [
+        "Redis",
+        "PyTorch",
+        "Power BI",
+        "Scikit-learn",
+        "Tableau"
+      ],
+      "languages_used": [
+        "Python",
+        "Scala"
+      ]
+    },
+    {
+      "year_start": 2021,
+      "year_end": 2026,
+      "company": "BMCE Bank",
+      "skills_acquired": [
+        "Scikit-learn",
+        "Machine Learning",
+        "FastAPI",
+        "NumPy"
+      ],
+      "languages_used": [
+        "R",
+        "Python"
+      ]
+    }
+  ],
+  "universite": "UIR",
+  "seniority_level_global": "Senior"
+}

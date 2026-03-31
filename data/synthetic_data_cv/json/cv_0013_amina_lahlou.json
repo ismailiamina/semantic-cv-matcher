@@ -1,0 +1,93 @@
+{
+  "full_name": "Amina Lahlou",
+  "email": "amina.lahlou@gmail.com",
+  "phone": "+212 683 294 629",
+  "location": "Casablanca",
+  "years_of_experience": 1,
+  "linkedin": "linkedin.com/in/amina-lahlou",
+  "github": "github.com/amina91",
+  "roles_held": [
+    "Développeur Mobile",
+    "iOS Developer",
+    "Android Developer"
+  ],
+  "programming_languages": [
+    "Kotlin",
+    "Dart"
+  ],
+  "technical_skills": [
+    "Xcode",
+    "Firebase",
+    "React Native",
+    "TestFlight",
+    "GraphQL",
+    "SQLite",
+    "SwiftUI",
+    "REST API",
+    "Jetpack Compose",
+    "Redux"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Allemand",
+    "Français"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Xcode",
+      "level": "Junior"
+    },
+    {
+      "technology": "Firebase",
+      "level": "Junior"
+    },
+    {
+      "technology": "React Native",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Kotlin",
+      "level": "Junior"
+    },
+    {
+      "language": "Dart",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Logistique",
+      "Énergie",
+      "Assurance"
+    ]
+  },
+  "summary": "1 ans d'expérience en tant que Développeur Mobile. Compétences avancées en Xcode, Firebase, React Native. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Cloud Computing",
+  "work_experience": "Chez Ernst & Young (2025-2026), j'ai travaillé en tant que Android Developer en utilisant SQLite, Xcode, Firebase, Flutter et Dart, Kotlin.",
+  "projects": "Projet 'Application de livraison en temps réel' dans le secteur Énergie en utilisant Fastlane, SwiftUI, SQLite. Projet 'Application mobile bancaire' dans le secteur Logistique en utilisant Xcode, TestFlight, Redux.",
+  "file_path": "synthetic_cvs/cv_0013_amina_lahlou.json",
+  "parsing_confidence": 0.93,
+  "experience_timeline": [
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "Ernst & Young",
+      "skills_acquired": [
+        "SQLite",
+        "Xcode",
+        "Firebase",
+        "Flutter"
+      ],
+      "languages_used": [
+        "Dart",
+        "Kotlin"
+      ]
+    }
+  ],
+  "universite": "ENSA Casablanca",
+  "seniority_level_global": "Junior"
+}

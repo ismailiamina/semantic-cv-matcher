@@ -1,0 +1,122 @@
+{
+  "full_name": "Saad Berrada",
+  "email": "saad.berrada@gmail.com",
+  "phone": "+212 639 583 313",
+  "location": "Kenitra",
+  "years_of_experience": 7,
+  "linkedin": "linkedin.com/in/saad-berrada",
+  "github": "github.com/saad80",
+  "roles_held": [
+    "Data Analyst",
+    "Business Intelligence Developer"
+  ],
+  "programming_languages": [
+    "Python",
+    "SQL",
+    "R"
+  ],
+  "technical_skills": [
+    "Apache Spark",
+    "AWS SageMaker",
+    "Docker",
+    "Machine Learning",
+    "FastAPI",
+    "MLflow",
+    "Redis"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Espagnol"
+  ],
+  "certifications": [
+    "Scrum Master PSM I"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Apache Spark",
+      "level": "Senior"
+    },
+    {
+      "technology": "AWS SageMaker",
+      "level": "Senior"
+    },
+    {
+      "technology": "Docker",
+      "level": "Senior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Python",
+      "level": "Senior"
+    },
+    {
+      "language": "SQL",
+      "level": "Senior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Logistique",
+      "Manufacturing"
+    ]
+  },
+  "summary": "Ingénieur Senior en Data Analyst avec 7 ans d'expérience. Spécialisé en Apache Spark, AWS SageMaker, Docker. Maîtrise des langages Python, SQL. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Science des Données",
+  "work_experience": "Chez HPS (2019-2021), j'ai travaillé en tant que Business Intelligence Developer en utilisant Kubernetes, Deep Learning, Docker, Power BI et SQL. Chez HPS (2021-2023), j'ai travaillé en tant que Data Analyst en utilisant Elasticsearch, Kafka, Docker, NumPy, FastAPI et R, Julia, Scala. Chez Alten (2023-2026), j'ai travaillé en tant que Business Intelligence Developer en utilisant Kafka, FastAPI, Tableau, Airflow, Deep Learning et Julia, R.",
+  "projects": "Projet 'Pipeline de données en temps réel' dans le secteur Logistique en utilisant Airflow, Kubernetes, MLflow. Projet 'Détection de fraude par Machine Learning' dans le secteur Logistique en utilisant PyTorch, Kubernetes, Power BI. Projet 'Chatbot intelligent basé sur NLP' dans le secteur Manufacturing en utilisant Elasticsearch, TensorFlow, Airflow. Projet 'Système de recommandation produits' dans le secteur Logistique en utilisant MLflow, Tableau, NumPy.",
+  "file_path": "synthetic_cvs/cv_0158_saad_berrada.json",
+  "parsing_confidence": 0.94,
+  "experience_timeline": [
+    {
+      "year_start": 2019,
+      "year_end": 2021,
+      "company": "HPS",
+      "skills_acquired": [
+        "Kubernetes",
+        "Deep Learning",
+        "Docker",
+        "Power BI"
+      ],
+      "languages_used": [
+        "SQL"
+      ]
+    },
+    {
+      "year_start": 2021,
+      "year_end": 2023,
+      "company": "HPS",
+      "skills_acquired": [
+        "Elasticsearch",
+        "Kafka",
+        "Docker",
+        "NumPy",
+        "FastAPI"
+      ],
+      "languages_used": [
+        "R",
+        "Julia",
+        "Scala"
+      ]
+    },
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Alten",
+      "skills_acquired": [
+        "Kafka",
+        "FastAPI",
+        "Tableau",
+        "Airflow",
+        "Deep Learning"
+      ],
+      "languages_used": [
+        "Julia",
+        "R"
+      ]
+    }
+  ],
+  "universite": "EMSI",
+  "seniority_level_global": "Senior"
+}

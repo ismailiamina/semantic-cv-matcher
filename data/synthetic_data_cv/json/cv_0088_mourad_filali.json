@@ -1,0 +1,89 @@
+{
+  "full_name": "Mourad Filali",
+  "email": "mourad.filali@gmail.com",
+  "phone": "+212 679 838 469",
+  "location": "Tanger",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/mourad-filali",
+  "github": "github.com/mourad16",
+  "roles_held": [
+    "Data Engineer"
+  ],
+  "programming_languages": [
+    "Scala",
+    "R"
+  ],
+  "technical_skills": [
+    "Pandas",
+    "Scikit-learn",
+    "Machine Learning",
+    "Deep Learning",
+    "Apache Spark",
+    "Kubernetes",
+    "Tableau",
+    "TensorFlow"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Arabe"
+  ],
+  "certifications": [
+    "Google Associate Cloud Engineer",
+    "Azure Administrator"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Pandas",
+      "level": "Medior"
+    },
+    {
+      "technology": "Scikit-learn",
+      "level": "Medior"
+    },
+    {
+      "technology": "Machine Learning",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Scala",
+      "level": "Medior"
+    },
+    {
+      "language": "R",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Éducation"
+    ]
+  },
+  "summary": "3 ans d'expérience en tant que Data Engineer. Compétences avancées en Pandas, Scikit-learn, Machine Learning. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Science des Données",
+  "work_experience": "Chez Orange Maroc (2023-2026), j'ai travaillé en tant que Data Engineer en utilisant FastAPI, MLflow, Docker, Pandas et Scala, SQL.",
+  "projects": "Projet 'Détection de fraude par Machine Learning' dans le secteur Éducation en utilisant Pandas, Apache Spark, Airflow. Projet 'Modèle de prédiction du churn client' dans le secteur Éducation en utilisant Tableau, NumPy, MLflow. Projet 'Pipeline de données en temps réel' dans le secteur Éducation en utilisant MLflow, Docker, Elasticsearch. Projet 'Dashboard analytique Business Intelligence' dans le secteur Éducation en utilisant NumPy, Docker, AWS SageMaker.",
+  "file_path": "synthetic_cvs/cv_0088_mourad_filali.json",
+  "parsing_confidence": 0.92,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Orange Maroc",
+      "skills_acquired": [
+        "FastAPI",
+        "MLflow",
+        "Docker",
+        "Pandas"
+      ],
+      "languages_used": [
+        "Scala",
+        "SQL"
+      ]
+    }
+  ],
+  "universite": "ESGI",
+  "seniority_level_global": "Medior"
+}

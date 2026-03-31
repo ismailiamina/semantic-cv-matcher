@@ -1,0 +1,142 @@
+{
+  "full_name": "Zineb Moussaoui",
+  "email": "zineb.moussaoui@gmail.com",
+  "phone": "+212 663 372 818",
+  "location": "Casablanca",
+  "years_of_experience": 8,
+  "linkedin": "linkedin.com/in/zineb-moussaoui",
+  "github": "github.com/zineb62",
+  "roles_held": [
+    "Développeur Mobile"
+  ],
+  "programming_languages": [
+    "Kotlin",
+    "JavaScript",
+    "Dart"
+  ],
+  "technical_skills": [
+    "GraphQL",
+    "Xcode",
+    "Android Studio",
+    "REST API",
+    "Fastlane",
+    "SQLite",
+    "Flutter",
+    "Jetpack Compose",
+    "Firebase",
+    "TestFlight"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Français",
+    "Espagnol"
+  ],
+  "certifications": [
+    "AWS Solutions Architect"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "GraphQL",
+      "level": "Senior"
+    },
+    {
+      "technology": "Xcode",
+      "level": "Senior"
+    },
+    {
+      "technology": "Android Studio",
+      "level": "Senior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Kotlin",
+      "level": "Senior"
+    },
+    {
+      "language": "JavaScript",
+      "level": "Senior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Finance"
+    ]
+  },
+  "summary": "Professionnel Développeur Mobile avec 8 années d'expérience dans le développement de solutions techniques. Expert en GraphQL, Xcode, Android Studio. Forte maîtrise de Kotlin, JavaScript avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Intelligence Artificielle",
+  "work_experience": "Chez Renault Maroc (2018-2019), j'ai travaillé en tant que Développeur Mobile en utilisant Jetpack Compose, React Native, SwiftUI, REST API, SQLite, Flutter et JavaScript, Swift. Chez Oracle Maroc (2019-2020), j'ai travaillé en tant que Développeur Mobile en utilisant Flutter, REST API, React Native et JavaScript, Dart, Swift. Chez HPS (2020-2021), j'ai travaillé en tant que Développeur Mobile en utilisant Fastlane, Jetpack Compose, Firebase, GraphQL, REST API et JavaScript, Dart, Swift. Chez Renault Maroc (2021-2026), j'ai travaillé en tant que Développeur Mobile en utilisant SwiftUI, Xcode, React Native, REST API, Firebase et Swift, Dart.",
+  "projects": "Projet 'Application e-commerce mobile' dans le secteur Finance en utilisant Redux, Fastlane, Xcode. Projet 'Application de livraison en temps réel' dans le secteur Finance en utilisant React Native, GraphQL, Xcode. Projet 'Application santé et fitness' dans le secteur Finance en utilisant Android Studio, React Native, REST API.",
+  "file_path": "synthetic_cvs/cv_0048_zineb_moussaoui.json",
+  "parsing_confidence": 0.84,
+  "experience_timeline": [
+    {
+      "year_start": 2018,
+      "year_end": 2019,
+      "company": "Renault Maroc",
+      "skills_acquired": [
+        "Jetpack Compose",
+        "React Native",
+        "SwiftUI",
+        "REST API",
+        "SQLite",
+        "Flutter"
+      ],
+      "languages_used": [
+        "JavaScript",
+        "Swift"
+      ]
+    },
+    {
+      "year_start": 2019,
+      "year_end": 2020,
+      "company": "Oracle Maroc",
+      "skills_acquired": [
+        "Flutter",
+        "REST API",
+        "React Native"
+      ],
+      "languages_used": [
+        "JavaScript",
+        "Dart",
+        "Swift"
+      ]
+    },
+    {
+      "year_start": 2020,
+      "year_end": 2021,
+      "company": "HPS",
+      "skills_acquired": [
+        "Fastlane",
+        "Jetpack Compose",
+        "Firebase",
+        "GraphQL",
+        "REST API"
+      ],
+      "languages_used": [
+        "JavaScript",
+        "Dart",
+        "Swift"
+      ]
+    },
+    {
+      "year_start": 2021,
+      "year_end": 2026,
+      "company": "Renault Maroc",
+      "skills_acquired": [
+        "SwiftUI",
+        "Xcode",
+        "React Native",
+        "REST API",
+        "Firebase"
+      ],
+      "languages_used": [
+        "Swift",
+        "Dart"
+      ]
+    }
+  ],
+  "universite": "ENSIAS",
+  "seniority_level_global": "Senior"
+}

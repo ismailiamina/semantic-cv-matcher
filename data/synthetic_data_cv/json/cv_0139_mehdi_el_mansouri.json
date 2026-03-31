@@ -1,0 +1,120 @@
+{
+  "full_name": "Mehdi El Mansouri",
+  "email": "mehdi.elmansouri@gmail.com",
+  "phone": "+212 686 264 964",
+  "location": "Tétouan",
+  "years_of_experience": 7,
+  "linkedin": "linkedin.com/in/mehdi-el-mansouri",
+  "github": "github.com/mehdi47",
+  "roles_held": [
+    "Data Analyst"
+  ],
+  "programming_languages": [
+    "Scala",
+    "Julia"
+  ],
+  "technical_skills": [
+    "Docker",
+    "Machine Learning",
+    "MLflow",
+    "Airflow",
+    "Redis",
+    "Deep Learning",
+    "Pandas"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Arabe",
+    "Anglais"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Docker",
+      "level": "Senior"
+    },
+    {
+      "technology": "Machine Learning",
+      "level": "Senior"
+    },
+    {
+      "technology": "MLflow",
+      "level": "Senior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Scala",
+      "level": "Senior"
+    },
+    {
+      "language": "Julia",
+      "level": "Senior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Énergie",
+      "Immobilier"
+    ]
+  },
+  "summary": "Ingénieur Senior en Data Analyst avec 7 ans d'expérience. Spécialisé en Docker, Machine Learning, MLflow. Maîtrise des langages Scala, Julia. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 3",
+  "field_of_studies": "Big Data",
+  "work_experience": "Chez Ernst & Young (2019-2020), j'ai travaillé en tant que Data Analyst en utilisant MLflow, Kubernetes, Deep Learning, Docker, Power BI, NumPy et Scala, Python, Julia. Chez Sopra Steria (2020-2022), j'ai travaillé en tant que Data Analyst en utilisant Kafka, Deep Learning, FastAPI et Python, Scala. Chez TotalEnergies Maroc (2022-2026), j'ai travaillé en tant que Data Analyst en utilisant PyTorch, TensorFlow, FastAPI, Deep Learning et Julia, R, Scala.",
+  "projects": "Projet 'Pipeline de données en temps réel' dans le secteur Énergie en utilisant Tableau, Scikit-learn, PyTorch. Projet 'Détection de fraude par Machine Learning' dans le secteur Immobilier en utilisant Pandas, Deep Learning, Docker. Projet 'Dashboard analytique Business Intelligence' dans le secteur Immobilier en utilisant Kubernetes, PyTorch, Docker.",
+  "file_path": "synthetic_cvs/cv_0139_mehdi_el_mansouri.json",
+  "parsing_confidence": 0.85,
+  "experience_timeline": [
+    {
+      "year_start": 2019,
+      "year_end": 2020,
+      "company": "Ernst & Young",
+      "skills_acquired": [
+        "MLflow",
+        "Kubernetes",
+        "Deep Learning",
+        "Docker",
+        "Power BI",
+        "NumPy"
+      ],
+      "languages_used": [
+        "Scala",
+        "Python",
+        "Julia"
+      ]
+    },
+    {
+      "year_start": 2020,
+      "year_end": 2022,
+      "company": "Sopra Steria",
+      "skills_acquired": [
+        "Kafka",
+        "Deep Learning",
+        "FastAPI"
+      ],
+      "languages_used": [
+        "Python",
+        "Scala"
+      ]
+    },
+    {
+      "year_start": 2022,
+      "year_end": 2026,
+      "company": "TotalEnergies Maroc",
+      "skills_acquired": [
+        "PyTorch",
+        "TensorFlow",
+        "FastAPI",
+        "Deep Learning"
+      ],
+      "languages_used": [
+        "Julia",
+        "R",
+        "Scala"
+      ]
+    }
+  ],
+  "universite": "ESGI",
+  "seniority_level_global": "Senior"
+}

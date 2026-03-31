@@ -1,0 +1,86 @@
+{
+  "full_name": "Youssef Filali",
+  "email": "youssef.filali@gmail.com",
+  "phone": "+212 646 476 741",
+  "location": "Fès",
+  "years_of_experience": 0,
+  "linkedin": "linkedin.com/in/youssef-filali",
+  "github": "github.com/youssef68",
+  "roles_held": [
+    "Développeur Backend"
+  ],
+  "programming_languages": [
+    "Java",
+    "TypeScript",
+    "JavaScript"
+  ],
+  "technical_skills": [
+    "Kubernetes",
+    "GraphQL",
+    "FastAPI",
+    "Jenkins",
+    "Tailwind CSS",
+    "Git",
+    "Redis"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Allemand"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Kubernetes",
+      "level": "Junior"
+    },
+    {
+      "technology": "GraphQL",
+      "level": "Junior"
+    },
+    {
+      "technology": "FastAPI",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Java",
+      "level": "Junior"
+    },
+    {
+      "language": "TypeScript",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Éducation"
+    ]
+  },
+  "summary": "Professionnel Développeur Backend avec 0 années d'expérience dans le développement de solutions techniques. Expert en Kubernetes, GraphQL, FastAPI. Forte maîtrise de Java, TypeScript avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Développement Web",
+  "work_experience": "Chez BNP Paribas Maroc (2026-2026), j'ai travaillé en tant que Développeur Backend en utilisant PostgreSQL, Angular, Spring Boot, Node.js et Python, Java.",
+  "projects": "Projet 'Plateforme e-commerce full stack' dans le secteur Éducation en utilisant HTML/CSS, Kubernetes, React. Projet 'Portail client bancaire' dans le secteur Éducation en utilisant React, FastAPI, Angular. Projet 'Application de gestion RH' dans le secteur Éducation en utilisant Kubernetes, Node.js, Redis.",
+  "file_path": "synthetic_cvs/cv_0194_youssef_filali.json",
+  "parsing_confidence": 0.88,
+  "experience_timeline": [
+    {
+      "year_start": 2026,
+      "year_end": 2026,
+      "company": "BNP Paribas Maroc",
+      "skills_acquired": [
+        "PostgreSQL",
+        "Angular",
+        "Spring Boot",
+        "Node.js"
+      ],
+      "languages_used": [
+        "Python",
+        "Java"
+      ]
+    }
+  ],
+  "universite": "ENSEM",
+  "seniority_level_global": "Junior"
+}

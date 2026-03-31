@@ -1,0 +1,94 @@
+{
+  "full_name": "Tariq Berrada",
+  "email": "tariq.berrada@gmail.com",
+  "phone": "+212 692 299 654",
+  "location": "Tanger",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/tariq-berrada",
+  "github": "github.com/tariq74",
+  "roles_held": [
+    "Architecte Solutions",
+    "Tech Lead"
+  ],
+  "programming_languages": [
+    "Python",
+    "TypeScript"
+  ],
+  "technical_skills": [
+    "Spring Boot",
+    "Redis",
+    "Tailwind CSS",
+    "Node.js",
+    "GraphQL",
+    "Django",
+    "Jenkins",
+    "Nginx",
+    "HTML/CSS",
+    "Git",
+    "Vue.js",
+    "TypeScript"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Allemand",
+    "Français"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Spring Boot",
+      "level": "Medior"
+    },
+    {
+      "technology": "Redis",
+      "level": "Medior"
+    },
+    {
+      "technology": "Tailwind CSS",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Python",
+      "level": "Medior"
+    },
+    {
+      "language": "TypeScript",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Éducation",
+      "Transport",
+      "Télécommunications"
+    ]
+  },
+  "summary": "3 ans d'expérience en tant que Architecte Solutions. Compétences avancées en Spring Boot, Redis, Tailwind CSS. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Big Data",
+  "work_experience": "Chez Inwi (2023-2026), j'ai travaillé en tant que Architecte Solutions en utilisant PostgreSQL, Node.js, Django, Spring Boot et Go, TypeScript.",
+  "projects": "Projet 'API REST microservices' dans le secteur Transport en utilisant REST API, TypeScript, Git. Projet 'Système de réservation en ligne' dans le secteur Éducation en utilisant Jenkins, Tailwind CSS, Node.js. Projet 'Portail client bancaire' dans le secteur Transport en utilisant MongoDB, Angular, Django.",
+  "file_path": "synthetic_cvs/cv_0143_tariq_berrada.json",
+  "parsing_confidence": 0.8,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Inwi",
+      "skills_acquired": [
+        "PostgreSQL",
+        "Node.js",
+        "Django",
+        "Spring Boot"
+      ],
+      "languages_used": [
+        "Go",
+        "TypeScript"
+      ]
+    }
+  ],
+  "universite": "EMSI",
+  "seniority_level_global": "Medior"
+}

@@ -1,0 +1,94 @@
+{
+  "full_name": "Othmane Berrada",
+  "email": "othmane.berrada@gmail.com",
+  "phone": "+212 625 208 827",
+  "location": "Rabat",
+  "years_of_experience": 0,
+  "linkedin": "linkedin.com/in/othmane-berrada",
+  "github": "github.com/othmane53",
+  "roles_held": [
+    "Ingénieur Cybersécurité",
+    "Pentester",
+    "Security Analyst"
+  ],
+  "programming_languages": [
+    "R",
+    "SQL",
+    "Julia"
+  ],
+  "technical_skills": [
+    "FastAPI",
+    "Scikit-learn",
+    "Redis",
+    "Pandas",
+    "Kafka",
+    "PyTorch",
+    "Airflow",
+    "NumPy",
+    "AWS SageMaker",
+    "TensorFlow"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Espagnol",
+    "Allemand"
+  ],
+  "certifications": [
+    "Scrum Master PSM I"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "FastAPI",
+      "level": "Junior"
+    },
+    {
+      "technology": "Scikit-learn",
+      "level": "Junior"
+    },
+    {
+      "technology": "Redis",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "R",
+      "level": "Junior"
+    },
+    {
+      "language": "SQL",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Retail"
+    ]
+  },
+  "summary": "0 ans d'expérience en tant que Ingénieur Cybersécurité. Compétences avancées en FastAPI, Scikit-learn, Redis. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 4",
+  "field_of_studies": "Big Data",
+  "work_experience": "Chez Leyton (2026-2026), j'ai travaillé en tant que Ingénieur Cybersécurité en utilisant Docker, NumPy, Pandas, PyTorch, Kubernetes et Julia.",
+  "projects": "Projet 'Système de recommandation produits' dans le secteur Retail en utilisant Elasticsearch, Docker, Apache Spark. Projet 'Dashboard analytique Business Intelligence' dans le secteur Retail en utilisant Elasticsearch, Deep Learning, PyTorch. Projet 'Chatbot intelligent basé sur NLP' dans le secteur Retail en utilisant FastAPI, Redis, Power BI. Projet 'Détection de fraude par Machine Learning' dans le secteur Retail en utilisant MLflow, Kubernetes, Apache Spark.",
+  "file_path": "synthetic_cvs/cv_0089_othmane_berrada.json",
+  "parsing_confidence": 0.99,
+  "experience_timeline": [
+    {
+      "year_start": 2026,
+      "year_end": 2026,
+      "company": "Leyton",
+      "skills_acquired": [
+        "Docker",
+        "NumPy",
+        "Pandas",
+        "PyTorch",
+        "Kubernetes"
+      ],
+      "languages_used": [
+        "Julia"
+      ]
+    }
+  ],
+  "universite": "ESGI",
+  "seniority_level_global": "Junior"
+}

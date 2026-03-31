@@ -1,0 +1,88 @@
+{
+  "full_name": "Ilias Bouazza",
+  "email": "ilias.bouazza@gmail.com",
+  "phone": "+212 647 601 336",
+  "location": "Agadir",
+  "years_of_experience": 2,
+  "linkedin": "linkedin.com/in/ilias-bouazza",
+  "github": "github.com/ilias36",
+  "roles_held": [
+    "Data Engineer",
+    "Data Scientist"
+  ],
+  "programming_languages": [
+    "SQL",
+    "Julia",
+    "R",
+    "Scala"
+  ],
+  "technical_skills": [
+    "Kafka",
+    "Tableau",
+    "Pandas",
+    "Scikit-learn",
+    "Docker"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Arabe"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Kafka",
+      "level": "Junior"
+    },
+    {
+      "technology": "Tableau",
+      "level": "Junior"
+    },
+    {
+      "technology": "Pandas",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "SQL",
+      "level": "Junior"
+    },
+    {
+      "language": "Julia",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Immobilier",
+      "Logistique"
+    ]
+  },
+  "summary": "Ingénieur Junior en Data Engineer avec 2 ans d'expérience. Spécialisé en Kafka, Tableau, Pandas. Maîtrise des langages SQL, Julia. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Intelligence Artificielle",
+  "work_experience": "Chez Leyton (2024-2026), j'ai travaillé en tant que Data Engineer en utilisant NumPy, Elasticsearch, Power BI, Airflow et Python, R, Julia.",
+  "projects": "Projet 'Modèle de prédiction du churn client' dans le secteur Logistique en utilisant PyTorch, Docker, Deep Learning. Projet 'Chatbot intelligent basé sur NLP' dans le secteur Logistique en utilisant Apache Spark, Kafka, NumPy.",
+  "file_path": "synthetic_cvs/cv_0116_ilias_bouazza.json",
+  "parsing_confidence": 0.96,
+  "experience_timeline": [
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "Leyton",
+      "skills_acquired": [
+        "NumPy",
+        "Elasticsearch",
+        "Power BI",
+        "Airflow"
+      ],
+      "languages_used": [
+        "Python",
+        "R",
+        "Julia"
+      ]
+    }
+  ],
+  "universite": "ENSAM Meknès",
+  "seniority_level_global": "Junior"
+}

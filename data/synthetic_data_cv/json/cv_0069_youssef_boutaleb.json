@@ -1,0 +1,91 @@
+{
+  "full_name": "Youssef Boutaleb",
+  "email": "youssef.boutaleb@gmail.com",
+  "phone": "+212 665 789 586",
+  "location": "Meknès",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/youssef-boutaleb",
+  "github": "github.com/youssef47",
+  "roles_held": [
+    "Data Engineer",
+    "Data Scientist"
+  ],
+  "programming_languages": [
+    "Julia",
+    "Python",
+    "R",
+    "Scala"
+  ],
+  "technical_skills": [
+    "Apache Spark",
+    "Power BI",
+    "AWS SageMaker",
+    "MLflow",
+    "Scikit-learn",
+    "NumPy"
+  ],
+  "spoken_languages": [
+    "Français",
+    "Espagnol"
+  ],
+  "certifications": [
+    "Scrum Master PSM I",
+    "AWS Solutions Architect"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "Apache Spark",
+      "level": "Medior"
+    },
+    {
+      "technology": "Power BI",
+      "level": "Medior"
+    },
+    {
+      "technology": "AWS SageMaker",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Julia",
+      "level": "Medior"
+    },
+    {
+      "language": "Python",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "E-commerce"
+    ]
+  },
+  "summary": "Professionnel Data Engineer avec 3 années d'expérience dans le développement de solutions techniques. Expert en Apache Spark, Power BI, AWS SageMaker. Forte maîtrise de Julia, Python avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Cloud Computing",
+  "work_experience": "Chez Inwi (2023-2026), j'ai travaillé en tant que Data Scientist en utilisant FastAPI, Redis, Apache Spark, Kubernetes et Python, Scala, SQL.",
+  "projects": "Projet 'Modèle de prédiction du churn client' dans le secteur E-commerce en utilisant Docker, Kubernetes, Power BI. Projet 'Pipeline de données en temps réel' dans le secteur E-commerce en utilisant Docker, MLflow, Scikit-learn. Projet 'Détection de fraude par Machine Learning' dans le secteur E-commerce en utilisant FastAPI, Docker, Pandas. Projet 'Chatbot intelligent basé sur NLP' dans le secteur E-commerce en utilisant Apache Spark, Deep Learning, Pandas.",
+  "file_path": "synthetic_cvs/cv_0069_youssef_boutaleb.json",
+  "parsing_confidence": 0.76,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Inwi",
+      "skills_acquired": [
+        "FastAPI",
+        "Redis",
+        "Apache Spark",
+        "Kubernetes"
+      ],
+      "languages_used": [
+        "Python",
+        "Scala",
+        "SQL"
+      ]
+    }
+  ],
+  "universite": "INPT",
+  "seniority_level_global": "Medior"
+}

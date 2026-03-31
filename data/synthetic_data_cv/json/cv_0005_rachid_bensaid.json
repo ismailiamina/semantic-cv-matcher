@@ -1,0 +1,96 @@
+{
+  "full_name": "Rachid Bensaid",
+  "email": "rachid.bensaid@gmail.com",
+  "phone": "+212 628 104 506",
+  "location": "Tanger",
+  "years_of_experience": 1,
+  "linkedin": "linkedin.com/in/rachid-bensaid",
+  "github": "github.com/rachid62",
+  "roles_held": [
+    "Ingénieur QA",
+    "Test Automation Engineer",
+    "QA Lead"
+  ],
+  "programming_languages": [
+    "Python",
+    "Go",
+    "JavaScript",
+    "Java"
+  ],
+  "technical_skills": [
+    "TypeScript",
+    "Spring Boot",
+    "GraphQL",
+    "Nginx",
+    "Git",
+    "Redis",
+    "MongoDB",
+    "Tailwind CSS",
+    "HTML/CSS",
+    "REST API",
+    "FastAPI",
+    "Jenkins"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Allemand",
+    "Arabe"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "TypeScript",
+      "level": "Junior"
+    },
+    {
+      "technology": "Spring Boot",
+      "level": "Junior"
+    },
+    {
+      "technology": "GraphQL",
+      "level": "Junior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Python",
+      "level": "Junior"
+    },
+    {
+      "language": "Go",
+      "level": "Junior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "E-commerce",
+      "Télécommunications",
+      "Retail"
+    ]
+  },
+  "summary": "Ingénieur Junior en Ingénieur QA avec 1 ans d'expérience. Spécialisé en TypeScript, Spring Boot, GraphQL. Maîtrise des langages Python, Go. Passionné par l'innovation technologique et le développement de solutions performantes.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Génie Informatique",
+  "work_experience": "Chez Inwi (2025-2026), j'ai travaillé en tant que Ingénieur QA en utilisant Docker, Redis, TypeScript et PHP, Go.",
+  "projects": "Projet 'Plateforme e-commerce full stack' dans le secteur E-commerce en utilisant REST API, React, Redis. Projet 'Portail client bancaire' dans le secteur Télécommunications en utilisant Django, FastAPI, Nginx.",
+  "file_path": "synthetic_cvs/cv_0005_rachid_bensaid.json",
+  "parsing_confidence": 0.89,
+  "experience_timeline": [
+    {
+      "year_start": 2025,
+      "year_end": 2026,
+      "company": "Inwi",
+      "skills_acquired": [
+        "Docker",
+        "Redis",
+        "TypeScript"
+      ],
+      "languages_used": [
+        "PHP",
+        "Go"
+      ]
+    }
+  ],
+  "universite": "FST Mohammedia",
+  "seniority_level_global": "Junior"
+}

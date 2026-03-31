@@ -1,0 +1,99 @@
+{
+  "full_name": "Reda Lahlou",
+  "email": "reda.lahlou@gmail.com",
+  "phone": "+212 658 429 735",
+  "location": "Oujda",
+  "years_of_experience": 4,
+  "linkedin": "linkedin.com/in/reda-lahlou",
+  "github": "github.com/reda28",
+  "roles_held": [
+    "Scrum Master",
+    "Product Owner"
+  ],
+  "programming_languages": [
+    "PHP",
+    "TypeScript",
+    "JavaScript"
+  ],
+  "technical_skills": [
+    "Git",
+    "FastAPI",
+    "React",
+    "Kubernetes",
+    "MongoDB"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Allemand",
+    "Anglais"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Git",
+      "level": "Medior"
+    },
+    {
+      "technology": "FastAPI",
+      "level": "Medior"
+    },
+    {
+      "technology": "React",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "PHP",
+      "level": "Medior"
+    },
+    {
+      "language": "TypeScript",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Retail"
+    ]
+  },
+  "summary": "4 ans d'expérience en tant que Scrum Master. Compétences avancées en Git, FastAPI, React. Rigoureux, autonome et orienté résultats. Expérience dans des environnements Agile/Scrum.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Science des Données",
+  "work_experience": "Chez Orange Maroc (2022-2024), j'ai travaillé en tant que Scrum Master en utilisant Angular, Git, Node.js, MongoDB et Python. Chez Ernst & Young (2024-2026), j'ai travaillé en tant que Scrum Master en utilisant Angular, Tailwind CSS, Redis, FastAPI et Java.",
+  "projects": "Projet 'Portail client bancaire' dans le secteur Retail en utilisant FastAPI, Node.js, Spring Boot. Projet 'Système de réservation en ligne' dans le secteur Retail en utilisant HTML/CSS, Jenkins, Django. Projet 'Plateforme e-commerce full stack' dans le secteur Retail en utilisant Angular, Vue.js, Node.js. Projet 'Dashboard de reporting temps réel' dans le secteur Retail en utilisant Spring Boot, Git, Angular.",
+  "file_path": "synthetic_cvs/cv_0125_reda_lahlou.json",
+  "parsing_confidence": 0.82,
+  "experience_timeline": [
+    {
+      "year_start": 2022,
+      "year_end": 2024,
+      "company": "Orange Maroc",
+      "skills_acquired": [
+        "Angular",
+        "Git",
+        "Node.js",
+        "MongoDB"
+      ],
+      "languages_used": [
+        "Python"
+      ]
+    },
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "Ernst & Young",
+      "skills_acquired": [
+        "Angular",
+        "Tailwind CSS",
+        "Redis",
+        "FastAPI"
+      ],
+      "languages_used": [
+        "Java"
+      ]
+    }
+  ],
+  "universite": "ENSAM Meknès",
+  "seniority_level_global": "Medior"
+}

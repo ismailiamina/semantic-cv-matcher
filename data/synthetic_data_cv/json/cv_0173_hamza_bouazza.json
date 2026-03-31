@@ -1,0 +1,135 @@
+{
+  "full_name": "Hamza Bouazza",
+  "email": "hamza.bouazza@gmail.com",
+  "phone": "+212 610 739 503",
+  "location": "Casablanca",
+  "years_of_experience": 20,
+  "linkedin": "linkedin.com/in/hamza-bouazza",
+  "github": "github.com/hamza47",
+  "roles_held": [
+    "Scrum Master",
+    "Product Owner",
+    "Agile Coach"
+  ],
+  "programming_languages": [
+    "PHP",
+    "Java",
+    "TypeScript",
+    "JavaScript"
+  ],
+  "technical_skills": [
+    "Docker",
+    "Spring Boot",
+    "GraphQL",
+    "PostgreSQL",
+    "HTML/CSS",
+    "Node.js"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Allemand"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Docker",
+      "level": "Expert"
+    },
+    {
+      "technology": "Spring Boot",
+      "level": "Expert"
+    },
+    {
+      "technology": "GraphQL",
+      "level": "Expert"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "PHP",
+      "level": "Expert"
+    },
+    {
+      "language": "Java",
+      "level": "Expert"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Immobilier",
+      "Banque"
+    ]
+  },
+  "summary": "Professionnel Scrum Master avec 20 années d'expérience dans le développement de solutions techniques. Expert en Docker, Spring Boot, GraphQL. Forte maîtrise de PHP, Java avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Systèmes Embarqués",
+  "work_experience": "Chez Atos Maroc (2006-2007), j'ai travaillé en tant que Agile Coach en utilisant Angular, Spring Boot, REST API, GraphQL et Python, TypeScript. Chez Atos Maroc (2007-2009), j'ai travaillé en tant que Scrum Master en utilisant Nginx, React, GraphQL, PostgreSQL et TypeScript, Java. Chez Microsoft Maroc (2009-2012), j'ai travaillé en tant que Scrum Master en utilisant TypeScript, Vue.js, Redis, Kubernetes et TypeScript, JavaScript. Chez CIH Bank (2012-2026), j'ai travaillé en tant que Product Owner en utilisant Docker, Jenkins, HTML/CSS, PostgreSQL, Kubernetes et Python, Go.",
+  "projects": "Projet 'Dashboard de reporting temps réel' dans le secteur Banque en utilisant Django, Node.js, Vue.js. Projet 'Portail client bancaire' dans le secteur Immobilier en utilisant PostgreSQL, Node.js, FastAPI. Projet 'Plateforme e-commerce full stack' dans le secteur Immobilier en utilisant REST API, Vue.js, Git.",
+  "file_path": "synthetic_cvs/cv_0173_hamza_bouazza.json",
+  "parsing_confidence": 0.97,
+  "experience_timeline": [
+    {
+      "year_start": 2006,
+      "year_end": 2007,
+      "company": "Atos Maroc",
+      "skills_acquired": [
+        "Angular",
+        "Spring Boot",
+        "REST API",
+        "GraphQL"
+      ],
+      "languages_used": [
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "year_start": 2007,
+      "year_end": 2009,
+      "company": "Atos Maroc",
+      "skills_acquired": [
+        "Nginx",
+        "React",
+        "GraphQL",
+        "PostgreSQL"
+      ],
+      "languages_used": [
+        "TypeScript",
+        "Java"
+      ]
+    },
+    {
+      "year_start": 2009,
+      "year_end": 2012,
+      "company": "Microsoft Maroc",
+      "skills_acquired": [
+        "TypeScript",
+        "Vue.js",
+        "Redis",
+        "Kubernetes"
+      ],
+      "languages_used": [
+        "TypeScript",
+        "JavaScript"
+      ]
+    },
+    {
+      "year_start": 2012,
+      "year_end": 2026,
+      "company": "CIH Bank",
+      "skills_acquired": [
+        "Docker",
+        "Jenkins",
+        "HTML/CSS",
+        "PostgreSQL",
+        "Kubernetes"
+      ],
+      "languages_used": [
+        "Python",
+        "Go"
+      ]
+    }
+  ],
+  "universite": "FST Mohammedia",
+  "seniority_level_global": "Expert"
+}

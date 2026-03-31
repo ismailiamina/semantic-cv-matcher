@@ -1,0 +1,95 @@
+{
+  "full_name": "Walid Hajji",
+  "email": "walid.hajji@gmail.com",
+  "phone": "+212 629 921 575",
+  "location": "Meknès",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/walid-hajji",
+  "github": "github.com/walid74",
+  "roles_held": [
+    "Architecte Solutions"
+  ],
+  "programming_languages": [
+    "Go",
+    "TypeScript",
+    "PHP"
+  ],
+  "technical_skills": [
+    "React",
+    "TypeScript",
+    "FastAPI",
+    "Jenkins",
+    "Kubernetes",
+    "PostgreSQL",
+    "HTML/CSS",
+    "Nginx",
+    "Angular",
+    "Django",
+    "Git"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Allemand"
+  ],
+  "certifications": [
+    "AWS Cloud Practitioner"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "React",
+      "level": "Medior"
+    },
+    {
+      "technology": "TypeScript",
+      "level": "Medior"
+    },
+    {
+      "technology": "FastAPI",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Go",
+      "level": "Medior"
+    },
+    {
+      "language": "TypeScript",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Manufacturing",
+      "Santé"
+    ]
+  },
+  "summary": "Professionnel Architecte Solutions avec 3 années d'expérience dans le développement de solutions techniques. Expert en React, TypeScript, FastAPI. Forte maîtrise de Go, TypeScript avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 2",
+  "field_of_studies": "Cybersécurité",
+  "work_experience": "Chez Atos Maroc (2023-2026), j'ai travaillé en tant que Architecte Solutions en utilisant Kubernetes, Spring Boot, Nginx, Redis, MongoDB, Git et TypeScript, Python.",
+  "projects": "Projet 'Application de gestion RH' dans le secteur Manufacturing en utilisant TypeScript, Docker, HTML/CSS. Projet 'Système de réservation en ligne' dans le secteur Santé en utilisant Tailwind CSS, MongoDB, HTML/CSS. Projet 'API REST microservices' dans le secteur Manufacturing en utilisant Redis, Spring Boot, Nginx. Projet 'Portail client bancaire' dans le secteur Manufacturing en utilisant PostgreSQL, Git, Jenkins.",
+  "file_path": "synthetic_cvs/cv_0021_walid_hajji.json",
+  "parsing_confidence": 0.87,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "Atos Maroc",
+      "skills_acquired": [
+        "Kubernetes",
+        "Spring Boot",
+        "Nginx",
+        "Redis",
+        "MongoDB",
+        "Git"
+      ],
+      "languages_used": [
+        "TypeScript",
+        "Python"
+      ]
+    }
+  ],
+  "universite": "INSEA",
+  "seniority_level_global": "Medior"
+}

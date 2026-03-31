@@ -1,0 +1,91 @@
+{
+  "full_name": "Meryem Benali",
+  "email": "meryem.benali@gmail.com",
+  "phone": "+212 695 706 577",
+  "location": "Oujda",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/meryem-benali",
+  "github": "github.com/meryem30",
+  "roles_held": [
+    "Développeur Full Stack",
+    "Ingénieur Backend",
+    "Développeur Frontend"
+  ],
+  "programming_languages": [
+    "Java",
+    "JavaScript",
+    "Go",
+    "TypeScript"
+  ],
+  "technical_skills": [
+    "PostgreSQL",
+    "Kubernetes",
+    "HTML/CSS",
+    "Node.js",
+    "Tailwind CSS",
+    "REST API",
+    "Angular"
+  ],
+  "spoken_languages": [
+    "Français",
+    "Arabe",
+    "Allemand"
+  ],
+  "certifications": [
+    "Google Cloud Professional"
+  ],
+  "seniority_technologies": [
+    {
+      "technology": "PostgreSQL",
+      "level": "Medior"
+    },
+    {
+      "technology": "Kubernetes",
+      "level": "Medior"
+    },
+    {
+      "technology": "HTML/CSS",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Java",
+      "level": "Medior"
+    },
+    {
+      "language": "JavaScript",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Assurance"
+    ]
+  },
+  "summary": "Professionnel Développeur Full Stack avec 3 années d'expérience dans le développement de solutions techniques. Expert en PostgreSQL, Kubernetes, HTML/CSS. Forte maîtrise de Java, JavaScript avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Cybersécurité",
+  "work_experience": "Chez IBM Maroc (2023-2026), j'ai travaillé en tant que Ingénieur Backend en utilisant REST API, Angular, Kubernetes, Nginx et Go.",
+  "projects": "Projet 'Dashboard de reporting temps réel' dans le secteur Assurance en utilisant Jenkins, Kubernetes, React. Projet 'API REST microservices' dans le secteur Assurance en utilisant Jenkins, Django, GraphQL. Projet 'Portail client bancaire' dans le secteur Assurance en utilisant React, PostgreSQL, HTML/CSS.",
+  "file_path": "synthetic_cvs/cv_0115_meryem_benali.json",
+  "parsing_confidence": 0.9,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "IBM Maroc",
+      "skills_acquired": [
+        "REST API",
+        "Angular",
+        "Kubernetes",
+        "Nginx"
+      ],
+      "languages_used": [
+        "Go"
+      ]
+    }
+  ],
+  "universite": "HEM",
+  "seniority_level_global": "Medior"
+}

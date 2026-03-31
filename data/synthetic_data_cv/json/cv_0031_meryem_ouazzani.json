@@ -1,0 +1,93 @@
+{
+  "full_name": "Meryem Ouazzani",
+  "email": "meryem.ouazzani@gmail.com",
+  "phone": "+212 615 488 670",
+  "location": "Meknès",
+  "years_of_experience": 3,
+  "linkedin": "linkedin.com/in/meryem-ouazzani",
+  "github": "github.com/meryem88",
+  "roles_held": [
+    "Développeur Backend",
+    "Ingénieur API"
+  ],
+  "programming_languages": [
+    "Java",
+    "PHP",
+    "Go",
+    "Python"
+  ],
+  "technical_skills": [
+    "Spring Boot",
+    "Jenkins",
+    "React",
+    "Django",
+    "Tailwind CSS",
+    "Vue.js",
+    "REST API",
+    "Kubernetes",
+    "Docker",
+    "FastAPI",
+    "Node.js"
+  ],
+  "spoken_languages": [
+    "Anglais",
+    "Français"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "Spring Boot",
+      "level": "Medior"
+    },
+    {
+      "technology": "Jenkins",
+      "level": "Medior"
+    },
+    {
+      "technology": "React",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "Java",
+      "level": "Medior"
+    },
+    {
+      "language": "PHP",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "Transport",
+      "Télécommunications"
+    ]
+  },
+  "summary": "Professionnel Développeur Backend avec 3 années d'expérience dans le développement de solutions techniques. Expert en Spring Boot, Jenkins, React. Forte maîtrise de Java, PHP avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 6 et plus",
+  "field_of_studies": "Big Data",
+  "work_experience": "Chez HPS (2023-2026), j'ai travaillé en tant que Développeur Backend en utilisant HTML/CSS, React, Vue.js, Redis et Go, TypeScript.",
+  "projects": "Projet 'Système de réservation en ligne' dans le secteur Transport en utilisant Jenkins, Django, TypeScript. Projet 'API REST microservices' dans le secteur Télécommunications en utilisant Redis, TypeScript, Docker.",
+  "file_path": "synthetic_cvs/cv_0031_meryem_ouazzani.json",
+  "parsing_confidence": 0.76,
+  "experience_timeline": [
+    {
+      "year_start": 2023,
+      "year_end": 2026,
+      "company": "HPS",
+      "skills_acquired": [
+        "HTML/CSS",
+        "React",
+        "Vue.js",
+        "Redis"
+      ],
+      "languages_used": [
+        "Go",
+        "TypeScript"
+      ]
+    }
+  ],
+  "universite": "ENSA Casablanca",
+  "seniority_level_global": "Medior"
+}

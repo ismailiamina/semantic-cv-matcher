@@ -1,0 +1,105 @@
+{
+  "full_name": "Ghizlane Berrada",
+  "email": "ghizlane.berrada@gmail.com",
+  "phone": "+212 654 877 734",
+  "location": "Marrakech",
+  "years_of_experience": 4,
+  "linkedin": "linkedin.com/in/ghizlane-berrada",
+  "github": "github.com/ghizlane12",
+  "roles_held": [
+    "Ingénieur QA"
+  ],
+  "programming_languages": [
+    "TypeScript",
+    "PHP"
+  ],
+  "technical_skills": [
+    "MongoDB",
+    "Node.js",
+    "Tailwind CSS",
+    "React",
+    "Redis",
+    "Spring Boot",
+    "REST API",
+    "FastAPI",
+    "Nginx"
+  ],
+  "spoken_languages": [
+    "Espagnol",
+    "Anglais",
+    "Arabe"
+  ],
+  "certifications": [],
+  "seniority_technologies": [
+    {
+      "technology": "MongoDB",
+      "level": "Medior"
+    },
+    {
+      "technology": "Node.js",
+      "level": "Medior"
+    },
+    {
+      "technology": "Tailwind CSS",
+      "level": "Medior"
+    }
+  ],
+  "seniority_programming_languages": [
+    {
+      "language": "TypeScript",
+      "level": "Medior"
+    },
+    {
+      "language": "PHP",
+      "level": "Medior"
+    }
+  ],
+  "industry": {
+    "primary_industries": [
+      "E-commerce",
+      "Immobilier",
+      "Télécommunications"
+    ]
+  },
+  "summary": "Professionnel Ingénieur QA avec 4 années d'expérience dans le développement de solutions techniques. Expert en MongoDB, Node.js, Tailwind CSS. Forte maîtrise de TypeScript, PHP avec une approche orientée qualité et performance.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Systèmes Embarqués",
+  "work_experience": "Chez Alten (2022-2024), j'ai travaillé en tant que Ingénieur QA en utilisant REST API, GraphQL, Django, Git, Kubernetes, Nginx et Python, PHP. Chez Leyton (2024-2026), j'ai travaillé en tant que Ingénieur QA en utilisant Jenkins, Docker, Node.js et Java.",
+  "projects": "Projet 'Système de réservation en ligne' dans le secteur Télécommunications en utilisant Kubernetes, PostgreSQL, Git. Projet 'Application de gestion RH' dans le secteur Télécommunications en utilisant Tailwind CSS, GraphQL, FastAPI.",
+  "file_path": "synthetic_cvs/cv_0118_ghizlane_berrada.json",
+  "parsing_confidence": 0.94,
+  "experience_timeline": [
+    {
+      "year_start": 2022,
+      "year_end": 2024,
+      "company": "Alten",
+      "skills_acquired": [
+        "REST API",
+        "GraphQL",
+        "Django",
+        "Git",
+        "Kubernetes",
+        "Nginx"
+      ],
+      "languages_used": [
+        "Python",
+        "PHP"
+      ]
+    },
+    {
+      "year_start": 2024,
+      "year_end": 2026,
+      "company": "Leyton",
+      "skills_acquired": [
+        "Jenkins",
+        "Docker",
+        "Node.js"
+      ],
+      "languages_used": [
+        "Java"
+      ]
+    }
+  ],
+  "universite": "ENSA Marrakech",
+  "seniority_level_global": "Medior"
+}
