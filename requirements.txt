@@ -23,3 +23,12 @@ streamlit
 
 # Requêtes HTTP
 requests
+
+# Scraping LinkedIn
+selenium
+webdriver-manager
+beautifulsoup4
+lxml
+
+# Parsing HTML
+html5lib
