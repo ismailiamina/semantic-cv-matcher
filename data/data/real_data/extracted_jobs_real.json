@@ -1,0 +1,716 @@
+[
+  {
+    "title": "QA Developer",
+    "company": "GO & DEV",
+    "industry": "Services et conseil en informatique",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "employment_type": "Full-time",
+    "job_description": "Go&Dev recrute un QA Developer – Node.js / TypeScript / Tests Backend. Vous interviendrez sur des applications backend modernes en Node.js / TypeScript, avec un fort enjeu de qualité et de robustesse. Votre rôle sera clé dans la mise en place et l’exécution des tests automatisés sur le code backend. Vos missions incluront la conception et le développement de tests unitaires et d’intégration, la validation de la qualité du code en collaboration avec les développeurs, l’amélioration des fonctionnalités en TypeScript / Node.js, la mise en place de bonnes pratiques de tests et de qualité logicielle, ainsi que l’amélioration continue des pipelines de tests et de la fiabilité des livrables.",
+    "posted": "2026-03-17",
+    "programming_languages": [
+      "TypeScript",
+      "JavaScript",
+      "Bash"
+    ],
+    "technical_skills": [
+      "Node.js",
+      "Prisma",
+      "Git",
+      "CI-CD",
+      "Bash",
+      "Tests unitaires",
+      "Tests d'intégration",
+      "Méthodologie Agile",
+      "API/Backend"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Node.js",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Prisma",
+        "level": "Medior"
+      },
+      {
+        "technology": "Git",
+        "level": "Medior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "TypeScript",
+        "level": "Confirmé"
+      },
+      {
+        "language": "JavaScript",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "not specified",
+    "education_requirements": "not specified",
+    "years_of_experience_required": 4,
+    "summary": "GO & DEV, entreprise spécialisée dans les services et conseils en informatique, recherche un QA Developer pour renforcer son équipe à Rabat. Le poste implique la conception et l'exécution de tests automatisés (unitaires et d'intégration) sur des applications backend en Node.js et TypeScript. Une expérience confirmée en tests backend et une maîtrise des bonnes pratiques de qualité logicielle sont requises.",
+    "file_path": "https://www.linkedin.com/jobs/view/4385690587/",
+    "extraction_method": "linkedin + mistral-large",
+    "extracted_at": "2026-04-01T20:48:31.931025"
+  },
+  {
+    "title": "Développeur Backend Node.js / NestJS",
+    "company": "GO & DEV",
+    "industry": "Services et conseil en informatique",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "employment_type": "Full-time",
+    "job_description": "Go&Dev recrute un Développeur Backend Node.js / NestJS Senior !\n\nVos missions :\n- Concevoir et faire évoluer une architecture backend robuste (architecture hexagonale)\n- Participer à la mise en place des principes DDD (Domain-Driven Design)\n- Développer des fonctionnalités à fort impact en Node.js / NestJS\n- Collaborer étroitement avec les équipes produit et design\n- Garantir la qualité, la maintenabilité et la performance du code\n\nStack technique :\n- Node.js\n- NestJS\n- TypeScript\n- Architecture hexagonale\n- DDD\n\nProfil recherché :\n- Bac+5 en informatique\n- Minimum 5 ans d’expérience en développement backend\n- Très bonne maîtrise de Node.js / NestJS et TypeScript\n- Expérience en architecture logicielle (DDD, clean / hexagonale)\n- Bon niveau d’anglais",
+    "posted": "2026-03-26",
+    "programming_languages": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "technical_skills": [
+      "Node.js",
+      "NestJS",
+      "Architecture hexagonale",
+      "DDD",
+      "Bash"
+    ],
+    "spoken_languages": [
+      "anglais"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Node.js",
+        "level": "Senior"
+      },
+      {
+        "technology": "NestJS",
+        "level": "Senior"
+      },
+      {
+        "technology": "Architecture hexagonale",
+        "level": "Senior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "JavaScript",
+        "level": "Senior"
+      },
+      {
+        "language": "TypeScript",
+        "level": "Senior"
+      }
+    ],
+    "experience_level": "Senior",
+    "salary_range": "not specified",
+    "education_requirements": "Bac+5",
+    "years_of_experience_required": 5,
+    "summary": "GO & DEV, une entreprise spécialisée dans les services et conseils en informatique, recrute un Développeur Backend Node.js / NestJS Senior pour travailler sur un projet à fort impact. Le poste implique la conception d'architectures backend robustes, l'application des principes DDD, et le développement de fonctionnalités en Node.js et NestJS. Le profil recherché doit avoir un Bac+5 et au moins 5 ans d'expérience en développement backend.",
+    "file_path": "https://www.linkedin.com/jobs/view/4389567203/",
+    "extraction_method": "linkedin + mistral-large",
+    "extracted_at": "2026-04-01T20:50:21.851403"
+  },
+  {
+    "title": "Tech Lead Front-End Angular",
+    "company": "GO & DEV",
+    "industry": "Services et conseil en informatique",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "employment_type": "Full-time",
+    "job_description": "Go&Dev recrute un Tech Lead Front-End Angular pour son client français !\n\nVotre mission :\n- Piloter les choix d’architecture front-end.\n- Encadrer et accompagner les développeurs Angular.\n- Concevoir et industrialiser un Design System transverse.\n- Garantir la qualité, la performance et la scalabilité des applications.\n- Définir les bonnes pratiques (code, tests, organisation front).\n- Superviser la mise en place des tests (unitaires, intégration, E2E).\n- Contribuer aux pipelines CI/CD front-end.\n- Collaborer étroitement avec UX/UI, PO et équipes backend.\n- Participer activement au delivery produit.",
+    "posted": "2026-03-25",
+    "programming_languages": [
+      "TypeScript",
+      "HTML5",
+      "CSS3",
+      "SCSS"
+    ],
+    "technical_skills": [
+      "Angular",
+      "RxJS",
+      "Cypress",
+      "Playwright",
+      "CI/CD",
+      "API REST",
+      "Storybook",
+      "Stencil.js",
+      "Figma",
+      "Bash"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Angular",
+        "level": "Expert"
+      },
+      {
+        "technology": "Design System",
+        "level": "Expert"
+      },
+      {
+        "technology": "CI/CD",
+        "level": "Senior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "TypeScript",
+        "level": "Expert"
+      },
+      {
+        "language": "HTML5",
+        "level": "Senior"
+      }
+    ],
+    "experience_level": "Senior",
+    "salary_range": "not specified",
+    "education_requirements": "Bac+5",
+    "years_of_experience_required": 6,
+    "summary": "GO & DEV, une plateforme de services informatiques pour les PME et grands groupes, recherche un Tech Lead Front-End Angular pour un client français. Ce rôle stratégique implique de piloter l'architecture front-end, encadrer une équipe de développeurs Angular, concevoir un Design System transverse et garantir la qualité et la performance des applications. Le candidat idéal possède une expertise avancée en Angular, une expérience en lead technique et une solide culture des bonnes pratiques front-end.",
+    "file_path": "https://www.linkedin.com/jobs/view/4389898921/",
+    "extraction_method": "linkedin + mistral-large",
+    "extracted_at": "2026-04-01T20:50:37.196863"
+  },
+  {
+    "title": "Engineering Delivery Lead",
+    "company": "GO & DEV",
+    "industry": "Services et conseil en informatique",
+    "location": "Casablanca et périphérie",
+    "employment_type": "Full-time",
+    "job_description": "Go&Dev recrute un Senior Technical Program Manager / Engineering Delivery Lead (Background Release Train Engineer apprécié).\n\nVous souhaitez piloter un programme stratégique dans un environnement SaaS moderne (cloud, CI/CD, continuous delivery) ? Nous recherchons un profil senior capable d’orchestrer la delivery de plusieurs équipes software et d’améliorer la maturité engineering à l’échelle programme.\n\n**Contexte & Mission :**\nRattaché(e) directement au VP Engineering & Site Director, vous agissez comme relais opérationnel auprès des équipes R&D du site Casablanca.\nVotre objectif : sécuriser la delivery multi-équipes et améliorer la prédictibilité des livraisons, avec un focus initial sur un programme stratégique (Suite Finance).\n\n**Vos responsabilités :**\n- Piloter la roadmap et l’équilibre capacité vs charge (planifié, consommé, reste à faire).\n- Coordonner plusieurs squads techniques et gérer les dépendances complexes.\n- Anticiper et sécuriser les risques programme.\n- Structurer un modèle opérationnel engineering efficace et pragmatique.\n- Améliorer la prédictibilité et la fiabilité des livraisons.\n- Challenger les Tech Leads sur les enjeux techniques et organisationnels.\n\n**Environnement :**\n- Architecture moderne backend / frontend\n- APIs / microservices\n- Environnement cloud\n- CI/CD & delivery continu\n- Outils de pilotage type Jira / analytics delivery\n\n**Profil recherché :**\n- 12+ ans d’expérience en software engineering.\n- Ancien développeur ou architecte (background technique indispensable).\n- Expérience réelle de pilotage multi-équipes / programme.\n- Expérience en transformation technologique (cloud, modernisation, CI/CD).\n- Capacité démontrée à structurer ou améliorer un modèle opérationnel engineering.\n\n**Compétences clés :**\n- Vision technique solide (microservices, APIs, architectures modernes).\n- Pilotage delivery à l’échelle programme.\n- Gestion des dépendances et des risques complexes.\n- Leadership d’influence, pragmatisme, communication claire.\n\n**Nice to have :**\n- Expérience Release Train Engineer (SAFe) ou équivalent.\n- Expérience SaaS ou produit complexe.\n- Transformation organisation engineering.\n\n**Poste basé à Casablanca - Casa Nearshore.**",
+    "posted": "2023-10-18",
+    "programming_languages": [],
+    "technical_skills": [
+      "Bash",
+      "Jira",
+      "CI/CD",
+      "microservices",
+      "APIs",
+      "cloud",
+      "delivery continu"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "microservices",
+        "level": "Expert"
+      },
+      {
+        "technology": "cloud",
+        "level": "Expert"
+      },
+      {
+        "technology": "CI/CD",
+        "level": "Expert"
+      }
+    ],
+    "seniority_requirements_programming_languages": [],
+    "experience_level": "Expert",
+    "salary_range": "not specified",
+    "education_requirements": "not specified",
+    "years_of_experience_required": 12,
+    "summary": "Go&Dev, entreprise spécialisée dans les services et conseils en informatique, recherche un **Engineering Delivery Lead** pour piloter un programme stratégique dans un environnement SaaS moderne. Ce poste, basé à Casablanca, s’adresse à un profil **Expert** avec **12+ ans d’expérience** en software engineering, capable d’orchestrer la delivery de plusieurs équipes, d’améliorer la maturité engineering et de gérer des dépendances complexes. Les compétences clés incluent une vision technique solide (microservices, APIs, cloud, CI/CD) et un leadership pragmatique.",
+    "file_path": "https://www.linkedin.com/jobs/view/4383534860/",
+    "extraction_method": "linkedin + mistral-large",
+    "extracted_at": "2026-04-01T20:51:02.562585"
+  },
+  {
+    "title": "Développeur React / React Native / Python",
+    "company": "GO & DEV",
+    "industry": "Services et conseil en informatique",
+    "location": "Rabat et périphérie",
+    "employment_type": "Full-time",
+    "job_description": "Go&Dev recrute immédiatement un Développeur React / React Native / Python (Flask) pour le compte de l’un de ses clients français. Le candidat participera au développement de solutions web et mobiles modernes au sein d’une équipe technique dynamique.",
+    "posted": "2024-03-11",
+    "programming_languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "technical_skills": [
+      "React",
+      "React Native",
+      "Flask",
+      "HTML5",
+      "CSS3",
+      "API REST",
+      "Git",
+      "Docker",
+      "CI/CD",
+      "Bash"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "React",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "React Native",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Flask",
+        "level": "Medior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Python",
+        "level": "Medior"
+      },
+      {
+        "language": "JavaScript",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "not specified",
+    "education_requirements": "not specified",
+    "years_of_experience_required": 4,
+    "summary": "GO & DEV, une entreprise spécialisée dans les solutions informatiques pro business, recrute un Développeur React / React Native / Python avec 2 à 6 ans d’expérience. Le poste, basé à Rabat, implique le développement de solutions web et mobiles modernes en utilisant des technologies comme React, React Native, Python (Flask), JavaScript/TypeScript, et des outils comme Git, Docker et CI/CD.",
+    "file_path": "https://www.linkedin.com/jobs/view/4382417200/",
+    "extraction_method": "linkedin + mistral-large",
+    "extracted_at": "2026-04-01T20:51:18.190415"
+  },
+  {
+    "title": "Développeur Java / Angular",
+    "company": "GO & DEV",
+    "industry": "Services et conseil en informatique",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "employment_type": "Full-time",
+    "job_description": "Go&Dev recrute un Développeur Java / Angular Senior pour accompagner un projet stratégique de modernisation et d’évolution du SI. Vos missions incluent :\n- Concevoir, développer et maintenir des applications Java / Angular.\n- Intervenir sur un SI complexe composé de nombreuses applications.\n- Participer aux travaux de refonte, modernisation et réduction de la dette technique.\n- Développer et maintenir des API REST dans une architecture microservices.\n- Travailler sur des composants legacy et contribuer à leur évolution.\n- Collaborer étroitement avec les équipes techniques, QA et DevOps.\n- Garantir la qualité, la performance et la maintenabilité du code.",
+    "posted": "2026-03-25",
+    "programming_languages": [
+      "Java",
+      "JavaScript",
+      "SQL",
+      "Bash"
+    ],
+    "technical_skills": [
+      "Angular 12+",
+      "Spring Boot 2",
+      "microservices",
+      "API REST",
+      "Git",
+      "CI/CD",
+      "Oracle",
+      "PostgreSQL",
+      "Java JSP",
+      "Bash"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Spring Boot 2",
+        "level": "Senior"
+      },
+      {
+        "technology": "microservices",
+        "level": "Senior"
+      },
+      {
+        "technology": "API REST",
+        "level": "Senior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Java",
+        "level": "Senior"
+      },
+      {
+        "language": "JavaScript",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Senior",
+    "salary_range": "not specified",
+    "education_requirements": "not specified",
+    "years_of_experience_required": 7,
+    "summary": "GO & DEV, entreprise spécialisée dans les services et conseils en informatique, recrute un Développeur Java / Angular Senior pour travailler sur un projet stratégique de modernisation et d’évolution d’un système d’information complexe. Le poste requiert une expertise solide en Java, Angular, microservices, API REST et une expérience minimale de 7 ans dans le développement d’applications.",
+    "file_path": "https://www.linkedin.com/jobs/view/4389585968/",
+    "extraction_method": "linkedin + mistral-large",
+    "extracted_at": "2026-04-01T20:51:36.241222"
+  },
+  {
+    "title": "Expert paramétrage Cleva H/F",
+    "company": "Cleva",
+    "industry": "Développement de logiciels - Assurance",
+    "location": "Ville de Paris, Île-de-France, France",
+    "employment_type": "Full-time",
+    "job_description": "Dans le cadre d’un projet d’envergure visant à l’intégration de CLEVA d’un grand groupe d’assurance et en parfaite relation avec le Directeur de projets et les équipes fonctionnelles et techniques, nous recherchons un/ une Lead paramétrage CLEVA.\n\n**Encadrement et coordination**\n- Animer et encadrer une équipe de paramétreurs (suivi de la charge, priorisation, accompagnement technique et fonctionnel).\n- Garantir la cohérence des livrables entre les différents projets et environnements.\n- Faire le lien entre les équipes projet (chefs de projet, développeurs, testeurs, MOA, etc.) et les équipes de paramétrage.\n\n**Pilotage du paramétrage**\n- Définir et maintenir les bonnes pratiques de paramétrage au sein de Cleva.\n- Superviser les activités de paramétrage sur les projets clients (règles métiers, produits, workflows, écrans, tarification…).\n- Participer aux ateliers de conception pour anticiper les impacts sur le paramétrage et orienter les choix techniques.\n\n**Qualité et amélioration continue**\n- Mettre en place des contrôles qualité sur les livrables.\n- Contribuer à l’évolution des outils internes de paramétrage.\n- Proposer des optimisations sur les processus de configuration, de recette et de livraison.\n\n**Support et expertise**\n- Être le référent sur les sujets complexes ou transverses de paramétrage.\n- Former et accompagner les nouveaux paramétreurs.\n- Assurer un support de niveau 3 sur les incidents liés au paramétrage.",
+    "posted": "2023-11-04",
+    "programming_languages": [
+      "SQL",
+      "XML"
+    ],
+    "technical_skills": [
+      "Cleva (modules, modèle de données, logique de paramétrage)",
+      "Jira",
+      "Confluence",
+      "Bash"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Cleva",
+        "level": "Expert"
+      },
+      {
+        "technology": "Jira",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Confluence",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "SQL",
+        "level": "Confirmé"
+      },
+      {
+        "language": "XML",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "not specified",
+    "education_requirements": "Bac+5",
+    "years_of_experience_required": 5,
+    "summary": "Cleva recherche un **Expert paramétrage Cleva H/F** pour piloter et garantir la qualité du paramétrage fonctionnel et technique de ses solutions dédiées au secteur de l'assurance. Ce poste, basé à Paris en mode hybride, nécessite une expérience confirmée de 5 ans minimum en paramétrage Cleva, une maîtrise des outils comme SQL, XML, Jira et Confluence, ainsi qu'une forte capacité à encadrer une équipe et à traduire des besoins métiers en solutions paramétrées.",
+    "file_path": "https://www.linkedin.com/jobs/view/4386940310/",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-02T14:32:59.614349"
+  },
+  {
+    "title": "BUSINESS ANALYST IARD H/F",
+    "company": "Cleva",
+    "industry": "Développement de logiciels pour l'assurance et la finance",
+    "location": "Paris, Île-de-France, France",
+    "employment_type": "Full-time",
+    "job_description": "En parfaite relation avec le Directeur de projets et les équipes de développement, vous interviendrez sur des projets d'implémentation du progiciel CLEVA dans le domaine de l'assurance IARD.\n\nVos principales missions :\n- Analyser les besoins fonctionnels de nos clients dans le domaine de l'assurance IARD (souscription, production, gestion des contrats, sinistres, facturation, recouvrement, réassurance...) ;\n- Rédiger les spécifications fonctionnelles détaillées, en tenant compte des règles de gestion propres à l'IARD ;\n- Réaliser le paramétrage du progiciel CLEVA (produits, garanties, sinistres, comptabilité, workflow, IHM, éditions) ;\n- Intégrer notre solution dans le SI du client et assurer son interopérabilité avec les systèmes tiers ;\n- Exécuter les recettes unitaires et participer activement à la validation fonctionnelle ;\n- Remonter les alertes et difficultés lors des daily meetings et proposer des pistes d'amélioration ;\n- Suivre les anomalies, s'assurer de leur résolution et garantir la qualité du delivery ;\n- Être en relation étroite avec les équipes R&D et support pour enrichir la solution CLEVA et partager le retour d'expérience client.\n\nVotre parcours d'intégration débutera par une formation à notre solution ainsi qu'aux spécificités métiers de l'assurance IARD.",
+    "posted": "2023-11-07",
+    "programming_languages": [
+      "SQL",
+      "XML"
+    ],
+    "technical_skills": [
+      "CLEVA",
+      "JIRA",
+      "Confluence",
+      "Teams",
+      "Bash",
+      "fichiers XML",
+      "intégration SI"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "CLEVA",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "JIRA",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Confluence",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "SQL",
+        "level": "Confirmé"
+      },
+      {
+        "language": "XML",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "not specified",
+    "education_requirements": "Bac+5",
+    "years_of_experience_required": 4,
+    "summary": "Cleva Solutions, acteur majeur de l'édition de logiciels pour l'assurance et la finance, recherche un Business Analyst IARD H/F pour rejoindre son équipe. Le poste consiste à analyser, formaliser et traduire les besoins métiers IARD des clients afin d'optimiser l'implémentation de la solution CLEVA. Une expérience confirmée dans le secteur de l'assurance IARD et une bonne maîtrise des outils techniques comme SQL, XML, JIRA et Confluence sont requises.",
+    "file_path": "https://www.linkedin.com/jobs/view/4386995470/",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-02T14:33:27.987969"
+  },
+  {
+    "title": "Développeur Java Sénior H/F",
+    "company": "Cleva",
+    "industry": "Développement de logiciels pour l'assurance et la finance",
+    "location": "Lyon, Auvergne-Rhône-Alpes, France",
+    "employment_type": "Full-time",
+    "job_description": "Intégré(e) au sein du service d'Architecture Technique des équipes de Développement, vous aurez la charge de domaines techniques stratégiques et jouerez un rôle clé dans l'évolution et la robustesse de notre solution. Vos missions incluront :\n\n- Concevoir et développer des solutions en Java / JEE\n- Être le/la référent(e) des choix techniques et garantir leur cohérence\n- Accompagner et faire grandir les équipes de développement (bonnes pratiques, expertise)\n- Faire évoluer et maintenir le framework de notre progiciel\n- Analyser et résoudre des problématiques techniques complexes\n- Participer au chiffrage et à la conception des composants\n- Assurer un support de niveau 3 auprès des équipes métier\n- Optimiser les performances (Java, base de données, réseau)\n- Contribuer activement à la démarche qualité et à l'amélioration continue\n- Expérimenter via des POC / prototypes sur de nouvelles technologies",
+    "posted": "2023-11-04",
+    "programming_languages": [
+      "Java",
+      "JavaScript",
+      "SQL"
+    ],
+    "technical_skills": [
+      "Java/JEE",
+      "Spring",
+      "Hibernate",
+      "JUnit",
+      "Maven",
+      "Eclipse",
+      "Jenkins",
+      "UML",
+      "PostgreSQL",
+      "Docker",
+      "Kubernetes",
+      "HTML5",
+      "CSS",
+      "Bash"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Java/JEE",
+        "level": "Senior"
+      },
+      {
+        "technology": "Spring",
+        "level": "Senior"
+      },
+      {
+        "technology": "PostgreSQL",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Java",
+        "level": "Senior"
+      },
+      {
+        "language": "SQL",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Senior",
+    "salary_range": "45K€/yr - 55K€/yr",
+    "education_requirements": "Bac+5",
+    "years_of_experience_required": 6,
+    "summary": "Cleva, acteur majeur de l'édition de logiciels pour les secteurs de l'assurance et de la finance, recherche un Développeur Java Sénior H/F pour rejoindre son équipe R&D à Lyon. Ce poste stratégique implique la conception et le développement de solutions en Java/JEE, l'optimisation des performances, ainsi que l'accompagnement des équipes de développement. Une expertise en Java, Spring, et PostgreSQL, ainsi qu'une expérience significative en environnements complexes sont requises.",
+    "file_path": "https://www.linkedin.com/jobs/view/4386943194/",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-02T14:33:57.787230"
+  },
+  {
+    "title": "Business Consultant Sénior – Seguros Não Vida",
+    "company": "Cleva",
+    "industry": "Développement de logiciels pour le secteur des assurances",
+    "location": "Porto, Porto, Portugal",
+    "employment_type": "Full-time",
+    "job_description": "Liderar o levantamento e análise de requisitos funcionais e técnicos junto de stakeholders. Liderar a definição da arquitetura da solução a implementar ao nível funcional. Mapeamento de processos de negócio e identificação de oportunidades de melhoria. Elaboração de documentação funcional e apoio à equipa de desenvolvimento. Validação de entregáveis e apoio na definição de testes funcionais. Interface entre áreas de negócio, IT e parceiros. Acompanhamento pós-implementação e suporte à gestão de mudança.",
+    "posted": "2026-04-01",
+    "programming_languages": [],
+    "technical_skills": [
+      "BPMN",
+      "Jira",
+      "Confluence",
+      "Enterprise Architect",
+      "Scrum",
+      "Kanban",
+      "Bash"
+    ],
+    "spoken_languages": [
+      "portugais",
+      "anglais"
+    ],
+    "certifications": [
+      "CBAP",
+      "PMI-PBA"
+    ],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "BPMN",
+        "level": "Senior"
+      },
+      {
+        "technology": "Jira",
+        "level": "Senior"
+      },
+      {
+        "technology": "Confluence",
+        "level": "Senior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [],
+    "experience_level": "Senior",
+    "salary_range": "not specified",
+    "education_requirements": "Bac+3",
+    "years_of_experience_required": 7,
+    "summary": "Cleva, entreprise spécialisée dans le développement de solutions logicielles pour le secteur des assurances, recherche un **Business Consultant Sénior – Seguros Não Vida** pour rejoindre son équipe à Porto. Le poste exige une expérience minimale de 7 ans en tant que Business Analyst ou Consultant IT, avec une expertise dans les assurances non vie, la modélisation de processus (BPMN) et les méthodologies agiles. Le candidat idéal aura une forte orientation client, des compétences en leadership et une capacité à travailler en environnement multidisciplinaire.",
+    "file_path": "https://www.linkedin.com/jobs/view/4394652277/",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-02T14:34:26.215100"
+  },
+  {
+    "title": "Backend Software Developer",
+    "company": "Centreon",
+    "industry": "Développement de logiciels",
+    "location": "Toulouse, Occitanie, France",
+    "employment_type": "Full-time",
+    "job_description": "Au sein d’une équipe dynamique et passionnée par les nouvelles technologies où la collaboration et l’innovation sont au cœur de notre philosophie, vous participerez au développement et à l’évolution de nos applications backend optimisées pour le cloud. En tant que développeur Node.js, vous participerez au développement de solutions innovantes, en exploitant les technologies cloud les plus récentes. Votre rôle sera de développer des API performantes, d'assurer la scalabilité des services et d'automatiser les déploiements. L’équipe ayant en charge un composant PHP au sein de son écosystème, vous serez amené à participer à sa stabilité et y apporter des évolutions ciblées. Côté frontend, vous contribuerez à maintenir et à faire évoluer notre composant au cœur de la gestion des identités et des accès. Vous serez impliqué dans toutes les phases du cycle de vie des projets, de la conception à la mise en production.\n\nMissions :\n- Concevoir et développer des applications backend en utilisant Node.js et PHP\n- Assurer la conception et l'évolution d'environnements frontend\n- Participer à l'architecture et à la conception de nouvelles fonctionnalités\n- Écrire du code propre, maintenable et bien documenté\n- Collaborer avec les équipes front-end pour intégrer les API et assurer une expérience utilisateur fluide\n- Participer aux revues de code et aux tests unitaires pour garantir la qualité du code\n- Contribuer à l'amélioration continue des processus de développement\n- Assurer la maintenance et l'optimisation des applications existantes\n- Collaborer avec les équipes SRE pour le déploiement et la maintenance des applications\n- Rester à jour avec les dernières tendances et technologies en matière de développement backend / frontend",
+    "posted": "2023-10-10",
+    "programming_languages": [
+      "JavaScript",
+      "TypeScript",
+      "PHP",
+      "SQL",
+      "Bash"
+    ],
+    "technical_skills": [
+      "Node.js",
+      "Nest.js",
+      "Linux",
+      "AWS",
+      "Terraform",
+      "Docker",
+      "Git",
+      "ArgoCD",
+      "Helm",
+      "Bash",
+      "CI/CD"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Node.js",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Docker",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "AWS",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "JavaScript",
+        "level": "Confirmé"
+      },
+      {
+        "language": "PHP",
+        "level": "Confirmé"
+      }
+    ],
+    "experience_level": "Confirmé",
+    "salary_range": "not specified",
+    "education_requirements": "not specified",
+    "years_of_experience_required": 4,
+    "summary": "Centreon, leader de la supervision de la performance digitale, recherche un Backend Software Developer pour rejoindre son équipe dynamique à Toulouse. Le poste implique le développement d'applications backend avec Node.js et PHP, l'assurance de la scalabilité des services, l'automatisation des déploiements, et une contribution aux environnements frontend. Les compétences clés incluent Node.js, PHP, Docker, AWS, et une expérience confirmée en développement backend.",
+    "file_path": "https://www.linkedin.com/jobs/view/4392413382/",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-02T14:35:01.026678"
+  },
+  {
+    "title": "QA Manager (H/F)",
+    "company": "Centreon",
+    "industry": "Développement de logiciels",
+    "location": "Toulouse, Occitanie, France",
+    "employment_type": "Full-time",
+    "job_description": "Dans le cadre d’une création de poste, nous recherchons un Manager QA pour garantir en continu la fiabilité, la performance et la robustesse de nos solutions. Accompagné par le lead technique QA, vous serez responsable de mettre en place la stratégie qualité, de l’amélioration continue des processus de test et du pilotage de l’équipe QA. Centreon étant une plateforme multi-produits, vous serez en charge de la qualité des trois produits Centreon, en prenant en considération les enjeux distincts de chaque produit. L’équipe responsable des releases sera en outre un partenaire privilégié au quotidien pour l’amélioration des processus de livraison. \n\nVous aurez par ailleurs à cœur d’établir une culture de la qualité qui sera mise en œuvre par l’ensemble des équipes, dès les phases de conception, puis lors de l’implémentation avec les développeurs, jusqu’à la mise en production par les SRE, en collaboration avec l’ensemble de l’équipe management de la R&D. Customer First, vos actions renforceront directement la confiance de nos utilisateurs et limiteront la surcharge de notre support.\n\nMissions :\n- Encadrer, accompagner et faire monter en compétence l’équipe QA\n- Définir la stratégie qualité\n- Diffuser une culture qualité à l’ensemble des parties prenantes\n- Superviser les tests et leur exécution\n- Mettre en place et optimiser les outils et reportings QA\n- Assurer la qualité globale des produits\n- Contribuer à l’amélioration continue du processus de release (vélocité, fiabilité)",
+    "posted": "2023-10-10",
+    "programming_languages": [],
+    "technical_skills": [
+      "outillage QA",
+      "processus DevOps",
+      "Bash"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_requirements_technologies": [],
+    "seniority_requirements_programming_languages": [],
+    "experience_level": "Confirmé",
+    "salary_range": "not specified",
+    "education_requirements": "Bac+3/5",
+    "years_of_experience_required": 3,
+    "summary": "Centreon, leader de la supervision de la performance digitale, recherche un QA Manager (H/F) pour renforcer sa stratégie qualité et piloter une équipe QA. Le poste, basé à Toulouse, implique la définition et la mise en œuvre d'une stratégie qualité pour trois produits, en collaboration avec les équipes R&D et DevOps. Une expérience en management et une expertise méthodologique des tests sont requises.",
+    "file_path": "https://www.linkedin.com/jobs/view/4392413326/",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-02T14:35:29.722837"
+  },
+  {
+    "title": "Customer Care Engineer",
+    "company": "Centreon",
+    "industry": "Développement de logiciels",
+    "location": "Toulouse, Occitanie, France",
+    "employment_type": "Full-time",
+    "job_description": "Rejoignez le département Customer Success en tant que Customer Care Engineer. Intégré dans l’équipe Customer Care composée de 14 collaborateurs (multilingues), vous êtes le garant de la satisfaction des clients et de la bonne prise en compte de leurs incidents. \n\nMissions :\n- Assurer le service client via nos principaux canaux de supports (email, Zendesk et téléphone) garantissant que les cas clients soient résolus dans les meilleurs délais.\n- Diagnostiquer et résoudre les incidents et mettre en place des solutions de contournement.\n- Orienter les sujets vers les équipes dédiées à leur traitement et maintenir informés nos clients.\n- Organiser des sessions de troubleshootings pour nos clients.\n- Faire des recommandations concernant les besoins de l’équipe.\n- Rechercher et proposer des améliorations pour le service et l’expérience utilisateur.\n- Contribuer au maintien de la Knowledge Base de l’équipe.\n- Participer aux projets internes dédiés à l’amélioration continue du Customer Care.",
+    "posted": "2023-10-18",
+    "programming_languages": [
+      "Perl",
+      "Bash",
+      "PHP",
+      "SQL"
+    ],
+    "technical_skills": [
+      "Linux (LAMP)",
+      "Bash",
+      "Zendesk",
+      "Supervision (Client/Serveur, SNMP, HTTP)",
+      "Outils de supervision",
+      "Serveur Web"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Anglais"
+    ],
+    "certifications": [],
+    "seniority_requirements_technologies": [
+      {
+        "technology": "Linux (LAMP)",
+        "level": "Medior"
+      },
+      {
+        "technology": "Supervision (SNMP, HTTP)",
+        "level": "Medior"
+      },
+      {
+        "technology": "Zendesk",
+        "level": "Medior"
+      }
+    ],
+    "seniority_requirements_programming_languages": [
+      {
+        "language": "Bash",
+        "level": "Medior"
+      },
+      {
+        "language": "PHP",
+        "level": "Medior"
+      }
+    ],
+    "experience_level": "not specified",
+    "salary_range": "not specified",
+    "education_requirements": "Bac+2 à Bac+5",
+    "years_of_experience_required": 0,
+    "summary": "Centreon, leader de la supervision de la performance digitale, recherche un Customer Care Engineer pour rejoindre son équipe Customer Success basée à Toulouse. Le poste implique la résolution d'incidents techniques, la gestion de la relation client et l'amélioration continue des services. Les compétences clés incluent la maîtrise de Linux, des langages de scripting (Bash, Perl, PHP) et des outils de supervision.",
+    "file_path": "https://www.linkedin.com/jobs/view/4380408249/",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-02T14:35:59.432037"
+  }
+]

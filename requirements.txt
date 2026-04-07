@@ -1,3 +1,25 @@
+# Base
+python-dotenv
+
+# Extraction CVs
+pymupdf
+
+# Extraction Jobs
 python-docx
-langchain-groq
-langchain
+
+# LLM — Mistral Large
+langchain-mistralai
+langchain-core
+
+# Génération données synthétiques
+faker
+reportlab
+
+# Weaviate
+weaviate-client==3.26.7
+
+# Interface Streamlit
+streamlit
+
+# Requêtes HTTP
+requests

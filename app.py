@@ -2,10 +2,10 @@ import streamlit as st
 import sys
 import requests
 import time
+from Upload_job import render_upload_job_section
 from pathlib import Path
 
 sys.path.append(str(Path(__file__).parent / "weaviate"))
-
 sys.path.append(str(Path(__file__).parent / "weaviate" / "search"))
 
 from candidates_for_job import (
@@ -88,16 +88,74 @@ hr { border: none; border-top: 1px solid #E8EAED; margin: 14px 0; }
 
 .stButton > button { background: #111827 !important; color: #fff !important; border: none !important; border-radius: 5px !important; font-family: 'Inter', sans-serif !important; font-weight: 500 !important; font-size: 13px !important; padding: 9px 0 !important; width: 100% !important; }
 .stButton > button:hover { background: #1F2937 !important; }
-.stSelectbox label, .stSlider label, .stRadio label, .stMultiSelect label, .stTextInput label { font-size: 11px !important; color: #6B7280 !important; font-weight: 500 !important; }
+/* Labels sidebar — gris */
+[data-testid="stSidebar"] .stSelectbox label,
+[data-testid="stSidebar"] .stSlider label,
+[data-testid="stSidebar"] .stRadio label,
+[data-testid="stSidebar"] .stMultiSelect label,
+[data-testid="stSidebar"] .stTextInput label { font-size: 11px !important; color: #6B7280 !important; font-weight: 500 !important; }
+
+/* Labels upload section — noir visible sur fond blanc */
+div[data-testid="stExpander"] .stRadio label,
+div[data-testid="stExpander"] .stRadio div[role="radiogroup"] label,
+div[data-testid="stExpander"] p { color: #374151 !important; font-size: 12px !important; }
+/* ── Section upload — thème clair cohérent avec l app ── */
+/* ── Section upload ── */
+div[data-testid="stExpander"] [data-testid="stFileUploaderDropzone"] {
+    background: #FFFFFF !important;
+    border: 1px dashed #D1D5DB !important;
+    border-radius: 5px !important;
+}
+div[data-testid="stExpander"] [data-testid="stFileUploaderDropzone"] * {
+    color: #6B7280 !important;
+    background: transparent !important;
+}
+div[data-testid="stExpander"] [data-testid="stFileUploaderDropzone"] button {
+    background: #F9FAFB !important;
+    color: #374151 !important;
+    border: 1px solid #D1D5DB !important;
+}
+div[data-testid="stExpander"] input[type="text"] {
+    background: #FFFFFF !important;
+    color: #111827 !important;
+    border: 1px solid #D1D5DB !important;
+}
+div[data-testid="stExpander"] input[type="text"]::placeholder {
+    color: #9CA3AF !important;
+}
+/* Zone drag and drop — fond blanc, cohérent avec le reste */
+div[data-testid="stExpander"] div[data-testid="stFileUploaderDropzone"] {
+    background-color: #F9FAFB !important;
+    border: 1px dashed #D1D5DB !important;
+    border-radius: 5px !important;
+}
+div[data-testid="stExpander"] div[data-testid="stFileUploaderDropzone"] p,
+div[data-testid="stExpander"] div[data-testid="stFileUploaderDropzone"] span,
+div[data-testid="stExpander"] div[data-testid="stFileUploaderDropzone"] small {
+    color: #6B7280 !important;
+}
+/* Bouton Browse files */
+div[data-testid="stExpander"] div[data-testid="stFileUploaderDropzone"] button {
+    background: #FFFFFF !important;
+    color: #374151 !important;
+    border: 1px solid #D1D5DB !important;
+    border-radius: 4px !important;
+}
 </style>
 """, unsafe_allow_html=True)
 
 
 def weaviate_ready():
-    try:
-        return requests.get("http://localhost:8080/v1/.well-known/ready", timeout=2).status_code == 200
-    except Exception:
-        return False
+    """3 tentatives avec 1s entre chaque — evite les faux negatifs au demarrage."""
+    for _ in range(3):
+        try:
+            r = requests.get("http://localhost:8080/v1/.well-known/ready", timeout=3)
+            if r.status_code == 200:
+                return True
+        except Exception:
+            pass
+        time.sleep(1)
+    return False
 
 
 @st.cache_resource(show_spinner=False)
@@ -106,6 +164,13 @@ def get_client():
         return connect_weaviate()
     except Exception:
         return None
+
+
+def clear_and_reconnect():
+    """Vide le cache et force la reconnexion."""
+    st.cache_resource.clear()
+    st.cache_data.clear()
+    st.rerun()
 
 
 @st.cache_data(ttl=60, show_spinner=False)
@@ -135,7 +200,15 @@ def badge(score):
 
 
 def bar(label, val):
-    p = int(val * 100)
+    if val == -1:
+        st.markdown(f"""
+        <div class="br-row">
+            <span class="br-lbl">{label}</span>
+            <div class="br-track"><div class="br-fill" style="width:0%;opacity:0.3;"></div></div>
+            <span class="br-pct" style="color:#9CA3AF;">N/A</span>
+        </div>""", unsafe_allow_html=True)
+        return
+    p = max(0, min(100, int(val * 100)))
     st.markdown(f"""
     <div class="br-row">
         <span class="br-lbl">{label}</span>
@@ -201,12 +274,24 @@ with st.sidebar:
                 unsafe_allow_html=True)
 
 if not weaviate_ready():
-    st.error("Weaviate n'est pas accessible. Lance docker-compose up -d puis relance l'application.")
+    st.error("Weaviate non accessible. Vérifie que docker-compose up -d est lancé.")
+    col_retry, _ = st.columns([1, 4])
+    with col_retry:
+        if st.button("Réessayer la connexion"):
+            clear_and_reconnect()
     st.stop()
 
 client = get_client()
 if client is None:
+    st.cache_resource.clear()
+    client = get_client()
+
+if client is None:
     st.error("Connexion à Weaviate impossible.")
+    col_retry2, _ = st.columns([1, 4])
+    with col_retry2:
+        if st.button("Réessayer la connexion", key="retry2"):
+            clear_and_reconnect()
     st.stop()
 
 jobs       = load_jobs(client)
@@ -218,6 +303,8 @@ if not jobs:
 if not candidates:
     st.error("Aucun candidat dans Weaviate. Lance insert_data.py.")
     st.stop()
+
+
 
 st.markdown("""
 <div class="header">
@@ -241,13 +328,43 @@ for col, val, lbl in [
 
 st.markdown("<br>", unsafe_allow_html=True)
 
+with st.expander("➕ Ajouter une nouvelle offre (.docx / .pdf / URL LinkedIn)", expanded=False):
+    new_job = render_upload_job_section(client)
+
+    # Si une nouvelle offre vient d'être insérée dans Weaviate
+    if new_job and new_job.get("uuid"):
+        # Vider le cache pour que la nouvelle offre apparaisse dans la liste
+        load_jobs.clear()
+        jobs = load_jobs(client)
+
+        # Stocker l'UUID dans session_state pour pré-sélectionner l'offre
+        st.session_state["auto_select_uuid"] = new_job["uuid"]
+        st.session_state["auto_run_search"]  = True
+        st.rerun()
+
+# ── SELECTEUR D'OFFRES ────────────────────────────────────────────────
+
 job_map = {}
 for j in sorted(jobs, key=lambda x: x["props"].get("title", "")):
     p = j["props"]
     key = f"{p.get('title','N/A')}  —  {p.get('company','N/A')}  |  {p.get('experience_level','')}  |  {p.get('location','')}"
     job_map[key] = j
 
-selected_key  = st.selectbox("Offre d'emploi", list(job_map.keys()), label_visibility="collapsed")
+# INSERTION 2 : pré-sélection automatique si une offre vient d'être uploadée
+default_index = 0
+if "auto_select_uuid" in st.session_state:
+    target_uuid = st.session_state["auto_select_uuid"]
+    for idx, (key, j) in enumerate(job_map.items()):
+        if j["uuid"] == target_uuid:
+            default_index = idx
+            break
+
+selected_key  = st.selectbox(
+    "Offre d'emploi",
+    list(job_map.keys()),
+    index=default_index,
+    label_visibility="collapsed"
+)
 selected      = job_map[selected_key]
 selected_uuid = selected["uuid"]
 jp            = selected["props"]
@@ -269,17 +386,27 @@ st.markdown(f"""
     {'<div class="lbl">Certifications</div><div>' + tags(jp.get('certifications',[]), 'tag-c') + '</div>' if jp.get('certifications') else ''}
 </div>""", unsafe_allow_html=True)
 
-run = st.button("Lancer la recherche de candidats")
+# INSERTION 3 : lancement automatique si upload vient d'avoir lieu
+# Si auto_run_search est actif, on lance la recherche sans cliquer
+auto_run = st.session_state.pop("auto_run_search", False)
+if "auto_select_uuid" in st.session_state and auto_run:
+    del st.session_state["auto_select_uuid"]
+
+run = st.button("Lancer la recherche de candidats") or auto_run
 st.markdown("<br>", unsafe_allow_html=True)
 
+# ── RÉSULTATS ─────────────────────────────────────────────────────────
+
 if run:
-    with st.spinner("Analyse sémantique en cours..."):
+    st.markdown('<div style="font-size:12px;color:#6B7280;font-family:Inter,sans-serif;padding:6px 0;">Analyse sémantique en cours...</div>', unsafe_allow_html=True)
+    with st.spinner(""):
         raw_results = candidates_for_job(
             client=client,
             job_uuid=selected_uuid,
             limit=limit * 3,
             mode=mode,
         )
+
 
     filtered = []
     for r in raw_results:

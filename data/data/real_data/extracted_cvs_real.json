@@ -1,0 +1,4761 @@
+[
+  {
+    "full_name": "Hajar ABDELLAOUI",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/hajar-abdellaoui-53479221b",
+    "github": "not found",
+    "roles_held": [
+      "Software QA Engineer"
+    ],
+    "programming_languages": [],
+    "technical_skills": [],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information"
+      ]
+    },
+    "summary": "not found",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.3,
+    "experience_timeline": [],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/hajar-abdellaoui-53479221b",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:37:43.322440"
+  },
+  {
+    "full_name": "Hanae MOUHIB",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 1,
+    "linkedin": "https://www.linkedin.com/in/hanae-mouhib-740379284",
+    "github": "not found",
+    "roles_held": [
+      "Ingénieure d’études et développement",
+      "Stagiaire"
+    ],
+    "programming_languages": [
+      "Java"
+    ],
+    "technical_skills": [
+      "développement full stack",
+      "Analyse des données",
+      "Conception de systèmes informatiques",
+      "Programmation",
+      "HackerRank Java (Basic)"
+    ],
+    "spoken_languages": [
+      "Français (DELF B2)",
+      "Anglais"
+    ],
+    "certifications": [
+      "HackerRank Java (Basic)",
+      "DELF B2 (Diplôme d'Études en Langue Française)"
+    ],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [
+      {
+        "language": "Java",
+        "level": "Medior"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "Génie Informatique",
+        "Technologies de l'information"
+      ]
+    },
+    "summary": "Je suis élève ingénieur en Génie Informatique en cinquième année, passionnée par les technologies de l'information et l'innovation numérique. Mon parcours académique m'a permis d'acquérir une solide expertise en programmation, en conception de systèmes informatiques et en résolution de problèmes complexes. En parallèle, j'ai obtenu divers certificats dans des domaines clés de l'informatique, renforçant ainsi mes compétences et ma polyvalence. Je consacre une partie de mon temps à renforcer mon niveau d'anglais grâce à des études à l'université de langue anglaise.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Génie Informatique",
+    "work_experience": "Ingénieure d’études et développement chez GO & DEV, stage chez SQLI Oujda, stage de fin d'études chez GO & DEV.",
+    "projects": "Projet de Fin d'Études réalisé au sein de GO & DEV, axé sur le développement logiciel et les technologies web.",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2024,
+        "year_end": 2024,
+        "company": "SQLI Oujda",
+        "role": "Stagiaire",
+        "skills_acquired": [
+          "Programmation",
+          "Développement logiciel"
+        ],
+        "languages_used": [
+          "Java"
+        ],
+        "description": "Stage d'été enrichissant permettant de développer de nouvelles compétences en programmation et de participer à des projets stimulants."
+      },
+      {
+        "year_start": 2024,
+        "year_end": 2025,
+        "company": "GO & DEV",
+        "role": "Stagiaire (Projet de Fin d'Études)",
+        "skills_acquired": [
+          "Développement logiciel",
+          "Technologies web",
+          "Systèmes intelligents"
+        ],
+        "languages_used": [],
+        "description": "Projet de Fin d'Études réalisé au sein de GO & DEV, consolidant les compétences en développement logiciel et technologies web."
+      },
+      {
+        "year_start": 2025,
+        "year_end": null,
+        "company": "GO & DEV",
+        "role": "Ingénieure d’études et développement",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "Poste actuel en tant qu'Ingénieure d’études et développement."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Développement logiciel et technologies web",
+      "progression_speed": "Rapide",
+      "predicted_profile": "Ingénieure en Génie Informatique avec une spécialisation en développement logiciel et technologies web.",
+      "skills_in_progress": [
+        "Développement full stack",
+        "Analyse des données"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/hanae-mouhib-740379284",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:38:14.044425"
+  },
+  {
+    "full_name": "Kadiri Ismail",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 8,
+    "linkedin": "https://www.linkedin.com/in/kadiri-ismail-b72763b3",
+    "github": "not found",
+    "roles_held": [
+      "Ingénieur d'étude et développement",
+      "Tech Lead",
+      "Ingénieur logiciel | Développeur Full Stack",
+      "Ingénieur logiciel | Développeur web Front-end",
+      "Ingénieur logiciel | Développeur web Back-end",
+      "Ingenieur logiciel | Développeur web (Stage)"
+    ],
+    "programming_languages": [
+      "Java",
+      "Python",
+      "PHP",
+      "SQL",
+      "C#",
+      "JavaScript"
+    ],
+    "technical_skills": [
+      "GO & DEV",
+      "Laravel",
+      "Hibernate",
+      "PostgreSQL",
+      "MySQL",
+      "Microsoft SQL Server",
+      "API REST",
+      "Docker",
+      "AWS",
+      "Kafka",
+      "GitLab",
+      "Jenkins",
+      "Nexus",
+      "Sonar",
+      "Azure DevOps",
+      "Vue 3",
+      "Nuxt.js",
+      "Angular",
+      "Blazor",
+      ".NET Framework",
+      ".NET Core",
+      "Entity Framework",
+      "Bash",
+      "Shell"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [
+      {
+        "technology": "Java",
+        "level": "Senior"
+      },
+      {
+        "technology": "Angular",
+        "level": "Senior"
+      },
+      {
+        "technology": "Python",
+        "level": "Medior"
+      },
+      {
+        "technology": ".NET",
+        "level": "Senior"
+      },
+      {
+        "technology": "DevOps",
+        "level": "Senior"
+      },
+      {
+        "technology": "SQL",
+        "level": "Senior"
+      },
+      {
+        "technology": "PHP",
+        "level": "Medior"
+      }
+    ],
+    "seniority_programming_languages": [
+      {
+        "language": "Java",
+        "level": "Senior"
+      },
+      {
+        "language": "Python",
+        "level": "Medior"
+      },
+      {
+        "language": "PHP",
+        "level": "Medior"
+      },
+      {
+        "language": "SQL",
+        "level": "Senior"
+      },
+      {
+        "language": "C#",
+        "level": "Senior"
+      },
+      {
+        "language": "JavaScript",
+        "level": "Confirmé"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information",
+        "Développement logiciel"
+      ]
+    },
+    "summary": "Kadiri Ismail est un Ingénieur d'étude et développement ainsi qu'un Tech Lead basé au Maroc, avec plus de 8 ans d'expérience dans le développement logiciel. Il a occupé plusieurs rôles techniques, allant du développement front-end et back-end au rôle de Tech Lead. Il possède une expertise dans plusieurs langages de programmation et frameworks, ainsi que dans la gestion de projets et d'équipes techniques.",
+    "education_level": "not found",
+    "field_of_studies": "Ecole High-Tech",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2015,
+        "year_end": 2015,
+        "company": "Poste Maroc (Barid Al Maghrib)",
+        "role": "Stage",
+        "skills_acquired": [
+          "Microsoft SQL Server",
+          "Visual Basic"
+        ],
+        "languages_used": []
+      },
+      {
+        "year_start": 2015,
+        "year_end": 2016,
+        "company": "Non précisé",
+        "role": "Ingenieur logiciel | Développeur web (Stage)",
+        "skills_acquired": [
+          "MySQL",
+          "PHP"
+        ],
+        "languages_used": [
+          "PHP",
+          "SQL"
+        ]
+      },
+      {
+        "year_start": 2016,
+        "year_end": 2017,
+        "company": "Non précisé",
+        "role": "Ingénieur logiciel | Développeur web Back-end",
+        "skills_acquired": [
+          "Laravel"
+        ],
+        "languages_used": [
+          "PHP"
+        ]
+      },
+      {
+        "year_start": 2017,
+        "year_end": 2018,
+        "company": "Non précisé",
+        "role": "Ingénieur logiciel | Développeur web Front-end",
+        "skills_acquired": [
+          "PostgreSQL",
+          "Hibernate"
+        ],
+        "languages_used": [
+          "JavaScript"
+        ]
+      },
+      {
+        "year_start": 2018,
+        "year_end": 2023,
+        "company": "eCapital - Digital & Branding",
+        "role": "Ingénieur logiciel | Développeur Full Stack",
+        "skills_acquired": [
+          "Système de gestion de base de données (SGBD)",
+          "API REST"
+        ],
+        "languages_used": [
+          "Java",
+          "JavaScript",
+          "SQL"
+        ]
+      },
+      {
+        "year_start": 2023,
+        "year_end": 2025,
+        "company": "GO & DEV",
+        "role": "Ingénieur d'études et de développement Senior",
+        "skills_acquired": [],
+        "languages_used": [
+          "Java",
+          "Python",
+          "SQL",
+          "JavaScript"
+        ]
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Ascendante (passage de développeur à Tech Lead et Ingénieur Senior)",
+      "progression_speed": "Rapide",
+      "predicted_profile": "Tech Lead / Architecte Logiciel",
+      "skills_in_progress": [
+        "DevOps",
+        "Architecture Hexagonale",
+        "DDD"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/kadiri-ismail-b72763b3",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:38:49.279513"
+  },
+  {
+    "full_name": "Basma Affaya",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/basma-affaya",
+    "github": "not found",
+    "roles_held": [
+      "IT Talent Acquisition Manager",
+      "International Tech Recruiter"
+    ],
+    "programming_languages": [],
+    "technical_skills": [
+      "Agile",
+      "Scrum",
+      "CI/CD",
+      "SaaS",
+      "Cloud",
+      "REST API",
+      "Git",
+      "Jira",
+      "Angular",
+      "TypeScript",
+      "HTML5",
+      "CSS3",
+      "SCSS",
+      "RxJS",
+      "Java",
+      ".NET",
+      "JavaScript",
+      "Playwright",
+      "Cypress",
+      "Postman",
+      "Struts",
+      "Tomcat"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Recrutement IT",
+        "Technologie",
+        "SaaS"
+      ]
+    },
+    "summary": "Basma Affaya est une IT Talent Acquisition Manager et International Tech Recruiter spécialisée dans le recrutement de profils techniques pour des projets stratégiques. Elle travaille principalement avec des environnements modernes (Cloud, SaaS, CI/CD, Agile) et collabore avec des entreprises du secteur public et privé.",
+    "education_level": "not found",
+    "field_of_studies": "ENCG KENITRA",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": 0,
+        "year_end": 0,
+        "company": "GO & DEV",
+        "role": "IT Talent Acquisition Manager | International Tech Recruiter",
+        "skills_acquired": [
+          "Recrutement IT",
+          "Gestion de projets techniques",
+          "Agile",
+          "Scrum",
+          "CI/CD",
+          "SaaS",
+          "Cloud"
+        ],
+        "languages_used": [],
+        "description": "Responsable du recrutement de profils techniques pour des projets stratégiques dans des environnements modernes (Cloud, SaaS, CI/CD, Agile)."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/basma-affaya",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:39:14.383320"
+  },
+  {
+    "full_name": "Amina Ismaili",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/amina-ismaili-898731309",
+    "github": "not found",
+    "roles_held": [
+      "AI Engineer"
+    ],
+    "programming_languages": [],
+    "technical_skills": [
+      "Semantic Matching",
+      "NLP",
+      "CRM"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [
+      {
+        "technology": "Semantic Matching",
+        "level": "Medior"
+      },
+      {
+        "technology": "NLP",
+        "level": "Medior"
+      },
+      {
+        "technology": "CRM",
+        "level": "Medior"
+      }
+    ],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Technology",
+        "Artificial Intelligence"
+      ]
+    },
+    "summary": "AI Engineer spécialisée en Semantic Matching, NLP et CRM chez Go & Dev. Diplômée de l'École Nationale Supérieure d'Arts et Métiers (ENSAM-Méknes).",
+    "education_level": "Bac + 5",
+    "field_of_studies": "École Nationale Supérieure d'Arts et Métiers (ENSAM-Méknes - المدرسة الوطنية العليا للفنون و المهن)",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": null,
+        "year_end": null,
+        "company": "GO & DEV",
+        "role": "AI Engineer",
+        "skills_acquired": [
+          "Semantic Matching",
+          "NLP",
+          "CRM"
+        ],
+        "languages_used": [],
+        "description": "not found"
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/amina-ismaili-898731309",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:39:37.062550"
+  },
+  {
+    "full_name": "Ghada El Miri",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/ghada-el-miri-090200204",
+    "github": "not found",
+    "roles_held": [
+      "Responsable Marketing Digital",
+      "Lead Generator",
+      "Growth Marketer"
+    ],
+    "programming_languages": [],
+    "technical_skills": [
+      "Génération de leads",
+      "Email marketing",
+      "Optimisation pour les moteurs de recherche (SEO)",
+      "Rédaction publicitaire",
+      "Marketing sur les réseaux sociaux",
+      "Marketing de marque",
+      "Marketing digital",
+      "Conception visuelle"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Marketing Digital",
+        "Services pour les PME et Grands groupes"
+      ]
+    },
+    "summary": "Responsable Marketing Digital, Lead Generator et Growth Marketer chez Go&Dev, une plateforme de services pour les PME et Grands groupes. Spécialisée en génération de leads, email marketing, SEO, marketing sur les réseaux sociaux et conception visuelle.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "iaelyon School of Management",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": "not found",
+        "year_end": "not found",
+        "company": "GO & DEV",
+        "role": "Responsable Marketing Digital / Lead Generator / Growth Marketer",
+        "skills_acquired": [
+          "Génération de leads",
+          "Email marketing",
+          "SEO",
+          "Marketing sur les réseaux sociaux",
+          "Marketing digital"
+        ],
+        "languages_used": [],
+        "description": "Responsable Marketing Digital, Lead Generator et Growth Marketer chez Go&Dev, une plateforme de services pour les PME et Grands groupes."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/ghada-el-miri-090200204",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:39:58.259587"
+  },
+  {
+    "full_name": "Oumaima Malek",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/oumaima-malek",
+    "github": "not found",
+    "roles_held": [
+      "HR & Talent Acquisition Manager",
+      "HR Strategy & Employee Experience"
+    ],
+    "programming_languages": [],
+    "technical_skills": [
+      "Java",
+      "Spring Boot",
+      "Angular",
+      "Microservices",
+      "Node.js",
+      "TypeScript",
+      "Prisma",
+      "Selenium",
+      "Appium",
+      "Cypress",
+      "CI/CD",
+      "API",
+      "JavaScript",
+      "Python",
+      ".NET",
+      "Cloud",
+      "SaaS",
+      "Agile",
+      "Scrum"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Recrutement",
+        "Technologie de l'information",
+        "Ressources Humaines"
+      ]
+    },
+    "summary": "HR & Talent Acquisition Manager spécialisée en stratégie RH et expérience collaborateur. Aide les entreprises à attirer, développer et retenir les talents.",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": 0,
+        "year_end": 0,
+        "company": "GO & DEV",
+        "role": "HR & Talent Acquisition Manager | HR Strategy & Employee Experience",
+        "skills_acquired": [
+          "Recrutement",
+          "Stratégie RH",
+          "Gestion des talents",
+          "Java",
+          "Spring Boot",
+          "Angular",
+          "Node.js",
+          "TypeScript",
+          "Selenium",
+          "Appium",
+          "Cypress",
+          "CI/CD",
+          "API",
+          "Microservices"
+        ],
+        "languages_used": [],
+        "description": "Responsable du recrutement de profils techniques (développeurs, QA, Delivery Manager, etc.) pour des projets stratégiques."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/oumaima-malek",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:40:20.678655"
+  },
+  {
+    "full_name": "Ghada El Miri",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/ACoAADP_2GwBklyZ-wGYuEoNL3p_mpP_lY5isBc",
+    "github": "not found",
+    "roles_held": [
+      "Responsable Marketing Digital",
+      "Lead Generator",
+      "Growth Marketer"
+    ],
+    "programming_languages": [],
+    "technical_skills": [
+      "Génération de leads",
+      "Email marketing",
+      "Optimisation pour les moteurs de recherche (SEO)",
+      "Rédaction publicitaire",
+      "Marketing sur les réseaux sociaux",
+      "Marketing de marque",
+      "Marketing digital",
+      "Conception visuelle"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Marketing Digital",
+        "Services pour les PME et Grands groupes"
+      ]
+    },
+    "summary": "Ghada El Miri est Responsable Marketing Digital, Lead Generator et Growth Marketer chez Go&Dev, une plateforme de services pour les PME et Grands groupes. Elle possède des compétences en génération de leads, email marketing, SEO, rédaction publicitaire, marketing sur les réseaux sociaux, marketing de marque, marketing digital et conception visuelle.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Management",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": "not found",
+        "year_end": "not found",
+        "company": "GO & DEV",
+        "role": "Responsable Marketing Digital / Lead Generator / Growth Marketer",
+        "skills_acquired": [
+          "Génération de leads",
+          "Email marketing",
+          "SEO",
+          "Rédaction publicitaire",
+          "Marketing sur les réseaux sociaux",
+          "Marketing de marque",
+          "Marketing digital",
+          "Conception visuelle"
+        ],
+        "languages_used": [],
+        "description": "Responsable Marketing Digital, Lead Generator et Growth Marketer chez Go&Dev, une plateforme de services pour les PME et Grands groupes."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/ACoAADP_2GwBklyZ-wGYuEoNL3p_mpP_lY5isBc",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:40:44.581642"
+  },
+  {
+    "full_name": "Salma Kamouss",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/salma-kamouss-801639224",
+    "github": "not found",
+    "roles_held": [
+      "Marketing Explorer"
+    ],
+    "programming_languages": [],
+    "technical_skills": [],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Marketing",
+        "Communication"
+      ]
+    },
+    "summary": "Driven by Creativity and Impact 🪄",
+    "education_level": "not found",
+    "field_of_studies": "GO & DEV · ENCG KENITRA",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/salma-kamouss-801639224",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:41:10.210730"
+  },
+  {
+    "full_name": "Badr Eddine CHRIFI",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/badr-eddine-chrifi-265336287",
+    "github": "not found",
+    "roles_held": [
+      "Ingénieur Full Stack"
+    ],
+    "programming_languages": [],
+    "technical_skills": [
+      "Angular",
+      "Symfony",
+      "React",
+      "CRM",
+      "IA",
+      "Agile",
+      "Scrum"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information",
+        "Développement logiciel"
+      ]
+    },
+    "summary": "Ingénieur Full Stack spécialisé en Angular, Symfony et React, avec une expérience sur des CRM, outils métier et solutions basées sur l’IA. À l’aise sur tout le cycle de développement, j’évolue dans des environnements Agile / Scrum et j’aime transformer des besoins complexes en solutions simples et efficaces.",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": "not found",
+        "year_end": "not found",
+        "company": "GO & DEV",
+        "role": "Ingénieur Full Stack",
+        "skills_acquired": [
+          "Angular",
+          "Symfony",
+          "React",
+          "CRM",
+          "IA",
+          "Agile",
+          "Scrum"
+        ],
+        "languages_used": [],
+        "description": "not found"
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/badr-eddine-chrifi-265336287",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:41:29.387255"
+  },
+  {
+    "full_name": "Kadiri Ismail",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/ACoAABgjhMYB3g_9I7wBCHFF3acLeXbaffVo2Q4",
+    "github": "not found",
+    "roles_held": [
+      "Ingénieur d'étude et développement",
+      "Tech Lead"
+    ],
+    "programming_languages": [
+      "Java",
+      "Python",
+      "SQL",
+      "C#",
+      "Bash",
+      "Shell"
+    ],
+    "technical_skills": [
+      "Docker",
+      "AWS",
+      "Kafka",
+      "GitLab",
+      "Jenkins",
+      "Nexus",
+      "Sonar",
+      "Azure DevOps",
+      "Entity Framework",
+      "Blazor",
+      "Angular",
+      "Vue 3",
+      "Nuxt.js",
+      ".NET Framework",
+      ".NET Core",
+      "Architecture hexagonale",
+      "Domain-Driven Design (DDD)",
+      "MVC",
+      "MVVM"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [
+      {
+        "technology": "Java",
+        "level": "Senior"
+      },
+      {
+        "technology": "Angular",
+        "level": "Senior"
+      },
+      {
+        "technology": "Python",
+        "level": "Medior"
+      },
+      {
+        "technology": ".NET",
+        "level": "Senior"
+      },
+      {
+        "technology": "Azure DevOps",
+        "level": "Senior"
+      },
+      {
+        "technology": "Jenkins",
+        "level": "Senior"
+      },
+      {
+        "technology": "GitLab",
+        "level": "Senior"
+      },
+      {
+        "technology": "Nuxt.js",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Vue 3",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_programming_languages": [
+      {
+        "language": "Java",
+        "level": "Senior"
+      },
+      {
+        "language": "Python",
+        "level": "Medior"
+      },
+      {
+        "language": "SQL",
+        "level": "Medior"
+      },
+      {
+        "language": "C#",
+        "level": "Senior"
+      },
+      {
+        "language": "Bash",
+        "level": "Medior"
+      },
+      {
+        "language": "Shell",
+        "level": "Medior"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information",
+        "Développement logiciel"
+      ]
+    },
+    "summary": "Ingénieur d'étude et développement et Tech Lead avec une expertise en conception web, développement d'applications, développement mobile, et gestion de projets techniques. Expérience dans des environnements agiles et des technologies variées telles que Java, Angular, .NET, Python, et des outils DevOps.",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2024,
+        "year_end": 2024,
+        "company": "GO & DEV",
+        "role": "Ingénieur d'étude et développement | Tech Lead",
+        "skills_acquired": [
+          "Java",
+          "Angular",
+          "Python",
+          ".NET",
+          "DevOps",
+          "Architecture hexagonale",
+          "DDD"
+        ],
+        "languages_used": [
+          "Java",
+          "Python",
+          "SQL",
+          "C#",
+          "Bash",
+          "Shell"
+        ],
+        "description": "Responsable technique et lead sur des projets de développement logiciel, incluant des missions en Java, Angular, .NET, et des environnements DevOps."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/ACoAABgjhMYB3g_9I7wBCHFF3acLeXbaffVo2Q4",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:42:05.342341"
+  },
+  {
+    "full_name": "Chaimae E.",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 3,
+    "linkedin": "https://www.linkedin.com/in/chaimae-e-2ab77423a",
+    "github": "not found",
+    "roles_held": [
+      "Full Stack Engineer",
+      "Full Stack Developer"
+    ],
+    "programming_languages": [
+      "PHP",
+      "C",
+      "C++",
+      "Java"
+    ],
+    "technical_skills": [
+      "JIRA",
+      "Trello",
+      "Mécanique quantique",
+      "Science des matériaux"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [
+      "Software Development Process and Methodologies :: Coursera :: Émise le mai 2022 :: Expire le juil. 2022 :: ID: https://coursera.org/share/4ff1aba0cf86bf2ffeaf335aa7c4fa85"
+    ],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Génie logiciel et systèmes intelligents",
+        "Technologies de l'information"
+      ]
+    },
+    "summary": "not found",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Génie logiciel et systèmes intelligents",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2022,
+        "year_end": 2022,
+        "company": "GO & DEV",
+        "role": "Full Stack Developer",
+        "skills_acquired": [
+          "Full Stack Development"
+        ],
+        "languages_used": [
+          "PHP",
+          "C",
+          "C++",
+          "Java"
+        ],
+        "description": "Stage de 3 mois en tant que Full Stack Developer."
+      },
+      {
+        "year_start": 2023,
+        "year_end": 2026,
+        "company": "GO & DEV",
+        "role": "Full Stack Engineer",
+        "skills_acquired": [
+          "Full Stack Development"
+        ],
+        "languages_used": [
+          "PHP"
+        ],
+        "description": "Poste à temps plein en tant que Full Stack Engineer."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Développement Full Stack",
+      "progression_speed": "Rapide",
+      "predicted_profile": "Full Stack Engineer confirmé",
+      "skills_in_progress": [
+        "PHP",
+        "Frameworks PHP"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/chaimae-e-2ab77423a",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:42:36.068089"
+  },
+  {
+    "full_name": "Houda Gadi",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/houda-gadi-05a3b7196",
+    "github": "not found",
+    "roles_held": [
+      "Développeur Full Stack Angular/Java"
+    ],
+    "programming_languages": [
+      "Java",
+      "PHP"
+    ],
+    "technical_skills": [
+      "Angular"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [
+      {
+        "technology": "Angular",
+        "level": "not found"
+      },
+      {
+        "technology": "Java",
+        "level": "not found"
+      }
+    ],
+    "seniority_programming_languages": [
+      {
+        "language": "Java",
+        "level": "not found"
+      },
+      {
+        "language": "PHP",
+        "level": "not found"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information"
+      ]
+    },
+    "summary": "Je suis un Développeur Full Stack passionné par la création des applications innovantes. J'utilise actuellement Angular et Java mais j'ai aussi de l'expérience avec d'autres technologies (PHP...) !",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": "not found",
+        "year_end": "not found",
+        "company": "GO & DEV",
+        "role": "Développeur Full Stack Angular/Java",
+        "skills_acquired": [
+          "Angular",
+          "Java",
+          "PHP"
+        ],
+        "languages_used": [
+          "Java",
+          "PHP"
+        ],
+        "description": "not found"
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/houda-gadi-05a3b7196",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:42:59.242533"
+  },
+  {
+    "full_name": "Abdellah Mokhlesse",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/abdellah-mokhlesse-78b188b7",
+    "github": "not found",
+    "roles_held": [
+      "Senior Software Engineer"
+    ],
+    "programming_languages": [],
+    "technical_skills": [],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information"
+      ]
+    },
+    "summary": "not found",
+    "education_level": "not found",
+    "field_of_studies": "Ibn Tofaïl University - Kénitra",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.3,
+    "experience_timeline": [],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/abdellah-mokhlesse-78b188b7",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:43:28.595357"
+  },
+  {
+    "full_name": "Salaheddine Bahlaouane",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Casablanca, Casablanca-Settat, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/salaheddine-bahlaouane",
+    "github": "not found",
+    "roles_held": [
+      "Master’s Student in Computer Science & Artificial Intelligence",
+      "Intern"
+    ],
+    "programming_languages": [],
+    "technical_skills": [
+      "Flask",
+      "LangChain",
+      "Supabase",
+      "DeepSeek (OpenAI-compatible API)",
+      "U-Net",
+      "Classifier-Free Guidance (CFG)",
+      "Diffusion Models",
+      "Denoising Diffusion Probabilistic Models (DDPMs)"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Computer Science",
+        "Artificial Intelligence"
+      ]
+    },
+    "summary": "Master’s Student in Computer Science & Artificial Intelligence with experience in developing AI-driven solutions, including chatbots for hotel operations and generative AI projects like flower image generation using denoising diffusion models. Worked on backend development, AI behavior in real systems, and conditional generation of fine-grained images.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Computer Science & Artificial Intelligence",
+    "work_experience": "not found",
+    "projects": "1. Developed a staff-only hotel operations chatbot using Flask, DeepSeek API, LangChain, and Supabase during a 3-month internship at IMFA Solutions.\n2. Academic project LARGO: Flower Image Generation Using a Denoising Diffusion Model, implementing a custom U-Net architecture with Classifier-Free Guidance for conditional flower image synthesis.",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2023,
+        "year_end": 2024,
+        "company": "IMFA Solutions",
+        "role": "Intern",
+        "skills_acquired": [
+          "Flask",
+          "LangChain",
+          "Supabase",
+          "DeepSeek (OpenAI-compatible API)",
+          "AI Design",
+          "Backend Development"
+        ],
+        "languages_used": [],
+        "description": "Worked on a staff-only hotel operations chatbot designed to help staff access information quickly while respecting operational boundaries. Focused on control, clarity, and responsible AI design."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/salaheddine-bahlaouane",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:58:12.929599"
+  },
+  {
+    "full_name": "Mahdi El Jaouhari",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 7,
+    "linkedin": "https://www.linkedin.com/in/ACoAAAiD3EQBaGDbuWFDAcZrTu9s3qTTNXRMkBI",
+    "github": "not found",
+    "roles_held": [
+      "Chief Technical Officer",
+      "Leader Technique"
+    ],
+    "programming_languages": [
+      "PHP",
+      "JavaScript",
+      "Java"
+    ],
+    "technical_skills": [
+      "Symfony",
+      "Laravel",
+      "Node.js",
+      "React",
+      "Angular",
+      "Spring",
+      "Hibernate",
+      "Docker",
+      "AWS",
+      "Kafka"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [
+      {
+        "technology": "PHP",
+        "level": "Senior"
+      },
+      {
+        "technology": "Symfony",
+        "level": "Senior"
+      },
+      {
+        "technology": "Laravel",
+        "level": "Senior"
+      },
+      {
+        "technology": "Node.js",
+        "level": "Senior"
+      },
+      {
+        "technology": "React",
+        "level": "Senior"
+      },
+      {
+        "technology": "Angular",
+        "level": "Senior"
+      },
+      {
+        "technology": "Java",
+        "level": "Senior"
+      },
+      {
+        "technology": "Spring",
+        "level": "Senior"
+      },
+      {
+        "technology": "Hibernate",
+        "level": "Senior"
+      }
+    ],
+    "seniority_programming_languages": [
+      {
+        "language": "PHP",
+        "level": "Senior"
+      },
+      {
+        "language": "JavaScript",
+        "level": "Senior"
+      },
+      {
+        "language": "Java",
+        "level": "Senior"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "Développement Web",
+        "Développement SaaS",
+        "Conception Web",
+        "Tests Logiciels",
+        "Développement d'Applications Mobiles",
+        "Business Analytics",
+        "Développement de Logiciels Personnalisés",
+        "Développement d'Applications",
+        "Développement Android"
+      ]
+    },
+    "summary": "En tant que CTO chez GO & DEV, je cumule plus de 7 ans d'expérience dans la direction technique et l'innovation en développement Web. Mon expertise couvre des technologies backend comme PHP, Symfony, Laravel, Node.js et des frameworks frontend tels que React et Angular. Diriger le Delivery Center de GO & DEV Maroc, avec plus de 100 collaborateurs sur deux sites, est une mission que j'accomplis en favorisant la collaboration et l'excellence technique. Mon rôle va au-delà des aspects techniques : je soutiens le recrutement, forme les collaborateurs et contribue à leur évolution professionnelle. Avec un engagement constant à placer l'humain au cœur des projets, je m'efforce de garantir des solutions de qualité tout en stimulant l'efficacité et l'innovation au sein de notre organisation.",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2017,
+        "year_end": 2024,
+        "company": "GO & DEV",
+        "role": "Chief Technical Officer",
+        "skills_acquired": [
+          "Direction technique",
+          "Innovation",
+          "PHP",
+          "Symfony",
+          "Laravel",
+          "Node.js",
+          "React",
+          "Angular",
+          "Recrutement",
+          "Formation"
+        ],
+        "languages_used": [
+          "PHP",
+          "JavaScript"
+        ],
+        "description": "Direction du Delivery Center de GO & DEV Maroc avec plus de 100 collaborateurs. Responsable de la stratégie technique, du recrutement, et de la formation des équipes."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Direction Technique et Innovation",
+      "progression_speed": "Rapide",
+      "predicted_profile": "CTO ou poste de direction technique avancée",
+      "skills_in_progress": [
+        "Intelligence Artificielle",
+        "Optimisation de projets"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/ACoAAAiD3EQBaGDbuWFDAcZrTu9s3qTTNXRMkBI",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:58:44.152381"
+  },
+  {
+    "full_name": "Mohammed Oussiddi",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/mohammed-oussiddi",
+    "github": "not found",
+    "roles_held": [
+      "AI Engineer",
+      "ML Engineer"
+    ],
+    "programming_languages": [],
+    "technical_skills": [
+      "Generative AI",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing (NLP)",
+      "Computer Vision",
+      "Agentic AI Systems",
+      "Scalable Architecture",
+      "Model Development",
+      "Production Deployment"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Software Development"
+      ]
+    },
+    "summary": "AI Engineer & ML Engineer specializing in Generative AI and intelligent systems. I design and deploy AI solutions that combine advanced machine learning, automation, and scalable architecture to solve real-world problems. With expertise spanning deep learning, natural language processing, computer vision, and agentic AI systems, I build end-to-end solutions from model development to production deployment. My approach blends technical rigor with practical innovation to deliver measurable business impact.",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/mohammed-oussiddi",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:59:05.134976"
+  },
+  {
+    "full_name": "Yamna Et-tahery",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Marrakech-Safi, Maroc",
+    "years_of_experience": 1,
+    "linkedin": "https://www.linkedin.com/in/yamna-et-tahery-5465b3292",
+    "github": "not found",
+    "roles_held": [
+      "QA Engineer Intern",
+      "Software Testing"
+    ],
+    "programming_languages": [
+      "SQL"
+    ],
+    "technical_skills": [
+      "Software Testing",
+      "Manual Testing",
+      "Automation Testing",
+      "Flutter",
+      "Spring Boot",
+      "PostgreSQL",
+      "TensorFlow Lite",
+      "Jira",
+      "Kanban",
+      "MobileNetV2",
+      "REST API"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Anglais"
+    ],
+    "certifications": [],
+    "seniority_technologies": [
+      {
+        "technology": "Software Testing",
+        "level": "Junior"
+      },
+      {
+        "technology": "Flutter",
+        "level": "Junior"
+      },
+      {
+        "technology": "Spring Boot",
+        "level": "Junior"
+      },
+      {
+        "technology": "PostgreSQL",
+        "level": "Junior"
+      },
+      {
+        "technology": "Jira",
+        "level": "Junior"
+      },
+      {
+        "technology": "TensorFlow Lite",
+        "level": "Junior"
+      }
+    ],
+    "seniority_programming_languages": [
+      {
+        "language": "SQL",
+        "level": "Junior"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information",
+        "Éducation"
+      ]
+    },
+    "summary": "Étudiante en dernière année de Génie Informatique à l’EMSI Marrakech, je suis actuellement stagiaire dans le domaine du test et de l’assurance qualité logicielle (QA). Passionnée par la fiabilité des applications et la satisfaction des utilisateurs, je développe mes compétences en testing logiciel, détection des anomalies et amélioration continue de la qualité des produits. Curieuse, rigoureuse et attentive aux détails, je m’investis dans la validation des fonctionnalités, l’analyse des risques et l’optimisation des processus de test afin de garantir des solutions logicielles performantes et fiables.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Génie Informatique",
+    "work_experience": "Stagiaire en tant que QA Engineer chez Go & Dev et Norsys Afrique, avec une participation active dans des projets de développement logiciel et d'assurance qualité.",
+    "projects": "1. Développement d’une application mobile de suivi de grossesse (Flutter, Spring Boot, PostgreSQL) lors d’un stage chez Norsys Afrique. 2. Participation à un projet de plateforme e-learning intelligente intégrant un modèle d’IA pour détecter la frustration étudiante (Flutter, Spring Boot, TensorFlow Lite, MobileNetV2).",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2024,
+        "year_end": 2024,
+        "company": "Go & Dev",
+        "role": "QA Engineer Intern",
+        "skills_acquired": [
+          "Software Testing",
+          "Manual Testing",
+          "Automation Testing"
+        ],
+        "languages_used": [],
+        "description": "Stage en tant que QA Engineer Intern, contribution à des projets innovants dans un environnement dynamique et professionnel."
+      },
+      {
+        "year_start": 2023,
+        "year_end": 2024,
+        "company": "Norsys Afrique",
+        "role": "Stagiaire - Développement d'une Application Mobile",
+        "skills_acquired": [
+          "Flutter",
+          "Spring Boot",
+          "PostgreSQL"
+        ],
+        "languages_used": [],
+        "description": "Développement d’une application mobile de suivi de grossesse destinée à accompagner les femmes enceintes."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Assurance Qualité et Développement Logiciel",
+      "progression_speed": "Normale",
+      "predicted_profile": "QA Engineer / Développeuse Logiciel",
+      "skills_in_progress": [
+        "Automation Testing",
+        "IA appliquée au testing",
+        "Computer Vision"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/yamna-et-tahery-5465b3292",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:59:36.718656"
+  },
+  {
+    "full_name": "Ayoub Laachir",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/ayoublaachir",
+    "github": "not found",
+    "roles_held": [
+      "QA and Automation Engineer",
+      "Manual QA Engineer",
+      "Automation QA Engineer"
+    ],
+    "programming_languages": [],
+    "technical_skills": [],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Data and Software Engineering",
+        "Education"
+      ]
+    },
+    "summary": "Data and software engineering student with a focus on QA and automation engineering.",
+    "education_level": "not found",
+    "field_of_studies": "GO & DEV · Institut National de Statistique et d'Economie Appliquée (INSEA)",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/ayoublaachir",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T14:59:56.550898"
+  },
+  {
+    "full_name": "Ilyas Fettouhi",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/ilyas-fettouhi",
+    "github": "not found",
+    "roles_held": [
+      "R&D Engineer",
+      "Software Engineer",
+      "Solution Architect",
+      "Team Lead"
+    ],
+    "programming_languages": [],
+    "technical_skills": [],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "R&D",
+        "IT",
+        "Software"
+      ]
+    },
+    "summary": "R&D Engineer avec des compétences en IT, Software, architecture de solutions, leadership d'équipe et ingénierie logicielle.",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/ilyas-fettouhi",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:00:24.526430"
+  },
+  {
+    "full_name": "Sana Megdiche",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Lyon, Auvergne-Rhône-Alpes, France",
+    "years_of_experience": 4,
+    "linkedin": "https://www.linkedin.com/in/sana-megdiche",
+    "github": "not found",
+    "roles_held": [
+      "Sales Freelance",
+      "Cold Call Specialist",
+      "Outbound Specialist",
+      "Demo Specialist",
+      "Closing Specialist",
+      "Partenaire Go&Dev",
+      "Partenaire IA Report – D&Ü"
+    ],
+    "programming_languages": [],
+    "technical_skills": [
+      "Essbase",
+      "SQL"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Anglais",
+      "Espagnol (présumé - Argentine)"
+    ],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "IA",
+        "Data",
+        "Logiciels",
+        "SaaS",
+        "Conseil en technologie",
+        "Développement commercial"
+      ]
+    },
+    "summary": "J’accompagne des entreprises innovantes en IA et data sur leur développement commercial. Partenaire Go&Dev — Accélérateur de roadmap assisté par IA, et partenaire IA Report – D&Ü — Votre data analyste personnel. Spécialisée dans l'accélération de la roadmap, l'intégration d'agents IA, et l'automatisation des processus internes pour améliorer l'expérience client.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Programme Grande École - IDRAC Business School",
+    "work_experience": "Expérience dans le développement commercial, la négociation de contrats, le cold call, la rétention client, et l'accompagnement de startups et éditeurs de logiciels. Expérience internationale et freelance.",
+    "projects": "Accompagnement de CTO d’éditeurs de logiciels, intégration d’agents IA pour automatiser les processus, création de rapports data assistés par IA (IA Report – D&Ü), et participation à des projets humanitaires.",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2022,
+        "year_end": 2024,
+        "company": "Jean-Michel.io",
+        "role": "Sales",
+        "skills_acquired": [
+          "Sales",
+          "Cold Call",
+          "Outbound",
+          "Demo",
+          "Closing",
+          "CSM (Customer Success Management)",
+          "Écoute",
+          "Empathie",
+          "Résilience"
+        ],
+        "languages_used": [],
+        "description": "Découverte du métier de Sales, apprentissage et obtention de résultats commerciaux. Développement de relations de confiance avec les clients."
+      },
+      {
+        "year_start": 2024,
+        "year_end": 2024,
+        "company": "Go&Dev",
+        "role": "Partenaire - Développement Commercial",
+        "skills_acquired": [
+          "Accélération de roadmap",
+          "Intégration d’agents IA",
+          "Automatisation des processus",
+          "Gestion de projets IA"
+        ],
+        "languages_used": [],
+        "description": "Accompagnement des CTO d’éditeurs de logiciels sur le développement commercial et l’intégration d’agents IA."
+      },
+      {
+        "year_start": 2024,
+        "year_end": 2024,
+        "company": "IA Report – D&Ü",
+        "role": "Partenaire - Data Analyste Personnel",
+        "skills_acquired": [
+          "Analyse de données",
+          "SQL",
+          "Essbase",
+          "Génération de rapports",
+          "Recommandations data"
+        ],
+        "languages_used": [
+          "SQL"
+        ],
+        "description": "Création de solutions data pour répondre aux questions en langage naturel, génération de tableaux, graphiques et KPIs, et rédaction de narratifs avec recommandations."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Développement commercial et accompagnement en IA/data pour les éditeurs de logiciels",
+      "progression_speed": "Rapide",
+      "predicted_profile": "Spécialiste en développement commercial et intégration d’IA pour les entreprises technologiques",
+      "skills_in_progress": [
+        "Intégration d’agents IA",
+        "Automatisation des processus",
+        "Analyse de données"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/sana-megdiche",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:00:59.052659"
+  },
+  {
+    "full_name": "Saad El Khamsi",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Kénitra, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 4,
+    "linkedin": "https://www.linkedin.com/in/saad-el-khamsi-60717a254",
+    "github": "not found",
+    "roles_held": [
+      "Software Engineer",
+      "Java Specialist"
+    ],
+    "programming_languages": [
+      "Java",
+      "SQL"
+    ],
+    "technical_skills": [
+      "Développement de logiciels",
+      "Spring Boot",
+      "Angular",
+      "Kubernetes",
+      "DevOps",
+      "CI/CD",
+      "GitLab",
+      "Jenkins",
+      "Nexus",
+      "Sonar",
+      "Azure DevOps",
+      "Bash",
+      "Shell",
+      "Selenium",
+      "Cucumber",
+      "WordPress"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [
+      {
+        "technology": "Java",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Spring Boot",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Angular",
+        "level": "Medior"
+      },
+      {
+        "technology": "Kubernetes",
+        "level": "Medior"
+      },
+      {
+        "technology": "DevOps",
+        "level": "Medior"
+      }
+    ],
+    "seniority_programming_languages": [
+      {
+        "language": "Java",
+        "level": "Confirmé"
+      },
+      {
+        "language": "SQL",
+        "level": "Medior"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information",
+        "Développement logiciel"
+      ]
+    },
+    "summary": "Software Engineer spécialisé en Java, avec une expertise en développement logiciel, frameworks modernes (Spring Boot, Angular) et outils DevOps. Diplômé d'un Master en Réseaux et Systèmes Informatiques et d'une licence en Systèmes d'Information et Transformation Digitale. Expérience dans la gestion de projets académiques et professionnels, incluant le développement d'une solution innovante pour la gestion avancée des assurances des bateaux et la mise en place de stratégies de marketing digital.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Réseaux et Systèmes Informatiques, Systèmes d'Information et Transformation Digitale",
+    "work_experience": "not found",
+    "projects": "1. Développement d'une Solution Innovante pour la Gestion Avancée des Assurances des Bateaux (Projet de Fin d'Études - Master). 2. Mise en place d’une stratégie de Marketing Digital et maintenance d’un site web avec WordPress (Projet de Fin d'Études - Licence).",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2022,
+        "year_end": 2024,
+        "company": "GO&Dev",
+        "role": "Software Engineer | Java Specialist",
+        "skills_acquired": [
+          "Java",
+          "Spring Boot",
+          "Angular",
+          "DevOps",
+          "CI/CD",
+          "Kubernetes"
+        ],
+        "languages_used": [
+          "Java",
+          "SQL"
+        ],
+        "description": "Développement logiciel avec une spécialisation en Java, participation à des projets innovants et utilisation d'outils DevOps et CI/CD."
+      },
+      {
+        "year_start": 2022,
+        "year_end": 2022,
+        "company": "SGTR",
+        "role": "Stagiaire PFE",
+        "skills_acquired": [
+          "Marketing Digital",
+          "WordPress"
+        ],
+        "languages_used": [],
+        "description": "Mise en place d’une stratégie de Marketing Digital et maintenance d’un site web avec WordPress."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Développement logiciel et spécialisation en Java/DevOps",
+      "progression_speed": "Rapide",
+      "predicted_profile": "Ingénieur logiciel senior ou expert en Java/DevOps",
+      "skills_in_progress": [
+        "DevOps",
+        "Kubernetes",
+        "CI/CD"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/saad-el-khamsi-60717a254",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:01:28.442839"
+  },
+  {
+    "full_name": "Yasine Chaib Talbi",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Oujda, Oriental, Maroc",
+    "years_of_experience": 2,
+    "linkedin": "https://www.linkedin.com/in/yasinetalbi",
+    "github": "not found",
+    "roles_held": [
+      "Stagiaire PFE – Test Logiciel & Quality Assurance",
+      "Manager",
+      "Responsable administratif"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "technical_skills": [
+      "MEARN Stack",
+      "MongoDB",
+      "Express",
+      "Angular",
+      "Node.js",
+      "Reactive Forms",
+      "API Integration",
+      "JWT",
+      "Chart.js",
+      "CRUD",
+      "Tests fonctionnels",
+      "MEAN Stack"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [
+      {
+        "technology": "MongoDB",
+        "level": "Junior"
+      },
+      {
+        "technology": "Express",
+        "level": "Junior"
+      },
+      {
+        "technology": "Angular",
+        "level": "Junior"
+      },
+      {
+        "technology": "Node.js",
+        "level": "Junior"
+      },
+      {
+        "technology": "Chart.js",
+        "level": "Junior"
+      },
+      {
+        "technology": "JWT",
+        "level": "Junior"
+      }
+    ],
+    "seniority_programming_languages": [
+      {
+        "language": "JavaScript",
+        "level": "Junior"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "Informatique",
+        "Gestion",
+        "Technologie"
+      ]
+    },
+    "summary": "Actuellement en 5e année d’ingénierie en informatique et gestion, je développe des projets académiques en MEARN Stack (MongoDB, Express, Angular, Node.js) et explore les différentes facettes du développement web et de la gestion de projets digitaux. Mon parcours me permet d’acquérir une double compétence technique et managériale, avec une approche orientée vers l’apprentissage et l’innovation.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Ingénierie Informatique & Gestion",
+    "work_experience": "Expérience en gestion et management, incluant des rôles comme Manager chez COMPLEXE NAKHIL - Sté Oriental Loisir (2022-2023) et Responsable administratif chez RAID ORIENTAL (2021-2022). Actuellement en stage PFE en tant qu'Ingénieur Test QA chez Go & Dev.",
+    "projects": "Projet académique de fin de 4e année : Développement d'une application web sécurisée et intuitive pour aider les entreprises à piloter leur activité via un générateur de dashboards intelligents. Utilisation de l'architecture MEAN Stack (MongoDB, Express.js, Angular, Node.js) avec gestion avancée des utilisateurs et des rôles via JWT, et visualisation des KPI grâce à Chart.js.",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2021,
+        "year_end": 2022,
+        "company": "RAID ORIENTAL",
+        "role": "Responsable administratif",
+        "skills_acquired": [
+          "Gestion",
+          "Management"
+        ],
+        "languages_used": [],
+        "description": "Responsable administratif chez RAID ORIENTAL."
+      },
+      {
+        "year_start": 2022,
+        "year_end": 2023,
+        "company": "COMPLEXE NAKHIL - Sté Oriental Loisir",
+        "role": "Manager",
+        "skills_acquired": [
+          "Gestion",
+          "Management"
+        ],
+        "languages_used": [],
+        "description": "Manager chez COMPLEXE NAKHIL - Sté Oriental Loisir."
+      },
+      {
+        "year_start": 2024,
+        "year_end": 0,
+        "company": "Go & Dev",
+        "role": "Stagiaire PFE – Test Logiciel & Quality Assurance",
+        "skills_acquired": [
+          "Assurance qualité",
+          "Tests logiciels",
+          "Amélioration continue"
+        ],
+        "languages_used": [
+          "JavaScript"
+        ],
+        "description": "Stage PFE en tant qu'Ingénieur Test QA chez Go & Dev, axé sur l'assurance qualité, les tests logiciels et l'amélioration continue."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Ingénierie Informatique & Gestion avec une spécialisation en Test Logiciel et Quality Assurance",
+      "progression_speed": "Normale",
+      "predicted_profile": "Ingénieur en informatique avec des compétences en gestion et en assurance qualité",
+      "skills_in_progress": [
+        "Assurance qualité",
+        "Tests logiciels",
+        "Amélioration continue"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/yasinetalbi",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:02:01.596412"
+  },
+  {
+    "full_name": "Hajar Chemraoui",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 5,
+    "linkedin": "https://www.linkedin.com/in/hajar-chemraoui-274749200",
+    "github": "not found",
+    "roles_held": [
+      "Office Manager"
+    ],
+    "programming_languages": [],
+    "technical_skills": [],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Gestion",
+        "Administration"
+      ]
+    },
+    "summary": "Passionnée par la gestion, le commerce et la communication.",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": 2019,
+        "year_end": 2024,
+        "company": "GO & DEV",
+        "role": "Office Manager",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "Après cinq années enrichissantes dans mon précédent poste, j'ai rejoint l'équipe GO & DEV en tant qu'Office Manager."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/hajar-chemraoui-274749200",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:02:53.305904"
+  },
+  {
+    "full_name": "Mourad FRIHA",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/mourad-friha-9688b1109",
+    "github": "not found",
+    "roles_held": [
+      "Ingénieur études et développement"
+    ],
+    "programming_languages": [],
+    "technical_skills": [],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Technologie",
+        "High-tech"
+      ]
+    },
+    "summary": "not found",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.3,
+    "experience_timeline": [
+      {
+        "year_start": "not found",
+        "year_end": "not found",
+        "company": "GO & DEV · groupe universitaire high-tech",
+        "role": "Ingénieur études et développement",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "not found"
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/mourad-friha-9688b1109",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:03:15.006936"
+  },
+  {
+    "full_name": "Sophie Bertet-Fagot",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Paris et périphérie, France",
+    "years_of_experience": 25,
+    "linkedin": "https://www.linkedin.com/in/sophie-bertet-fagot-2776aa1",
+    "github": "not found",
+    "roles_held": [
+      "Directrice des opérations",
+      "CEO",
+      "Directrice Commerciale",
+      "Chargé d’Affaires",
+      "Directrice"
+    ],
+    "programming_languages": [
+      "Java",
+      "C#",
+      "PHP"
+    ],
+    "technical_skills": [
+      "Process Mining",
+      "RPA",
+      "DataOps",
+      "Progiciels Métier",
+      "Open Source",
+      "Testing factory",
+      "NearShoring",
+      "SmartShore"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [
+      {
+        "technology": "Java",
+        "level": "Expert"
+      },
+      {
+        "technology": "C#",
+        "level": "Expert"
+      },
+      {
+        "technology": "PHP",
+        "level": "Expert"
+      },
+      {
+        "technology": "Process Mining",
+        "level": "Expert"
+      },
+      {
+        "technology": "RPA",
+        "level": "Expert"
+      },
+      {
+        "technology": "DataOps",
+        "level": "Expert"
+      }
+    ],
+    "seniority_programming_languages": [
+      {
+        "language": "Java",
+        "level": "Expert"
+      },
+      {
+        "language": "C#",
+        "level": "Expert"
+      },
+      {
+        "language": "PHP",
+        "level": "Expert"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information",
+        "Développement logiciel",
+        "Conseil en transformation digitale",
+        "Asset Management",
+        "Finance"
+      ]
+    },
+    "summary": "Sophie Bertet-Fagot est une dirigeante expérimentée dans le domaine des technologies de l'information, spécialisée dans la transformation digitale, le développement logiciel, et l'amélioration de la performance opérationnelle. Elle possède une expertise avérée en gestion d'équipes, en développement commercial, et en intégration de solutions technologiques (RPA, DataOps, Process Mining, etc.). Elle a occupé des postes clés dans plusieurs entreprises, notamment en tant que Directrice des opérations chez FineDigit et GO & DEV, CEO chez Monakea, et Directrice Commerciale chez Sophis et SunGard Financial Systems.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Ingénierie (ENSEEG, INPG Grenoble)",
+    "work_experience": "Sophie Bertet-Fagot a plus de 25 ans d'expérience dans le secteur IT, avec une expertise en gestion d'équipes, développement commercial, et transformation digitale. Elle a travaillé dans des entreprises comme FineDigit, GO & DEV, Monakea, Sophis, et SunGard Financial Systems, occupant des postes de direction et contribuant à l'acquisition de nouveaux clients et au développement de solutions logicielles.",
+    "projects": "not found",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 1998,
+        "year_end": 1999,
+        "company": "SunGard Financial Systems",
+        "role": "Chargé d’Affaires, zone Europe du sud",
+        "skills_acquired": [
+          "Prospection",
+          "Gestion de projets",
+          "Négociation"
+        ],
+        "languages_used": [],
+        "description": "Prospection de nouveaux territoires auprès des directions informatiques et des responsables des risques. Organisation et réalisation de la prospection sur de nouveaux territoires. Prise de rendez-vous et organisation des présentations avec un binôme technique."
+      },
+      {
+        "year_start": 1999,
+        "year_end": 2002,
+        "company": "Sophis",
+        "role": "Directrice Commerciale Zone Europe du sud",
+        "skills_acquired": [
+          "Développement commercial",
+          "Gestion de marchés étrangers",
+          "Négociation",
+          "Closing"
+        ],
+        "languages_used": [],
+        "description": "Commercialisation de l’offre logicielle et des services sur des nouveaux marchés: Espagne, Portugal, Italie, Grèce, Luxembourg et New York. Acquisition de nouveaux clients en Espagne, au Portugal et au Luxembourg."
+      },
+      {
+        "year_start": 2003,
+        "year_end": 2015,
+        "company": "Monakea",
+        "role": "CEO",
+        "skills_acquired": [
+          "Gestion d'entreprise",
+          "Recrutement",
+          "Budgeting",
+          "Communication",
+          "Développement commercial",
+          "Négociation"
+        ],
+        "languages_used": [],
+        "description": "Gestion de la société Maam Soft (management, recrutement, définition du budget, communication auprès des actionnaires, définition de nouveaux axes de développements) et vente des offres Monakea. Réalisation de ventes clés pour le développement de la société et le référencement de l’offre."
+      },
+      {
+        "year_start": 2017,
+        "year_end": 2024,
+        "company": "GO & DEV",
+        "role": "Directrice des opérations",
+        "skills_acquired": [
+          "Gestion d'équipes",
+          "NearShoring",
+          "Optimisation des coûts",
+          "Développement commercial"
+        ],
+        "languages_used": [],
+        "description": "Participation à l’accélération de la croissance des clients en proposant un service NearShoring haut de gamme. Optimisation du niveau de Qualité et de Productivité grâce à des équipes situées en France et au Maroc."
+      },
+      {
+        "year_start": 2018,
+        "year_end": 2024,
+        "company": "FineDigit",
+        "role": "Directrice des opérations",
+        "skills_acquired": [
+          "Transformation digitale",
+          "Process Mining",
+          "RPA",
+          "DataOps",
+          "Gestion de projets"
+        ],
+        "languages_used": [],
+        "description": "Accompagnement des Clients dans leur Transformation Digitale et dans l’Amélioration de leur performance au travers de 3 offres de prestation complémentaires : Excellence opérationnelle augmentée par le Process Mining, Intégration de solutions et outils (RPA, DataOps, Progiciels Métier), Développement Digitale."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Direction générale et transformation digitale",
+      "progression_speed": "Rapide",
+      "predicted_profile": "Dirigeante senior en transformation digitale et développement logiciel",
+      "skills_in_progress": [
+        "Process Mining",
+        "DataOps",
+        "RPA"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/sophie-bertet-fagot-2776aa1",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:03:52.187775"
+  },
+  {
+    "full_name": "Amine OULED BENTLE",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/amine-ouled-bentle-79b935157",
+    "github": "not found",
+    "roles_held": [
+      "Responsable Recrutement",
+      "Talent Manager"
+    ],
+    "programming_languages": [],
+    "technical_skills": [
+      "Nuxt.js",
+      "Vue 3",
+      "Java",
+      "Angular",
+      "Python",
+      "Bash",
+      "Shell",
+      "Selenium",
+      "Cucumber",
+      "GitLab",
+      "Jenkins",
+      "Nexus",
+      "Sonar",
+      "Azure DevOps",
+      "Spring",
+      "Hibernate",
+      "Maven"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Recrutement",
+        "Technologie de l'information",
+        "Ressources Humaines"
+      ]
+    },
+    "summary": "Sérieux, engagé, discret, ayant passé des expériences dans lesquelles j’ai excellé et eu plusieurs bonnes recommandations, que ce soit durant mes formations ou dans ma vie professionnelle. J’ai un intérêt particulier pour le management des ressources humaines, le recrutement et la gestion de carrière. J'ai hâte d'acquérir de nouvelles compétences et connaissances et de développer mes compétences d’adaptabilité vis-à-vis du changement. Je ne suis pas le genre de personne qui occupe un poste juste pour l'occuper, mais plutôt pour donner un plus et mettre mes compétences et capacités en œuvre.",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "Responsable Recrutement - Talent Manager chez GO & DEV",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": 2023,
+        "year_end": 2024,
+        "company": "GO & DEV",
+        "role": "Responsable Recrutement - Talent Manager",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "Gestion du recrutement pour des profils techniques (Développeurs Frontend, Backend, DevOps, QA Automation, Consultants Technico-Fonctionnels, Ingénieurs UNIX)."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/amine-ouled-bentle-79b935157",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:04:16.639224"
+  },
+  {
+    "full_name": "Anass El Housni",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 2,
+    "linkedin": "https://www.linkedin.com/in/anasselhousni",
+    "github": "not found",
+    "roles_held": [
+      "Software Engineer",
+      "Stagiaire Test & Automatisation, Développeur Web Full-Stack",
+      "Web App Developer - Productivity Solutions"
+    ],
+    "programming_languages": [
+      "SQL",
+      "HTML5",
+      "JavaServer Pages (JSP)"
+    ],
+    "technical_skills": [
+      "PostgreSQL",
+      "XML",
+      "Framework Materialize CSS",
+      "PhpMyAdmin",
+      "IntelliJ IDEA",
+      "UML",
+      "PySpark",
+      "Hadoop"
+    ],
+    "spoken_languages": [
+      "Anglais",
+      "Français"
+    ],
+    "certifications": [
+      "Réseaux neuronaux et apprentissage profond (Coursera, déc. 2024)",
+      "Introduction au Big Data avec Spark et Hadoop (Coursera, déc. 2024)"
+    ],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Informatique, Technologies de l'Information et Services"
+      ]
+    },
+    "summary": "Software engineer avec une formation en ingénierie informatique et réseaux. Expérience en développement web, automatisation des tests, et gestion de projets IT dans des environnements Agile.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Ingénierie informatique & Réseaux",
+    "work_experience": "Expériences variées en développement web, gestion de tâches, automatisation des tests et participation à des projets concrets.",
+    "projects": "not found",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2023,
+        "year_end": 2023,
+        "company": "3sprodMorocco",
+        "role": "Web App Developer - Productivity Solutions",
+        "skills_acquired": [
+          "HTML5",
+          "PhpMyAdmin"
+        ],
+        "languages_used": [],
+        "description": "Design and development of a task management web application."
+      },
+      {
+        "year_start": 2024,
+        "year_end": 2024,
+        "company": "Better Services New Leaders",
+        "role": "Stagiaire Test & automatisation, Développeur Web Full-Stack",
+        "skills_acquired": [
+          "HTML5",
+          "Framework Materialize CSS"
+        ],
+        "languages_used": [],
+        "description": "Development of a web application for managing orders ready for delivery across various cities in Morocco."
+      },
+      {
+        "year_start": 2025,
+        "year_end": 2025,
+        "company": "GO & DEV",
+        "role": "Software Engineer",
+        "skills_acquired": [
+          "XML",
+          "JavaServer Pages (JSP)"
+        ],
+        "languages_used": [],
+        "description": "Poste actuel en tant que Software Engineer."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Développement logiciel et ingénierie informatique",
+      "progression_speed": "Rapide",
+      "predicted_profile": "Ingénieur logiciel spécialisé en développement web et automatisation",
+      "skills_in_progress": [
+        "Automatisation des tests",
+        "Développement web full-stack"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/anasselhousni",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:04:43.732131"
+  },
+  {
+    "full_name": "Abdellatif I.",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 6,
+    "linkedin": "https://www.linkedin.com/in/abdellatif-i-225865116",
+    "github": "not found",
+    "roles_held": [
+      "TechLead C#.NET",
+      "Ingénieur Développeur FullStack C#.NET/Angular Senior",
+      "Ingénieur Développeur FullStack C#.NET Confirmé",
+      "Ingénieur Développeur FullStack C#.NET/SIG Junior",
+      "Consultant Développeur FullStack C#.NET/Angular/SIG (PFE)"
+    ],
+    "programming_languages": [
+      "C#",
+      "SQL"
+    ],
+    "technical_skills": [
+      ".NET framework",
+      "Angular",
+      "WPF",
+      "ASP.NET",
+      "Xamarin",
+      "UWP",
+      "PowerBI",
+      "SIG"
+    ],
+    "spoken_languages": [
+      "Anglais",
+      "Arabe"
+    ],
+    "certifications": [],
+    "seniority_technologies": [
+      {
+        "technology": ".NET framework",
+        "level": "Expert"
+      },
+      {
+        "technology": "Angular",
+        "level": "Senior"
+      },
+      {
+        "technology": "WPF",
+        "level": "Senior"
+      },
+      {
+        "technology": "ASP.NET",
+        "level": "Senior"
+      },
+      {
+        "technology": "Xamarin",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "UWP",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "PowerBI",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "SIG",
+        "level": "Junior"
+      }
+    ],
+    "seniority_programming_languages": [
+      {
+        "language": "C#",
+        "level": "Senior"
+      },
+      {
+        "language": "SQL",
+        "level": "Confirmé"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "Finance",
+        "Assurance",
+        "Immobilier",
+        "Management Opérationnel et Stratégique",
+        "Études Hydrauliques et Urbaines",
+        "Aéronautique"
+      ]
+    },
+    "summary": "TechLead C#.NET et Ingénieur Développeur FullStack C#.NET/Angular Senior avec plus de 6 ans d'expérience. Spécialisé dans le développement d'applications web et desktop, la gestion de projets, le pilotage d'équipes et l'accompagnement des juniors. Expérience dans les secteurs de la finance, assurance, immobilier, aéronautique et gestion urbaine.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Géomatique",
+    "work_experience": "GO & DEV, Threon - Value through projects, MAROC INGENOV, CGX AERO",
+    "projects": "Développement de plusieurs applications web et desktop (Yaris, Autobot, BTNC, YounitedCrédit, DA, Insti7, ReCap®, BRM®, PMTalk®, SI/SIG pour l'Agence Urbaine de Tanger, Carte Aéronautique pour AIM4Flight®).",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2018,
+        "year_end": 2018,
+        "company": "CGX AERO",
+        "role": "Consultant Développeur FullStack C#.NET/Angular/SIG (PFE)",
+        "skills_acquired": [
+          "C#",
+          ".NET framework",
+          "SIG"
+        ],
+        "languages_used": [
+          "C#"
+        ],
+        "description": "Intégration d’une Carte Aéronautique au produit AIM4Flight®. Participation aux spécifications et collecte du besoin, identification des scénarios et cas d’utilisation opérationnels, développement de la carte et ses fonctionnalités."
+      },
+      {
+        "year_start": 2018,
+        "year_end": 2018,
+        "company": "MAROC INGENOV",
+        "role": "Ingénieur Développeur FullStack C#.NET/SIG Junior",
+        "skills_acquired": [
+          "C#",
+          ".NET framework",
+          "SIG"
+        ],
+        "languages_used": [
+          "C#"
+        ],
+        "description": "Mise en place d’un SI/SIG pour le compte de l’Agence Urbaine de Tanger. Participation aux spécifications techniques et fonctionnels, conception et développement de l’application."
+      },
+      {
+        "year_start": 2019,
+        "year_end": 2020,
+        "company": "Threon - Value through projects",
+        "role": "Ingénieur Développeur FullStack C#.NET Confirmé",
+        "skills_acquired": [
+          "C#",
+          ".NET framework",
+          "UWP",
+          "Xamarin",
+          "PowerBI"
+        ],
+        "languages_used": [
+          "C#"
+        ],
+        "description": "Développement de deux applications UWP (ReCap® et BRM®), maintenance d’application Xamarin (PMTalk®), écriture des scripts de test unitaire et d’intégration, développement de rapports interactifs avec PowerBI."
+      },
+      {
+        "year_start": 2020,
+        "year_end": 2024,
+        "company": "GO & DEV",
+        "role": "TechLead C#.NET, Ingénieur Développeur FullStack C#.NET/Angular Senior",
+        "skills_acquired": [
+          "C#",
+          ".NET framework",
+          "Angular",
+          "WPF",
+          "ASP.NET",
+          "Scrum"
+        ],
+        "languages_used": [
+          "C#",
+          "SQL"
+        ],
+        "description": "Développement, évolution et maintenance applicative de plusieurs applications web et desktop (Yaris, Autobot, BTNC, YounitedCrédit, DA, Insti7). Pilotage des équipes, passage des entretiens d'embauche, accompagnement des juniors, animation des réunions quotidiennes avec le client en agilité Scrum."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "TechLead et Expertise FullStack C#.NET/Angular",
+      "progression_speed": "Rapide",
+      "predicted_profile": "Expert en développement FullStack et gestion de projets techniques",
+      "skills_in_progress": [
+        ".NET framework",
+        "Angular",
+        "Scrum"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/abdellatif-i-225865116",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:05:18.500700"
+  },
+  {
+    "full_name": "Abdessamad Sayhi",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Oujda, Oriental, Maroc",
+    "years_of_experience": 1.75,
+    "linkedin": "https://www.linkedin.com/in/abdessamad-sayhi",
+    "github": "not found",
+    "roles_held": [
+      "Web Developer"
+    ],
+    "programming_languages": [],
+    "technical_skills": [
+      "Vue.js"
+    ],
+    "spoken_languages": [
+      "Français",
+      "English"
+    ],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Technology",
+        "Software Development"
+      ]
+    },
+    "summary": "Passionné par la nature et les défis, c’est ce qui m’anime au quotidien.",
+    "education_level": "Bac + 3",
+    "field_of_studies": "Computer System Development",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": 2024,
+        "year_end": 2024,
+        "company": "GO & DEV",
+        "role": "Web Developer",
+        "skills_acquired": [
+          "Vue.js"
+        ],
+        "languages_used": [],
+        "description": "Temps plein - Sur site"
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/abdessamad-sayhi",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:05:37.437064"
+  },
+  {
+    "full_name": "Oussama Saidi",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Oujda, Oriental, Maroc",
+    "years_of_experience": 4,
+    "linkedin": "https://www.linkedin.com/in/oussama-saidi-8ab43722a",
+    "github": "not found",
+    "roles_held": [
+      "Ingénieur développeur Java confirmé",
+      "Ingénieur logiciel Full Stack"
+    ],
+    "programming_languages": [
+      "Java",
+      "JavaScript",
+      "Python"
+    ],
+    "technical_skills": [
+      "React.js",
+      "AngularJS",
+      "Java 17",
+      "Java SE 8",
+      "Java SE 17"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [
+      "Oracle Certified Professional: Java SE 17 Developer (1Z0-829)",
+      "Oracle Certified Associate, Java SE 8 Programmer"
+    ],
+    "seniority_technologies": [
+      {
+        "technology": "Java",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "React.js",
+        "level": "Medior"
+      },
+      {
+        "technology": "AngularJS",
+        "level": "Medior"
+      }
+    ],
+    "seniority_programming_languages": [
+      {
+        "language": "Java",
+        "level": "Confirmé"
+      },
+      {
+        "language": "JavaScript",
+        "level": "Medior"
+      },
+      {
+        "language": "Python",
+        "level": "Junior"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information",
+        "Développement logiciel"
+      ]
+    },
+    "summary": "Ingénieur logiciel Full Stack, spécialisé dans le développement, l’évolution et la maintenance de solutions Java complexes, avec une solide expérience pour des entreprises telles qu'Inetum et SQLI. Mon objectif professionnel est d'avancer dans ma carrière en améliorant mes compétences par de nouveaux défis et certifications.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Ingénierie (Ecole des Hautes Etudes d'Ingénierie OUJDA)",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2020,
+        "year_end": 2022,
+        "company": "SQLI",
+        "role": "Ingénieur développeur Java",
+        "skills_acquired": [
+          "Java",
+          "JavaScript",
+          "React.js",
+          "AngularJS"
+        ],
+        "languages_used": [
+          "Java",
+          "JavaScript"
+        ],
+        "description": "Développement, évolution et maintenance de solutions Java complexes."
+      },
+      {
+        "year_start": 2022,
+        "year_end": 2024,
+        "company": "Inetum",
+        "role": "Ingénieur développeur Java confirmé",
+        "skills_acquired": [
+          "Java 17",
+          "Java SE 17",
+          "Java SE 8"
+        ],
+        "languages_used": [
+          "Java"
+        ],
+        "description": "Développement et maintenance de solutions Java complexes."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Développement logiciel et expertise Java",
+      "progression_speed": "Rapide",
+      "predicted_profile": "Expert en développement Java et Full Stack",
+      "skills_in_progress": [
+        "Java 17",
+        "React.js",
+        "AngularJS"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/oussama-saidi-8ab43722a",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:06:06.115191"
+  },
+  {
+    "full_name": "Anas El Boukhari El Mamoun",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 8,
+    "linkedin": "https://www.linkedin.com/in/anas-el-boukhari-el-mamoun",
+    "github": "not found",
+    "roles_held": [
+      "Senior Software Engineer",
+      "Full-Stack Developer"
+    ],
+    "programming_languages": [
+      "C#",
+      "Python",
+      "SQL"
+    ],
+    "technical_skills": [
+      ".NET",
+      ".NET Core",
+      "Angular",
+      "Entity Framework",
+      "Django",
+      "Flask",
+      "SQL Server",
+      "Microsoft Azure",
+      "AWS",
+      "Vue",
+      "Scrum"
+    ],
+    "spoken_languages": [
+      "French",
+      "English",
+      "Arabic"
+    ],
+    "certifications": [],
+    "seniority_technologies": [
+      {
+        "technology": ".NET",
+        "level": "Senior"
+      },
+      {
+        "technology": ".NET Core",
+        "level": "Senior"
+      },
+      {
+        "technology": "Angular",
+        "level": "Senior"
+      },
+      {
+        "technology": "SQL Server",
+        "level": "Senior"
+      },
+      {
+        "technology": "Microsoft Azure",
+        "level": "Senior"
+      },
+      {
+        "technology": "AWS",
+        "level": "Senior"
+      }
+    ],
+    "seniority_programming_languages": [
+      {
+        "language": "C#",
+        "level": "Senior"
+      },
+      {
+        "language": "Python",
+        "level": "Medior"
+      },
+      {
+        "language": "SQL",
+        "level": "Senior"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "Software Development",
+        "Technology"
+      ]
+    },
+    "summary": "As a Senior Software Engineer with over 8 years of expertise in .NET technologies, I drive innovation through full-stack development. I specialize in building robust applications using .NET Core, C#, and Angular, with a strong focus on optimizing database operations. My collaborative approach with product managers and technical teams has consistently delivered outstanding solutions across diverse projects. Currently, I focus on pushing technological boundaries through streamlined architectures and innovative implementations, utilizing tools like Entity Framework, SQL Server, Python (Django/Flask), and cloud platforms (Azure/AWS). Working in an agile environment, I combine technical excellence with leadership skills to create impactful solutions that enhance user experiences and drive business value.",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "Over 8 years of experience in software development, specializing in .NET technologies, full-stack development, and cloud platforms.",
+    "projects": "not found",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2016,
+        "year_end": 2024,
+        "company": "Matys",
+        "role": "Senior Software Engineer",
+        "skills_acquired": [
+          ".NET Core",
+          "C#",
+          "Angular",
+          "Entity Framework",
+          "SQL Server",
+          "Python",
+          "Django",
+          "Flask",
+          "Azure",
+          "AWS"
+        ],
+        "languages_used": [
+          "C#",
+          "Python",
+          "SQL"
+        ],
+        "description": "Full-stack development using .NET Core, C#, and Angular. Focus on optimizing database operations and building scalable applications. Collaboration with product managers and technical teams to deliver outstanding solutions."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Senior Software Engineer",
+      "progression_speed": "Normale",
+      "predicted_profile": "Technical Leader or Architect",
+      "skills_in_progress": [
+        ".NET Core",
+        "Angular",
+        "Cloud Platforms (Azure/AWS)"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/anas-el-boukhari-el-mamoun",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:06:33.255485"
+  },
+  {
+    "full_name": "Amine BENTLE",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat et périphérie",
+    "years_of_experience": 5,
+    "linkedin": "https://www.linkedin.com/in/amine-bentle-49aa19281",
+    "github": "not found",
+    "roles_held": [
+      "Talent Acquisition Manager",
+      "Consultant en recrutement IT"
+    ],
+    "programming_languages": [],
+    "technical_skills": [],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Recrutement IT",
+        "Outsourcing IT",
+        "Ressources humaines"
+      ]
+    },
+    "summary": "Tout est possible à qui rêve, ose, travaille et n'abandonne jamais.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Human Resources Management/Personnel Administration, General",
+    "work_experience": "Talent Acquisition Manager chez GO & DEV (mars 2020 - aujourd’hui) | Consultant en recrutement IT chez DgDeploy (juin 2019 - novembre 2019)",
+    "projects": "not found",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2019,
+        "year_end": 2019,
+        "company": "DgDeploy",
+        "role": "Consultant en recrutement IT",
+        "skills_acquired": [
+          "Recrutement IT"
+        ],
+        "languages_used": [],
+        "description": "Stage de 6 mois dans le domaine du recrutement IT."
+      },
+      {
+        "year_start": 2020,
+        "year_end": 2026,
+        "company": "GO & DEV",
+        "role": "Talent Acquisition Manager",
+        "skills_acquired": [
+          "Recrutement IT",
+          "Outsourcing IT",
+          "Talent Acquisition"
+        ],
+        "languages_used": [],
+        "description": "Responsable du recrutement IT et de l'acquisition de talents."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Recrutement et acquisition de talents dans le domaine IT",
+      "progression_speed": "Normale",
+      "predicted_profile": "Responsable des ressources humaines spécialisé en IT",
+      "skills_in_progress": [
+        "Recrutement IT",
+        "Talent Acquisition"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/amine-bentle-49aa19281",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:07:14.022569"
+  },
+  {
+    "full_name": "Ibrahim Ayoub Meskine",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/ibrahim-ayoub-meskine",
+    "github": "not found",
+    "roles_held": [
+      "FullStack Developer"
+    ],
+    "programming_languages": [
+      "Java",
+      "JavaScript"
+    ],
+    "technical_skills": [
+      "Spring Boot",
+      "Angular",
+      "React",
+      "MERN",
+      "Java-Angular"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [
+      {
+        "technology": "Spring Boot",
+        "level": "not found"
+      },
+      {
+        "technology": "Angular",
+        "level": "not found"
+      },
+      {
+        "technology": "React",
+        "level": "not found"
+      }
+    ],
+    "seniority_programming_languages": [
+      {
+        "language": "Java",
+        "level": "not found"
+      },
+      {
+        "language": "JavaScript",
+        "level": "not found"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information",
+        "Développement logiciel"
+      ]
+    },
+    "summary": "Développeur Full Stack passionné, je possède une solide expertise dans les technologies Java Spring, React et Angular. Fort de mon expérience dans la création d'applications réactives et performantes, aussi bien en environnement MERN que Java-Angular, je suis prêt à relever de nouveaux défis et à apporter une contribution significative à des projets innovants.",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": "not found",
+        "year_end": "not found",
+        "company": "GO & DEV · JobInTech",
+        "role": "FullStack Developer Java/Spring Boot/Angular",
+        "skills_acquired": [
+          "Java",
+          "Spring Boot",
+          "Angular",
+          "React"
+        ],
+        "languages_used": [
+          "Java",
+          "JavaScript"
+        ],
+        "description": "not found"
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/ibrahim-ayoub-meskine",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:07:35.884829"
+  },
+  {
+    "full_name": "Amine E.",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 11,
+    "linkedin": "https://www.linkedin.com/in/amine-e-9758b02a",
+    "github": "not found",
+    "roles_held": [
+      "Consultant .NET",
+      "Expert technique .Net",
+      "IT Team Lead",
+      ".Net Senior Consultant"
+    ],
+    "programming_languages": [
+      "C#"
+    ],
+    "technical_skills": [
+      ".NET",
+      "LINQ",
+      "ASP.Net",
+      "Microsoft Azure",
+      "Scrum"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [
+      "Professionnal Scrum Master (PSM I) - Scrum.org",
+      "Developing Microsoft Azure and Web Services - Microsoft",
+      "MCTS Web Development Using Asp.Net 4.0 (Exam 70-515)"
+    ],
+    "seniority_technologies": [
+      {
+        "technology": ".NET",
+        "level": "Expert"
+      },
+      {
+        "technology": "ASP.Net",
+        "level": "Expert"
+      },
+      {
+        "technology": "Microsoft Azure",
+        "level": "Expert"
+      }
+    ],
+    "seniority_programming_languages": [
+      {
+        "language": "C#",
+        "level": "Expert"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "Information Technology and Services"
+      ]
+    },
+    "summary": "Je suis un Consultant .NET depuis plus de 10 ans possédant une solide expérience dans un large éventail de développement en .NET dans un contexte métier de complexité variée. Mon expertise couvre toutes les étapes du développement, de l'analyse initiale à la conception et à la réalisation. Je maîtrise une variété de plates-formes et de systèmes. En plus de mes compétences techniques, je suis un excellent communicateur et un bon esprit collaboratif. Ma capacité à bien communiquer me permet de travailler efficacement avec les clients afin d’identifier les objectifs et les exigences des applications.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Computer Systems Networking and Telecommunications",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2014,
+        "year_end": 2015,
+        "company": "Accenture",
+        "role": "IT Team Lead",
+        "skills_acquired": [],
+        "languages_used": [
+          "C#"
+        ],
+        "description": "not found"
+      },
+      {
+        "year_start": 2015,
+        "year_end": 2018,
+        "company": "Capgemini Morocco",
+        "role": ".Net Senior Consultant",
+        "skills_acquired": [
+          ".NET",
+          "ASP.Net"
+        ],
+        "languages_used": [
+          "C#"
+        ],
+        "description": "not found"
+      },
+      {
+        "year_start": 2018,
+        "year_end": 2019,
+        "company": "CGI",
+        "role": "Expert technique .Net",
+        "skills_acquired": [
+          ".NET"
+        ],
+        "languages_used": [
+          "C#"
+        ],
+        "description": "not found"
+      },
+      {
+        "year_start": 2020,
+        "year_end": 2023,
+        "company": "CODAGILE",
+        "role": "Consultant senior .Net",
+        "skills_acquired": [
+          ".NET"
+        ],
+        "languages_used": [
+          "C#"
+        ],
+        "description": "not found"
+      },
+      {
+        "year_start": 2023,
+        "year_end": 2026,
+        "company": "GO & DEV",
+        "role": "Consultant senior .Net",
+        "skills_acquired": [
+          ".NET"
+        ],
+        "languages_used": [
+          "C#"
+        ],
+        "description": "not found"
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Expertise technique en .NET et gestion d'équipe",
+      "progression_speed": "Rapide",
+      "predicted_profile": "Architecte technique ou Chef de projet technique",
+      "skills_in_progress": [
+        ".NET",
+        "Microsoft Azure"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/amine-e-9758b02a",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:08:05.227991"
+  },
+  {
+    "full_name": "Sanae Abaali",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 2,
+    "linkedin": "https://www.linkedin.com/in/sanae-abaali-305b661b8",
+    "github": "not found",
+    "roles_held": [
+      "AI Engineer",
+      "AI Intern"
+    ],
+    "programming_languages": [],
+    "technical_skills": [
+      "Natural Language Processing",
+      "RAG pipelines",
+      "Embedding techniques",
+      "Vector databases"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Anglais",
+      "Arabe"
+    ],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information",
+        "Intelligence Artificielle"
+      ]
+    },
+    "summary": "Hey there! I’m Sanae, an AI Engineer with a deep passion for Natural Language Processing. For me, working with large language models isn’t just a job it’s something I genuinely enjoy. Whether it’s building RAG pipelines, experimenting with different embedding techniques, or playing around with vector databases, I love exploring how machines understand and generate human language. I’m always curious, always learning, and always up for a new challenge in the world of AI.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Sciences de Données",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2023,
+        "year_end": 2024,
+        "company": "GO & DEV",
+        "role": "AI Intern",
+        "skills_acquired": [
+          "Natural Language Processing",
+          "RAG pipelines",
+          "Embedding techniques",
+          "Vector databases"
+        ],
+        "languages_used": [],
+        "description": "Technical internship in collaboration with Ministère de la Santé et de la Protection Sociale - Maroc, focused on the eESJ platform."
+      },
+      {
+        "year_start": 2024,
+        "year_end": 2024,
+        "company": "GO & DEV",
+        "role": "AI Engineer",
+        "skills_acquired": [
+          "Natural Language Processing",
+          "RAG pipelines",
+          "Embedding techniques",
+          "Vector databases"
+        ],
+        "languages_used": [],
+        "description": "Current position as AI Engineer."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Ascendante",
+      "progression_speed": "Rapide",
+      "predicted_profile": "Spécialiste en Intelligence Artificielle et NLP",
+      "skills_in_progress": [
+        "Natural Language Processing",
+        "RAG pipelines",
+        "Embedding techniques",
+        "Vector databases"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/sanae-abaali-305b661b8",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:08:39.984992"
+  },
+  {
+    "full_name": "Mahdi El Jouhari",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/mahdi-el-jouhari-815875254",
+    "github": "not found",
+    "roles_held": [
+      "Chief Information Technology Officer"
+    ],
+    "programming_languages": [],
+    "technical_skills": [],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information"
+      ]
+    },
+    "summary": "not found",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": "not found",
+        "year_end": "not found",
+        "company": "GO & DEV",
+        "role": "Chief Information Technology Officer",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "Temps plein"
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/mahdi-el-jouhari-815875254",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:09:00.385376"
+  },
+  {
+    "full_name": "Matthieu Bergerault",
+    "email": "not found",
+    "phone": "not found",
+    "location": "France",
+    "years_of_experience": 20,
+    "linkedin": "https://www.linkedin.com/in/matthieu-bergerault-08447818",
+    "github": "not found",
+    "roles_held": [
+      "Co-founder @Talentmatchers",
+      "Co-founder @Valuemakers",
+      "Co-founder @dialog"
+    ],
+    "programming_languages": [],
+    "technical_skills": [],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Strategy Consulting",
+        "Entrepreneurship",
+        "Recruitment",
+        "Marketplace"
+      ]
+    },
+    "summary": "After 20 years of strategy consulting and entrepreneurship, I created Talentmatchers.com, a marketplace delivering on-demand talents and experts to accelerate project execution.",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "Talentmatchers.com",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": 2004,
+        "year_end": 2024,
+        "company": "Talentmatchers",
+        "role": "Co-founder",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "Creation of a marketplace delivering on-demand talents and experts to accelerate project execution."
+      },
+      {
+        "year_start": 2004,
+        "year_end": 2024,
+        "company": "Valuemakers",
+        "role": "Co-founder",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "Not explicitly detailed in the profile."
+      },
+      {
+        "year_start": 2004,
+        "year_end": 2024,
+        "company": "Dialog",
+        "role": "Co-founder",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "Not explicitly detailed in the profile."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Entrepreneurship and Strategy Consulting",
+      "progression_speed": "Normale",
+      "predicted_profile": "Serial Entrepreneur and Strategy Expert",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/matthieu-bergerault-08447818",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:09:29.126190"
+  },
+  {
+    "full_name": "Narjisse Ziani",
+    "email": "not found",
+    "phone": "not found",
+    "location": "France / Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/narjisse-ziani-037240273",
+    "github": "not found",
+    "roles_held": [
+      "HR & Talent Acquisition Manager",
+      "Tech & IT Headhunting"
+    ],
+    "programming_languages": [],
+    "technical_skills": [
+      ".NET",
+      ".NET Framework",
+      ".NET Core",
+      "Entity Framework",
+      "SQL",
+      "Blazor",
+      "C#",
+      "Node.js",
+      "Angular"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Tech",
+        "IT Recruitment",
+        "Human Resources"
+      ]
+    },
+    "summary": "Narjisse Ziani est une professionnelle spécialisée dans le recrutement tech et IT, basée en France et au Maroc. Elle occupe le poste de HR & Talent Acquisition Manager avec une expertise en headhunting pour des profils techniques (Data Engineer, Développeurs .NET, Node.js, Angular, UX, etc.).",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/narjisse-ziani-037240273",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:09:52.999352"
+  },
+  {
+    "full_name": "Oualid ARBIB",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Oujda, Oriental, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/oualid-arbib",
+    "github": "not found",
+    "roles_held": [
+      "Software Engineer Intern"
+    ],
+    "programming_languages": [],
+    "technical_skills": [],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Génie informatique",
+        "Technologie de l'information"
+      ]
+    },
+    "summary": "Etudiant en dernière année en cycle d’ingénieur génie informatique à L’EHEI Oujda. Actuellement en stage en tant que Software Engineer Intern chez @Go & Dev.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Génie informatique",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": 2025,
+        "year_end": 2025,
+        "company": "GO & DEV",
+        "role": "Software Engineer Intern",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "Stage en tant que Software Engineer Intern."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/oualid-arbib",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:10:16.449529"
+  },
+  {
+    "full_name": "Youssef Libzar",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Morocco (Open to relocation)",
+    "years_of_experience": 3,
+    "linkedin": "https://www.linkedin.com/in/youssef-libzar",
+    "github": "not found",
+    "roles_held": [
+      "Consultant Technico Fonctionnel",
+      "Ingénieur d’étude et développement",
+      "Functional Consultant"
+    ],
+    "programming_languages": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "technical_skills": [
+      "Angular",
+      "Spring Boot",
+      ".NET",
+      "Postman",
+      "Squash",
+      "SoapUI",
+      "Jira",
+      "Monday",
+      "Confluence",
+      "Agile",
+      "Kanban",
+      "Scrum",
+      "Cleva Solutions",
+      "TeamsRH",
+      "Salesforce",
+      "Odoo",
+      "SAP"
+    ],
+    "spoken_languages": [
+      "French",
+      "English",
+      "Arabic"
+    ],
+    "certifications": [],
+    "seniority_technologies": [
+      {
+        "technology": "ERP",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "HRIS",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Insurance Systems",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Java",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Angular",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Spring Boot",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Postman",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Jira",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Agile",
+        "level": "Confirmé"
+      }
+    ],
+    "seniority_programming_languages": [
+      {
+        "language": "Java",
+        "level": "Confirmé"
+      },
+      {
+        "language": "Python",
+        "level": "Confirmé"
+      },
+      {
+        "language": "JavaScript",
+        "level": "Confirmé"
+      },
+      {
+        "language": "TypeScript",
+        "level": "Confirmé"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "ERP",
+        "HRIS",
+        "Insurance",
+        "Digital Transformation",
+        "IT Consulting"
+      ]
+    },
+    "summary": "As a functional consultant with 3 years of hands-on experience in ERP, HRIS, and insurance systems, I specialize in bridging the gap between business needs and technical implementation. From gathering client requirements and configuring ERP platforms to managing acceptance testing and resolving functional anomalies, I work closely with stakeholders to deliver optimized and scalable solutions. My background also includes full stack development (Java, Angular, Spring Boot), QA testing (Postman, Squash, SoapUI), and Agile project environments using tools like Jira, Monday, and Confluence.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Mathematical & Computer Science Engineering",
+    "work_experience": "3 years in ERP, HRIS, and insurance systems as a Functional Consultant and Technical Study and Development Engineer.",
+    "projects": "Explore my latest projects where I bridge the gap between complex ERP systems and streamlined business outcomes. Specialized in functional analysis, software quality assurance, and automation to drive operational efficiency and measurable business growth.",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2021,
+        "year_end": 2024,
+        "company": "Go & Dev",
+        "role": "Consultant Technico Fonctionnel | Ingénieur d’étude et développement",
+        "skills_acquired": [
+          "ERP Configuration",
+          "HRIS",
+          "Insurance Systems",
+          "Java",
+          "Angular",
+          "Spring Boot",
+          "Postman",
+          "Jira",
+          "Agile"
+        ],
+        "languages_used": [
+          "Java",
+          "Python",
+          "JavaScript",
+          "TypeScript"
+        ],
+        "description": "Bridging business needs and technical implementation in ERP, HRIS, and insurance systems. Full stack development, QA testing, and Agile project management."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Consulting and Technical Functional Expertise",
+      "progression_speed": "Normale",
+      "predicted_profile": "Senior Functional Consultant or Technical Lead",
+      "skills_in_progress": [
+        "Advanced ERP Configuration",
+        "Digital Transformation",
+        "Business Analysis"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/youssef-libzar",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:10:47.794177"
+  },
+  {
+    "full_name": "Gérard Rellier",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Neuilly-sur-Seine, Île-de-France, France",
+    "years_of_experience": 10,
+    "linkedin": "https://www.linkedin.com/in/g%C3%A9rard-rellier-b2888960",
+    "github": "not found",
+    "roles_held": [
+      "Directeur"
+    ],
+    "programming_languages": [
+      "Java",
+      "C#",
+      "Python",
+      "JavaScript"
+    ],
+    "technical_skills": [
+      "Spring Boot",
+      "Angular",
+      "React",
+      "React Native",
+      "Flask",
+      ".Net",
+      "Selenium",
+      "Appium",
+      "Cypress",
+      "Docker",
+      "AWS",
+      "microservices",
+      "CI/CD",
+      "API",
+      "Gherkin",
+      "Playwright",
+      "TypeScript",
+      "HTML5",
+      "CSS3",
+      "SCSS",
+      "RxJS"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [
+      {
+        "technology": "Java",
+        "level": "Senior"
+      },
+      {
+        "technology": "Angular",
+        "level": "Senior"
+      },
+      {
+        "technology": "Spring Boot",
+        "level": "Senior"
+      },
+      {
+        "technology": "React",
+        "level": "Senior"
+      },
+      {
+        "technology": "Python",
+        "level": "Senior"
+      },
+      {
+        "technology": ".Net",
+        "level": "Senior"
+      },
+      {
+        "technology": "Microservices",
+        "level": "Senior"
+      },
+      {
+        "technology": "CI/CD",
+        "level": "Senior"
+      }
+    ],
+    "seniority_programming_languages": [
+      {
+        "language": "Java",
+        "level": "Senior"
+      },
+      {
+        "language": "C#",
+        "level": "Senior"
+      },
+      {
+        "language": "Python",
+        "level": "Senior"
+      },
+      {
+        "language": "JavaScript",
+        "level": "Senior"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "Services financiers",
+        "Technologie de l'information",
+        "Conseil en transformation digitale"
+      ]
+    },
+    "summary": "Gérard Rellier est Directeur chez Go&Dev, un groupe français basé à Paris et Rabat, spécialisé dans l'accompagnement des clients dans leur transformation digitale. Go&Dev propose des services tels que le développement applicatif, l'intégration de solutions, la gestion de projet et le testing factory. L'entreprise met à disposition des compétences pointues en développement logiciel (Java, C#, etc.), intégration de progiciels bancaires et assurantiels, et gestion de projets.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "KEDGE Business School",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2014,
+        "year_end": 2024,
+        "company": "Go&Dev",
+        "role": "Directeur",
+        "skills_acquired": [
+          "Gestion de projet",
+          "Développement logiciel",
+          "Transformation digitale",
+          "Conseil en services financiers"
+        ],
+        "languages_used": [
+          "Java",
+          "C#",
+          "Python",
+          "JavaScript"
+        ],
+        "description": "Direction de Go&Dev, entreprise spécialisée dans l'accompagnement des clients dans leur transformation digitale, avec une expertise en développement applicatif, intégration de solutions, gestion de projet et testing factory."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Leadership et gestion dans le domaine de la transformation digitale et des services financiers",
+      "progression_speed": "Normale",
+      "predicted_profile": "Cadre supérieur en direction et stratégie digitale",
+      "skills_in_progress": [
+        "Leadership",
+        "Gestion d'équipes multi-sites",
+        "Stratégie digitale"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/g%C3%A9rard-rellier-b2888960",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:11:15.606048"
+  },
+  {
+    "full_name": "Omar Bailal",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat et périphérie",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/omar-bailal-137680175",
+    "github": "not found",
+    "roles_held": [
+      "Front-End Developer"
+    ],
+    "programming_languages": [],
+    "technical_skills": [
+      "React.js",
+      "Vue.js",
+      "Tailwind CSS"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [
+      {
+        "technology": "React.js",
+        "level": "Medior"
+      },
+      {
+        "technology": "Vue.js",
+        "level": "Medior"
+      }
+    ],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information"
+      ]
+    },
+    "summary": "I’m a front-end developer passionate about building scalable, high-performance web applications. With experience in Vue.js, React.js, I specialize in creating intuitive, pixel-perfect UIs and optimizing user experiences.",
+    "education_level": "not found",
+    "field_of_studies": "Ecole Marocaine des Sciences de l'ingénieur",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": "not found",
+        "year_end": "not found",
+        "company": "GO & DEV",
+        "role": "Front-End Developer",
+        "skills_acquired": [
+          "React.js",
+          "Vue.js",
+          "Tailwind CSS"
+        ],
+        "languages_used": [],
+        "description": "not found"
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/omar-bailal-137680175",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:11:35.239662"
+  },
+  {
+    "full_name": "Zainab Lazibi",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/zainab-lazibi-108527239",
+    "github": "not found",
+    "roles_held": [
+      "Ingénieure Support Run"
+    ],
+    "programming_languages": [],
+    "technical_skills": [],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information",
+        "Services pour les PME et Grands groupes"
+      ]
+    },
+    "summary": "not found",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": "not found",
+        "year_end": "not found",
+        "company": "GO & DEV",
+        "role": "Ingénieure Support Run",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "Plateforme de services pour les PME et Grands groupes."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/zainab-lazibi-108527239",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:11:55.367407"
+  },
+  {
+    "full_name": "Hamza Haniny",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Province de Tétouan, Tanger-Tétouan-Al Hoceïma, Maroc",
+    "years_of_experience": 7,
+    "linkedin": "https://www.linkedin.com/in/haniny-hamza",
+    "github": "not found",
+    "roles_held": [
+      "Software Engineer",
+      "Software Developer",
+      "Software Developer Internship",
+      "Email Marketing Specialist"
+    ],
+    "programming_languages": [
+      "JavaScript",
+      ".NET"
+    ],
+    "technical_skills": [
+      "ASP.NET Core",
+      ".NET Framework",
+      "Angular",
+      "Aurelia",
+      "Test unitaire"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Information Technology and Services",
+        "Computer Software"
+      ]
+    },
+    "summary": "not found",
+    "education_level": "Bac + 3",
+    "field_of_studies": "Computer Engineering",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2016,
+        "year_end": 2017,
+        "company": "Adwallmedia",
+        "role": "Email Marketing Specialist",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "not found"
+      },
+      {
+        "year_start": 2019,
+        "year_end": 2019,
+        "company": "everis",
+        "role": "Software Developer Internship",
+        "skills_acquired": [
+          "Angular",
+          "Test unitaire"
+        ],
+        "languages_used": [],
+        "description": "not found"
+      },
+      {
+        "year_start": 2019,
+        "year_end": 2023,
+        "company": "Berger-Levrault",
+        "role": "Software Developer",
+        "skills_acquired": [
+          ".NET Framework",
+          "Aurelia"
+        ],
+        "languages_used": [],
+        "description": "not found"
+      },
+      {
+        "year_start": 2023,
+        "year_end": 2025,
+        "company": "GO & DEV",
+        "role": "Software Engineer",
+        "skills_acquired": [
+          ".NET Framework",
+          "Angular",
+          "ASP.NET Core"
+        ],
+        "languages_used": [],
+        "description": "not found"
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Développement logiciel et ingénierie informatique",
+      "progression_speed": "Normale",
+      "predicted_profile": "Software Engineer confirmé",
+      "skills_in_progress": [
+        ".NET Framework",
+        "Angular",
+        "ASP.NET Core"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/haniny-hamza",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:12:20.805613"
+  },
+  {
+    "full_name": "Zainab Taghzouti",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Préfecture de Casablanca, Casablanca-Settat, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/zainab-taghzouti-132571293",
+    "github": "not found",
+    "roles_held": [
+      "Senior Test & Automatisation",
+      "Senior QA Engineer"
+    ],
+    "programming_languages": [],
+    "technical_skills": [],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information",
+        "Développement logiciel"
+      ]
+    },
+    "summary": "Distinguished Senior QA Engineer with a proven track record of innovating methodologies and tools to facilitate seamless organizational transitions, meet diverse customer requirements, and ensure product excellence. Proficient across the software development life cycle, adept at devising robust test strategies, crafting comprehensive test plans, creating meticulous test cases, executing tests with precision, and overseeing meticulous bug tracking processes. A dedicated professional committed to elevating quality standards and contributing to the success of dynamic projects.",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": "not found",
+        "year_end": "not found",
+        "company": "GO & DEV",
+        "role": "Senior Test & Automatisation",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "not found"
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/zainab-taghzouti-132571293",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:14:16.322742"
+  },
+  {
+    "full_name": "Amine Laghmari",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/amine-laghmari-a27799177",
+    "github": "not found",
+    "roles_held": [
+      "Développeur FullStack"
+    ],
+    "programming_languages": [],
+    "technical_skills": [],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information"
+      ]
+    },
+    "summary": "not found",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [
+      {
+        "year_start": "not found",
+        "year_end": "not found",
+        "company": "GO & DEV",
+        "role": "Développeur FullStack",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "not found"
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/amine-laghmari-a27799177",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:14:36.258406"
+  },
+  {
+    "full_name": "Khalid MEFTAH",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 12,
+    "linkedin": "https://www.linkedin.com/in/khalid-meftah-5795a116b",
+    "github": "not found",
+    "roles_held": [
+      "Full Stack Developer",
+      "Senior Software Developer",
+      "Full Stack Engineer (.Net/Angular)",
+      "Technical Team Lead",
+      "Senior Full Stack Developer (.Net/Angular)",
+      "Référent technico fonctionnel",
+      "Ingénieur études et développement senior",
+      "Ingénieur études et développement"
+    ],
+    "programming_languages": [
+      "C#",
+      "Transact-SQL (T-SQL)"
+    ],
+    "technical_skills": [
+      ".Net",
+      "Angular",
+      "Microsoft SQL Server",
+      "Git"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [
+      {
+        "technology": ".Net",
+        "level": "Senior"
+      },
+      {
+        "technology": "Angular",
+        "level": "Senior"
+      },
+      {
+        "technology": "Microsoft SQL Server",
+        "level": "Senior"
+      }
+    ],
+    "seniority_programming_languages": [
+      {
+        "language": "C#",
+        "level": "Senior"
+      },
+      {
+        "language": "Transact-SQL (T-SQL)",
+        "level": "Senior"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information",
+        "Développement logiciel"
+      ]
+    },
+    "summary": "Full Stack Developer avec plus de 12 ans d'expérience dans le développement logiciel, spécialisé en .Net et Angular. Expérience en tant que Technical Team Lead, Senior Software Developer et Référent technico fonctionnel.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Computer science",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2013,
+        "year_end": 2015,
+        "company": "DXC Technology",
+        "role": "Ingénieur études et développement",
+        "skills_acquired": [],
+        "languages_used": []
+      },
+      {
+        "year_start": 2015,
+        "year_end": 2019,
+        "company": "DXC Technology",
+        "role": "Ingénieur études et développement senior",
+        "skills_acquired": [],
+        "languages_used": [
+          "C#",
+          "Transact-SQL (T-SQL)"
+        ]
+      },
+      {
+        "year_start": 2019,
+        "year_end": 2020,
+        "company": "DXC Technology",
+        "role": "Référent technico fonctionnel",
+        "skills_acquired": [],
+        "languages_used": []
+      },
+      {
+        "year_start": 2021,
+        "year_end": 2022,
+        "company": "Netopia Solutions",
+        "role": "Senior Full Stack Developer (.Net/Angular)",
+        "skills_acquired": [
+          ".Net",
+          "Angular"
+        ],
+        "languages_used": [
+          "C#"
+        ]
+      },
+      {
+        "year_start": 2022,
+        "year_end": 2022,
+        "company": "Netopia Solutions",
+        "role": "Technical Team Lead",
+        "skills_acquired": [],
+        "languages_used": []
+      },
+      {
+        "year_start": 2022,
+        "year_end": 2025,
+        "company": "SQLI",
+        "role": "Full Stack Engineer (.Net/Angular)",
+        "skills_acquired": [
+          ".Net",
+          "Angular"
+        ],
+        "languages_used": [
+          "C#"
+        ]
+      },
+      {
+        "year_start": 2025,
+        "year_end": 2025,
+        "company": "GO & DEV",
+        "role": "Senior Software Developer",
+        "skills_acquired": [],
+        "languages_used": [
+          "C#"
+        ]
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Montée en expertise technique et leadership (passage de développeur à Technical Team Lead et Référent technico fonctionnel)",
+      "progression_speed": "Normale",
+      "predicted_profile": "Expert en développement Full Stack (.Net/Angular) avec des compétences en leadership d'équipe",
+      "skills_in_progress": [
+        ".Net",
+        "Angular",
+        "Leadership"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/khalid-meftah-5795a116b",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:15:09.832416"
+  },
+  {
+    "full_name": "Ahmed FRIKAL",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/ahmed-frikal-55b8431b2",
+    "github": "not found",
+    "roles_held": [
+      "Ingénieur Développeur Fullstack",
+      "Développeur web FullStack"
+    ],
+    "programming_languages": [
+      "Java",
+      "JavaScript"
+    ],
+    "technical_skills": [
+      "Spring",
+      "Spring Boot",
+      "Spring Batch",
+      "Spring Data",
+      "Angular",
+      "Spring Actuator",
+      "Spring Web Flow"
+    ],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Développement logiciel",
+        "Technologies de l'information"
+      ]
+    },
+    "summary": "Développeur web FullStack Java/Angular avec expérience dans l’écosystème Spring (Boot, Actuator, Web Flow, Batch) pour développer et maintenir des applications performantes. Habitué à corriger rapidement les bugs, à livrer des solutions efficaces et à intervenir également sur la partie front-end (Angular).",
+    "education_level": "not found",
+    "field_of_studies": "not found",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/ahmed-frikal-55b8431b2",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:15:31.832676"
+  },
+  {
+    "full_name": "Anas BENMGUIRIDA",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Tanger, Tanger-Tétouan-Al Hoceïma, Maroc",
+    "years_of_experience": 2,
+    "linkedin": "https://www.linkedin.com/in/anas-benmguirida",
+    "github": "https://github.com/anasbenmguirida",
+    "roles_held": [
+      "Software Engineer",
+      "Software Developer Intern"
+    ],
+    "programming_languages": [
+      "Java",
+      "C#",
+      "TypeScript",
+      "SQL"
+    ],
+    "technical_skills": [
+      "Java 8",
+      "Spring Boot",
+      "Angular",
+      "MySQL",
+      "Dependency Injection",
+      "Design Patterns",
+      "SOLID Principles",
+      ".NET"
+    ],
+    "spoken_languages": [
+      "Français",
+      "Anglais"
+    ],
+    "certifications": [
+      "Oracle Certified Associate Java SE 8"
+    ],
+    "seniority_technologies": [
+      {
+        "technology": "Java",
+        "level": "Confirmé"
+      },
+      {
+        "technology": "Spring Boot",
+        "level": "Medior"
+      },
+      {
+        "technology": "Angular",
+        "level": "Medior"
+      },
+      {
+        "technology": "MySQL",
+        "level": "Medior"
+      },
+      {
+        "technology": ".NET",
+        "level": "Junior"
+      },
+      {
+        "technology": "C#",
+        "level": "Junior"
+      }
+    ],
+    "seniority_programming_languages": [
+      {
+        "language": "Java",
+        "level": "Confirmé"
+      },
+      {
+        "language": "TypeScript",
+        "level": "Medior"
+      },
+      {
+        "language": "SQL",
+        "level": "Medior"
+      },
+      {
+        "language": "C#",
+        "level": "Junior"
+      }
+    ],
+    "industry": {
+      "primary_industries": [
+        "Software Development",
+        "Information Technology"
+      ]
+    },
+    "summary": "Je suis un futur ingénieur en informatique orienté résolution de problèmes. Je m'engage à respecter les délais, tout en apportant une pensée critique et créative à chaque projet.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Informatique",
+    "work_experience": "Software Developer Intern chez Capgemini Engineering, Software Engineer en formation.",
+    "projects": "Développement d'une boutique en ligne avec MySQL, Spring Boot (Java) et Angular (TypeScript).",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 2023,
+        "year_end": 2024,
+        "company": "Capgemini Engineering",
+        "role": "Software Developer Intern",
+        "skills_acquired": [
+          "Java",
+          "Spring Boot",
+          "Design Patterns",
+          "SOLID Principles"
+        ],
+        "languages_used": [
+          "Java"
+        ],
+        "description": "Expérience riche en apprentissages techniques et humains. Développement de compétences en Java, Spring Boot, et bonnes pratiques de développement."
+      },
+      {
+        "year_start": 2024,
+        "year_end": 2024,
+        "company": "Capgemini Engineering",
+        "role": "Software Engineer",
+        "skills_acquired": [
+          "Java",
+          "Spring Boot",
+          "Design Patterns",
+          "SOLID Principles"
+        ],
+        "languages_used": [
+          "Java"
+        ],
+        "description": "Suite de mon stage en tant que Software Engineer. Approfondissement des compétences techniques et humaines."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Développement logiciel avec une spécialisation en Java et frameworks associés.",
+      "progression_speed": "Rapide",
+      "predicted_profile": "Ingénieur logiciel confirmé avec une expertise en Java et technologies backend.",
+      "skills_in_progress": [
+        "Java",
+        "Spring Boot",
+        "Angular",
+        "Design Patterns"
+      ]
+    },
+    "file_path": "https://www.linkedin.com/in/anas-benmguirida",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:15:57.069026"
+  },
+  {
+    "full_name": "Sokayna El Hassani",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/sokayna-el-hassani-5a2649192",
+    "github": "not found",
+    "roles_held": [
+      "Manual & Automation QA Engineer",
+      "QA & Test Engineer"
+    ],
+    "programming_languages": [],
+    "technical_skills": [
+      "Cypress",
+      "Gherkin",
+      "Postman"
+    ],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Technology",
+        "Software Testing"
+      ]
+    },
+    "summary": "As a QA & Test Engineer, I work across both manual and automated testing processes to ensure the quality and reliability of web applications and APIs. My responsibilities include validating new features, testing releases, and developing automated test scripts using Cypress and Gherkin. I also perform API testing via Postman to verify backend functionality and integrations.",
+    "education_level": "not found",
+    "field_of_studies": "National School of Applied Sciences of Tangier",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/sokayna-el-hassani-5a2649192",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:16:27.077702"
+  },
+  {
+    "full_name": "Ayoub Hamoudi",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Préfecture de Salé, Rabat-Salé-Kénitra, Maroc",
+    "years_of_experience": 0,
+    "linkedin": "https://www.linkedin.com/in/ayoub-hamoudi-538a7780",
+    "github": "not found",
+    "roles_held": [
+      "Engineer Software",
+      "GO & DEV"
+    ],
+    "programming_languages": [],
+    "technical_skills": [],
+    "spoken_languages": [],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Technologie de l'information",
+        "Ingénierie"
+      ]
+    },
+    "summary": "not found",
+    "education_level": "not found",
+    "field_of_studies": "Ecole d’ingénieur high tech",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.6,
+    "experience_timeline": [],
+    "career_trajectory": {
+      "direction": "Données insuffisantes",
+      "progression_speed": "Normale",
+      "predicted_profile": "Données insuffisantes",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/ayoub-hamoudi-538a7780",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:16:45.332236"
+  },
+  {
+    "full_name": "Sophie Bertet",
+    "email": "not found",
+    "phone": "not found",
+    "location": "Boulogne-Billancourt, Île-de-France, France",
+    "years_of_experience": 28,
+    "linkedin": "https://www.linkedin.com/in/sophie-bertet-84a7a6204",
+    "github": "not found",
+    "roles_held": [
+      "Directrice commerciale",
+      "Directeur général",
+      "Présidente",
+      "Directrice Commerciale Zone Europe du sud",
+      "Responsable des Ventes Zone Europe",
+      "Chargé d’Affaires",
+      "Ingénieur Commercial Grands Comptes"
+    ],
+    "programming_languages": [],
+    "technical_skills": [],
+    "spoken_languages": [
+      "not found"
+    ],
+    "certifications": [],
+    "seniority_technologies": [],
+    "seniority_programming_languages": [],
+    "industry": {
+      "primary_industries": [
+        "Logiciel",
+        "Transformation digitale",
+        "Asset Management",
+        "Gestion de portefeuille",
+        "Risque et produits dérivés",
+        "Finance",
+        "Aéronautique"
+      ]
+    },
+    "summary": "Sophie Bertet est une professionnelle expérimentée dans le domaine commercial et la gestion d'entreprises, spécialisée dans la vente de solutions logicielles et la transformation digitale. Elle a occupé des postes à responsabilités tels que Directrice commerciale, Directeur général et Présidente, avec une expertise marquée dans la prospection, la négociation, la gestion de projets et le développement commercial en Europe et à l'international.",
+    "education_level": "Bac + 5",
+    "field_of_studies": "Diplôme d'ingénieur",
+    "work_experience": "not found",
+    "projects": "not found",
+    "parsing_confidence": 0.85,
+    "experience_timeline": [
+      {
+        "year_start": 1990,
+        "year_end": 1997,
+        "company": "IBM",
+        "role": "Ingénieur Commercial Grands Comptes Aéronautiques",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "Développer auprès des grands comptes Aéronautiques la vente des nouveaux produits Unix d’IBM. Spécialisée dans les projets Winback. Suivi des grands comptes tels que Dassault, Aérospatiale et Snecma au niveau des directions informatiques. Réunions Clients pour les présentations des produits, prise de commandes, suivi des livraisons et installations et définitions d’offres commerciales agressives pour les prospects. Résultats : Dépassement des objectifs chaque année, vente des deux premiers SP2 (Grand Système Unix d’IBM) en 1996 et promotion pour la spécialisation des ventes de SP2 en France."
+      },
+      {
+        "year_start": 1998,
+        "year_end": 1999,
+        "company": "FIS",
+        "role": "Responsable des Ventes Zone Europe Infinity",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "Prospection de nouveaux territoires auprès des directions informatiques et des responsables des risques."
+      },
+      {
+        "year_start": 1999,
+        "year_end": 2003,
+        "company": "Sophis",
+        "role": "Directrice Commerciale Zone Europe du sud",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "Commercialisation de l’offre logicielle et des services sur des nouveaux marchés: Espagne, Portugal, Italie, Grèce, Luxembourg et New York. Organisation et réalisation de la prospection, études des marchés étrangers, évaluation du potentiel, mise en place de plans d’actions, animation des présentations et des équipes projet, négociation et closing. Résultats: acquisition de nouveaux clients en Espagne, au Portugal et au Luxembourg."
+      },
+      {
+        "year_start": 2003,
+        "year_end": 2015,
+        "company": "Monakea",
+        "role": "Directeur général",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "Gestion de la société Maam Soft (management, recrutement, définition du budget, communication auprès des actionnaires, définition de nouveaux axes de développements) et vente des offres Monakea. Méthodologie: qualification des prospects, identification des projets, mise en place de partenariats, actions marketing, prise de rendez-vous, animation des présentations et des workshops, coordination et réponse aux appels d’offres."
+      },
+      {
+        "year_start": 2007,
+        "year_end": 2013,
+        "company": "Maam Soft",
+        "role": "Présidente",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "Editeur de logiciel spécialisé en Asset Management. Gestion de la société Maam Soft (management, recrutement, définition du budget, communication auprès des actionnaires, définition de nouveaux axes de développements) et vente des offres Monakea."
+      },
+      {
+        "year_start": 2018,
+        "year_end": 2025,
+        "company": "GO & DEV",
+        "role": "Directrice commerciale",
+        "skills_acquired": [],
+        "languages_used": [],
+        "description": "Go&Dev aide ses Clients (Startups, ETI, Editeurs de logiciel) dans leurs transformation Digitale en mode 'Smart Shore' en associant son centre de développement basé à Rabat et avec un pilotage local chez nos clients."
+      }
+    ],
+    "career_trajectory": {
+      "direction": "Ascendante - Évolution vers des postes de direction commerciale et générale dans le secteur du logiciel et de la transformation digitale.",
+      "progression_speed": "Normale",
+      "predicted_profile": "Cadre supérieur expérimenté dans la vente, la gestion d'équipes et le développement commercial, avec une forte orientation vers la transformation digitale et les solutions logicielles.",
+      "skills_in_progress": []
+    },
+    "file_path": "https://www.linkedin.com/in/sophie-bertet-84a7a6204",
+    "extraction_method": "selenium + mistral-large",
+    "extracted_at": "2026-04-01T15:17:23.598888"
+  }
+]
