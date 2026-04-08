@@ -4,7 +4,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Maroc",
-    "years_of_experience": 0.7,
+    "years_of_experience": 2,
     "linkedin": "https://www.linkedin.com/in/hajar-abdellaoui-53479221b",
     "github": "not found",
     "roles_held": [
@@ -226,8 +226,8 @@
       "Anglais"
     ],
     "certifications": [
-      "HackerRank Java (Basic)",
-      "DELF B2 (Diplôme d'Études en Langue Française)"
+      "PCAP : Programming Essentials in Python",
+      "Create attractive infographics with Creately"
     ],
     "seniority_technologies": [],
     "seniority_programming_languages": [
@@ -304,12 +304,11 @@
     "email": "not found",
     "phone": "not found",
     "location": "Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 8,
+    "years_of_experience": 10,
     "linkedin": "https://www.linkedin.com/in/kadiri-ismail-b72763b3",
     "github": "not found",
     "roles_held": [
-      "Ingénieur d'étude et développement",
-      "Tech Lead",
+      "Ingénieur d'étude et développement Senior",
       "Ingénieur logiciel | Développeur Full Stack",
       "Ingénieur logiciel | Développeur web Front-end",
       "Ingénieur logiciel | Développeur web Back-end",
@@ -349,7 +348,8 @@
       "Shell"
     ],
     "spoken_languages": [
-      "not found"
+      "Anglais",
+      "Français"
     ],
     "certifications": [],
     "seniority_technologies": [
@@ -465,7 +465,9 @@
         "role": "Ingénieur logiciel | Développeur web Front-end",
         "skills_acquired": [
           "PostgreSQL",
-          "Hibernate"
+          "Hibernate",
+          "Java EE",
+          "Framework Spring"
         ],
         "languages_used": [
           "JavaScript"
@@ -478,7 +480,9 @@
         "role": "Ingénieur logiciel | Développeur Full Stack",
         "skills_acquired": [
           "Système de gestion de base de données (SGBD)",
-          "API REST"
+          "API REST",
+          "Programmation orientée objet",
+          "GitHub"
         ],
         "languages_used": [
           "Java",
@@ -519,7 +523,7 @@
     "email": "basma.affaya@goandev.net",
     "phone": "not found",
     "location": "Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 1.8,
+    "years_of_experience": 2,
     "linkedin": "https://www.linkedin.com/in/basma-affaya",
     "github": "not found",
     "roles_held": [
@@ -644,167 +648,106 @@
     "extraction_method": "selenium + mistral-large (enriched)",
     "extracted_at": "2026-04-01T19:56:29.275086"
   },
-  {
-    "full_name": "Amina Ismaili",
-    "email": "not found",
-    "phone": "not found",
-    "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 0,
-    "linkedin": "https://www.linkedin.com/in/amina-ismaili-898731309",
-    "github": "not found",
-    "roles_held": [
-      "AI Engineer Intern - Semantic Matching & CRM Integration",
-      "Data Analyst Intern",
-      "GIS Intern"
-    ],
-    "programming_languages": [
-      "Python"
-    ],
-    "technical_skills": [
-      "Semantic Matching",
-      "NLP",
-      "CRM",
-      "Power BI",
-      "Machine Learning",
-      "scikit-learn",
-      "Microsoft Azure Machine Learning",
-      "SharePoint",
-      "Power Apps",
-      "Power Automate",
+{
+  "full_name": "Amina Ismaili",
+  "email": "ismailiamina12@gmail.com",
+  "phone": "+212 6 36 25 94 59",
+  "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+  "years_of_experience": 0,
+  "linkedin": "https://www.linkedin.com/in/amina-ismaili-898731309",
+  "github": "https://github.com/ismailiamina",
+  "roles_held": [
+    "AI Engineer Intern — Semantic Matching & CRM Integration",
+    "Data Analyst Intern",
+    "GIS Intern"
+  ],
+  "programming_languages": [
+    "Python",
+    "SQL",
+    "C",
+    "C++",
+    "Java"
+  ],
+  "technical_skills": [
+    "LLM",
+    "RAG",
+    "Semantic Search",
+    "Weaviate",
+    "Hybrid Search",
+    "LangChain",
+    "Hugging Face",
+    "NLP",
+    "FastAPI",
+    "Docker",
+    "Streamlit",
+    "Scikit-learn",
+    "TensorFlow",
+    "PyTorch",
+    "MLflow",
+    "DVC",
+    "Power BI",
+    "Machine Learning",
+    "Deep Learning",
+    "Git",
+    "Flask",
+    "PostgreSQL",
+    "OpenCV"
+  ],
+  "spoken_languages": [
+    "Arabe",
+    "Français",
+    "Anglais"
+  ],
+  "certifications": [
+    "Lean Six Sigma Yellow Belt",
+    "Scrum Master Certified",
+    "Time Management, Productivity & Decision Making — Udemy"
+  ],
+  "seniority_technologies": [
+    {"technology": "Python",         "level": "Confirmé"},
+    {"technology": "LLM",            "level": "Junior"},
+    {"technology": "RAG",            "level": "Junior"},
+    {"technology": "Weaviate",       "level": "Junior"},
+    {"technology": "Machine Learning","level": "Junior"},
+    {"technology": "NLP",            "level": "Junior"},
+    {"technology": "Power BI",       "level": "Medior"},
+    {"technology": "FastAPI",        "level": "Junior"},
+    {"technology": "Docker",         "level": "Junior"},
+    {"technology": "Streamlit",      "level": "Junior"}
+  ],
+  "seniority_programming_languages": [
+    {"language": "Python", "level": "Confirmé"},
+    {"language": "SQL",    "level": "Junior"},
+    {"language": "C",      "level": "Junior"},
+    {"language": "Java",   "level": "Junior"}
+  ],
+  "industry": {
+    "primary_industries": [
+      "Intelligence Artificielle",
       "Data Science",
-      "Feature Engineering",
-      "Streamlit",
-      "TensorFlow",
-      "Teachable Machine App",
-      "AutoML",
-      "Deep Learning",
-      "Data Mining"
-    ],
-    "spoken_languages": [
-      "Français",
-      "Arabe",
-      "Anglais"
-    ],
-    "certifications": [
-      "Time Management, Productivity & Decision Making — Udemy",
-      "Scrum Master Certified — Udemy"
-    ],
-    "seniority_technologies": [
-      {
-        "technology": "Power BI",
-        "level": "Junior"
-      },
-      {
-        "technology": "Machine Learning",
-        "level": "Junior"
-      },
-      {
-        "technology": "scikit-learn",
-        "level": "Junior"
-      },
-      {
-        "technology": "TensorFlow",
-        "level": "Junior"
-      },
-      {
-        "technology": "Streamlit",
-        "level": "Junior"
-      },
-      {
-        "technology": "NLP",
-        "level": "Junior"
-      },
-      {
-        "technology": "Data Mining",
-        "level": "Junior"
-      }
-    ],
-    "seniority_programming_languages": [
-      {
-        "language": "Python",
-        "level": "Junior"
-      }
-    ],
-    "industry": {
-      "primary_industries": [
-        "Technology",
-        "Artificial Intelligence"
-      ]
-    },
-    "summary": "AI Engineer spécialisée en Semantic Matching, NLP et CRM. Actuellement en stage chez GO & DEV, avec une formation en Data Science et Machine Learning. Passionnée par l'analyse de données et le développement de solutions intelligentes pour l'industrie.",
-    "education_level": "Bac + 5",
-    "field_of_studies": "École Nationale Supérieure d'Arts et Métiers (ENSAM-Méknes - المدرسة الوطنية العليا للفنون و المهن)",
-    "work_experience": "Stages en AI Engineering, Data Analysis et GIS dans des entreprises marocaines.",
-    "projects": "Dashboard Prédictif Intelligent – Power BI & Machine Learning : Conception d’un tableau de bord interactif sous Power BI intégrant un modèle de Machine Learning (Python / scikit-learn) pour la prédiction des indicateurs de performance industrielle (KPIs : DPM, FTT, DRR) et la détection précoce des dérives. Automatisation des flux de données via SharePoint, Power Apps et Power Automate, permettant un gain de productivité de plus de 60 %. Technologies : Microsoft Power BI, Microsoft Azure Machine Learning, Python, scikit-learn. | Environmental Data Mining – Data Science & Industrial Analytics : Mise en place d’un pipeline complet de data mining environnemental : nettoyage, transformation, sélection de variables et modélisation prédictive. Application de techniques d’apprentissage supervisé pour identifier les principaux facteurs d’impact environnemental dans un contexte industriel. Technologies : Data Science, Feature Engineering, Python.",
-    "parsing_confidence": 0.75,
-    "experience_timeline": [
-      {
-        "year_start": 2024,
-        "year_end": 2024,
-        "company": "SGIAT",
-        "role": "GIS internship",
-        "skills_acquired": [
-          "GIS"
-        ],
-        "languages_used": [],
-        "description": "Stage"
-      },
-      {
-        "year_start": 2024,
-        "year_end": 2024,
-        "company": "Office national de l'electricité et de l'eau potable - Branche Electricité",
-        "role": "internship",
-        "skills_acquired": [],
-        "languages_used": [],
-        "description": "Stage"
-      },
-      {
-        "year_start": 2025,
-        "year_end": 2025,
-        "company": "Yazaki Morocco",
-        "role": "Data analyst internship",
-        "skills_acquired": [
-          "Data Analysis"
-        ],
-        "languages_used": [],
-        "description": "Stage"
-      },
-      {
-        "year_start": 2026,
-        "year_end": 2026,
-        "company": "GO & DEV",
-        "role": "AI Engineering Intern – Semantic Matching & CRM Integration",
-        "skills_acquired": [
-          "Semantic Matching",
-          "NLP",
-          "CRM"
-        ],
-        "languages_used": [
-          "Python"
-        ],
-        "description": "Stage"
-      }
-    ],
-    "career_trajectory": {
-      "direction": "Spécialisation en Intelligence Artificielle et Data Science",
-      "progression_speed": "Normale",
-      "predicted_profile": "Junior en AI Engineering et Data Science",
-      "skills_in_progress": [
-        "NLP",
-        "Machine Learning",
-        "Data Mining"
-      ]
-    },
-    "file_path": "https://www.linkedin.com/in/amina-ismaili-898731309",
-    "extraction_method": "selenium + mistral-large (enriched)",
-    "extracted_at": "2026-04-01T19:57:25.882886"
+      "NLP",
+      "Ingénierie Industrielle"
+    ]
   },
-  {
+  "summary": "Ingénieure IA & Data Science spécialisée en Semantic Search, LLM, RAG et systèmes de matching vectoriel. Développement de pipelines ML/NLP de bout en bout et intégration en production. Expérience en Weaviate, LangChain, FastAPI, Streamlit et modèles Mistral/LLaMA/Qwen.",
+  "education_level": "Bac + 5",
+  "field_of_studies": "Ingénierie Industrielle, IA & Data Science — ENSAM Meknès",
+  "work_experience": "Stage PFE chez GO & DEV (2026) : développement d'un moteur de matching sémantique CV/Offres IT (Weaviate, Mistral, LangChain, FastAPI, Streamlit). Stage Data Analyst chez YAZAKI Morocco (2025) : dashboard Power BI avec ML intégré (scikit-learn), automatisation SharePoint/Power Apps/Power Automate, gain 60% productivité. Stage GIS chez SGIAT (2024) : cartographie des aléas d'inondation QGIS/ArcGIS.",
+  "projects": "CV-Scanner-IA (2026) : moteur matching sémantique IT, Weaviate hybrid search + Mistral re-ranking, FastAPI + Streamlit. | Dashboard Anticipation Retards Fournisseurs (2025) : prédiction retards supply chain 85% précision, Random Forest/XGBoost, MLflow, DVC, FastAPI, Next.js, PostgreSQL, Docker. | Pulse Life (2024) : chatbot prévention cardiaque, Mistral-7B, embeddings mxbai, RAG. | Textra Insight (2025) : extraction factures OCR/NLP, PaddleOCR, Qwen2.5, LLaMA3.1, CamemBERT. | Teachable Machine App (2025) : classification automatisée DL, TensorFlow/Keras. | Système Voice AI Multi-Agent (2025) : pipeline voix-action, Whisper/STT, Selenium, TTS.",
+  "parsing_confidence": 0.90,
+  "career_trajectory_direction": "Spécialisation en Intelligence Artificielle — LLM, RAG, Semantic Search et MLOps",
+  "career_trajectory_progression_speed": "Rapide",
+  "career_trajectory_predicted_profile": "AI/NLP Engineer Junior avec spécialisation en systèmes de matching vectoriel et pipelines LLM en production",
+  "file_path": "https://www.linkedin.com/in/amina-ismaili-898731309",
+  "extraction_method": "selenium + mistral-large (enriched)",
+  "extracted_at": "2026-04-01T19:58:08.557497"
+},
+{
     "full_name": "Ghada El Miri",
     "email": "not found",
     "phone": "not found",
     "location": "Maroc",
-    "years_of_experience": 0,
+    "years_of_experience": 5,
     "linkedin": "https://www.linkedin.com/in/ghada-el-miri-090200204",
     "github": "not found",
     "roles_held": [
@@ -845,7 +788,7 @@
     "parsing_confidence": 0.6,
     "experience_timeline": [
       {
-        "year_start": "not found",
+        "year_start": "2021",
         "year_end": "not found",
         "company": "GO & DEV",
         "role": "Responsable Marketing Digital / Lead Generator / Growth Marketer",
@@ -861,9 +804,9 @@
       }
     ],
     "career_trajectory": {
-      "direction": "Début de carrière",
+      "direction": "responsable marketing digital",
       "progression_speed": "Normale",
-      "predicted_profile": "Junior en formation",
+      "predicted_profile": "medior en formation",
       "skills_in_progress": []
     },
     "file_path": "https://www.linkedin.com/in/ghada-el-miri-090200204",
@@ -1006,80 +949,6 @@
     "extracted_at": "2026-04-01T19:59:00.234495"
   },
   {
-    "full_name": "Ghada El Miri",
-    "email": "not found",
-    "phone": "not found",
-    "location": "Maroc",
-    "years_of_experience": 0,
-    "linkedin": "https://www.linkedin.com/in/ACoAADP_2GwBklyZ-wGYuEoNL3p_mpP_lY5isBc",
-    "github": "not found",
-    "roles_held": [
-      "Responsable Marketing Digital",
-      "Lead Generator",
-      "Growth Marketer"
-    ],
-    "programming_languages": [],
-    "technical_skills": [
-      "Génération de leads",
-      "Email marketing",
-      "Optimisation pour les moteurs de recherche (SEO)",
-      "Rédaction publicitaire",
-      "Marketing sur les réseaux sociaux",
-      "Marketing de marque",
-      "Marketing digital",
-      "Conception visuelle"
-    ],
-    "spoken_languages": [
-      "Français",
-      "Anglais",
-      "Arabe"
-    ],
-    "certifications": [],
-    "seniority_technologies": [],
-    "seniority_programming_languages": [],
-    "industry": {
-      "primary_industries": [
-        "Marketing Digital",
-        "Services pour les PME et Grands groupes"
-      ]
-    },
-    "summary": "Je recherche un emploi dans la vente dans le secteur de la santé.",
-    "education_level": "Bac + 5",
-    "field_of_studies": "Management",
-    "work_experience": "not found",
-    "projects": "not found",
-    "parsing_confidence": 0.6,
-    "experience_timeline": [
-      {
-        "year_start": "not found",
-        "year_end": "not found",
-        "company": "GO & DEV",
-        "role": "Responsable Marketing Digital / Lead Generator / Growth Marketer",
-        "skills_acquired": [
-          "Génération de leads",
-          "Email marketing",
-          "SEO",
-          "Rédaction publicitaire",
-          "Marketing sur les réseaux sociaux",
-          "Marketing de marque",
-          "Marketing digital",
-          "Conception visuelle"
-        ],
-        "languages_used": [],
-        "description": "Responsable Marketing Digital, Lead Generator et Growth Marketer chez Go&Dev, une plateforme de services pour les PME et Grands groupes."
-      }
-    ],
-    "career_trajectory": {
-      "direction": "Début de carrière",
-      "progression_speed": "Normale",
-      "predicted_profile": "Junior en formation",
-      "skills_in_progress": []
-    },
-    "file_path": "https://www.linkedin.com/in/ACoAADP_2GwBklyZ-wGYuEoNL3p_mpP_lY5isBc",
-    "extraction_method": "selenium + mistral-large (enriched)",
-    "extracted_at": "2026-04-01T19:59:42.744058"
-  },
-  {
     "full_name": "Salma Kamouss",
     "email": "not found",
     "phone": "not found",
@@ -1202,7 +1071,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 6.8,
+    "years_of_experience": 4,
     "linkedin": "https://www.linkedin.com/in/badr-eddine-chrifi-265336287",
     "github": "not found",
     "roles_held": [
@@ -1434,163 +1303,6 @@
     "extracted_at": "2026-04-01T20:01:40.835456"
   },
   {
-    "full_name": "Kadiri Ismail",
-    "email": "not found",
-    "phone": "not found",
-    "location": "Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 0,
-    "linkedin": "https://www.linkedin.com/in/ACoAABgjhMYB3g_9I7wBCHFF3acLeXbaffVo2Q4",
-    "github": "not found",
-    "roles_held": [
-      "Ingénieur d'étude et développement",
-      "Tech Lead"
-    ],
-    "programming_languages": [
-      "Java",
-      "Python",
-      "SQL",
-      "C#",
-      "Bash",
-      "Shell"
-    ],
-    "technical_skills": [
-      "Docker",
-      "AWS",
-      "Kafka",
-      "GitLab",
-      "Jenkins",
-      "Nexus",
-      "Sonar",
-      "Azure DevOps",
-      "Entity Framework",
-      "Blazor",
-      "Angular",
-      "Vue 3",
-      "Nuxt.js",
-      ".NET Framework",
-      ".NET Core",
-      "Architecture hexagonale",
-      "Domain-Driven Design (DDD)",
-      "MVC",
-      "MVVM"
-    ],
-    "spoken_languages": [
-      "not found"
-    ],
-    "certifications": [],
-    "seniority_technologies": [
-      {
-        "technology": "Java",
-        "level": "Senior"
-      },
-      {
-        "technology": "Angular",
-        "level": "Senior"
-      },
-      {
-        "technology": "Python",
-        "level": "Medior"
-      },
-      {
-        "technology": ".NET",
-        "level": "Senior"
-      },
-      {
-        "technology": "Azure DevOps",
-        "level": "Senior"
-      },
-      {
-        "technology": "Jenkins",
-        "level": "Senior"
-      },
-      {
-        "technology": "GitLab",
-        "level": "Senior"
-      },
-      {
-        "technology": "Nuxt.js",
-        "level": "Confirmé"
-      },
-      {
-        "technology": "Vue 3",
-        "level": "Confirmé"
-      }
-    ],
-    "seniority_programming_languages": [
-      {
-        "language": "Java",
-        "level": "Senior"
-      },
-      {
-        "language": "Python",
-        "level": "Medior"
-      },
-      {
-        "language": "SQL",
-        "level": "Medior"
-      },
-      {
-        "language": "C#",
-        "level": "Senior"
-      },
-      {
-        "language": "Bash",
-        "level": "Medior"
-      },
-      {
-        "language": "Shell",
-        "level": "Medior"
-      }
-    ],
-    "industry": {
-      "primary_industries": [
-        "Technologie de l'information",
-        "Développement logiciel"
-      ]
-    },
-    "summary": "Je recherche un emploi dans la vente dans le secteur de la santé.",
-    "education_level": "not found",
-    "field_of_studies": "not found",
-    "work_experience": "Aucun poste de travail (CDI, CDD, Freelance, Temps plein, Part-time) détecté. Uniquement des stages ou alternances potentiels.",
-    "projects": "not found",
-    "parsing_confidence": 0.85,
-    "experience_timeline": [
-      {
-        "year_start": 2024,
-        "year_end": 2024,
-        "company": "GO & DEV",
-        "role": "Ingénieur d'étude et développement | Tech Lead",
-        "skills_acquired": [
-          "Java",
-          "Angular",
-          "Python",
-          ".NET",
-          "DevOps",
-          "Architecture hexagonale",
-          "DDD"
-        ],
-        "languages_used": [
-          "Java",
-          "Python",
-          "SQL",
-          "C#",
-          "Bash",
-          "Shell"
-        ],
-        "description": "Responsable technique et lead sur des projets de développement logiciel, incluant des missions en Java, Angular, .NET, et des environnements DevOps."
-      }
-    ],
-    "career_trajectory": {
-      "direction": "Début de carrière",
-      "progression_speed": "Normale",
-      "predicted_profile": "Junior en formation",
-      "skills_in_progress": []
-    },
-    "file_path": "https://www.linkedin.com/in/ACoAABgjhMYB3g_9I7wBCHFF3acLeXbaffVo2Q4",
-    "extraction_method": "selenium + mistral-large (enriched)",
-    "extracted_at": "2026-04-01T20:02:22.644380"
-  },
-  {
     "full_name": "Chaimae E.",
     "email": "not found",
     "phone": "not found",
@@ -1683,7 +1395,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 2.8,
+    "years_of_experience": 4,
     "linkedin": "https://www.linkedin.com/in/houda-gadi-05a3b7196",
     "github": "not found",
     "roles_held": [
@@ -1999,7 +1711,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Casablanca, Casablanca-Settat, Maroc",
-    "years_of_experience": 0.3,
+    "years_of_experience": 0,
     "linkedin": "https://www.linkedin.com/in/salaheddine-bahlaouane",
     "github": "not found",
     "roles_held": [
@@ -2132,12 +1844,17 @@
     "email": "not found",
     "phone": "not found",
     "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 7,
+    "years_of_experience": 14,
     "linkedin": "https://www.linkedin.com/in/ACoAAAiD3EQBaGDbuWFDAcZrTu9s3qTTNXRMkBI",
     "github": "not found",
     "roles_held": [
       "Chief Technical Officer",
-      "Leader Technique"
+      "Leader Technique",
+      "Senior Software Developer",
+      "Développeur php senior",
+      "Software Engineer",
+      "Ingénieur d'étude et développement",
+      "Software Development Engineer"
     ],
     "programming_languages": [
       "PHP",
@@ -2424,7 +2141,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Marrakech-Safi, Maroc",
-    "years_of_experience": 1,
+    "years_of_experience": 0,
     "linkedin": "https://www.linkedin.com/in/yamna-et-tahery-5465b3292",
     "github": "not found",
     "roles_held": [
@@ -2543,7 +2260,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 3.8,
+    "years_of_experience":4,
     "linkedin": "https://www.linkedin.com/in/ayoublaachir",
     "github": "not found",
     "roles_held": [
@@ -2725,7 +2442,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Maroc",
-    "years_of_experience": 9.3,
+    "years_of_experience": 11,
     "linkedin": "https://www.linkedin.com/in/ilyas-fettouhi",
     "github": "not found",
     "roles_held": [
@@ -2927,7 +2644,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Lyon, Auvergne-Rhône-Alpes, France",
-    "years_of_experience": 4,
+    "years_of_experience": 10,
     "linkedin": "https://www.linkedin.com/in/sana-megdiche",
     "github": "not found",
     "roles_held": [
@@ -3039,7 +2756,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Kénitra, Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 4,
+    "years_of_experience": 1,
     "linkedin": "https://www.linkedin.com/in/saad-el-khamsi-60717a254",
     "github": "not found",
     "roles_held": [
@@ -3168,7 +2885,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Oujda, Oriental, Maroc",
-    "years_of_experience": 2,
+    "years_of_experience":6,
     "linkedin": "https://www.linkedin.com/in/yasinetalbi",
     "github": "not found",
     "roles_held": [
@@ -3302,7 +3019,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 5.2,
+    "years_of_experience": 6,
     "linkedin": "https://www.linkedin.com/in/hajar-chemraoui-274749200",
     "github": "not found",
     "roles_held": [
@@ -3414,7 +3131,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Maroc",
-    "years_of_experience": 8.8,
+    "years_of_experience": 9,
     "linkedin": "https://www.linkedin.com/in/mourad-friha-9688b1109",
     "github": "not found",
     "roles_held": [
@@ -3423,8 +3140,7 @@
     ],
     "programming_languages": [
       "Java",
-      "JavaEE",
-      "Android"
+      "JavaEE"
     ],
     "technical_skills": [
       "PrestaShop",
@@ -3491,8 +3207,7 @@
           "Android"
         ],
         "languages_used": [
-          "JavaEE",
-          "Android"
+          "JavaEE"
         ],
         "description": "Stage de spécialisation au sein du Nokia Siemens Networks. Participation à la réalisation d’une application mobile pour le service quality management. Type : Stage."
       },
@@ -3566,7 +3281,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Paris et périphérie, France",
-    "years_of_experience": 25,
+    "years_of_experience": 34,
     "linkedin": "https://www.linkedin.com/in/sophie-bertet-fagot-2776aa1",
     "github": "not found",
     "roles_held": [
@@ -3739,174 +3454,11 @@
     "extracted_at": "2026-04-01T15:03:52.187775"
   },
   {
-    "full_name": "Amine OULED BENTLE",
-    "email": "amine.ouledbentle@goandev.net",
-    "phone": "not found",
-    "location": "Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 4.2,
-    "linkedin": "https://www.linkedin.com/in/amine-ouled-bentle-79b935157",
-    "github": "not found",
-    "roles_held": [
-      "Responsable Recrutement - Talent Manager",
-      "IT Recruitment Consultant",
-      "Stagiaire Communication & Marketing",
-      "Gérant de magasin"
-    ],
-    "programming_languages": [],
-    "technical_skills": [
-      "Recrutement IT",
-      "Sourcing et sélection des candidats",
-      "Gestion de carrière",
-      "Marque employeur",
-      "Communication",
-      "Esprit d’équipe",
-      "Développement des talents",
-      "Formation et développement des compétences",
-      "Rétention des talents",
-      "Négociation des salaires",
-      "Intégration des nouveaux collaborateurs",
-      "Analyse des tendances du marché du travail IT",
-      "Fidélisation de la relation client",
-      "Gestion des réseaux sociaux (Facebook, Instagram, YouTube)",
-      "Création et gestion d’évènements",
-      "Benchmarking",
-      "Gestion administrative",
-      "Gestion des stocks",
-      "Gestion de caisse"
-    ],
-    "spoken_languages": [
-      "Français",
-      "Arabe"
-    ],
-    "certifications": [],
-    "seniority_technologies": [],
-    "seniority_programming_languages": [],
-    "industry": {
-      "primary_industries": [
-        "Recrutement",
-        "Technologie de l'information",
-        "Ressources Humaines"
-      ]
-    },
-    "summary": "Sérieux, engagé et discret, Amine OULED BENTLE possède une expérience significative dans le management des ressources humaines, le recrutement et la gestion de carrière. Passionné par l'acquisition et le développement des talents, il excelle dans la formation, la rétention des employés et la construction d'une marque employeur solide. Il est particulièrement intéressé par le développement de ses compétences en adaptabilité et en gestion du changement.",
-    "education_level": "not found",
-    "field_of_studies": "not found",
-    "work_experience": "Amine OULED BENTLE a occupé plusieurs postes dans les domaines du recrutement, de la gestion des talents et du marketing. Il a travaillé comme Talent Manager et IT Recruitment Consultant chez GO & DEV, où il a développé des compétences en acquisition et développement des talents, gestion de carrière, et négociation. Il a également été Gérant de magasin chez Pohones&co et a effectué des stages en communication, marketing et gestion administrative.",
-    "projects": "Aucun projet technique personnel mentionné.",
-    "parsing_confidence": 0.85,
-    "experience_timeline": [
-      {
-        "year_start": 2019,
-        "year_end": 2019,
-        "company": "Office National Des Aéroports",
-        "role": "Stagiaire",
-        "skills_acquired": [
-          "Traitement des formulaires de trafic",
-          "Construction de bases de données",
-          "Saisie sur système AIRFACT"
-        ],
-        "languages_used": [],
-        "description": "Stage de fin d’études - Traitement des formulaires de trafic, construction d’une base de données pour les compagnies aériennes, et saisie des données d’exploitation des vols."
-      },
-      {
-        "year_start": 2019,
-        "year_end": 2020,
-        "company": "Pohones&co",
-        "role": "Gérant de magasin",
-        "skills_acquired": [
-          "Gestion de magasin",
-          "Gestion des stocks",
-          "Gestion administrative",
-          "Relation client",
-          "Gestion de caisse"
-        ],
-        "languages_used": [],
-        "description": "Emploi - Gestion quotidienne d’un magasin, augmentation du chiffre d’affaires, organisation des stocks, et gestion des relations avec les fournisseurs."
-      },
-      {
-        "year_start": 2020,
-        "year_end": 2020,
-        "company": "Université Mohammed V de Rabat",
-        "role": "Stagiaire Communication & Marketing",
-        "skills_acquired": [
-          "Gestion des réseaux sociaux",
-          "Création d’affiches",
-          "Organisation d’évènements",
-          "Benchmarking",
-          "Communication"
-        ],
-        "languages_used": [],
-        "description": "Stage - Réalisation d’études benchmark, création de supports de communication, gestion des réseaux sociaux et organisation d’évènements."
-      },
-      {
-        "year_start": 2022,
-        "year_end": 2022,
-        "company": "Dg_Deploy",
-        "role": "IT Recruitment Consultant",
-        "skills_acquired": [
-          "Sourcing et chasse tête",
-          "Rédaction et publication d’annonces",
-          "Tri et sélection des CV",
-          "Entretiens téléphoniques et physiques",
-          "Négociation des tarifs"
-        ],
-        "languages_used": [],
-        "description": "Stage - Sourcing de candidats, rédaction d’annonces, tri des CV, conduite d’entretiens et négociation des conditions."
-      },
-      {
-        "year_start": 2022,
-        "year_end": 2022,
-        "company": "GO & DEV",
-        "role": "IT Recruitment Consultant",
-        "skills_acquired": [
-          "Recrutement IT",
-          "Sourcing et sélection des candidats",
-          "Conduite des entretiens",
-          "Négociation des salaires",
-          "Intégration des collaborateurs",
-          "Analyse des tendances du marché IT"
-        ],
-        "languages_used": [],
-        "description": "Emploi - Compréhension des besoins en recrutement IT, sourcing et sélection des candidats, conduite des entretiens, négociation et intégration des nouveaux collaborateurs."
-      },
-      {
-        "year_start": 2022,
-        "year_end": 2026,
-        "company": "GO & DEV",
-        "role": "Talent Manager",
-        "skills_acquired": [
-          "Acquisition de talents",
-          "Développement des talents",
-          "Gestion de carrière",
-          "Marque employeur",
-          "Rétention des employés",
-          "Communication",
-          "Esprit d’équipe"
-        ],
-        "languages_used": [],
-        "description": "Emploi - Gestion de l’acquisition et du développement des talents, formation, gestion de carrière, rétention des employés et renforcement de la marque employeur."
-      }
-    ],
-    "career_trajectory": {
-      "direction": "Montée en expertise dans le recrutement et la gestion des talents, avec une spécialisation dans le domaine IT.",
-      "progression_speed": "Rapide",
-      "predicted_profile": "Cadre expérimenté en gestion des talents et recrutement IT, avec des perspectives d’évolution vers des postes de direction RH ou de consulting en stratégie RH.",
-      "skills_in_progress": [
-        "Adaptabilité",
-        "Gestion du changement",
-        "Stratégie de marque employeur"
-      ]
-    },
-    "file_path": "https://www.linkedin.com/in/amine-ouled-bentle-79b935157",
-    "extraction_method": "selenium + mistral-large (enriched)",
-    "extracted_at": "2026-04-01T20:10:20.779932"
-  },
-  {
     "full_name": "Anass El Housni",
     "email": "not found",
     "phone": "not found",
     "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 2,
+    "years_of_experience": 1,
     "linkedin": "https://www.linkedin.com/in/anasselhousni",
     "github": "not found",
     "roles_held": [
@@ -4006,7 +3558,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 6,
+    "years_of_experience": 7,
     "linkedin": "https://www.linkedin.com/in/abdellatif-i-225865116",
     "github": "not found",
     "roles_held": [
@@ -4246,7 +3798,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Oujda, Oriental, Maroc",
-    "years_of_experience": 4,
+    "years_of_experience": 3,
     "linkedin": "https://www.linkedin.com/in/oussama-saidi-8ab43722a",
     "github": "not found",
     "roles_held": [
@@ -4365,7 +3917,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 8,
+    "years_of_experience": 12,
     "linkedin": "https://www.linkedin.com/in/anas-el-boukhari-el-mamoun",
     "github": "not found",
     "roles_held": [
@@ -4445,7 +3997,7 @@
     "summary": "As a Senior Software Engineer with over 8 years of expertise in .NET technologies, I drive innovation through full-stack development. I specialize in building robust applications using .NET Core, C#, and Angular, with a strong focus on optimizing database operations. My collaborative approach with product managers and technical teams has consistently delivered outstanding solutions across diverse projects. Currently, I focus on pushing technological boundaries through streamlined architectures and innovative implementations, utilizing tools like Entity Framework, SQL Server, Python (Django/Flask), and cloud platforms (Azure/AWS). Working in an agile environment, I combine technical excellence with leadership skills to create impactful solutions that enhance user experiences and drive business value.",
     "education_level": "not found",
     "field_of_studies": "not found",
-    "work_experience": "Over 8 years of experience in software development, specializing in .NET technologies, full-stack development, and cloud platforms.",
+    "work_experience": "Over 12 years of experience in software development, specializing in .NET technologies, full-stack development, and cloud platforms.",
     "projects": "not found",
     "parsing_confidence": 0.85,
     "experience_timeline": [
@@ -4493,7 +4045,7 @@
     "email": "amine.ouledbentle@goandev.net",
     "phone": "not found",
     "location": "Rabat et périphérie",
-    "years_of_experience": 5,
+    "years_of_experience": 6,
     "linkedin": "https://www.linkedin.com/in/amine-bentle-49aa19281",
     "github": "not found",
     "roles_held": [
@@ -4750,7 +4302,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 11,
+    "years_of_experience": 15,
     "linkedin": "https://www.linkedin.com/in/amine-e-9758b02a",
     "github": "not found",
     "roles_held": [
@@ -5048,60 +4600,11 @@
     "extracted_at": "2026-04-01T20:13:44.798796"
   },
   {
-    "full_name": "Mahdi El Jouhari",
-    "email": "not found",
-    "phone": "not found",
-    "location": "Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 0,
-    "linkedin": "https://www.linkedin.com/in/mahdi-el-jouhari-815875254",
-    "github": "not found",
-    "roles_held": [
-      "Chief Information Technology Officer"
-    ],
-    "programming_languages": [],
-    "technical_skills": [],
-    "spoken_languages": [],
-    "certifications": [],
-    "seniority_technologies": [],
-    "seniority_programming_languages": [],
-    "industry": {
-      "primary_industries": [
-        "Technologie de l'information"
-      ]
-    },
-    "summary": "Mahdi El Jouhari est actuellement Chief Information Technology Officer chez GO & DEV.",
-    "education_level": "not found",
-    "field_of_studies": "not found",
-    "work_experience": "not found",
-    "projects": "not found",
-    "parsing_confidence": 0.6,
-    "experience_timeline": [
-      {
-        "year_start": 2026,
-        "year_end": 2026,
-        "company": "GO & DEV",
-        "role": "Chief Information Technology Officer",
-        "skills_acquired": [],
-        "languages_used": [],
-        "description": "Emploi - Temps plein"
-      }
-    ],
-    "career_trajectory": {
-      "direction": "Direction des systèmes d'information",
-      "progression_speed": "Normale",
-      "predicted_profile": "Cadre supérieur en technologie de l'information",
-      "skills_in_progress": []
-    },
-    "file_path": "https://www.linkedin.com/in/mahdi-el-jouhari-815875254",
-    "extraction_method": "selenium + mistral-large (enriched)",
-    "extracted_at": "2026-04-01T20:14:22.623864"
-  },
-  {
     "full_name": "Matthieu Bergerault",
     "email": "not found",
     "phone": "not found",
     "location": "France",
-    "years_of_experience": 20,
+    "years_of_experience": 26,
     "linkedin": "https://www.linkedin.com/in/matthieu-bergerault-08447818",
     "github": "not found",
     "roles_held": [
@@ -5139,7 +4642,7 @@
         "Marketplace"
       ]
     },
-    "summary": "Après 20 ans d'expérience dans le conseil en stratégie et l'entrepreneuriat, j'ai créé Talentmatchers.com, une marketplace délivrant des talents et experts à la demande pour accélérer l'exécution de projets. Je me concentre sur l'accompagnement des indépendants et des entreprises dans la structuration de leurs activités, la mobilisation de compétences stratégiques et la gestion de projets complexes.",
+    "summary": "Après 26 ans d'expérience dans le conseil en stratégie et l'entrepreneuriat, j'ai créé Talentmatchers.com, une marketplace délivrant des talents et experts à la demande pour accélérer l'exécution de projets. Je me concentre sur l'accompagnement des indépendants et des entreprises dans la structuration de leurs activités, la mobilisation de compétences stratégiques et la gestion de projets complexes.",
     "education_level": "Bac + 5",
     "field_of_studies": "Gestion",
     "work_experience": "Co-founder de Talentmatchers, Valuemakers et Dialog. Expérience significative dans le conseil en stratégie, l'entrepreneuriat et le recrutement de talents.",
@@ -5508,7 +5011,6 @@
       "Squash",
       "SoapUI",
       "Jira",
-      "Monday",
       "Confluence",
       "Agile",
       "Kanban",
@@ -5641,108 +5143,16 @@
     "email": "not found",
     "phone": "not found",
     "location": "Neuilly-sur-Seine, Île-de-France, France",
-    "years_of_experience": 10,
+    "years_of_experience": 35,
     "linkedin": "https://www.linkedin.com/in/g%C3%A9rard-rellier-b2888960",
     "github": "not found",
     "roles_held": [
       "Directeur"
     ],
-    "programming_languages": [
-      "Java",
-      "C#",
-      "Python",
-      "JavaScript"
-    ],
-    "technical_skills": [
-      "Spring Boot",
-      "Angular",
-      "React",
-      "React Native",
-      "Flask",
-      ".Net",
-      "Selenium",
-      "Appium",
-      "Cypress",
-      "Docker",
-      "AWS",
-      "microservices",
-      "CI/CD",
-      "API",
-      "Gherkin",
-      "Playwright",
-      "TypeScript",
-      "HTML5",
-      "CSS3",
-      "SCSS",
-      "RxJS"
-    ],
-    "spoken_languages": [
-      "not found"
-    ],
-    "certifications": [],
-    "seniority_technologies": [
-      {
-        "technology": "Java",
-        "level": "Senior"
-      },
-      {
-        "technology": "Angular",
-        "level": "Senior"
-      },
-      {
-        "technology": "Spring Boot",
-        "level": "Senior"
-      },
-      {
-        "technology": "React",
-        "level": "Senior"
-      },
-      {
-        "technology": "Python",
-        "level": "Senior"
-      },
-      {
-        "technology": ".Net",
-        "level": "Senior"
-      },
-      {
-        "technology": "Microservices",
-        "level": "Senior"
-      },
-      {
-        "technology": "CI/CD",
-        "level": "Senior"
-      }
-    ],
-    "seniority_programming_languages": [
-      {
-        "language": "Java",
-        "level": "Senior"
-      },
-      {
-        "language": "C#",
-        "level": "Senior"
-      },
-      {
-        "language": "Python",
-        "level": "Senior"
-      },
-      {
-        "language": "JavaScript",
-        "level": "Senior"
-      }
-    ],
-    "industry": {
-      "primary_industries": [
-        "Services financiers",
-        "Technologie de l'information",
-        "Conseil en transformation digitale"
-      ]
-    },
     "summary": "Gérard Rellier est Directeur chez Go&Dev, un groupe français basé à Paris et Rabat, spécialisé dans l'accompagnement des clients dans leur transformation digitale. Go&Dev propose des services tels que le développement applicatif, l'intégration de solutions, la gestion de projet et le testing factory. L'entreprise met à disposition des compétences pointues en développement logiciel (Java, C#, etc.), intégration de progiciels bancaires et assurantiels, et gestion de projets.",
     "education_level": "Bac + 5",
     "field_of_studies": "KEDGE Business School",
-    "work_experience": "not found",
+    "work_experience": "35",
     "projects": "not found",
     "parsing_confidence": 0.85,
     "experience_timeline": [
@@ -5785,7 +5195,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Rabat et périphérie",
-    "years_of_experience": 3.8,
+    "years_of_experience": 4,
     "linkedin": "https://www.linkedin.com/in/omar-bailal-137680175",
     "github": "not found",
     "roles_held": [
@@ -6204,7 +5614,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 5.8,
+    "years_of_experience": 6,
     "linkedin": "https://www.linkedin.com/in/amine-laghmari-a27799177",
     "github": "not found",
     "roles_held": [
@@ -6764,7 +6174,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Tanger, Tanger-Tétouan-Al Hoceïma, Maroc",
-    "years_of_experience": 2,
+    "years_of_experience": 0,
     "linkedin": "https://www.linkedin.com/in/anas-benmguirida",
     "github": "https://github.com/anasbenmguirida",
     "roles_held": [
@@ -6904,7 +6314,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 3.9,
+    "years_of_experience": 4,
     "linkedin": "https://www.linkedin.com/in/sokayna-el-hassani-5a2649192",
     "github": "not found",
     "roles_held": [
@@ -7077,7 +6487,7 @@
     "email": "not found",
     "phone": "not found",
     "location": "Préfecture de Salé, Rabat-Salé-Kénitra, Maroc",
-    "years_of_experience": 8.7,
+    "years_of_experience": 9,
     "linkedin": "https://www.linkedin.com/in/ayoub-hamoudi-538a7780",
     "github": "not found",
     "roles_held": [
@@ -7253,151 +6663,5 @@
     "file_path": "https://www.linkedin.com/in/ayoub-hamoudi-538a7780",
     "extraction_method": "selenium + mistral-large (enriched)",
     "extracted_at": "2026-04-01T20:23:00.654129"
-  },
-  {
-    "full_name": "Sophie Bertet",
-    "email": "not found",
-    "phone": "not found",
-    "location": "Boulogne-Billancourt, Île-de-France, France",
-    "years_of_experience": 31.6,
-    "linkedin": "https://www.linkedin.com/in/sophie-bertet-84a7a6204",
-    "github": "not found",
-    "roles_held": [
-      "Directrice commerciale",
-      "Directeur général",
-      "Présidente",
-      "Directrice Commerciale Zone Europe du sud",
-      "Responsable des Ventes Zone Europe",
-      "Chargé d’Affaires",
-      "Ingénieur Commercial Grands Comptes"
-    ],
-    "programming_languages": [],
-    "technical_skills": [
-      "Gestion de portefeuille",
-      "Gestion des risques",
-      "Asset Management",
-      "Prospection commerciale",
-      "Négociation",
-      "Closing",
-      "Marketing",
-      "Appels d’offres",
-      "Management",
-      "Recrutement",
-      "Budget",
-      "Communication",
-      "Partenariats",
-      "Transformation digitale",
-      "Datawarehouse"
-    ],
-    "spoken_languages": [
-      "Français",
-      "Anglais"
-    ],
-    "certifications": [],
-    "seniority_technologies": [],
-    "seniority_programming_languages": [],
-    "industry": {
-      "primary_industries": [
-        "Logiciel",
-        "Transformation digitale",
-        "Asset Management",
-        "Gestion de portefeuille",
-        "Risque et produits dérivés",
-        "Finance",
-        "Aéronautique"
-      ]
-    },
-    "summary": "Sophie Bertet est une dirigeante commerciale expérimentée avec plus de 30 ans d'expérience dans la vente de solutions logicielles, la gestion d'équipes et la transformation digitale. Elle a occupé des postes clés dans des entreprises spécialisées en Asset Management, gestion des risques, et éditeurs de logiciels. Elle possède une expertise confirmée en prospection, négociation, gestion de budgets, et développement commercial en Europe et à l'international.",
-    "education_level": "Bac + 5",
-    "field_of_studies": "Diplôme d'ingénieur",
-    "work_experience": "Plus de 30 ans d'expérience dans des rôles commerciaux et de direction au sein d'entreprises spécialisées en logiciels, finance et aéronautique.",
-    "projects": "Non spécifié dans le profil.",
-    "parsing_confidence": 0.9,
-    "experience_timeline": [
-      {
-        "year_start": 1990,
-        "year_end": 1997,
-        "company": "IBM",
-        "role": "Ingénieur Commercial Grands Comptes Aéronautiques",
-        "skills_acquired": [
-          "Prospection",
-          "Négociation",
-          "Gestion de grands comptes",
-          "Vente de solutions Unix"
-        ],
-        "languages_used": [],
-        "description": "Emploi - Développement auprès des grands comptes Aéronautiques (Dassault, Aérospatiale, Snecma) pour la vente des nouveaux produits Unix d’IBM. Spécialisation dans les projets Winback et dépassement des objectifs annuels."
-      },
-      {
-        "year_start": 1998,
-        "year_end": 1999,
-        "company": "FIS",
-        "role": "Responsable des Ventes Zone Europe Infinity",
-        "skills_acquired": [
-          "Prospection",
-          "Vente de solutions financières",
-          "Gestion des risques"
-        ],
-        "languages_used": [],
-        "description": "Emploi - Prospection de nouveaux territoires auprès des directions informatiques et des responsables des risques pour l'éditeur de logiciel Infinity."
-      },
-      {
-        "year_start": 1999,
-        "year_end": 2003,
-        "company": "Sophis",
-        "role": "Directrice Commerciale Zone Europe du sud",
-        "skills_acquired": [
-          "Prospection internationale",
-          "Négociation",
-          "Gestion de marchés étrangers",
-          "Closing"
-        ],
-        "languages_used": [],
-        "description": "Emploi - Commercialisation de l’offre logicielle et des services sur des nouveaux marchés (Espagne, Portugal, Italie, Grèce, Luxembourg et New York). Acquisition de nouveaux clients et réalisation d'un CA moyen de 500 K€ par transaction."
-      },
-      {
-        "year_start": 2003,
-        "year_end": 2015,
-        "company": "Monakea",
-        "role": "Directeur général",
-        "skills_acquired": [
-          "Gestion d'entreprise",
-          "Recrutement",
-          "Budget",
-          "Communication",
-          "Développement commercial",
-          "Management"
-        ],
-        "languages_used": [],
-        "description": "Emploi - Gestion de la société Maam Soft (éditeur de logiciel spécialisé en Asset Management). Définition de nouveaux axes de développement, gestion des actionnaires, et vente des offres Monakea."
-      },
-      {
-        "year_start": 2018,
-        "year_end": 2026,
-        "company": "GO & DEV",
-        "role": "Directrice commerciale",
-        "skills_acquired": [
-          "Transformation digitale",
-          "Gestion de centre de développement",
-          "Pilotage de projets",
-          "Smart Shore"
-        ],
-        "languages_used": [],
-        "description": "Emploi - Aide aux clients (Startups, ETI, Éditeurs de logiciel) dans leur transformation digitale en mode 'Smart Shore' avec un centre de développement basé à Rabat."
-      }
-    ],
-    "career_trajectory": {
-      "direction": "Ascendante - Évolution vers des postes de direction commerciale et générale",
-      "progression_speed": "Normale",
-      "predicted_profile": "Cadre supérieur expérimenté avec une expertise confirmée en gestion commerciale, transformation digitale et management d'équipes.",
-      "skills_in_progress": [
-        "Transformation digitale",
-        "Smart Shore",
-        "Gestion de projets internationaux"
-      ]
-    },
-    "file_path": "https://www.linkedin.com/in/sophie-bertet-84a7a6204",
-    "extraction_method": "selenium + mistral-large (enriched)",
-    "extracted_at": "2026-04-01T20:24:00.563970"
   }
 ]
