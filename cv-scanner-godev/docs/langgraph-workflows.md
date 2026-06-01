@@ -38,6 +38,10 @@ route_input_type
   -> format_response
 ```
 
+![Detection de doublon via Swagger](assets/images/captures/swagger-ingestion-duplicate.png)
+
+*Reponse Swagger d'un workflow d'ingestion ayant detecte un doublon avant insertion.*
+
 ## Rôle Des Étapes
 
 | Étape | Rôle |
@@ -64,6 +68,10 @@ route_matching_type
   -> optional_explain
   -> format_results
 ```
+
+![Workflow matching avec explication](assets/images/captures/swagger-rerank-explain.png)
+
+*Execution d'un matching enrichi avec reranking et explication LLM.*
 
 ## Scénarios Pris En Charge
 

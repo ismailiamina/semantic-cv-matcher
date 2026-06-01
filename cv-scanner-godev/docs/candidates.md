@@ -2,6 +2,10 @@
 
 La page Candidats permet de consulter et gerer les profils CV indexes.
 
+![Page candidats](assets/images/captures/candidates.png)
+
+*Vue de gestion des candidats avec recherche, selection et details du profil.*
+
 ## Workflow
 
 1. Rechercher un candidat par nom, source ou experience.

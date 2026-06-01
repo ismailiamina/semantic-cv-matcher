@@ -14,6 +14,24 @@ http://localhost:8005/docs
 
 Swagger permet de tester les endpoints indépendamment de l'interface Next.js. Il est utilisé pour valider les paramètres attendus, les réponses JSON et le comportement des services avant leur exploitation côté interface.
 
+## Captures Swagger
+
+![Swagger Search API](assets/images/captures/swagger-search-api.png)
+
+*Famille d'endpoints de recherche, reranking et analyse LLM exposee dans Swagger.*
+
+![Swagger List](assets/images/captures/swagger-list.png)
+
+*Endpoints de consultation des candidats, offres et statistiques.*
+
+![Swagger Upload](assets/images/captures/swagger-upload.png)
+
+*Endpoints d'upload de CV, d'offres et d'extraction depuis URL.*
+
+![Swagger CRUD](assets/images/captures/swagger-crud.png)
+
+*Endpoints CRUD pour l'insertion, le batch et la suppression.*
+
 ## Familles D'Endpoints
 
 | Famille | Endpoints principaux | Rôle |

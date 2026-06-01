@@ -4,6 +4,10 @@ Cette page repond a la question :
 
 > Quels candidats correspondent le mieux a cette offre ?
 
+![Resultats du matching](assets/images/captures/match-results.png)
+
+*Classement des candidats avec score global et informations principales.*
+
 ## Workflow
 
 1. Selectionner une offre avec recherche.
@@ -28,6 +32,10 @@ GET /api/search/candidates-for-job/?job_uuid={uuid}&mode={mode}&limit={limit}
 ```text
 POST /api/search/rerank/
 ```
+
+![Resultat reranke](assets/images/captures/rerank-explain.png)
+
+*Resultat enrichi par reranking et explication LLM.*
 
 ## Explication LLM
 

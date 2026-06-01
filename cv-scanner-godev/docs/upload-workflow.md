@@ -4,6 +4,14 @@
 
 L'upload permet d'ajouter un candidat ou une offre depuis un fichier, puis de rendre ces donnees exploitables par le matching.
 
+![Interface upload](assets/images/captures/upload.png)
+
+*Ajout d'un CV ou d'une offre depuis l'interface utilisateur.*
+
+![Detection de doublon](assets/images/captures/detection-doublon-interface.png)
+
+*Controle de redondance avant insertion definitive dans la base.*
+
 ## Endpoints
 
 | Endpoint | Methode | Role |
@@ -45,6 +53,12 @@ Fichier offre
 ```
 
 La validation bloque l'insertion si le titre de l'offre est absent.
+
+## Verification Swagger
+
+![Workflow ingestion duplicate](assets/images/captures/swagger-ingestion-duplicate.png)
+
+*Exemple de test Swagger montrant la detection d'un doublon pendant l'ingestion.*
 
 ## Pourquoi Reutiliser Le CRUD
 

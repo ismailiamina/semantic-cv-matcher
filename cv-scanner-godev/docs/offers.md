@@ -2,6 +2,14 @@
 
 La page Offres permet de consulter, uploader et archiver les offres d'emploi.
 
+![Page offres](assets/images/captures/offers.png)
+
+*Vue de gestion des offres d'emploi.*
+
+![Detail d'une offre](assets/images/captures/offer-java-detail.png)
+
+*Affichage detaille d'une offre apres extraction et structuration.*
+
 ## Workflow
 
 1. Rechercher une offre par titre, entreprise ou localisation.

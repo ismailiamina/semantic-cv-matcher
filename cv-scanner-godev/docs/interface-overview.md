@@ -4,6 +4,20 @@
 
 L'interface Next.js est organisee autour d'une navigation laterale et de pages metier. Elle se concentre sur des workflows RH concrets : consulter, rechercher, uploader, matcher et archiver.
 
+## Apercu Visuel
+
+![Interface de connexion](assets/images/captures/login.png)
+
+*Page de connexion securisee de l'application.*
+
+![Gestion des candidats](assets/images/captures/candidates.png)
+
+*Consultation et recherche des profils candidats indexes.*
+
+![Gestion des offres](assets/images/captures/offers.png)
+
+*Consultation des offres et des informations structurees.*
+
 ## Navigation
 
 La sidebar donne acces aux modules :

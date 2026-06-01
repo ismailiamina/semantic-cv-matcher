@@ -25,6 +25,10 @@ Ce fichier crée l'application FastAPI, configure CORS et enregistre les routers
 
 ## Endpoints De Lecture
 
+![Swagger List endpoints](assets/images/captures/swagger-list.png)
+
+*Endpoints de lecture exposes dans Swagger.*
+
 | Endpoint | Méthode | Description |
 | --- | --- | --- |
 | `/api/candidates/` | GET | Liste complète des candidats |
@@ -36,6 +40,10 @@ Ce fichier crée l'application FastAPI, configure CORS et enregistre les routers
 | `/api/stats/` | GET | KPIs globaux du dashboard |
 
 ## Endpoints CRUD
+
+![Swagger CRUD endpoints](assets/images/captures/swagger-crud.png)
+
+*Endpoints de creation, batch et suppression pour les candidats et les offres.*
 
 | Endpoint | Méthode | Description |
 | --- | --- | --- |
@@ -57,6 +65,10 @@ Par défaut, le comportement fonctionnel attendu est l'archivage.
 
 ## Endpoints Upload
 
+![Swagger Upload endpoints](assets/images/captures/swagger-upload.png)
+
+*Endpoints d'upload exposes par le backend FastAPI.*
+
 | Endpoint | Méthode | Description |
 | --- | --- | --- |
 | `/api/upload/candidate/file` | POST | Upload CV fichier PDF/DOCX/TXT |
@@ -66,6 +78,10 @@ Par défaut, le comportement fonctionnel attendu est l'archivage.
 Ces endpoints réutilisent `add_candidate_endpoint` et `add_job_endpoint`. Cela évite de maintenir deux logiques d'insertion différentes.
 
 ## Endpoints Matching Et LLM
+
+![Swagger Search endpoints](assets/images/captures/swagger-search-api.png)
+
+*Endpoints de matching, recherche avancee, reranking et analyse LLM.*
 
 | Endpoint | Méthode | Description |
 | --- | --- | --- |
