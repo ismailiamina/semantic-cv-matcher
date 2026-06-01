@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#082f63"/>
+  <circle cx="640" cy="360" r="92" fill="#0ca65a"/>
+  <path d="M616 310v100l84-50z" fill="#fff"/>
+  <text x="80" y="110" font-family="Segoe UI, Arial" font-size="46" font-weight="800" fill="#fff">Demo CV Scanner IA</text>
+  <text x="80" y="166" font-family="Segoe UI, Arial" font-size="24" fill="#d7e9ff">Interface Next.js - Documentation Produit</text>
+  <text x="80" y="620" font-family="Segoe UI, Arial" font-size="24" fill="#d7e9ff">Dashboard • Upload • Matching • Reranking • LLM • Archivage</text>
+</svg>

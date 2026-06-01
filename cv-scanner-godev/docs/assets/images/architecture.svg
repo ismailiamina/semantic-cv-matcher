@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="460" viewBox="0 0 1180 460">
+  <rect width="1180" height="460" rx="22" fill="#f3f7fb"/>
+  <text x="48" y="54" font-family="Segoe UI, Arial" font-size="28" font-weight="800" fill="#10233f">Architecture CV Scanner IA</text>
+  <g font-family="Segoe UI, Arial">
+    <rect x="60" y="120" width="250" height="145" rx="14" fill="#0b4ea2"/>
+    <text x="94" y="166" font-size="24" font-weight="800" fill="#fff">Interface Next.js</text>
+    <text x="94" y="202" font-size="16" fill="#d7e9ff">Pages RH, matching, upload</text>
+    <text x="94" y="228" font-size="16" fill="#d7e9ff">Dashboard et archivage</text>
+    <path d="M330 192h120" stroke="#66809f" stroke-width="4" marker-end="url(#arrow)"/>
+    <rect x="470" y="120" width="250" height="145" rx="14" fill="#ffffff" stroke="#c8d7e8"/>
+    <text x="512" y="166" font-size="24" font-weight="800" fill="#10233f">FastAPI</text>
+    <text x="512" y="202" font-size="16" fill="#526b88">Endpoints /api</text>
+    <text x="512" y="228" font-size="16" fill="#526b88">Validation et orchestration</text>
+    <path d="M740 192h120" stroke="#66809f" stroke-width="4" marker-end="url(#arrow)"/>
+    <rect x="880" y="90" width="240" height="105" rx="14" fill="#0ca65a"/>
+    <text x="930" y="132" font-size="24" font-weight="800" fill="#fff">Weaviate</text>
+    <text x="930" y="162" font-size="16" fill="#e9fff2">Vecteurs et donnees</text>
+    <rect x="880" y="235" width="240" height="105" rx="14" fill="#ffffff" stroke="#c8d7e8"/>
+    <text x="922" y="278" font-size="24" font-weight="800" fill="#10233f">Services IA</text>
+    <text x="922" y="308" font-size="16" fill="#526b88">Mistral + VoyageAI</text>
+    <path d="M595 270v95h405v-25" fill="none" stroke="#66809f" stroke-width="4" marker-end="url(#arrow)"/>
+  </g>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#66809f"/>
+    </marker>
+  </defs>
+</svg>

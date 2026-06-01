@@ -1,0 +1,52 @@
+site_name: CV Scanner IA
+site_description: Documentation technique professionnelle du projet CV Scanner IA, du backend IA jusqu'a l'interface Next.js.
+site_author: Ismail
+docs_dir: docs
+
+theme:
+  name: readthedocs
+  custom_dir: docs/overrides
+  locale: fr
+  include_homepage_in_sidebar: true
+  prev_next_buttons_location: both
+  navigation_depth: 4
+  collapse_navigation: false
+  sticky_navigation: true
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+nav:
+  - Accueil: index.md
+  - Projet:
+      - Vue D'ensemble: project-overview.md
+      - Architecture Globale: architecture-globale.md
+      - Installation Complete: installation.md
+  - Backend Et API:
+      - FastAPI Et Endpoints: backend-api.md
+      - Upload, Extraction Et Vectorisation: upload-workflow.md
+      - Recherche Et Matching: matching-engine.md
+      - Reranking Et LLM: llm-reranking.md
+      - Archivage: soft-delete.md
+  - Base Vectorielle:
+      - Weaviate: weaviate.md
+      - Fichiers Techniques: technical-files.md
+  - Interface Next.js:
+      - Vue D'ensemble Interface: interface-overview.md
+      - Architecture Interface: nextjs-ui.md
+      - Dashboard Analytics: dashboard.md
+      - Gestion Candidats: candidates.md
+      - Gestion Offres: offers.md
+      - Matching Offre -> Candidats: matching-candidates-for-job.md
+      - Matching Candidat -> Offres: matching-jobs-for-candidate.md
+  - Exploitation:
+      - Demonstration: demo.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true

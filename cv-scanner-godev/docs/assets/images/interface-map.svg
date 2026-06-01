@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="560" viewBox="0 0 1180 560">
+  <rect width="1180" height="560" rx="22" fill="#eef3f8"/>
+  <rect x="44" y="44" width="230" height="472" rx="18" fill="#082f63"/>
+  <text x="76" y="92" font-family="Segoe UI, Arial" font-size="22" font-weight="800" fill="#fff">CV Scanner IA</text>
+  <g font-family="Segoe UI, Arial" font-size="16" fill="#d8e8ff">
+    <text x="76" y="150">Analytics</text>
+    <text x="76" y="198">Candidats</text>
+    <text x="76" y="246">Offres</text>
+    <text x="76" y="294">Offre -> Candidats</text>
+    <text x="76" y="342">Candidat -> Offres</text>
+    <text x="76" y="390">Recherche libre</text>
+  </g>
+  <rect x="310" y="44" width="826" height="86" rx="16" fill="#fff" stroke="#cfdae8"/>
+  <text x="342" y="94" font-family="Segoe UI, Arial" font-size="28" font-weight="800" fill="#10233f">Espace de travail RH</text>
+  <g font-family="Segoe UI, Arial">
+    <rect x="310" y="165" width="250" height="132" rx="14" fill="#fff" stroke="#cfdae8"/>
+    <text x="342" y="210" font-size="20" font-weight="800" fill="#0b4ea2">Dashboard</text>
+    <text x="342" y="242" font-size="15" fill="#526b88">KPIs et graphiques</text>
+    <rect x="592" y="165" width="250" height="132" rx="14" fill="#fff" stroke="#cfdae8"/>
+    <text x="624" y="210" font-size="20" font-weight="800" fill="#0b4ea2">Gestion</text>
+    <text x="624" y="242" font-size="15" fill="#526b88">Candidats et offres</text>
+    <rect x="874" y="165" width="250" height="132" rx="14" fill="#fff" stroke="#cfdae8"/>
+    <text x="906" y="210" font-size="20" font-weight="800" fill="#0b4ea2">Matching</text>
+    <text x="906" y="242" font-size="15" fill="#526b88">Scores, rerank, LLM</text>
+    <rect x="310" y="335" width="392" height="132" rx="14" fill="#fff" stroke="#cfdae8"/>
+    <text x="342" y="380" font-size="20" font-weight="800" fill="#0ca65a">Upload</text>
+    <text x="342" y="412" font-size="15" fill="#526b88">Extraction et insertion Weaviate</text>
+    <rect x="734" y="335" width="390" height="132" rx="14" fill="#fff" stroke="#cfdae8"/>
+    <text x="766" y="380" font-size="20" font-weight="800" fill="#0ca65a">Archivage</text>
+    <text x="766" y="412" font-size="15" fill="#526b88">Soft delete et tracabilite</text>
+  </g>
+</svg>

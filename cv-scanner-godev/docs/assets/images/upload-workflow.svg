@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="420" viewBox="0 0 1180 420">
+  <rect width="1180" height="420" rx="22" fill="#f6f9fc"/>
+  <text x="50" y="58" font-family="Segoe UI, Arial" font-size="28" font-weight="800" fill="#10233f">Workflow Upload et Extraction</text>
+  <g font-family="Segoe UI, Arial">
+    <g>
+      <rect x="58" y="135" width="170" height="110" rx="14" fill="#0b4ea2"/>
+      <text x="94" y="180" font-size="20" font-weight="800" fill="#fff">Fichier</text>
+      <text x="88" y="210" font-size="15" fill="#d7e9ff">CV ou offre</text>
+    </g>
+    <path d="M245 190h95" stroke="#6c819d" stroke-width="4" marker-end="url(#arrow2)"/>
+    <g>
+      <rect x="360" y="135" width="170" height="110" rx="14" fill="#fff" stroke="#c8d7e8"/>
+      <text x="394" y="180" font-size="20" font-weight="800" fill="#10233f">FastAPI</text>
+      <text x="398" y="210" font-size="15" fill="#526b88">Validation</text>
+    </g>
+    <path d="M548 190h95" stroke="#6c819d" stroke-width="4" marker-end="url(#arrow2)"/>
+    <g>
+      <rect x="662" y="135" width="170" height="110" rx="14" fill="#fff" stroke="#c8d7e8"/>
+      <text x="708" y="180" font-size="20" font-weight="800" fill="#10233f">Mistral</text>
+      <text x="702" y="210" font-size="15" fill="#526b88">Extraction</text>
+    </g>
+    <path d="M850 190h95" stroke="#6c819d" stroke-width="4" marker-end="url(#arrow2)"/>
+    <g>
+      <rect x="962" y="135" width="170" height="110" rx="14" fill="#0ca65a"/>
+      <text x="1002" y="180" font-size="20" font-weight="800" fill="#fff">Weaviate</text>
+      <text x="1000" y="210" font-size="15" fill="#e9fff2">Indexation</text>
+    </g>
+    <rect x="360" y="292" width="472" height="58" rx="14" fill="#fff" stroke="#c8d7e8"/>
+    <text x="390" y="328" font-size="17" fill="#526b88">Fallback nom candidat + validation 422 avant insertion</text>
+  </g>
+  <defs>
+    <marker id="arrow2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#6c819d"/>
+    </marker>
+  </defs>
+</svg>
