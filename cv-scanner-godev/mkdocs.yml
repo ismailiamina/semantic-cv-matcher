@@ -24,9 +24,11 @@ nav:
       - Installation Complete: installation.md
   - Backend Et API:
       - FastAPI Et Endpoints: backend-api.md
+      - Swagger Et API REST: swagger-api.md
       - Upload, Extraction Et Vectorisation: upload-workflow.md
       - Recherche Et Matching: matching-engine.md
       - Reranking Et LLM: llm-reranking.md
+      - Workflows LangGraph: langgraph-workflows.md
       - Archivage: soft-delete.md
   - Base Vectorielle:
       - Weaviate: weaviate.md

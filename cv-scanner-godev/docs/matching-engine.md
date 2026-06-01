@@ -1,47 +1,56 @@
-# Recherche Et Matching
+# Moteur De Recherche Intelligent
 
-Le moteur de matching compare les candidats et les offres selon plusieurs dimensions. Il est expose par `API/Search_API.py` et implemente dans les modules du dossier `weaviate_db/search`.
+Le moteur de recherche intelligent compare les candidats et les offres selon plusieurs dimensions. Il est exposé par `API/Search_API.py` et implémenté dans les modules du dossier `weaviate_db/search`.
 
 ## Modules
 
-| Fichier | Role |
+| Fichier | Rôle |
 | --- | --- |
 | `weaviate_db/search/candidates_for_job.py` | Trouver les meilleurs candidats pour une offre |
 | `weaviate_db/search/jobs_for_candidate.py` | Trouver les meilleures offres pour un candidat |
-| `weaviate_db/search/keywords.py` | Recherche par competences, langages, localisation, role, experience, industrie |
-| `weaviate_db/search/advanced_search.py` | Recherche multicritere |
+| `weaviate_db/search/keywords.py` | Recherche par compétences, langages, localisation, rôle, expérience, industrie |
+| `weaviate_db/search/advanced_search.py` | Recherche multicritère |
 
 ## Modes De Recherche
 
 ### Texte
 
-Le mode `texte` utilise BM25 sur les proprietes textuelles indexees.
+Le mode `texte` utilise BM25 sur les propriétés textuelles indexées.
 
 Il est utile lorsque :
 
-- les termes sont tres explicites ;
-- l'utilisateur cherche une competence precise ;
-- la disponibilite du service de vectorisation est limitee.
+- les termes sont très explicites ;
+- l'utilisateur cherche une compétence précise ;
+- la disponibilité du service de vectorisation est limitée.
 
 ### Vecteur
 
-Le mode `vecteur` utilise les vecteurs deja stockes dans Weaviate.
+Le mode `vecteur` utilise les vecteurs déjà stockés dans Weaviate.
 
 Il est utile pour :
 
-- recuperer des profils semantiquement proches ;
+- récupérer des profils sémantiquement proches ;
 - comparer des descriptions longues ;
-- reduire la dependance aux mots exacts.
+- réduire la dépendance aux mots exacts.
 
 ### Hybride
 
-Le mode `hybride` combine BM25 et vecteurs avec un parametre `alpha`.
+Le mode `hybride` combine BM25 et vecteurs avec un paramètre `alpha`.
 
-Il est le mode par defaut car il equilibre :
+Il est le mode par défaut car il équilibre :
 
-- precision lexicale ;
-- similarite semantique ;
-- tolerance aux variations de vocabulaire.
+- précision lexicale ;
+- similarité sémantique ;
+- tolérance aux variations de vocabulaire.
+
+## Matching Bidirectionnel
+
+Le système prend en charge deux directions de recherche :
+
+- recherche de candidats pour une offre ;
+- recherche d'offres pour un candidat.
+
+Cette bidirectionnalité correspond aux deux besoins RH principaux : pourvoir une mission et valoriser un profil disponible.
 
 ## Matching Offre Vers Candidats
 
@@ -53,22 +62,22 @@ GET /api/search/candidates-for-job/?job_uuid=<uuid>&mode=hybride&limit=10
 
 Pipeline :
 
-1. Recuperation de l'offre par UUID.
-2. Recuperation des vecteurs nommes de l'offre.
+1. Récupération de l'offre par UUID.
+2. Récupération des vecteurs nommés de l'offre.
 3. Recherche dans la collection `Candidate`.
 4. Calcul des scores par dimension.
-5. Application de poids dynamiques selon le domaine detecte.
-6. Filtres metiers eventuels.
+5. Application de poids dynamiques selon le domaine détecté.
+6. Filtres métiers éventuels.
 7. Retour des meilleurs candidats.
 
 Dimensions typiques :
 
-- technical skills ;
-- summary ;
-- programming languages ;
-- industry ;
-- job title vs roles ;
-- job description vs work experience.
+- compétences techniques ;
+- résumé ;
+- langages de programmation ;
+- secteur d'activité ;
+- titre de poste vs rôles occupés ;
+- description d'offre vs expérience professionnelle.
 
 ## Matching Candidat Vers Offres
 
@@ -80,16 +89,16 @@ GET /api/search/jobs-for-candidate/?candidate_uuid=<uuid>&mode=hybride&limit=10
 
 Pipeline :
 
-1. Recuperation du candidat par UUID.
-2. Recuperation des vecteurs nommes du candidat.
+1. Récupération du candidat par UUID.
+2. Récupération des vecteurs nommés du candidat.
 3. Recherche dans la collection `Job`.
 4. Calcul des scores par dimension.
 5. Tri par score final.
 6. Retour des offres les plus pertinentes.
 
-## Structure D'Un Resultat
+## Structure D'Un Résultat
 
-Un resultat de matching contient :
+Un résultat de matching contient :
 
 ```json
 {
@@ -104,11 +113,11 @@ Un resultat de matching contient :
 }
 ```
 
-L'interface Next.js exploite `score`, `individual_scores` et `properties` pour afficher les cartes de resultat et les details.
+L'interface Next.js exploite `score`, `individual_scores` et `properties` pour afficher les cartes de résultat et les détails.
 
-## Reranking
+## Recherche Hybride, Reranking Et Explication
 
-Le reranking est une etape optionnelle appliquee apres le premier matching. Il prend les candidats ou offres deja retournes et les reordonne avec un modele dedie.
+Le reranking est une étape optionnelle appliquée après le premier matching. Il prend les candidats ou offres déjà retournés et les réordonne avec un modèle dédié.
 
 Endpoint :
 
@@ -116,4 +125,4 @@ Endpoint :
 POST /api/search/rerank/
 ```
 
-Le reranking ne remplace pas la recherche Weaviate : il affine un top N deja calcule.
+Le reranking ne remplace pas la recherche Weaviate : il affine un top N déjà calculé. Les explications LLM peuvent ensuite synthétiser les points forts, les écarts et le verdict final d'un résultat.
