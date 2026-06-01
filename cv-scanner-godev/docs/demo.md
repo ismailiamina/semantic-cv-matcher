@@ -46,8 +46,6 @@ Cette premiere demonstration presente les fonctionnalites liees a la gestion et 
 - upload d'une offre ;
 - archivage des candidats ou des offres.
 
-Lien direct : [ouvrir la video 1 sur Loom](https://www.loom.com/share/af618e622fc34a30a8d3d61dde22048a)
-
 ## Video 2 - Matching intelligent et pilotage
 
 Cette seconde demonstration met en avant les fonctionnalites de recherche intelligente, d'aide a la decision et de pilotage :
@@ -61,8 +59,6 @@ Cette seconde demonstration met en avant les fonctionnalites de recherche intell
 - gestion du profil utilisateur ;
 - roles et permissions ;
 - historique des actions.
-
-Lien direct : [ouvrir la video 2 sur Loom](https://www.loom.com/share/31faea56b77b4587a75eef9e4f688fc3)
 
 ## Architecture fonctionnelle resumee
 
