@@ -10,6 +10,7 @@ python-docx
 # LLM — Mistral Large
 langchain-mistralai
 langchain-core
+langgraph
 
 # Génération données synthétiques
 faker
@@ -29,6 +30,7 @@ selenium
 webdriver-manager
 beautifulsoup4
 lxml
+playwright
 
 # Parsing HTML
 html5lib
